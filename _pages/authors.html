@@ -25,6 +25,10 @@ comments: false
                         <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].twitter }}"><i class="fab fa-twitter"></i></a>
                     {% endif %}
 
+                    {% if author[1].instagram %}
+                    <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].instagram }}"><i class="fab fa-instagram"></i></a>
+                    {% endif %}
+
                     {% if author[1].email %}
                         <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope"></i></a>
                     {% endif %}

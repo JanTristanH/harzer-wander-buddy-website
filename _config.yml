@@ -1,16 +1,16 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+name: "Harzer Wanderbuddy"
+title: "Harzer Wanderbuddy"
+description: "Dein Buddy zum Planen von Touren rund um die Harzer Wandernadel!"
+logo: 'assets/images/BuddyWithMapNoBG.png'
+favicon: 'assets/images/BuddyWithMapNoBG.png'
+baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: info@harzer-wander-buddy.com
 
 # Authors
 authors:
@@ -30,6 +30,12 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  buddy:
+    name: Buddy
+    display_name: Buddy
+    avatar: 'assets/images/avatar-Buddy.png'
+    instagram: https://www.instagram.com/harzerwandernadel_official
+    description: "Dein Harzer Wanderbuddy! Buddy ist dein Hefler beim Planen von Touren. Tritt noch heute unserer Warteliste bei und erfahre als Erster von Neuerungen!"
 
 # Plugins
 plugins:
@@ -67,7 +73,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"

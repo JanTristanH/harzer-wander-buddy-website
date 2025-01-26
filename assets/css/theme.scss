@@ -4,8 +4,9 @@
 
 $brown: #B59F62;
 $teal: #40FFDC;
+$hwbGreen: #189726;
 $black: #111;
-$primary: $teal;
+$primary: $hwbGreen;
 $dark:    $black;
 $enable-rounded: false;
 
@@ -118,6 +119,13 @@ img, img:hover {
     margin-bottom:40px;
     margin-top:40px;
 }
+
+.navbar-brand-noMarginTop img {
+    max-height:80px;
+    margin-bottom:20px;
+    margin-top:0px;
+}
+
 .sidebar {
     position: fixed;
     left: 0px;
