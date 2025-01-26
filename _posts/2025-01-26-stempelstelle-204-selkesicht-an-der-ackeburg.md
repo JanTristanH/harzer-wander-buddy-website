@@ -6,6 +6,7 @@ categories: [ Stempelstelle, Stempelstelle des Jahres ]
 image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpg
 description: "Preview die bei Whatsapp angezeigt wird"
 comments: false
+imageshadow: true
 ---
 
 ### Stempelstelle 204: Selkesicht an der Ackeburg – Harzer Wandernadel
