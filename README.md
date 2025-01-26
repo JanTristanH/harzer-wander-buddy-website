@@ -10,6 +10,10 @@ Harzer Wander Buddy Website
 - `bundle install`
 - `bundle exec jekyll serve --watch`
 
+## Compress images
+
+[Using sqoosh app.](https://squoosh.app/editor)
+
 ## Colors
 
 |usage|color hex|

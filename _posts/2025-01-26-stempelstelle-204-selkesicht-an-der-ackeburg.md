@@ -3,7 +3,7 @@ layout: post
 title:  "Stempelstelle 204 - Selkesicht an der Ackeburg"
 author: buddy
 categories: [ Stempelstelle, Stempelstelle des Jahres ]
-image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpeg
+image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpg
 description: "Preview die bei Whatsapp angezeigt wird"
 comments: false
 ---
@@ -12,7 +12,7 @@ comments: false
 
 Die **Selkesicht** ist einer der schönsten Aussichtspunkte im Harz. Von einem Felsvorsprung oberhalb des Selketals bietet sich ein atemberaubender Blick auf die gegenüberliegende **Burg Falkenstein (HWN 200)**. Die Stempelstelle 204 wurde 2021 zur **schönsten Stempelstelle des Jahres** gewählt.
 
-![HWN 204](/assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_box.jpeg "HWN 204 - Blick auf Burg Falkenstein")
+![HWN 204](/assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_box.jpg "HWN 204 - Blick auf Burg Falkenstein")
 
 #### Geschichte der Ackeburg
 
