@@ -11,6 +11,7 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 email: info@harzer-wander-buddy.com
+formspreePath: f/mzzddkdr
 
 # Authors
 authors:
