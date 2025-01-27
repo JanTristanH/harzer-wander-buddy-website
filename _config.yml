@@ -21,6 +21,11 @@ authors:
     avatar: 'assets/images/avatar-Buddy.png'
     instagram: https://www.instagram.com/harzerwandernadel_official
     description: "Dein Harzer Wanderbuddy! Buddy ist dein Hefler beim Planen von Touren. Tritt noch heute unserer Warteliste bei und erfahre als Erster von Neuerungen!"
+  jace:
+    name: Jace
+    display_name: Jace
+    avatar: 'assets/images/avatar-Jace.png'
+    description: "Jace ist unser Tester hinsichlich der Hundefreundlichkeit. Auch wenn er noch nicht alle Stempelstellen besucht hat, berichtet er von persönlichen Erfahrungen auf seinen Wanderungen!"
 
 # Plugins
 plugins:
