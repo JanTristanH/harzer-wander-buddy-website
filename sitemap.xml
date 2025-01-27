@@ -11,23 +11,28 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://www.harzer-wander-buddy.de/stempelstelle-204-selkesicht-an-der-ackeburg</loc>
+        <loc>https://www.harzer-wander-buddy.de/authors</loc>
         <lastmod>2025-01-26</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://www.harzer-wander-buddy.de/stempelstelle-204-selkesicht-an-der-ackeburg</loc>
+        <lastmod>2025-01-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.harzer-wander-buddy.de/stempelstelle-203-schutzhuette-am-mettenberg</loc>
         <lastmod>2025-01-26</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://www.harzer-wander-buddy.de/pricacy-policy</loc>
         <lastmod>2025-01-26</lastmod>
-        <priority>0.80</priority>
+        <priority>0.10</priority>
     </url>
     <url>
         <loc>https://www.harzer-wander-buddy.de/impressum</loc>
         <lastmod>2025-01-26</lastmod>
-        <priority>0.80</priority>
+        <priority>0.10</priority>
     </url>
 </urlset>
