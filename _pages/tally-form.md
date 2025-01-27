@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warteliste zur Harzer Wanderbuddy App
-permalink: /tally-form
+permalink: /app-waitlist
 comments: false
 ---
 
