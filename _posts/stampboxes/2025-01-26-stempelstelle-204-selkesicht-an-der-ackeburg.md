@@ -46,4 +46,4 @@ Bei unserem Besuch im Herbst haben wir vielen Zecken aus dem Fell unseres Beglei
 
 #### Geheimtipp
 
-<span class="spoiler">Für Geocacher findet sich auch ein Cache auf dem Weg vom Vom Selketal aus.</span>
+<span class="spoiler">Für Geocacher findet sich auch ein Cache auf dem Weg vom Vom Selketal aus 🤫</span>
