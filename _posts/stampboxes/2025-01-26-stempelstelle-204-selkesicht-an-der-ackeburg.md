@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Stempelstelle 204 - Selkesicht an der Ackeburg"
+title:  "Stempelstelle 204: Selkesicht an der Ackeburg"
 author: buddy
 categories: [ Stempelstelle, Stempelstelle des Jahres ]
 image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpg
-description: "Preview die bei Whatsapp angezeigt wird"
+description: "Stempelstelle 204: Selkesicht an der Ackeburg | Schönste Stempelstelle des Jahres 2021 | Ballenstedt"
 comments: false
 imageshadow: true
 ---
 
-### Stempelstelle 204: Selkesicht an der Ackeburg – Harzer Wandernadel
+### Stempelstelle 204: Selkesicht an der Ackeburg
 
 Die **Selkesicht** ist einer der schönsten Aussichtspunkte im Harz. Von einem Felsvorsprung oberhalb des Selketals bietet sich ein atemberaubender Blick auf die gegenüberliegende **Burg Falkenstein (HWN 200)**. Die Stempelstelle 204 wurde 2021 zur **schönsten Stempelstelle des Jahres** gewählt.
 
@@ -25,7 +25,7 @@ Die Selkesicht kann auf verschiedenen Wegen erreicht werden:
 
 - **Von Ballenstedt**: Start am Wanderparkplatz „Am Kohlenschacht“. Über die Wege **„Alter Kohlenschacht“ (HWN 180)**, **„Falkenweg“** und **„Meisdorfer Trift“** führt die Route direkt zur Ackeburg.
 
-- Vom Selketal: Ein kürzerer, aber steiler Anstieg beginnt am Gasthaus **„Zum Falken“**. Der Rückweg kann über die **„Schutzhütte am Mettenberg“ (HWN 203)** eigneschlagen werden.
+- **Vom Selketal**: Ein kürzerer, aber steiler Anstieg beginnt am Gasthaus **„Zum Falken“**. Der Rückweg kann über die **„Schutzhütte am Mettenberg“ (HWN 203)** eigneschlagen werden.
 
 
 > Tipp: Der Ausblick von der Selkesicht ist besonders beeindruckend bei Sonnenaufgang oder Sonnenuntergang. 
@@ -43,3 +43,7 @@ Die Ackeburg liegt im Unterharz nahe Meisdorf, im Stadtgebiet Falkenstein/Harz. 
 #### Tipp für Hundefreunde
 
 Bei unserem Besuch im Herbst haben wir vielen Zecken aus dem Fell unseres Begleiters geholt. Untersucht euren Vierbeiner also während und nach dem Ausflug ausgiebig auf Zecken.
+
+#### Geheimtipp
+
+<span class="spoiler">Für Geocacher findet sich auch ein Cache auf dem Weg vom Vom Selketal aus.</span>
