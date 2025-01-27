@@ -6,7 +6,7 @@ comments: false
 imageshadow: true
 ---
 
-This website is a created with **Memoirs Jekyll theme**. This website is hosted hosted with Github. 
+Ein Hobbyprojekt um besser Touren für die Harzerwandernadel zu planen :) 
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a href="/authors" class="btn btn-dark"> Meet the Team &rarr;</a>
 
