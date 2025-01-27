@@ -6,8 +6,9 @@ $brown: #B59F62;
 $teal: #40FFDC;
 $hwbGreen: #189726;
 $black: #111;
+$hwbBlack: #3d3c38;
 $primary: $hwbGreen;
-$dark:    $black;
+$dark:    $hwbBlack;
 $enable-rounded: false;
 
 @import "bootstrap/functions";
