@@ -7,8 +7,6 @@ comments: false
 
 > Entdecke die Harzer Wandernadel – Einfach und Individuell
 
-#### Sage lästiger Routenplanung lebewohl
-
 <div style="float: right; margin-left: 20px;">
   <img src="/assets/images/BuddyWithMapNoBG.png" alt="Buddy mit Karte" title="Buddy mit Karte" width="200">
 </div>
@@ -19,7 +17,7 @@ Lasse optimale Touren für deine verfügbare Ausflugszeit berechnen.
 **Die App** für die Harzerwandernadel mit allen Stempelstellen auf einer Karte.
 
 
-#### Key Features
+### Key Features
 
 <h5>Sage lästiger <span style="color: #189726;">Routenplanung</span> lebewohl</h5>
 Planen deine perfekte Wandertour mit dem **Harzer Wanderbuddy**. 

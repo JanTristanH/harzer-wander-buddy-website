@@ -115,10 +115,18 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+            <div class="col-md-3 col-sm-12 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">    
+            <div class="col-md-3 col-sm-12 text-center text-lg-left">
+                <a href="/impressum">Impressum</a>
+                |
+                <a href="/privacy-policy">Datenschutzerklärung</a>
+            </div>
+            <div class="col-md-3 col-sm-12 text-center text-lg-left">
+                <a href="{{ site.baseurl }}/tally-form">Warteliste zur App <span class="badge badge-primary">NEU</span></a>
+            </div>
+            <div class="col-md-3 col-sm-12 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
