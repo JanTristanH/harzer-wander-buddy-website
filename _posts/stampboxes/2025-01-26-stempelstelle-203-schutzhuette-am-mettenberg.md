@@ -7,12 +7,12 @@ image: assets/images/stampboxes/203-schutzhuette-am-mettenberg.jpg
 description: "Stempelstelle 203: Schutzhütte am Mettenberg | Ballenstedt"
 comments: false
 imageshadow: true
+imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 
 Die **Schutzhütte am Mettenberg (HWN 203)** liegt im idyllischen **Selketal** zwischen dem Hotel Thalmühle und der Selkemühle. Dieses etwa **8 km lange Talstück** ist vollständig vom Autoverkehr befreit, sodass Wanderer und Radfahrer die Natur in Ruhe genießen können. Der breite, gut befestigte Weg führt durch das Naturschutzgebiet und bietet beeindruckende Einblicke in die einzigartige **Flora und Fauna** der Region.
 
-> *Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy*
 
 #### Naturparadies im Selketal
 
