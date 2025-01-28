@@ -3,7 +3,7 @@ layout: post
 title: "Stempelstelle 1: Eckertalsperre Staumauer"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/1_eckertalsperre_staumauer.jpg
+image: assets/images/stampboxes/1-eckertalsperre-staumauer.jpg
 description: "Stempelstelle 1: Eckertalsperre Staumauer | Bad Harzburg"
 comments: false
 imageshadow: true

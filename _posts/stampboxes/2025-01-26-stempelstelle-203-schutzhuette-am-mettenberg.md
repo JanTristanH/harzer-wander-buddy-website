@@ -3,7 +3,7 @@ layout: post
 title:  "Stempelstelle 203: Schutzhütte am Mettenberg"
 author: buddy
 categories: [ Stempelstelle, Selketal ]
-image: assets/images/stampboxes/203-schutzhuette-am-mettenberg.jpg
+image: assets/images/stampboxes/203-schutzhuette-am-mettenberg_dallE.jpg
 description: "Stempelstelle 203: Schutzhütte am Mettenberg | Ballenstedt"
 comments: false
 imageshadow: true
