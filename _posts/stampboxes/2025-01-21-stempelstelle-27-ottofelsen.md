@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-27-ottofelsen/
-https://www.harzer-wander-gui.de/harzer-wandernadel/027-ottofelsen/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 27: Ottofelsen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/27-ottofelsen.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 27: Ottofelsen | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ottofelsen6](https://commons.wikimedia.org/wiki/File:Ottofelsen6.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Dennis_Siebert" class="extiw" title="de:Benutzer:Dennis Siebert">Dennis Siebert</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Ottofelsen ist ein 36 Meter hoher Granitfelsen im Harz, gelegen auf 584 Metern Höhe zwischen Drei Annen und der Steinernen Renne. Über steile Eisenleitern kann man den Gipfel erklimmen und wird mit einer beeindruckenden Aussicht auf den Brocken und Wernigerode belohnt. :contentReference[oaicite:0]{index=0}
 
+#### Benennung nach Graf Otto zu Stolberg-Wernigerode
 
+Der Felsen wurde nach Graf Otto zu Stolberg-Wernigerode benannt und ist seit 1964 als Naturdenkmal geschützt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Ottofelsen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Wanderparkplatz Thumkuhlental**: Von Wernigerode auf der L100 Richtung Schierke, hinter dem Ortsausgang beim Lossen-Denkmal rechts abbiegen. Nach 100 Metern erreicht man den Parkplatz. Von hier sind es etwa 2,6 km zum Ottofelsen. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Bahnhof Steinerne Renne**: Start in Hasserode, entlang der Holtemme durch die Schlucht der Steinernen Renne zum gleichnamigen Gasthaus (Stempelstelle 28) und weiter zum Ottofelsen. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79669%2C%2010.71195) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79669,10.71195">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-28-gasthaus-steinerne-renne)
+- [**„Wasserkunst Thumkuhlental“ (HWN 85)**](/stempelstelle-85-wasserkunst-thumkuhlental)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-15-leistenklippe)

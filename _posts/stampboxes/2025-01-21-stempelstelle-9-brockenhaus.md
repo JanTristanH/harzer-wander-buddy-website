@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-9-brockenhaus/
-https://www.harzer-wander-gui.de/harzer-wandernadel/009-brockenhaus/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 9: Brockenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/9-brockenhaus.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 9: Brockenhaus | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [BrockenWinter](https://commons.wikimedia.org/wiki/File:BrockenWinter.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das **Brockenhaus** liegt auf dem höchsten Berg Norddeutschlands, dem **Brocken (1.141 m)**. 🏔️ Hier befindet sich die Stempelstelle **HWN 9**, direkt am Nationalpark-Besucherzentrum. 
 
+#### Ein geschichtsträchtiger Ort
 
+Der Brocken war lange ein Ort der **Mythen und Sagen**. Während der DDR-Zeit diente das Brockenhaus als **Abhörstation**. Heute beherbergt es eine spannende **Dauerausstellung** zur Natur und Geschichte des Brockens.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Brockenhaus
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Torfhaus**: Über den Goetheweg (ca. **8 km**).
+- **Ilsenburg**: Durch das Ilsetal und über die Bremer Hütte (ca. **12 km**).
+- **Schierke**: Auf direktem Weg oder mit der Brockenbahn (ca. **6 km**).
+- **Drei Annen Hohne**: Durch den Nationalpark Harz (ca. **10 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79996%2C%2010.61531) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79996,10.61531">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
+- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)

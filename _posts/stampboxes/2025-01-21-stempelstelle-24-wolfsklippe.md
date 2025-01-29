@@ -1,48 +1,47 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-24-wolfsklippe/
-https://www.harzer-wander-gui.de/harzer-wandernadel/024-wolfsklippen/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 24: Wolfsklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/24-wolfsklippe.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 24: Wolfsklippe | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wolfsklippen](https://commons.wikimedia.org/wiki/File:Wolfsklippen.jpg) von Hejkal unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Wolfsklippe (723 m ü. NN) liegt zwischen Ilsenburg und Schierke im Nationalpark Harz. :contentReference[oaicite:0]{index=0}
 
+#### Aussichtsturm
 
+Auf dem höchsten Punkt der Klippe steht ein stählerner Aussichtsturm, der 1901 vom Harzklub errichtet wurde. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Wolfsklippe
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Mögliche Startpunkte sind:
 
-#### Wanderwege zur / zum <namen>
+- **Darlingerode**: ca. 6,9 km
+- **Drei Annen**: ca. 8,6 km
+- **Drei Annen Hohne**: ca. 8,7 km
+- **Ilsenburg (Parkplatz Ilsetal)**: ca. 5,8 km
+- **Schierke**: ca. 8,5 km
+- **Wernigerode (Parkplatz Steinerne Renne)**: ca. 6,0 km
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+Das letzte Stück führt über den Alexanderstieg und erfordert Trittsicherheit. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81947%2C%2010.67052) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81947,10.67052">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
+- [**„Oberförster-Koch-Denkmal“ (HWN 25)**](/stempelstelle-25-oberfoerster-koch-denkmal)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)

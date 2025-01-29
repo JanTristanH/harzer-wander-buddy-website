@@ -1,48 +1,44 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-22-gelber-brink/
-https://www.harzer-wander-gui.de/harzer-wandernadel/022-gelber-brink/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 22: Gelber Brink"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/22-gelber-brink.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 22: Gelber Brink | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gelber Brink 2020](https://commons.wikimedia.org/wiki/File:Gelber_Brink_2020.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Gelbe Brink ist ein Gebirgspass auf 888 m Höhe an der Brockenstraße. Er trennt die Täler der Ilse und der Kalten Bode. Hier befindet sich die Stempelstelle 22 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
 
+#### Urwaldstieg
 
+In der Nähe zweigt der Urwaldstieg von der Brockenstraße ab. Auf etwa 200 m Länge führt er durch die Kernzone des Nationalparks Harz. Entlang des Weges sind Gedichte des Schriftstellers Bernd Wolff zu lesen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Gelben Brink
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Mögliche Startpunkte zum Gelben Brink:
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Schierke**: 3,6 km über die Brockenstraße.
+- **Drei Annen Hohne**: 7,3 km über den Glashüttenweg.
+- **Ilsenburg**: 9,5 km über den Heinrich-Heine-Weg. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79102%2C%2010.64481) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79102,10.64481">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Brockenhaus“ (HWN 9)**](/stempelstelle-9-brockenhaus)
+- [**„Große Zeterklippe“ (HWN 10)**](/stempelstelle-10-grosse-zeterklippe)
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippen)

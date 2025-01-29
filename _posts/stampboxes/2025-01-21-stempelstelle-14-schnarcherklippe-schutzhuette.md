@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-14-schnarcherklippe-schutzhuette/
-https://www.harzer-wander-gui.de/harzer-wandernadel/014-schnarcherklippen/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 14: Schnarcherklippen (Schutzhütte)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/14-schnarcherklippe-schutzhuette.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 14: Schnarcherklippen (Schutzhütte) | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [SchnarcherklippenSüd](https://commons.wikimedia.org/wiki/File:SchnarcherklippenS%C3%BCd.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Schnarcherklippen** sind zwei markante Granitfelsen bei Schierke im Harz. 🏞️ Von hier hast du eine tolle Aussicht auf das Bodetal und den Brocken. Die Stempelstelle **HWN 14** befindet sich an der Schutzhütte direkt bei den Klippen.
 
+#### Ein Ort mit Sage und Naturphänomen
 
+Der Name **Schnarcherklippen** stammt von den pfeifenden Windgeräuschen, die zwischen den Felsen entstehen. Einer Legende nach sind die Felsen zwei versteinerte Riesen. Aufgrund der besonderen Akustik wurden hier früher **Echotests** durchgeführt.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zu den Schnarcherklippen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Schierke**: Über den Glashüttenweg (ca. **2 km**).
+- **Elend**: Über den Märchenweg und den Harzer Hexenstieg (ca. **5 km**).
+- **Drei Annen Hohne**: Durch den Nationalpark Harz (ca. **8 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75510%2C%2010.66255) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75510,10.66255">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)

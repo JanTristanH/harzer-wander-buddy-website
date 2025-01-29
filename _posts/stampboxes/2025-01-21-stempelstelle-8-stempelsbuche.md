@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-8-stempelsbuche/
-https://www.harzer-wander-gui.de/harzer-wandernadel/008-stempelsbuche/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 8: Stempelsbuche"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/8-stempelsbuche.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 8: Stempelsbuche | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stempelsbuche](https://commons.wikimedia.org/wiki/File:Stempelsbuche.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Stempelsbuche** ist ein markanter Rastplatz im Nationalpark Harz. 🌳 Sie liegt an einem alten Weg, der Ilsenburg mit dem Brocken verbindet. Die Stempelstelle **HWN 8** befindet sich hier und lädt Wanderer zu einer Pause ein.
 
+#### Ein Baum mit Geschichte
 
+Der Name **Stempelsbuche** stammt von einer einst mächtigen Buche, die hier stand. Sie diente als Orientierungspunkt und Treffpunkt für Wanderer und Jäger. Heute erinnert nur noch der Name an diesen besonderen Baum.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Stempelsbuche
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ilsenburg**: Über die Plessenburg (ca. **6 km**).
+- **Brocken**: Durch das Ilsetal und über die Bremer Hütte (ca. **7 km**).
+- **Bad Harzburg**: Über die Eckertalsperre (ca. **10 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79465%2C%2010.66388) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79465,10.66388">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
+- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
+- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
+- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-4-taubenklippe)

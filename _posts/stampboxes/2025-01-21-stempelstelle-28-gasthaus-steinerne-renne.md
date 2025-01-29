@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-28-gasthaus-steinerne-renne/
-https://www.harzer-wander-gui.de/harzer-wandernadel/028-gasthaus-steinerne-renne/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 28: Gasthaus Steinerne Renne"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/28-gasthaus-steinerne-renne.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 28: Gasthaus Steinerne Renne | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Steinerne Renne2](https://commons.wikimedia.org/wiki/File:Steinerne_Renne2.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Gasthaus Steinerne Renne liegt südwestlich von Wernigerode in einer beeindruckenden Granitschlucht der Holtemme. Die Schlucht erstreckt sich über etwa 2,5 km und bietet zahlreiche Wasserfälle und Stromschnellen. Der Stempelkasten befindet sich im Eingangsbereich des Gasthauses. :contentReference[oaicite:0]{index=0}
 
+#### Historisches Gasthaus
 
+Das Gasthaus wurde 1869 erstmals als Blockhaus erbaut und diente später als Ferienheim. Seit Mitte der 2000er Jahre ist es wieder ein beliebtes Ausflugsziel und Teil der Harzer Wandernadel. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Gasthaus Steinerne Renne
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Bahnhof Steinerne Renne (Hasserode)**: Ca. 2,9 km entlang der Holtemme. :contentReference[oaicite:2]{index=2}
+- **Darlingerode**: Etwa 6,8 km.
+- **Drei Annen Hohne**: Ungefähr 5,3 km.
+- **Ilsenburg**: Rund 7,1 km. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80494%2C%2010.69977) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.80494,10.69977">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ottofelsen“ (HWN 27)**](/stempelstelle-27-ottofelsen)
+- [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-moenchsbuche)
+- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-plessenburg)

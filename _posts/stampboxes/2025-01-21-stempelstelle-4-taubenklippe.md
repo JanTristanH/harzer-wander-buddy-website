@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/stempelstelle-4-taubenklippe/
-https://www.harzer-wander-gui.de/harzer-wandernadel/004-taubenklippe/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 4: Taubenklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/4-taubenklippe.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 4: Taubenklippe | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Taubenklippe](https://commons.wikimedia.org/wiki/File:Taubenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Taubenklippe** ist eine markante Felsformation im Nationalpark Harz, westlich von Ilsenburg. Sie bietet eine tolle Aussicht auf das Ilsetal und das nördliche Harzvorland. Die Stempelstelle **HWN 4** liegt direkt an den Felsen und ist ein beliebtes Ziel für Wanderer. 
 
+#### Felsen mit Geschichte
 
+Die Taubenklippe war früher ein Aussichtspunkt für Jäger und Förster. Der Name stammt vermutlich von Wildtauben, die hier nisteten. Heute ist die Klippe ein Highlight für Naturliebhaber und Fotografen.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Taubenklippe
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ilsenburg**: Vom Parkplatz Ilsetal über den Heinrich-Heine-Weg (ca. **3,5 km**).
+- **Drei Annen Hohne**: Über den **Hermannsklippen-Weg** und das Ilsetal (ca. **10 km**).
+- **Brocken**: Vom Gipfel über den Glashüttenweg (ca. **7 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81462%2C%2010.62301) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81462,10.62301">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Am Kruzifix“ (HWN 3)**](/stempelstelle-3-am-kruzifix)
+- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
+- [**„Scharfenstein (Rangerstation)“ (HWN 2)**](/stempelstelle-2-scharfenstein-rangerstation)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)

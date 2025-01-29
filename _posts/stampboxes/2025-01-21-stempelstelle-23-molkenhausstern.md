@@ -1,48 +1,44 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-23-molkenhausstern/
-https://www.harzer-wander-gui.de/harzer-wandernadel/23-molkenhausstern/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 23: Molkenhausstern"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/23-molkenhausstern.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 23: Molkenhausstern | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Molkenhausstern](https://commons.wikimedia.org/wiki/File:Molkenhausstern.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Molkenhausstern liegt auf 733 m Höhe und ist eine Wegkreuzung nahe Wernigerode. Hier treffen mehrere Wanderwege aufeinander. Eine Schutzhütte lädt zur Rast ein. Von hier aus sind Ziele wie die Zeterklippe (HWN 10), die Leistenklippe (HWN 15) oder die Wolfsklippe (HWN 24) erreichbar. :contentReference[oaicite:0]{index=0}
 
+#### Molkenhaus
 
+Etwa 550 Meter vom Molkenhausstern entfernt befindet sich das historische Molkenhaus. Es wurde im 18. Jahrhundert als Jagdhaus und für die Butterherstellung errichtet. Heute nutzt der Nationalpark Harz das Fachwerkgebäude. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Molkenhausstern
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Wernigerode Hasserode**: Start am Bahnhof Steinerne Renne, ca. 6,7 km entlang der Holtemme.
+- **Ilsenburg**: Vom Parkplatz Ilsetal etwa 7,5 km durch das Ilsetal.
+- **Schierke**: Rund 6,7 km über den Hohnekamm.
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+:contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80771%2C%2010.65779) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.80771,10.65779">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-obere-ilsefaelle)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
+- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
+- [**„Große Zeterklippe“ (HWN 10)**](/stempelstelle-10-grosse-zeterklippe)
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)

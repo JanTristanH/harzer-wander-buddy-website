@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-18-grenzweg-am-kaffeehorst/
-https://www.harzer-wander-gui.de/harzer-wandernadel/018-grenzweg-am-kaffeehorst/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 18: Grenzweg am Kaffeehorst"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/18-grenzweg-am-kaffeehorst.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 18: Grenzweg am Kaffeehorst | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte Kaffeehorst](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_Kaffeehorst.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der **Grenzweg am Kaffeehorst** liegt auf einer ehemaligen innerdeutschen Grenze im Nationalpark Harz. 🏞️ Die Stempelstelle **HWN 18** befindet sich an einer Schutzhütte und ist ein ruhiger Rastplatz für Wanderer.
 
+#### Geschichte der Grenze
 
+Der Kaffeehorst lag direkt an der **ehemaligen DDR-Grenze**. Heute erinnert der Ort an die Zeit der Teilung Deutschlands. Der Wanderweg führt entlang des alten Kolonnenwegs, der früher nur für Grenztruppen zugänglich war.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Kaffeehorst
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Braunlage**: Über den Kaiserweg (ca. **5 km**).
+- **Oderbrück**: Entlang des Grenzwegs (ca. **6 km**).
+- **Torfhaus**: Über den Goetheweg (ca. **8 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74983%2C%2010.60074) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.74983,10.60074">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-15-leistenklippe)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)

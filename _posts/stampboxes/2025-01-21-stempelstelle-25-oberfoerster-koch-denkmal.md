@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-25-oberfoerster-koch-denkmal/
-https://www.harzer-wander-gui.de/harzer-wandernadel/025-oberfoerster-koch-denkmal/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 25: Oberförster-Koch-Denkmal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/25-oberfoerster-koch-denkmal.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 25: Oberförster-Koch-Denkmal | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kochweg](https://commons.wikimedia.org/wiki/File:Kochweg.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Oberförster-Koch-Denkmal liegt auf 585 m Höhe zwischen Ilsenburg und Hasserode. Es besteht aus einem schmalen Granitstein und wurde 1914 vom Harzklub zum 50-jährigen Dienstjubiläum des Oberförsters errichtet. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Das Denkmal erinnert an Oberförster Koch, der im Harz tätig war. Genauere Informationen zu seiner Person sind leider nicht bekannt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Oberförster-Koch-Denkmal
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Hasserode**: Von Hasserode zur Mönchsbuche (HWN 26), dann dem Oberförster-Koch-Weg bis zum Denkmal folgen. :contentReference[oaicite:2]{index=2}
+- **Wernigerode (Bahnhof Steinerne Renne)**: Entlang der Holtemme zum Gasthaus Steinerne Renne (HWN 28), weiter über den Molkenhausstern (HWN 23) und die Wolfsklippen (HWN 24) zum Denkmal. Rückweg über die Mönchsbuche (HWN 26). :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82528%2C%2010.68840) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.82528,10.68840">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
+- [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-mönchsbuche)
+- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-28-gasthaus-steinerne-renne)

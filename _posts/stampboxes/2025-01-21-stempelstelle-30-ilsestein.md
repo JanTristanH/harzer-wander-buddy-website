@@ -12,7 +12,49 @@ Nutze folgendes layout als Grundlage:
 layout: post
 title:  "Stempelstelle <nummer>: <name>"
 author: buddy
+categor---
+layout: post
+title:  "Stempelstelle 30: Ilsestein"
+author: buddy
 categories: [ Stempelstelle ]
+image: assets/images/stampboxes/30-ilsestein.jpg
+description: "Stempelstelle 30: Ilsestein | Ilsenburg"
+comments: false
+imageshadow: true
+imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/File:Kreuz_auf_dem_Ilsestein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
+---
+
+Der Ilsestein ist eine markante Felsformation auf 520 m Höhe über dem Ilsetal, nahe bei Ilsenburg im Harz. Vom Gipfel bietet sich ein beeindruckender Blick über das Ilsetal bis hin zum Brocken. :contentReference[oaicite:0]{index=0}
+
+#### Historische Bedeutung
+
+Graf Anton zu Stolberg-Wernigerode ließ auf dem Gipfel ein eisernes Kreuz errichten, um an die in den Befreiungskriegen gefallenen Kameraden zu erinnern. :contentReference[oaicite:1]{index=1}
+
+#### Wanderwege zum Ilsestein
+
+- **Startpunkt:** Wanderparkplatz Ilsetal
+  - **Route:** Vom Parkplatz entlang der Ilse, dann Aufstieg zum Ilsestein. Ca. 200 Höhenmeter sind zu überwinden. :contentReference[oaicite:2]{index=2}
+
+- **Alternative Route:** Heinrich-Heine-Weg
+  - **Route:** Entlang des malerischen Ilsetals führt der Heinrich-Heine-Weg direkt zum Ilsestein. :contentReference[oaicite:3]{index=3}
+
+#### Anfahrt
+
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84634%2C%2010.66313) ist der Stempel in Google Maps zu finden.
+
+<div class="android-only">
+  Auf einem Handy kannst du auch diesen 
+  <a href="geo:51.84634,10.66313">🗺️ Link</a> 
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
+</div>
+
+#### Stempel in der Nähe
+
+- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-obere-ilsefaelle)
+- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-plessenburg)
+- [**„Oberförster-Koch-Denkmal“ (HWN 8)**](/stempelstelle-8-oberfoerster-koch-denkmal)
+ies: [ Stempelstelle ]
 image: assets/images/stampboxes/30-ilsestein.jpg
 description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
 comments: false

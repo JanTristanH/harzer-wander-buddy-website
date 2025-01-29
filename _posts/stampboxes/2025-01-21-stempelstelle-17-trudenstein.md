@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-17-trudenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/017-trudenstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 17: Trudenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/17-trudenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 17: Trudenstein | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Trudenstein](https://commons.wikimedia.org/wiki/File:Trudenstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der **Trudenstein** ist eine markante Felsformation auf **900 m Höhe** im Nationalpark Harz. 🏞️ Vom Gipfel hast du eine weite Aussicht auf das Elendstal und den Brocken. Die Stempelstelle **HWN 17** befindet sich direkt am Felsen.
 
+#### Ein Ort voller Legenden
 
+Der Name **Trudenstein** stammt von alten Sagen, die von **Hexen („Truden“) und Geistern** erzählen. Früher galt der Fels als Versammlungsort der Hexen. Heute ist er ein beliebter Aussichtspunkt für Wanderer.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Trudenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Schierke**: Über den Harzer Hexenstieg (ca. **3 km**).
+- **Drei Annen Hohne**: Durch den Nationalpark Harz (ca. **6 km**).
+- **Elend**: Über den Märchenweg (ca. **4 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75342%2C%2010.67951) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75342,10.67951">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-15-leistenklippe)
+- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)

@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-19-skidenkmal-naehe-eckerstausee/
-https://www.harzer-wander-gui.de/harzer-wandernadel/019-skidenkmal/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 19: Skidenkmal (Nähe Eckerstausee)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/19-skidenkmal-naehe-eckerstausee.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 19: Skidenkmal (Nähe Eckerstausee) | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harz Skidenkmal](https://commons.wikimedia.org/wiki/File:Harz_Skidenkmal.JPG) von <a href="//commons.wikimedia.org/wiki/User:Enter" title="User:Enter">Enter</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das **Skidenkmal** nahe der Eckerstaustufe erinnert an die Anfänge des Skisports im Harz. 🎿 Die Stempelstelle **HWN 19** liegt direkt am Denkmal und bietet eine schöne Rastmöglichkeit für Wanderer.
 
+#### Die Geschichte des Skisports im Harz
 
+Das Denkmal wurde zur **Ehrung der ersten Skiläufer** im Harz errichtet. Bereits Ende des 19. Jahrhunderts wurde der Skisport in der Region populär. Heute erinnert es an diese Tradition und die Entwicklung des Wintersports.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Skidenkmal
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Bad Harzburg**: Über den Molkenhausweg (ca. **6 km**).
+- **Torfhaus**: Entlang der Ecker (ca. **5 km**).
+- **Eckerstausee**: Direkt vom Stausee erreichbar (ca. **2 km**).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79321%2C%2010.57438) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79321,10.57438">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-18-grenzweg-am-kaffeehorst)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)

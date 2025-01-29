@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-21-helenenruh/
-https://www.harzer-wander-gui.de/harzer-wandernadel/21-helenenruh/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 21: Helenenruh"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/21-helenenruh.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 21: Helenenruh | Elend"
 comments: false
 imageshadow: true
 imageSource: '📷 [Helenenruh Schierke](https://commons.wikimedia.org/wiki/File:Helenenruh_Schierke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 21, bekannt als Helenenruh, liegt auf etwa 600 m Höhe zwischen Schierke und Elend im Harz. Von hier bietet sich ein Blick in das 150 m tiefe Elendstal und bei guter Sicht auf den Brocken. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Der Rastplatz wurde vom Magdeburger Unternehmer Hermann Gruson für seine Frau Helene eingerichtet. Er sorgte dafür, dass der Blick auf Schierke und den Brocken freigeschnitten war. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Helenenruh
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Mögliche Startpunkte zur Stempelstelle 21:
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Elend, Parkplatz am Kreisel** (1,6 km): Kurzer Aufstieg durch den Wald.
+- **Schierke, Parkhaus am Winterbergtor** (4,0 km): Wanderung entlang malerischer Pfade.
+- **Braunlage, Großparkplatz** (7,4 km): Längere Route durch abwechslungsreiches Terrain. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75407%2C%2010.68091) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75407,10.68091">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Barenberg“ (HWN 20)**](/stempelstelle-20-barenberg)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippen)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)
