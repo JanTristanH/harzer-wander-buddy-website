@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Luisenburg 5](https://commons.wikimedia.org/wiki/File:Luisenburg_5.jpg) von <a href="//commons.wikimedia.org/wiki/User:Ordercrazy" title="User:Ordercrazy">Ordercrazy</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-Die Ruine Luisenburg liegt südlich von Blankenburg auf dem Calviusberg. Sie wurde 1728 als Aussichtsschlösschen für Herzogin Christine Luise erbaut. Heute stehen dort noch Mauerreste und ein Pavillon mit Stempelkasten. Von hier bietet sich ein schöner Blick auf Cattenstedt. :contentReference[oaicite:0]{index=0}
+Die Ruine Luisenburg liegt südlich von Blankenburg auf dem Calviusberg. Sie wurde 1728 als Aussichtsschlösschen für Herzogin Christine Luise erbaut. Heute stehen dort noch Mauerreste und ein Pavillon mit Stempelkasten. Von hier bietet sich ein schöner Blick auf Cattenstedt.
 
 #### Geschichte der Luisenburg
 
-Das einstige Lustschloss war ein eingeschossiger Fachwerkbau mit achteckigem Saal und acht kleinen Zimmern. 1945 wurde es wegen Baufälligkeit abgetragen. Heute erinnern Mauerreste und Treppen an das Gebäude. :contentReference[oaicite:1]{index=1}
+Das einstige Lustschloss war ein eingeschossiger Fachwerkbau mit achteckigem Saal und acht kleinen Zimmern. 1945 wurde es wegen Baufälligkeit abgetragen. Heute erinnern Mauerreste und Treppen an das Gebäude.
 
 #### Wanderwege zur Ruine Luisenburg
 
-- **Ab Kleines Schloss Blankenburg**: Vom Parkplatz durch den Schlosspark zum Großen Schloss, dann den Schildern zur Ruine folgen. :contentReference[oaicite:2]{index=2}
-- **Ab Barocke Gärten (Stempelstelle 78)**: Aufstieg zum Großen Schloss, dann weiter zur Ruine. :contentReference[oaicite:3]{index=3}
+- **Ab Kleines Schloss Blankenburg**: Vom Parkplatz durch den Schlosspark zum Großen Schloss, dann den Schildern zur Ruine folgen.
+- **Ab Barocke Gärten (Stempelstelle 78)**: Aufstieg zum Großen Schloss, dann weiter zur Ruine.
 
 #### Anfahrt
 

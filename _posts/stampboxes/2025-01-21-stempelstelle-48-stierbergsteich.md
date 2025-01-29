@@ -18,8 +18,8 @@ In der Region um Benneckenstein wurde hauptsächlich Roteisenerz abgebaut. Der S
 
 #### Wanderwege zum Stierbergsteich
 
-- **Sophienhof**: Vom Sophienhof (Stempelstelle 97) führt ein 3,5 km langer Weg zum Stierbergsteich. :contentReference[oaicite:0]{index=0}
-- **Benneckenstein**: Eine etwa 5 km lange Route startet in Benneckenstein und führt durch malerische Waldwege. :contentReference[oaicite:1]{index=1}
+- **Sophienhof**: Vom Sophienhof (Stempelstelle 97) führt ein 3,5 km langer Weg zum Stierbergsteich.
+- **Benneckenstein**: Eine etwa 5 km lange Route startet in Benneckenstein und führt durch malerische Waldwege.
 
 #### Anfahrt
 

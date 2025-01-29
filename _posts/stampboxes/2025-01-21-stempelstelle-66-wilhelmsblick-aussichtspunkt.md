@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Wilhelmsblick](https://commons.wikimedia.org/wiki/File:Wilhelmsblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Wilhelmsblick liegt oberhalb von Treseburg, etwa 1 km hinter dem Ortsausgang Richtung Thale. Von diesem Aussichtspunkt auf einem schmalen Felsgrat bietet sich ein beeindruckender Blick auf mehrere Flussabschnitte der Bode, die den Felsen in einer großen Schleife umfließt. :contentReference[oaicite:0]{index=0}
+Der Wilhelmsblick liegt oberhalb von Treseburg, etwa 1 km hinter dem Ortsausgang Richtung Thale. Von diesem Aussichtspunkt auf einem schmalen Felsgrat bietet sich ein beeindruckender Blick auf mehrere Flussabschnitte der Bode, die den Felsen in einer großen Schleife umfließt.
 
 #### Historischer Hintergrund
 
-1861 ließ der Straßenbaumeister Wilhelm einen Tunnel neben der Landstraße anlegen, um den darüber liegenden Aussichtspunkt zugänglich zu machen. Dieser wurde später zu seinen Ehren "Wilhelmsblick" genannt. :contentReference[oaicite:1]{index=1}
+1861 ließ der Straßenbaumeister Wilhelm einen Tunnel neben der Landstraße anlegen, um den darüber liegenden Aussichtspunkt zugänglich zu machen. Dieser wurde später zu seinen Ehren "Wilhelmsblick" genannt.
 
 #### Wanderwege zum Wilhelmsblick
 
-- **Treseburg**: Vom Parkplatz am Bodeufer führt ein ansteigender Pfad mit mehreren Aussichtspunkten direkt zum Wilhelmsblick. :contentReference[oaicite:2]{index=2}
-- **L93 (Landstraße)**: Durch den erwähnten Tunnel gelangt man über eine Treppe in wenigen Minuten zum Aussichtspunkt. :contentReference[oaicite:3]{index=3}
+- **Treseburg**: Vom Parkplatz am Bodeufer führt ein ansteigender Pfad mit mehreren Aussichtspunkten direkt zum Wilhelmsblick.
+- **L93 (Landstraße)**: Durch den erwähnten Tunnel gelangt man über eine Treppe in wenigen Minuten zum Aussichtspunkt.
 
 #### Anfahrt
 

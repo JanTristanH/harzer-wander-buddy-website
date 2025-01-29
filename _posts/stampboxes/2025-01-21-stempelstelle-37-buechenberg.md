@@ -14,11 +14,11 @@ imageSource: '📷 [Büchenberg](https://commons.wikimedia.org/wiki/File:B%C3%BC
 ::contentReference[oaicite:0]{index=0}
 
 
-Die Stempelstelle 37 der Harzer Wandernadel befindet sich am Schaubergwerk Büchenberg bei Elbingerode. Das Bergwerk liegt an der Straße von Elbingerode nach Heimburg, oberhalb des Trecktals. :contentReference[oaicite:1]{index=1}
+Die Stempelstelle 37 der Harzer Wandernadel befindet sich am Schaubergwerk Büchenberg bei Elbingerode. Das Bergwerk liegt an der Straße von Elbingerode nach Heimburg, oberhalb des Trecktals.
 
 #### Schaubergwerk Büchenberg
 
-Im Schaubergwerk erfahren Besucher in etwa 75 Minuten, unter welchen Bedingungen die Harzer Bergleute bis 1970 Erze förderten. Über eine gut begehbare Treppenanlage gelangt man zur Antriebsanlage der ehemals längsten Seilbahn Europas. Unter Tage werden verschiedene Bergbaugeräte vorgeführt. :contentReference[oaicite:2]{index=2}
+Im Schaubergwerk erfahren Besucher in etwa 75 Minuten, unter welchen Bedingungen die Harzer Bergleute bis 1970 Erze förderten. Über eine gut begehbare Treppenanlage gelangt man zur Antriebsanlage der ehemals längsten Seilbahn Europas. Unter Tage werden verschiedene Bergbaugeräte vorgeführt.
 
 #### Wanderwege zum Büchenberg
 
@@ -29,7 +29,7 @@ Mögliche Startpunkte und Entfernungen zur Stempelstelle:
 - **Elbingerode, Parkplatz Altes Mühlental**: ca. 4,0 km
 - **Wernigerode, Wanderparkplatz Kaltes Tal B244**: ca. 3,0 km
 
-Der kürzeste Weg führt vom Parkplatz Büchenberg (ca. 0,6 km). :contentReference[oaicite:3]{index=3}
+Der kürzeste Weg führt vom Parkplatz Büchenberg (ca. 0,6 km).
 
 #### Anfahrt
 

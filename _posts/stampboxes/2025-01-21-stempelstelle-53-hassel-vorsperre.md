@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Hasselvorsperre](https://commons.wikimedia.org/wiki/File:Hasselvorsperre.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Moonie&amp;action=edit&amp;redlink=1" class="new" title="User:Moonie (page does not exist)">Moonie</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Hassel-Vorsperre liegt zwischen Hasselfelde und Trautenstein. Sie dient der Rappbodetalsperre als Vorsperre und unterstützt die Trinkwasserversorgung. Ein Rundwanderweg von etwa 5,6 km Länge führt um den Stausee. Der Stempelkasten befindet sich an der rechten Seite der Staumauer. :contentReference[oaicite:0]{index=0}
+Die Hassel-Vorsperre liegt zwischen Hasselfelde und Trautenstein. Sie dient der Rappbodetalsperre als Vorsperre und unterstützt die Trinkwasserversorgung. Ein Rundwanderweg von etwa 5,6 km Länge führt um den Stausee. Der Stempelkasten befindet sich an der rechten Seite der Staumauer.
 
 #### Geschichte der Hassel-Vorsperre
 
-Die Talsperre wurde von 1956 bis 1959 erbaut. Die 21,5 Meter hohe Staumauer staut 1,47 Millionen Kubikmeter Wasser. :contentReference[oaicite:1]{index=1}
+Die Talsperre wurde von 1956 bis 1959 erbaut. Die 21,5 Meter hohe Staumauer staut 1,47 Millionen Kubikmeter Wasser.
 
 #### Wanderwege zur Hassel-Vorsperre
 
-- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Vom Parkplatz unterhalb der Hagenmühle führt ein 3 km langer Weg entlang des Sees zur Staumauer. :contentReference[oaicite:2]{index=2}
-- **Trautenstein**: Ein etwa 5 km langer Weg führt zur Hassel-Vorsperre. :contentReference[oaicite:3]{index=3}
+- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Vom Parkplatz unterhalb der Hagenmühle führt ein 3 km langer Weg entlang des Sees zur Staumauer.
+- **Trautenstein**: Ein etwa 5 km langer Weg führt zur Hassel-Vorsperre.
 
 #### Anfahrt
 

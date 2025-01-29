@@ -14,13 +14,13 @@ Der **Peterstein** (465 m ü. NN) liegt zwischen Wernigerode und Elbingerode, ob
 
 #### Historische Bedeutung
 
-Der Name "Peterstein" leitet sich vom angrenzenden Waldgebiet "Peterholz" ab, das einst zum Benediktinerkloster Sankt Peter in Ilsenburg gehörte. Bei Bauarbeiten zur Talsperre wurde 1935 ein Weihefund aus der Bronzezeit entdeckt, der heute im Heimatmuseum Wernigerode ausgestellt ist. :contentReference[oaicite:0]{index=0}
+Der Name "Peterstein" leitet sich vom angrenzenden Waldgebiet "Peterholz" ab, das einst zum Benediktinerkloster Sankt Peter in Ilsenburg gehörte. Bei Bauarbeiten zur Talsperre wurde 1935 ein Weihefund aus der Bronzezeit entdeckt, der heute im Heimatmuseum Wernigerode ausgestellt ist.
 
 #### Wanderwege zum Peterstein
 
-- **Drei Annen Hohne**: Vom Wanderparkplatz entlang des Zillierbachs zur Talsperre, dann dem ausgeschilderten Weg zum Peterstein folgen. :contentReference[oaicite:1]{index=1}
-- **Wernigerode (Parkplatz Kaltes Tal B244)**: Ca. 2,9 km Fußweg. :contentReference[oaicite:2]{index=2}
-- **Elbingerode**: Etwa 3,6 km Wanderung. :contentReference[oaicite:3]{index=3}
+- **Drei Annen Hohne**: Vom Wanderparkplatz entlang des Zillierbachs zur Talsperre, dann dem ausgeschilderten Weg zum Peterstein folgen.
+- **Wernigerode (Parkplatz Kaltes Tal B244)**: Ca. 2,9 km Fußweg.
+- **Elbingerode**: Etwa 3,6 km Wanderung.
 
 #### Anfahrt
 

@@ -10,13 +10,13 @@ imageshadow: true
 imageSource: '📷 [Oberharzblick am Buchenberg](https://commons.wikimedia.org/wiki/File:Oberharzblick_am_Buchenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der **Oberharzblick am Buchenberg** (Stempelstelle 47) liegt zwischen Benneckenstein, Rothesütte und Trautenstein. Bei guter Sicht bietet er einen herausragenden Blick auf Wurmberg und Brocken. :contentReference[oaicite:0]{index=0}
+Der **Oberharzblick am Buchenberg** (Stempelstelle 47) liegt zwischen Benneckenstein, Rothesütte und Trautenstein. Bei guter Sicht bietet er einen herausragenden Blick auf Wurmberg und Brocken.
 
 #### Wanderwege zum Oberharzblick am Buchenberg
 
 - **Benneckenstein**: Gut erreichbare Wanderwege führen direkt zum Aussichtspunkt.
-- **Trautenstein**: Über die Stempelstelle 50 (Walzenhütte) gelangt man zum Ziel. :contentReference[oaicite:1]{index=1}
-- **Ziegenalm Sophienhof**: Über den Stierbergsteich (Stempelstelle 48) ist der Oberharzblick erreichbar. :contentReference[oaicite:2]{index=2}
+- **Trautenstein**: Über die Stempelstelle 50 (Walzenhütte) gelangt man zum Ziel.
+- **Ziegenalm Sophienhof**: Über den Stierbergsteich (Stempelstelle 48) ist der Oberharzblick erreichbar.
 
 #### Anfahrt
 

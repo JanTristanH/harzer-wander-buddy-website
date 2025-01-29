@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Thumkuhlental](https://commons.wikimedia.org/wiki/File:Thumkuhlental.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Die Stempelstelle 85 der Harzer Wandernadel befindet sich an der rekonstruierten Wasserkunst im Thumkuhlental bei Wernigerode. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 85 der Harzer Wandernadel befindet sich an der rekonstruierten Wasserkunst im Thumkuhlental bei Wernigerode.
 
 #### Historische Bedeutung
 
-Im Thumkuhlental wurde bis ins 18. Jahrhundert Bergbau betrieben. Es wurden Kobalt, Kupfer, Silber und Blei abgebaut. :contentReference[oaicite:1]{index=1}
+Im Thumkuhlental wurde bis ins 18. Jahrhundert Bergbau betrieben. Es wurden Kobalt, Kupfer, Silber und Blei abgebaut.
 
 #### Wanderwege zur Wasserkunst Thumkuhlental
 
-- **Startpunkt:** Wanderparkplatz am Lossen-Denkmal an der Straße nach Drei Annen Hohne. :contentReference[oaicite:2]{index=2}
+- **Startpunkt:** Wanderparkplatz am Lossen-Denkmal an der Straße nach Drei Annen Hohne.
 - **Route:** Vom Parkplatz führt ein Naturkundlich-Geologischer Lehrpfad entlang alter Stolleneingänge direkt zur Wasserkunst.
 
 #### Anfahrt

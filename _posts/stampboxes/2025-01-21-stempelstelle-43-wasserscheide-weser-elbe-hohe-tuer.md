@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [TalsperreKönigshütteStaumauer](https://commons.wikimedia.org/wiki/File:TalsperreK%C3%B6nigsh%C3%BCtteStaumauer.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz Public domain'
 ---
 
-Die Stempelstelle 43, bekannt als "Hohe Tür", liegt zwischen Bad Lauterberg und dem Kurort Steina, einem Ortsteil von Bad Sachsa. Hier verläuft die Wasserscheide zwischen Weser und Elbe. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 43, bekannt als "Hohe Tür", liegt zwischen Bad Lauterberg und dem Kurort Steina, einem Ortsteil von Bad Sachsa. Hier verläuft die Wasserscheide zwischen Weser und Elbe.
 
 #### Wiesenbeker Teich
 
-Etwa 1,5 km entfernt befindet sich der Wiesenbeker Teich. Dieser 1715 angelegte Bergsee diente einst der Wasserversorgung des Kupferbergwerks "Aufrichtigkeit". Heute ist er ein beliebtes Naherholungsziel zum Baden, Angeln oder Bootfahren. Direkt am See lädt Dombrowsky's Baude zur Einkehr ein. :contentReference[oaicite:1]{index=1}
+Etwa 1,5 km entfernt befindet sich der Wiesenbeker Teich. Dieser 1715 angelegte Bergsee diente einst der Wasserversorgung des Kupferbergwerks "Aufrichtigkeit". Heute ist er ein beliebtes Naherholungsziel zum Baden, Angeln oder Bootfahren. Direkt am See lädt Dombrowsky's Baude zur Einkehr ein.
 
 #### Wanderwege zur Hohen Tür
 
-- **Vom Wiesenbeker Teich**: Start am Parkplatz, ca. 1,5 km Wanderung zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Ab Steina**: Direkter Aufstieg mit kurzer, aber steiler Passage. :contentReference[oaicite:3]{index=3}
+- **Vom Wiesenbeker Teich**: Start am Parkplatz, ca. 1,5 km Wanderung zur Stempelstelle.
+- **Ab Steina**: Direkter Aufstieg mit kurzer, aber steiler Passage.
 
 #### Anfahrt
 

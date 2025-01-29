@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [La Viershöhe](https://commons.wikimedia.org/wiki/File:La_Viers-H%C3%B6he.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die La Viershöhe (478 m ü. NN) liegt oberhalb des Bodetals nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick ins Bodetal und auf die gegenüberliegende Roßtrappe. :contentReference[oaicite:0]{index=0}
+Die La Viershöhe (478 m ü. NN) liegt oberhalb des Bodetals nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick ins Bodetal und auf die gegenüberliegende Roßtrappe.
 
 #### Namensgebung
 
-Benannt ist die Höhe nach Oberförster La Viers, der im 19. Jahrhundert als ranghöchster Forstbeamter der Region tätig war. Er erkannte früh die landschaftliche Schönheit des Bodetals und förderte den Bau von Wanderwegen für Touristen. :contentReference[oaicite:1]{index=1}
+Benannt ist die Höhe nach Oberförster La Viers, der im 19. Jahrhundert als ranghöchster Forstbeamter der Region tätig war. Er erkannte früh die landschaftliche Schönheit des Bodetals und förderte den Bau von Wanderwegen für Touristen.
 
 #### Wanderwege zur La Viershöhe
 
-- **Hexentanzplatz**: Vom Hexentanzplatz führt ein beschilderter Pfad direkt zur La Viershöhe. :contentReference[oaicite:2]{index=2}
-- **Thale**: Start in Thale, Aufstieg über die Serpentine am Hirschgrund oder mit der Seilbahn zum Hexentanzplatz, dann weiter zur La Viershöhe. :contentReference[oaicite:3]{index=3}
+- **Hexentanzplatz**: Vom Hexentanzplatz führt ein beschilderter Pfad direkt zur La Viershöhe.
+- **Thale**: Start in Thale, Aufstieg über die Serpentine am Hirschgrund oder mit der Seilbahn zum Hexentanzplatz, dann weiter zur La Viershöhe.
 
 #### Anfahrt
 

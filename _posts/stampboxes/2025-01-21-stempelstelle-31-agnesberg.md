@@ -14,13 +14,13 @@ Der Agnesberg (395 m ü. NN) liegt südöstlich von Wernigerode. Von hier bietet
 
 #### Historische Bedeutung
 
-Bereits im 10. Jahrhundert entstand auf dem heutigen Klint eine Niederungsburg mit umliegender Siedlung. 1229 verliehen die Grafen von Wernigerode dem Ort das Stadtrecht nach goslarschem Vorbild. Zwischen 1110 und 1120 ließ sich ein Graf, der sich „Comte des Wernigerothe“ nannte, auf dem Agnesberg seine Burg erbauen. :contentReference[oaicite:0]{index=0}
+Bereits im 10. Jahrhundert entstand auf dem heutigen Klint eine Niederungsburg mit umliegender Siedlung. 1229 verliehen die Grafen von Wernigerode dem Ort das Stadtrecht nach goslarschem Vorbild. Zwischen 1110 und 1120 ließ sich ein Graf, der sich „Comte des Wernigerothe“ nannte, auf dem Agnesberg seine Burg erbauen.
 
 #### Wanderwege zum Agnesberg
 
-- **Vom Schloss Wernigerode**: Über den Amalienweg in etwa 500 Metern erreichbar. :contentReference[oaicite:1]{index=1}
-- **Vom Gasthaus Christianental (HWN 32)**: Ca. 1 km Fußweg. :contentReference[oaicite:2]{index=2}
-- **Von Benzingerode**: Start am Parkplatz der Kirche, etwa 6 km Wanderung. :contentReference[oaicite:3]{index=3}
+- **Vom Schloss Wernigerode**: Über den Amalienweg in etwa 500 Metern erreichbar.
+- **Vom Gasthaus Christianental (HWN 32)**: Ca. 1 km Fußweg.
+- **Von Benzingerode**: Start am Parkplatz der Kirche, etwa 6 km Wanderung.
 
 Gute Wanderschuhe sind empfehlenswert, da einige Wege steil sind. 🥾
 

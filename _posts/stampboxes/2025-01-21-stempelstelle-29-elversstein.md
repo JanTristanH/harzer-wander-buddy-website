@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Elversstein](https://commons.wikimedia.org/wiki/File:Elversstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Elversstein (499 m ü. NN) ist eine markante Felsformation südlich von Wernigerode im Harz. Von hier bietet sich ein beeindruckender Blick auf die umliegende Landschaft und den Brocken. Besonders sehenswert ist die Ausfahrt der dampfbetriebenen Harzquerbahn aus dem Thumkuhlenkopf-Tunnel, die man vom Elversstein aus beobachten kann. :contentReference[oaicite:0]{index=0}
+Der Elversstein (499 m ü. NN) ist eine markante Felsformation südlich von Wernigerode im Harz. Von hier bietet sich ein beeindruckender Blick auf die umliegende Landschaft und den Brocken. Besonders sehenswert ist die Ausfahrt der dampfbetriebenen Harzquerbahn aus dem Thumkuhlenkopf-Tunnel, die man vom Elversstein aus beobachten kann.
 
 #### Benennung des Elverssteins
 
-Der Elversstein ist nach Dr. Johann Friedrich Rudolph Elvers (1825–1891) benannt, der als erster Landrat des preußischen Kreises Wernigerode tätig war. :contentReference[oaicite:1]{index=1}
+Der Elversstein ist nach Dr. Johann Friedrich Rudolph Elvers (1825–1891) benannt, der als erster Landrat des preußischen Kreises Wernigerode tätig war.
 
 #### Wanderwege zum Elversstein
 
 - **Hasserode (Wernigerode):** Start an der Straße "Trift", dem Elverssteinpfad folgend, etwa 1,8 km bis zum Ziel.
-- **Gasthaus Armeleuteberg:** Von hier führt ein Weg von ca. 4,1 km Länge zum Elversstein. :contentReference[oaicite:2]{index=2}
+- **Gasthaus Armeleuteberg:** Von hier führt ein Weg von ca. 4,1 km Länge zum Elversstein.
 
 #### Anfahrt
 

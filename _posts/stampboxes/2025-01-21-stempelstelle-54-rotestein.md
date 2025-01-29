@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Rote-Stein-Blick1](https://commons.wikimedia.org/wiki/File:Rote-Stein-Blick1.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der **Rotestein** (503 m ü. NN) liegt nahe der Köhlerei Stemberghaus bei Hasselfelde. Von diesem Aussichtspunkt blickt man über die Rappbodetalsperre bis zum Brocken. :contentReference[oaicite:0]{index=0}
+Der **Rotestein** (503 m ü. NN) liegt nahe der Köhlerei Stemberghaus bei Hasselfelde. Von diesem Aussichtspunkt blickt man über die Rappbodetalsperre bis zum Brocken.
 
 #### Auszeichnung
 
-2010 wurde der Rotestein zur schönsten Stempelstelle der Harzer Wandernadel gewählt. :contentReference[oaicite:1]{index=1}
+2010 wurde der Rotestein zur schönsten Stempelstelle der Harzer Wandernadel gewählt.
 
 #### Wanderwege zum Rotestein
 
-- **Köhlerei Stemberghaus**: Start am Parkplatz, überquere die B81 und folge dem beschilderten Weg ca. 2 km zum Rotestein. :contentReference[oaicite:2]{index=2}
-- **Parkplatz an der B81**: Kurzer Weg von etwa 800 m zum Aussichtspunkt. :contentReference[oaicite:3]{index=3}
+- **Köhlerei Stemberghaus**: Start am Parkplatz, überquere die B81 und folge dem beschilderten Weg ca. 2 km zum Rotestein.
+- **Parkplatz an der B81**: Kurzer Weg von etwa 800 m zum Aussichtspunkt.
 
 #### Anfahrt
 

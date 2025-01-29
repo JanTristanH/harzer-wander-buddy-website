@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Helenenruh Schierke](https://commons.wikimedia.org/wiki/File:Helenenruh_Schierke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 21, bekannt als Helenenruh, liegt auf etwa 600 m Höhe zwischen Schierke und Elend im Harz. Von hier bietet sich ein Blick in das 150 m tiefe Elendstal und bei guter Sicht auf den Brocken. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 21, bekannt als Helenenruh, liegt auf etwa 600 m Höhe zwischen Schierke und Elend im Harz. Von hier bietet sich ein Blick in das 150 m tiefe Elendstal und bei guter Sicht auf den Brocken.
 
 #### Historischer Hintergrund
 
-Der Rastplatz wurde vom Magdeburger Unternehmer Hermann Gruson für seine Frau Helene eingerichtet. Er sorgte dafür, dass der Blick auf Schierke und den Brocken freigeschnitten war. :contentReference[oaicite:1]{index=1}
+Der Rastplatz wurde vom Magdeburger Unternehmer Hermann Gruson für seine Frau Helene eingerichtet. Er sorgte dafür, dass der Blick auf Schierke und den Brocken freigeschnitten war.
 
 #### Wanderwege zur Helenenruh
 
@@ -22,7 +22,7 @@ Mögliche Startpunkte zur Stempelstelle 21:
 
 - **Elend, Parkplatz am Kreisel** (1,6 km): Kurzer Aufstieg durch den Wald.
 - **Schierke, Parkhaus am Winterbergtor** (4,0 km): Wanderung entlang malerischer Pfade.
-- **Braunlage, Großparkplatz** (7,4 km): Längere Route durch abwechslungsreiches Terrain. :contentReference[oaicite:2]{index=2}
+- **Braunlage, Großparkplatz** (7,4 km): Längere Route durch abwechslungsreiches Terrain.
 
 #### Anfahrt
 

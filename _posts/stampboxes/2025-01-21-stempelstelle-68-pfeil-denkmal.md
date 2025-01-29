@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Thale Pfeildenkmal 18](https://commons.wikimedia.org/wiki/File:Thale_Pfeildenkmal_18.jpg) von <bdi><a href="https://www.wikidata.org/wiki/Q61974823" class="extiw" title="d:Q61974823"><span title="deutscher Journalist und Amateurfotograf">Jan-Herm Janßen</span></a></bdi> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Pfeil-Denkmal liegt zwischen Thale und Friedrichsbrunn im Harz. Es erinnert an den Forstwissenschaftler Friedrich Wilhelm Leopold Pfeil (1783–1853). :contentReference[oaicite:0]{index=0}
+Das Pfeil-Denkmal liegt zwischen Thale und Friedrichsbrunn im Harz. Es erinnert an den Forstwissenschaftler Friedrich Wilhelm Leopold Pfeil (1783–1853).
 
 #### Historische Bedeutung
 
-Friedrich Wilhelm Leopold Pfeil war ein bedeutender Forstwissenschaftler und Schriftsteller. Er leitete ab 1830 die Höhere Forstlehranstalt in Eberswalde und veröffentlichte zahlreiche Werke zur Forstwirtschaft. :contentReference[oaicite:1]{index=1}
+Friedrich Wilhelm Leopold Pfeil war ein bedeutender Forstwissenschaftler und Schriftsteller. Er leitete ab 1830 die Höhere Forstlehranstalt in Eberswalde und veröffentlichte zahlreiche Werke zur Forstwirtschaft.
 
 #### Wanderwege zum Pfeil-Denkmal
 
-- **Treseburg**: Vom Parkplatz am Kreisel führt ein etwa 2,6 km langer Weg zum Denkmal. :contentReference[oaicite:2]{index=2}
-- **Hexentanzplatz Thale**: Starten Sie vom Parkplatz und wandern Sie ca. 2,8 km zum Denkmal. :contentReference[oaicite:3]{index=3}
+- **Treseburg**: Vom Parkplatz am Kreisel führt ein etwa 2,6 km langer Weg zum Denkmal.
+- **Hexentanzplatz Thale**: Starten Sie vom Parkplatz und wandern Sie ca. 2,8 km zum Denkmal.
 
 #### Anfahrt
 

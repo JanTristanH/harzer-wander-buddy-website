@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Echowiese Allrode](https://commons.wikimedia.org/wiki/File:Echowiese_Allrode.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Echowiese ist eine große Waldlichtung zwischen Allrode und Friedrichsbrunn. Hier können Besucher ein Echo erleben, was dem Sprichwort "Wie man in den Wald hineinruft, so schallt es heraus" entspricht. :contentReference[oaicite:0]{index=0}
+Die Echowiese ist eine große Waldlichtung zwischen Allrode und Friedrichsbrunn. Hier können Besucher ein Echo erleben, was dem Sprichwort "Wie man in den Wald hineinruft, so schallt es heraus" entspricht.
 
 #### Geschichte der Stempelstelle
 
-Ursprünglich befand sich die Stempelstelle 57 an der Hohlen Eiche. Nach deren Verfall wurde sie 2016 zur Echowiese verlegt. :contentReference[oaicite:1]{index=1}
+Ursprünglich befand sich die Stempelstelle 57 an der Hohlen Eiche. Nach deren Verfall wurde sie 2016 zur Echowiese verlegt.
 
 #### Wanderwege zur Echowiese
 
-- **Allrode**: Vom Ortsausgang Richtung Treseburg führt ein ausgeschilderter Forstweg zur Echowiese. :contentReference[oaicite:2]{index=2}
+- **Allrode**: Vom Ortsausgang Richtung Treseburg führt ein ausgeschilderter Forstweg zur Echowiese.
 
 - **Friedrichsbrunn**: Ein Wanderweg verbindet den Ort mit der Echowiese.
 

@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Molkenhausstern](https://commons.wikimedia.org/wiki/File:Molkenhausstern.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Molkenhausstern liegt auf 733 m Höhe und ist eine Wegkreuzung nahe Wernigerode. Hier treffen mehrere Wanderwege aufeinander. Eine Schutzhütte lädt zur Rast ein. Von hier aus sind Ziele wie die Zeterklippe (HWN 10), die Leistenklippe (HWN 15) oder die Wolfsklippe (HWN 24) erreichbar. :contentReference[oaicite:0]{index=0}
+Der Molkenhausstern liegt auf 733 m Höhe und ist eine Wegkreuzung nahe Wernigerode. Hier treffen mehrere Wanderwege aufeinander. Eine Schutzhütte lädt zur Rast ein. Von hier aus sind Ziele wie die Zeterklippe (HWN 10), die Leistenklippe (HWN 15) oder die Wolfsklippe (HWN 24) erreichbar.
 
 #### Molkenhaus
 
-Etwa 550 Meter vom Molkenhausstern entfernt befindet sich das historische Molkenhaus. Es wurde im 18. Jahrhundert als Jagdhaus und für die Butterherstellung errichtet. Heute nutzt der Nationalpark Harz das Fachwerkgebäude. :contentReference[oaicite:1]{index=1}
+Etwa 550 Meter vom Molkenhausstern entfernt befindet sich das historische Molkenhaus. Es wurde im 18. Jahrhundert als Jagdhaus und für die Butterherstellung errichtet. Heute nutzt der Nationalpark Harz das Fachwerkgebäude.
 
 #### Wanderwege zum Molkenhausstern
 

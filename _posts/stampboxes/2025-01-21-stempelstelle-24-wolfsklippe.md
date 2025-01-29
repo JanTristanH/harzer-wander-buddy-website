@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Wolfsklippen](https://commons.wikimedia.org/wiki/File:Wolfsklippen.jpg) von Hejkal unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die Wolfsklippe (723 m ü. NN) liegt zwischen Ilsenburg und Schierke im Nationalpark Harz. :contentReference[oaicite:0]{index=0}
+Die Wolfsklippe (723 m ü. NN) liegt zwischen Ilsenburg und Schierke im Nationalpark Harz.
 
 #### Aussichtsturm
 
-Auf dem höchsten Punkt der Klippe steht ein stählerner Aussichtsturm, der 1901 vom Harzklub errichtet wurde. :contentReference[oaicite:1]{index=1}
+Auf dem höchsten Punkt der Klippe steht ein stählerner Aussichtsturm, der 1901 vom Harzklub errichtet wurde.
 
 #### Wanderwege zur Wolfsklippe
 
@@ -27,7 +27,7 @@ Mögliche Startpunkte sind:
 - **Schierke**: ca. 8,5 km
 - **Wernigerode (Parkplatz Steinerne Renne)**: ca. 6,0 km
 
-Das letzte Stück führt über den Alexanderstieg und erfordert Trittsicherheit. :contentReference[oaicite:2]{index=2}
+Das letzte Stück führt über den Alexanderstieg und erfordert Trittsicherheit.
 
 #### Anfahrt
 

@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Stapenberg](https://commons.wikimedia.org/wiki/File:Stapenberg.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Stapenberg (443 m ü. NN) liegt südwestlich von Benzingerode, einem Ortsteil von Wernigerode im Harz. :contentReference[oaicite:0]{index=0}
+Der Stapenberg (443 m ü. NN) liegt südwestlich von Benzingerode, einem Ortsteil von Wernigerode im Harz.
 
 #### Historische Bedeutung
 
-Im Mittelalter gehörte der Stapenberg dem Ritter Hans Knauth. Später vermachte er ihn dem Augustinerkloster Himmelpforten. :contentReference[oaicite:1]{index=1}
+Im Mittelalter gehörte der Stapenberg dem Ritter Hans Knauth. Später vermachte er ihn dem Augustinerkloster Himmelpforten.
 
 #### Wanderwege zum Stapenberg
 
-- **Benzingerode (Kirche)**: 1,6 km steiler Anstieg durch den Wald. :contentReference[oaicite:2]{index=2}
-- **Wernigerode (Christianental)**: ca. 3,7 km. :contentReference[oaicite:3]{index=3}
+- **Benzingerode (Kirche)**: 1,6 km steiler Anstieg durch den Wald.
+- **Wernigerode (Christianental)**: ca. 3,7 km.
 
-Oben angekommen, bietet sich ein herrlicher Blick über das Harzvorland bis zum Brocken. :contentReference[oaicite:4]{index=4}
+Oben angekommen, bietet sich ein herrlicher Blick über das Harzvorland bis zum Brocken.
 
 #### Anfahrt
 

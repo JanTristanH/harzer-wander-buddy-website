@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Harzer Grauwacke Rieder](https://commons.wikimedia.org/wiki/File:Harzer_Grauwacke_Rieder.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 61 der Harzer Wandernadel befindet sich am Grauwacke-Steinbruch oberhalb von Rieder, zwischen Gernrode und Ballenstedt. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 61 der Harzer Wandernadel befindet sich am Grauwacke-Steinbruch oberhalb von Rieder, zwischen Gernrode und Ballenstedt.
 
 #### Historischer Hintergrund
 
-Seit 1935 wird im Eulenbachtal Grauwacke abgebaut. :contentReference[oaicite:1]{index=1}
+Seit 1935 wird im Eulenbachtal Grauwacke abgebaut.
 
 #### Wanderwege zur Harzer Grauwacke Rieder
 

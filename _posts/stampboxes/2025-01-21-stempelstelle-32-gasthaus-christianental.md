@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Whs. Christianental](https://commons.wikimedia.org/wiki/File:Whs._Christianental.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Das Gasthaus Christianental liegt im malerischen Christianental in Wernigerode. Es ist bekannt für seine gemütlichen Gasträume und den einladenden Biergarten. Direkt am Gasthaus befindet sich die Stempelstelle 32 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Das Gasthaus Christianental liegt im malerischen Christianental in Wernigerode. Es ist bekannt für seine gemütlichen Gasträume und den einladenden Biergarten. Direkt am Gasthaus befindet sich die Stempelstelle 32 der Harzer Wandernadel.
 
 #### Wildpark Christianental
 
-In unmittelbarer Nähe zum Gasthaus erstreckt sich der Wildpark Christianental. Hier können Besucher heimische Tierarten wie Greifvögel, Eulen, Wildkatzen und Waschbären in natürlichen Gehegen beobachten. Ein moderner Spielplatz mit Geräten aus Naturmaterialien lädt Familien zum Verweilen ein. :contentReference[oaicite:1]{index=1}
+In unmittelbarer Nähe zum Gasthaus erstreckt sich der Wildpark Christianental. Hier können Besucher heimische Tierarten wie Greifvögel, Eulen, Wildkatzen und Waschbären in natürlichen Gehegen beobachten. Ein moderner Spielplatz mit Geräten aus Naturmaterialien lädt Familien zum Verweilen ein.
 
 #### Wanderwege zum Gasthaus Christianental
 
-- **Vom Parkplatz Christianental**: Ein kurzer Spaziergang von etwa 600 Metern führt direkt zum Gasthaus. :contentReference[oaicite:2]{index=2}
-- **Ab Schloss Wernigerode**: Ein etwa 1,4 Kilometer langer Weg verbindet das Schloss mit dem Gasthaus. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz Christianental**: Ein kurzer Spaziergang von etwa 600 Metern führt direkt zum Gasthaus.
+- **Ab Schloss Wernigerode**: Ein etwa 1,4 Kilometer langer Weg verbindet das Schloss mit dem Gasthaus.
 
 #### Anfahrt
 

@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Austbergturm](https://commons.wikimedia.org/wiki/File:Austbergturm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Austbergturm steht auf dem Austberg zwischen Benzingerode und Wernigerode. Er wurde 1250 von den Regensteiner Grafen als Signalturm erbaut und diente dem Regensteiner Wehrsystem. In den Jahren 2006 bis 2008 wurde der Turm restauriert, mit einem Dach und einer Wetterfahne versehen und als Aussichtsturm eröffnet. Von der Plattform bietet sich eine schöne Sicht auf Benzingerode, den Regenstein, Heimburg mit der Altenburg und den Brocken. :contentReference[oaicite:0]{index=0}
+Der Austbergturm steht auf dem Austberg zwischen Benzingerode und Wernigerode. Er wurde 1250 von den Regensteiner Grafen als Signalturm erbaut und diente dem Regensteiner Wehrsystem. In den Jahren 2006 bis 2008 wurde der Turm restauriert, mit einem Dach und einer Wetterfahne versehen und als Aussichtsturm eröffnet. Von der Plattform bietet sich eine schöne Sicht auf Benzingerode, den Regenstein, Heimburg mit der Altenburg und den Brocken.
 
 #### Geschichte des Austbergturms
 
-Der Austbergturm wurde 1250 von den Grafen von Regenstein als Signalturm errichtet. Über die Jahrhunderte verfiel er, bis er 2006 restauriert und 2008 als Aussichtsturm wiedereröffnet wurde. :contentReference[oaicite:1]{index=1}
+Der Austbergturm wurde 1250 von den Grafen von Regenstein als Signalturm errichtet. Über die Jahrhunderte verfiel er, bis er 2006 restauriert und 2008 als Aussichtsturm wiedereröffnet wurde.
 
 #### Wanderwege zum Austbergturm
 
 - **Benzingerode/Kirche (0,9 km):** Kurzer Aufstieg vom Parkplatz an der Kirche.
 - **Heimburg (4,7 km):** Wanderung durch abwechslungsreiche Landschaft.
-- **Wernigerode/Christianental (5,0 km):** Malerischer Weg mit schönen Ausblicken. :contentReference[oaicite:2]{index=2}
+- **Wernigerode/Christianental (5,0 km):** Malerischer Weg mit schönen Ausblicken.
 
 #### Anfahrt
 

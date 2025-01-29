@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Pfeil-Denkmal](https://commons.wikimedia.org/wiki/File:Pfeil-Denkmal.jpg) von <a href="//commons.wikimedia.org/wiki/User:ExampleUser" title="User:ExampleUser">ExampleUser</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Pfeil-Denkmal (470 m ü. NN) liegt zwischen Thale und Friedrichsbrunn. Es erinnert an Friedrich Wilhelm Leopold Pfeil (1783–1853), einen bedeutenden Forstwissenschaftler und Schriftsteller. :contentReference[oaicite:0]{index=0}
+Das Pfeil-Denkmal (470 m ü. NN) liegt zwischen Thale und Friedrichsbrunn. Es erinnert an Friedrich Wilhelm Leopold Pfeil (1783–1853), einen bedeutenden Forstwissenschaftler und Schriftsteller.
 
 #### Historische Bedeutung
 
-Wilhelm Pfeil leitete ab 1830 die Höhere Forstlehranstalt in Eberswalde und veröffentlichte zahlreiche Werke zur Forstwirtschaft. :contentReference[oaicite:1]{index=1}
+Wilhelm Pfeil leitete ab 1830 die Höhere Forstlehranstalt in Eberswalde und veröffentlichte zahlreiche Werke zur Forstwirtschaft.
 
 #### Wanderwege zum Pfeil-Denkmal
 
-- **Treseburg**: Vom Parkplatz an der Bode führt ein ansteigender Pfad über den Aussichtspunkt Weißer Hirsch (Stempelstelle 67) zum Denkmal. :contentReference[oaicite:2]{index=2}
-- **Thale**: Start am Hexentanzplatz, von dort etwa 2,8 km Fußweg. :contentReference[oaicite:3]{index=3}
+- **Treseburg**: Vom Parkplatz an der Bode führt ein ansteigender Pfad über den Aussichtspunkt Weißer Hirsch (Stempelstelle 67) zum Denkmal.
+- **Thale**: Start am Hexentanzplatz, von dort etwa 2,8 km Fußweg.
 
 #### Anfahrt
 

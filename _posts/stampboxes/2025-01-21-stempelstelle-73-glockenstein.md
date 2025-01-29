@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Glockenstein Stecklenberg](https://commons.wikimedia.org/wiki/File:Glockenstein_Stecklenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Glockenstein liegt oberhalb des Wurmbachtals bei Stecklenberg. Der Granitblock erinnert an eine Glocke und war vermutlich eine altgermanische Kultstätte. :contentReference[oaicite:0]{index=0}
+Der Glockenstein liegt oberhalb des Wurmbachtals bei Stecklenberg. Der Granitblock erinnert an eine Glocke und war vermutlich eine altgermanische Kultstätte.
 
 #### Sage vom Glockenstein
 
-Der Legende nach ertönt der Stein in der Walpurgisnacht wie eine Glocke und weist den Hexen den Weg zum Brocken. :contentReference[oaicite:1]{index=1}
+Der Legende nach ertönt der Stein in der Walpurgisnacht wie eine Glocke und weist den Hexen den Weg zum Brocken.
 
 #### Wanderwege zum Glockenstein
 
-- **Stecklenberg**: Vom Parkplatz am Wurmbachtal führt ein steiler Pfad direkt zum Glockenstein (ca. 2,4 km). :contentReference[oaicite:2]{index=2}
-- **Bad Suderode**: Start am Sportplatz, durch das Wurmbachtal zum Ziel (ca. 5,9 km). :contentReference[oaicite:3]{index=3}
-- **Friedrichsbrunn**: Beginn am Parkplatz "Am Ramberg", über Waldwege zum Glockenstein (ca. 6,1 km). :contentReference[oaicite:4]{index=4}
+- **Stecklenberg**: Vom Parkplatz am Wurmbachtal führt ein steiler Pfad direkt zum Glockenstein (ca. 2,4 km).
+- **Bad Suderode**: Start am Sportplatz, durch das Wurmbachtal zum Ziel (ca. 5,9 km).
+- **Friedrichsbrunn**: Beginn am Parkplatz "Am Ramberg", über Waldwege zum Glockenstein (ca. 6,1 km).
 
 #### Anfahrt
 

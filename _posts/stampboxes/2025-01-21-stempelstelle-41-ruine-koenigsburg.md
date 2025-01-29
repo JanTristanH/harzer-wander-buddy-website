@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Königsburg](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsburg.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Ruine Königsburg liegt bei Königshütte im Harz. Sie befindet sich auf einem Hügel am Ortsausgang Richtung Tanne. Die Überreste der Burg stammen aus dem 13. und 14. Jahrhundert. Teile des Bergfrieds sowie Gräben und Wälle sind noch erkennbar. :contentReference[oaicite:0]{index=0}
+Die Ruine Königsburg liegt bei Königshütte im Harz. Sie befindet sich auf einem Hügel am Ortsausgang Richtung Tanne. Die Überreste der Burg stammen aus dem 13. und 14. Jahrhundert. Teile des Bergfrieds sowie Gräben und Wälle sind noch erkennbar.
 
 #### Historische Bedeutung
 
-Die Burg diente vermutlich dem Schutz der Grenze des Bistums Halberstadt entlang der Bode. :contentReference[oaicite:1]{index=1}
+Die Burg diente vermutlich dem Schutz der Grenze des Bistums Halberstadt entlang der Bode.
 
 #### Wanderwege zur Ruine Königsburg
 
-- **Nordroute des Harzer Hexenstiegs**: Vom Wanderparkplatz unterhalb der Ruine überquert man die Warme Bode und folgt ausgeschilderten Wegen zur Königsburg. Von dort kann die Wanderung zur Trogfurther Brücke (HWN 42) fortgesetzt werden. :contentReference[oaicite:2]{index=2}
+- **Nordroute des Harzer Hexenstiegs**: Vom Wanderparkplatz unterhalb der Ruine überquert man die Warme Bode und folgt ausgeschilderten Wegen zur Königsburg. Von dort kann die Wanderung zur Trogfurther Brücke (HWN 42) fortgesetzt werden.
 
-- **Südroute des Harzer Hexenstiegs**: Alternativ führt der Weg zum Rappbodeblick Trautenstein (HWN 56) und zur Trageburg (HWN 52). :contentReference[oaicite:3]{index=3}
+- **Südroute des Harzer Hexenstiegs**: Alternativ führt der Weg zum Rappbodeblick Trautenstein (HWN 56) und zur Trageburg (HWN 52).
 
 #### Anfahrt
 

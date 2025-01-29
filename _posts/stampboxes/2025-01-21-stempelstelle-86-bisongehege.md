@@ -14,12 +14,12 @@ Das Bisongehege liegt im 300 Hektar großen Wildpark des Reit- und Sporthotels N
 
 #### Wissenswertes zum Wisent
 
-Der Wisent steht auf der Roten Liste der bedrohten Tierarten. Der Wildpark Nordmann plant ein Projekt zur Auswilderung dieser Tiere. :contentReference[oaicite:0]{index=0}
+Der Wisent steht auf der Roten Liste der bedrohten Tierarten. Der Wildpark Nordmann plant ein Projekt zur Auswilderung dieser Tiere.
 
 #### Wanderwege zum Bisongehege
 
-- **Vom Hotel Nordmann**: Direkt vom Hotel führt ein etwa 900 Meter langer Weg zur Stempelstelle. :contentReference[oaicite:1]{index=1}
-- **Parkplatz an den Weiden**: Fahren Sie die Deistraße bis zum Ende und parken Sie dort. Von hier sind es ca. 700 Meter zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Vom Hotel Nordmann**: Direkt vom Hotel führt ein etwa 900 Meter langer Weg zur Stempelstelle.
+- **Parkplatz an den Weiden**: Fahren Sie die Deistraße bis zum Ende und parken Sie dort. Von hier sind es ca. 700 Meter zur Stempelstelle.
 
 #### Anfahrt
 

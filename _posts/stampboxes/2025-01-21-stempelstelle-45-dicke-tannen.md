@@ -14,13 +14,13 @@ Die Stempelstelle 45 „Dicke Tannen“ liegt auf 435 m Höhe am Wolfsbach zwis
 
 #### Naturdenkmal Dicke Tannen
 
-Die „Dicken Tannen“ sind beeindruckende Fichten, die seit über drei Jahrhunderten wachsen. Sie sind ein Zeugnis der unberührten Natur des Harzes. :contentReference[oaicite:0]{index=0}
+Die „Dicken Tannen“ sind beeindruckende Fichten, die seit über drei Jahrhunderten wachsen. Sie sind ein Zeugnis der unberührten Natur des Harzes.
 
 #### Wanderwege zu den Dicken Tannen
 
-- **Von Hohegeiß**: Beschilderte Wege führen direkt zur Stempelstelle. :contentReference[oaicite:1]{index=1}
-- **Von Zorge**: Mehrere Routen leiten Wanderer zu den Dicken Tannen. :contentReference[oaicite:2]{index=2}
-- **Parkplatz „Neuer Teich“**: An der Straße von Braunlage nach Zorge gelegen. Von dort führt ein Weg vorbei am Teich ins Wolfsbachtal und weiter bis zu den Dicken Tannen. :contentReference[oaicite:3]{index=3}
+- **Von Hohegeiß**: Beschilderte Wege führen direkt zur Stempelstelle.
+- **Von Zorge**: Mehrere Routen leiten Wanderer zu den Dicken Tannen.
+- **Parkplatz „Neuer Teich“**: An der Straße von Braunlage nach Zorge gelegen. Von dort führt ein Weg vorbei am Teich ins Wolfsbachtal und weiter bis zu den Dicken Tannen.
 
 #### Anfahrt
 

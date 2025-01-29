@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Sandhöhlen im Heers](https://commons.wikimedia.org/wiki/File:Sandh%C3%B6hlen_im_Heers.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-Die Sandhöhlen im Heers sind beeindruckende Sandsteinformationen bei Blankenburg im Harz. Sie liegen nordöstlich der Burg Regenstein in einem Kiefernwald. Die Einheimischen nennen sie "Sandhutsche". :contentReference[oaicite:0]{index=0}
+Die Sandhöhlen im Heers sind beeindruckende Sandsteinformationen bei Blankenburg im Harz. Sie liegen nordöstlich der Burg Regenstein in einem Kiefernwald. Die Einheimischen nennen sie "Sandhutsche".
 
 #### Historische Bedeutung
 
-Vermutlich nutzten bereits die Germanen diesen Ort für Versammlungen. Später wurde der feine Quarzsand als Scheuer- und Streusand abgebaut. :contentReference[oaicite:1]{index=1}
+Vermutlich nutzten bereits die Germanen diesen Ort für Versammlungen. Später wurde der feine Quarzsand als Scheuer- und Streusand abgebaut.
 
 #### Wanderwege zu den Sandhöhlen
 
-- **Parkplatz Burg Regenstein**: Von hier führt ein beschilderter Pfad zu den Sandhöhlen (ca. 1,1 km). :contentReference[oaicite:2]{index=2}
-- **Parkplatz an der B81**: Über die Regensteinmühle gelangt man zu den Höhlen (ca. 2 km). :contentReference[oaicite:3]{index=3}
+- **Parkplatz Burg Regenstein**: Von hier führt ein beschilderter Pfad zu den Sandhöhlen (ca. 1,1 km).
+- **Parkplatz an der B81**: Über die Regensteinmühle gelangt man zu den Höhlen (ca. 2 km).
 
 #### Anfahrt
 

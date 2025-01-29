@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Steinerne Renne2](https://commons.wikimedia.org/wiki/File:Steinerne_Renne2.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Gasthaus Steinerne Renne liegt südwestlich von Wernigerode in einer beeindruckenden Granitschlucht der Holtemme. Die Schlucht erstreckt sich über etwa 2,5 km und bietet zahlreiche Wasserfälle und Stromschnellen. Der Stempelkasten befindet sich im Eingangsbereich des Gasthauses. :contentReference[oaicite:0]{index=0}
+Das Gasthaus Steinerne Renne liegt südwestlich von Wernigerode in einer beeindruckenden Granitschlucht der Holtemme. Die Schlucht erstreckt sich über etwa 2,5 km und bietet zahlreiche Wasserfälle und Stromschnellen. Der Stempelkasten befindet sich im Eingangsbereich des Gasthauses.
 
 #### Historisches Gasthaus
 
-Das Gasthaus wurde 1869 erstmals als Blockhaus erbaut und diente später als Ferienheim. Seit Mitte der 2000er Jahre ist es wieder ein beliebtes Ausflugsziel und Teil der Harzer Wandernadel. :contentReference[oaicite:1]{index=1}
+Das Gasthaus wurde 1869 erstmals als Blockhaus erbaut und diente später als Ferienheim. Seit Mitte der 2000er Jahre ist es wieder ein beliebtes Ausflugsziel und Teil der Harzer Wandernadel.
 
 #### Wanderwege zum Gasthaus Steinerne Renne
 
-- **Bahnhof Steinerne Renne (Hasserode)**: Ca. 2,9 km entlang der Holtemme. :contentReference[oaicite:2]{index=2}
+- **Bahnhof Steinerne Renne (Hasserode)**: Ca. 2,9 km entlang der Holtemme.
 - **Darlingerode**: Etwa 6,8 km.
 - **Drei Annen Hohne**: Ungefähr 5,3 km.
-- **Ilsenburg**: Rund 7,1 km. :contentReference[oaicite:3]{index=3}
+- **Ilsenburg**: Rund 7,1 km.
 
 #### Anfahrt
 

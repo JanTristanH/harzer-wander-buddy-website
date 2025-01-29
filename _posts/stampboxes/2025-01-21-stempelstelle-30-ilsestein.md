@@ -24,19 +24,19 @@ imageshadow: true
 imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/File:Kreuz_auf_dem_Ilsestein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Ilsestein ist eine markante Felsformation auf 520 m Höhe über dem Ilsetal, nahe bei Ilsenburg im Harz. Vom Gipfel bietet sich ein beeindruckender Blick über das Ilsetal bis hin zum Brocken. :contentReference[oaicite:0]{index=0}
+Der Ilsestein ist eine markante Felsformation auf 520 m Höhe über dem Ilsetal, nahe bei Ilsenburg im Harz. Vom Gipfel bietet sich ein beeindruckender Blick über das Ilsetal bis hin zum Brocken.
 
 #### Historische Bedeutung
 
-Graf Anton zu Stolberg-Wernigerode ließ auf dem Gipfel ein eisernes Kreuz errichten, um an die in den Befreiungskriegen gefallenen Kameraden zu erinnern. :contentReference[oaicite:1]{index=1}
+Graf Anton zu Stolberg-Wernigerode ließ auf dem Gipfel ein eisernes Kreuz errichten, um an die in den Befreiungskriegen gefallenen Kameraden zu erinnern.
 
 #### Wanderwege zum Ilsestein
 
 - **Startpunkt:** Wanderparkplatz Ilsetal
-  - **Route:** Vom Parkplatz entlang der Ilse, dann Aufstieg zum Ilsestein. Ca. 200 Höhenmeter sind zu überwinden. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Parkplatz entlang der Ilse, dann Aufstieg zum Ilsestein. Ca. 200 Höhenmeter sind zu überwinden.
 
 - **Alternative Route:** Heinrich-Heine-Weg
-  - **Route:** Entlang des malerischen Ilsetals führt der Heinrich-Heine-Weg direkt zum Ilsestein. :contentReference[oaicite:3]{index=3}
+  - **Route:** Entlang des malerischen Ilsetals führt der Heinrich-Heine-Weg direkt zum Ilsestein.
 
 #### Anfahrt
 

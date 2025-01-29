@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Rammelsberg Bergwerksanlagen](https://commons.wikimedia.org/wiki/File:Rammelsberg_Bergwerksanlagen.jpg) von <a href="//commons.wikimedia.org/wiki/User:AxelHH" title="User:AxelHH">Axel Hindemith</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
 ---
 
-Das Weltkulturerbe Rammelsberg liegt südlich von Goslar. Es war über 1.000 Jahre ununterbrochen in Betrieb und wurde 1988 stillgelegt. Seit 1992 gehört es zum UNESCO-Weltkulturerbe. Die Stempelstelle befindet sich im Innenraum des Haupteingangs. :contentReference[oaicite:0]{index=0}
+Das Weltkulturerbe Rammelsberg liegt südlich von Goslar. Es war über 1.000 Jahre ununterbrochen in Betrieb und wurde 1988 stillgelegt. Seit 1992 gehört es zum UNESCO-Weltkulturerbe. Die Stempelstelle befindet sich im Innenraum des Haupteingangs.
 
 #### Historischer Hintergrund
 
-Der Rammelsberg war eine der bedeutendsten Erzlagerstätten weltweit. Archäologische Funde deuten auf eine Nutzung seit über 3.000 Jahren hin. In der Nähe steht der Maltermeisterturm, das älteste Übertagegebäude des deutschen Bergbaus. :contentReference[oaicite:1]{index=1}
+Der Rammelsberg war eine der bedeutendsten Erzlagerstätten weltweit. Archäologische Funde deuten auf eine Nutzung seit über 3.000 Jahren hin. In der Nähe steht der Maltermeisterturm, das älteste Übertagegebäude des deutschen Bergbaus.
 
 #### Wanderwege zum Rammelsberg
 
 - **Startpunkt:** Parkplatz am Weltkulturerbe Rammelsberg
-  - **Route:** Vom Parkplatz führt ein moderater Anstieg zum Maltermeisterturm. Von dort kann man weiter zum Ramseck (HWN 114) wandern und eine fantastische Aussicht ins Harzvorland genießen. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Parkplatz führt ein moderater Anstieg zum Maltermeisterturm. Von dort kann man weiter zum Ramseck (HWN 114) wandern und eine fantastische Aussicht ins Harzvorland genießen.
 
 #### Anfahrt
 

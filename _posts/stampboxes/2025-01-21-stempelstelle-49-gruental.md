@@ -14,15 +14,15 @@ imageSource: '📷 [Forstort Grüntal](https://commons.wikimedia.org/wiki/File:F
 ::contentReference[oaicite:0]{index=0}
 
 
-Die Stempelstelle 49 der Harzer Wandernadel befindet sich im malerischen Grüntal, zwischen Benneckenstein und Trautenstein. Hier steht ein noch bewohntes Forsthaus, umgeben von einigen Ferienhäusern. Ein idyllischer Rastplatz lädt Wanderer zum Verweilen ein. :contentReference[oaicite:1]{index=1}
+Die Stempelstelle 49 der Harzer Wandernadel befindet sich im malerischen Grüntal, zwischen Benneckenstein und Trautenstein. Hier steht ein noch bewohntes Forsthaus, umgeben von einigen Ferienhäusern. Ein idyllischer Rastplatz lädt Wanderer zum Verweilen ein.
 
 #### Wanderwege zum Grüntal
 
-- **Ab Benneckenstein**: Am Ortsausgang Richtung Trautenstein befindet sich links ein Parkplatz. Von dort führt ein Weg direkt zum Grüntal. :contentReference[oaicite:2]{index=2}
+- **Ab Benneckenstein**: Am Ortsausgang Richtung Trautenstein befindet sich links ein Parkplatz. Von dort führt ein Weg direkt zum Grüntal.
 
-- **Ab Tanne**: Kurz vor dem Ort gibt es an der B242 einen Parkplatz. Von hier aus führt ein etwa 30-minütiger Weg zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Ab Tanne**: Kurz vor dem Ort gibt es an der B242 einen Parkplatz. Von hier aus führt ein etwa 30-minütiger Weg zur Stempelstelle.
 
-- **Ab Trautenstein**: Ein Parkplatz am Ortsausgang bietet einen idealen Startpunkt für die Wanderung zum Grüntal. :contentReference[oaicite:4]{index=4}
+- **Ab Trautenstein**: Ein Parkplatz am Ortsausgang bietet einen idealen Startpunkt für die Wanderung zum Grüntal.
 
 #### Anfahrt
 

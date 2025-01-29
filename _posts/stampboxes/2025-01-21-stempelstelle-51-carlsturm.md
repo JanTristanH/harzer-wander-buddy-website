@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Carlsturm](https://www.harzer-wander-gui.de/harzer-wandernadel/051-carlsturm/) von Harzer*Wander*GuiDE'
 ---
 
-Der Carlsturm steht auf der Carlshaushöhe (626 m ü. NN) zwischen Trautenstein und Sophienhof. :contentReference[oaicite:0]{index=0}
+Der Carlsturm steht auf der Carlshaushöhe (626 m ü. NN) zwischen Trautenstein und Sophienhof.
 
 #### Historischer Hintergrund
 
-Der Turm wurde 1998 von der Harzer Schmalspurbahn GmbH als Funkturm mit Besucherplattform neu errichtet. Er wiegt 30.000 kg und ist 50 m hoch. :contentReference[oaicite:1]{index=1}
+Der Turm wurde 1998 von der Harzer Schmalspurbahn GmbH als Funkturm mit Besucherplattform neu errichtet. Er wiegt 30.000 kg und ist 50 m hoch.
 
 #### Wanderwege zum Carlsturm
 

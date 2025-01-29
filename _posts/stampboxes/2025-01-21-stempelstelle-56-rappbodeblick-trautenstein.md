@@ -10,21 +10,21 @@ imageshadow: true
 imageSource: '📷 [Rappbodeblick Trautenstein](https://commons.wikimedia.org/wiki/File:Rappbodeblick_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 56 der Harzer Wandernadel befindet sich oberhalb der Staumauer der Rappbode-Vorsperre, am Harzer Hexenstieg zwischen Trautenstein und Königshütte. Eine Ruhebank lädt zum Verweilen ein und bietet einen herrlichen Blick auf die 24 Meter hohe und 134 Meter lange Staumauer. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 56 der Harzer Wandernadel befindet sich oberhalb der Staumauer der Rappbode-Vorsperre, am Harzer Hexenstieg zwischen Trautenstein und Königshütte. Eine Ruhebank lädt zum Verweilen ein und bietet einen herrlichen Blick auf die 24 Meter hohe und 134 Meter lange Staumauer.
 
 #### Historische Bedeutung der Rappbode-Vorsperre
 
-Die Rappbode-Vorsperre dient der Vorreinigung des Wassers von Geröll und Trübstoffen. Das angestaute Wasser fließt durch Überläufe in den Bachlauf und weiter in die Hauptsperre. :contentReference[oaicite:1]{index=1}
+Die Rappbode-Vorsperre dient der Vorreinigung des Wassers von Geröll und Trübstoffen. Das angestaute Wasser fließt durch Überläufe in den Bachlauf und weiter in die Hauptsperre.
 
 #### Wanderwege zum Rappbodeblick
 
-- **Trautenstein (Ortsmitte)**: Vom Wanderparkplatz in der Ortsmitte führt der Weg am rechten Ufer der Rappbode entlang. Nach einem kurzen Anstieg erreicht man die Trageburg (HWN 52). Von dort geht es über die Staumauer und rechts auf einem breiten Forstweg zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Trautenstein (Ortsmitte)**: Vom Wanderparkplatz in der Ortsmitte führt der Weg am rechten Ufer der Rappbode entlang. Nach einem kurzen Anstieg erreicht man die Trageburg (HWN 52). Von dort geht es über die Staumauer und rechts auf einem breiten Forstweg zur Stempelstelle.
 
-- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Ein etwa 4,6 km langer Weg führt von hier zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Ein etwa 4,6 km langer Weg führt von hier zur Stempelstelle.
 
-- **Königshütte (Parkplatz Königsburg)**: Von diesem Startpunkt sind es ca. 5,4 km bis zum Rappbodeblick. :contentReference[oaicite:4]{index=4}
+- **Königshütte (Parkplatz Königsburg)**: Von diesem Startpunkt sind es ca. 5,4 km bis zum Rappbodeblick.
 
-- **Tanne (Bodetalstraße / Aufgang Kapitelsberg)**: Eine etwa 6,4 km lange Route führt von hier zur Stempelstelle. :contentReference[oaicite:5]{index=5}
+- **Tanne (Bodetalstraße / Aufgang Kapitelsberg)**: Eine etwa 6,4 km lange Route führt von hier zur Stempelstelle.
 
 #### Anfahrt
 

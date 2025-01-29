@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [Selkirche](https://commons.wikimedia.org/wiki/File:Selkirche.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> / <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-Die Wüstung Selkenfelde liegt zwischen Stiege und dem Albrechtshaus im Quellgebiet der Selke. :contentReference[oaicite:0]{index=0}
+Die Wüstung Selkenfelde liegt zwischen Stiege und dem Albrechtshaus im Quellgebiet der Selke.
 
 #### Historischer Hintergrund
 
-Erstmals erwähnt wurde Selkenfelde in einer Urkunde Kaiser Ottos I. im Jahr 961. :contentReference[oaicite:1]{index=1} Bis zum Ende des 14. Jahrhunderts hatte die Dorfgemeinde einen eigenen Pfarrer. Ab dem 15. Jahrhundert gibt es keine weiteren urkundlichen Erwähnungen, was darauf hindeutet, dass der Ort um 1500 verlassen wurde. :contentReference[oaicite:2]{index=2}
+Erstmals erwähnt wurde Selkenfelde in einer Urkunde Kaiser Ottos I. im Jahr 961. Bis zum Ende des 14. Jahrhunderts hatte die Dorfgemeinde einen eigenen Pfarrer. Ab dem 15. Jahrhundert gibt es keine weiteren urkundlichen Erwähnungen, was darauf hindeutet, dass der Ort um 1500 verlassen wurde.
 
 #### Wanderwege zur Wüstung Selkenfelde/Kirche
 
-- **Albrechtshaus**: Vom Parkplatz am Haltepunkt "Albrechtshaus" führt der Selketal-Stieg in Richtung Stiege. Nach etwa 800 Metern rechts abbiegen, die Gleise überqueren und kurz darauf die Stempelstelle erreichen. :contentReference[oaicite:3]{index=3}
+- **Albrechtshaus**: Vom Parkplatz am Haltepunkt "Albrechtshaus" führt der Selketal-Stieg in Richtung Stiege. Nach etwa 800 Metern rechts abbiegen, die Gleise überqueren und kurz darauf die Stempelstelle erreichen.
 
-- **Güntersberge**: Start am Parkplatz Bergsee, etwa 4,4 km zur Stempelstelle. :contentReference[oaicite:4]{index=4}
+- **Güntersberge**: Start am Parkplatz Bergsee, etwa 4,4 km zur Stempelstelle.
 
-- **Stiege**: Vom Parkplatz Lange Straße – Bahnhof HSB, ca. 4 km Fußweg. :contentReference[oaicite:5]{index=5}
+- **Stiege**: Vom Parkplatz Lange Straße – Bahnhof HSB, ca. 4 km Fußweg.
 
 #### Anfahrt
 

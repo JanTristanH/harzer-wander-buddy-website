@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Dreitälerblick](https://commons.wikimedia.org/wiki/File:Dreit%C3%A4lerblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Dreitälerblick liegt zwischen Ilfeld und Netzkater oberhalb des Besucherbergwerks Rabensteiner Stollen. Von hier aus bietet sich ein beeindruckender Ausblick in das Brandesbachtal, das Ilfelder Tal und das Kalte Tal. :contentReference[oaicite:0]{index=0}
+Der Dreitälerblick liegt zwischen Ilfeld und Netzkater oberhalb des Besucherbergwerks Rabensteiner Stollen. Von hier aus bietet sich ein beeindruckender Ausblick in das Brandesbachtal, das Ilfelder Tal und das Kalte Tal.
 
 #### Besucherbergwerk Rabensteiner Stollen
 
-Direkt unterhalb des Aussichtspunkts befindet sich das Schaubergwerk Rabensteiner Stollen. Es war das einzige Steinkohlebergwerk im Harz und von 1737 bis 1949 in Betrieb. Ein Besuch bietet spannende Einblicke in die Bergbaugeschichte der Region. :contentReference[oaicite:1]{index=1}
+Direkt unterhalb des Aussichtspunkts befindet sich das Schaubergwerk Rabensteiner Stollen. Es war das einzige Steinkohlebergwerk im Harz und von 1737 bis 1949 in Betrieb. Ein Besuch bietet spannende Einblicke in die Bergbaugeschichte der Region.
 
 #### Wanderwege zum Dreitälerblick
 
-- **Netzkater (Bahnhof HSB)**: Nur wenige hundert Meter entfernt. Der Aufstieg ist stellenweise steil und erfolgt auf schmalen Pfaden. :contentReference[oaicite:2]{index=2}
+- **Netzkater (Bahnhof HSB)**: Nur wenige hundert Meter entfernt. Der Aufstieg ist stellenweise steil und erfolgt auf schmalen Pfaden.
 - **Ilfeld, Georgsplatz**: Etwa 3,3 km Entfernung.
 - **Eisfelder Talmühle, Bahnhof**: Rund 3,8 km entfernt.
 - **Hufhaus, Wanderparkplatz „Tisch“**: Ungefähr 4,6 km Entfernung.

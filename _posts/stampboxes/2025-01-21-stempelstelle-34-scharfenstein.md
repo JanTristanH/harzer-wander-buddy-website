@@ -14,12 +14,12 @@ Der Scharfenstein (462 m ü. NN) liegt südlich von Wernigerode im Ortsteil 
 
 #### Historische Bedeutung
 
-Die Scharfensteinklippe ist ein markanter Felsvorsprung des Eichberg-Süd und markiert die östliche Grenze des Oberharzes. Sie liegt im Naturpark Harz/Sachsen-Anhalt und bietet einen beeindruckenden Ausblick. :contentReference[oaicite:0]{index=0}
+Die Scharfensteinklippe ist ein markanter Felsvorsprung des Eichberg-Süd und markiert die östliche Grenze des Oberharzes. Sie liegt im Naturpark Harz/Sachsen-Anhalt und bietet einen beeindruckenden Ausblick.
 
 #### Wanderwege zum Scharfenstein
 
 - **Wanderparkplatz Kaltes Tal**: An der B244 Richtung Elbingerode, ca. 2 km zum Gipfel.
-- **Wanderparkplatz Försterplatz am Armeleuteberg**: Ebenfalls etwa 2 km Entfernung. :contentReference[oaicite:1]{index=1}
+- **Wanderparkplatz Försterplatz am Armeleuteberg**: Ebenfalls etwa 2 km Entfernung.
 
 Beide Routen sind leicht begehbar und gut ausgeschildert.
 

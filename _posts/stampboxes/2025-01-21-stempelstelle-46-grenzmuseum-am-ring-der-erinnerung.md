@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [B-Turm Sorge](https://commons.wikimedia.org/wiki/File:B-Turm_Sorge.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Das Grenzmuseum am Ring der Erinnerung liegt am Ortsrand von Sorge. Es bewahrt die Geschichte der deutschen Teilung mit Original-Objekten und Zeitdokumenten. Ein Geschichtspfad zeigt Reste der Grenzanlagen, wie Zäune, einen Beobachtungsturm und einen Erdbunker. :contentReference[oaicite:0]{index=0}
+Das Grenzmuseum am Ring der Erinnerung liegt am Ortsrand von Sorge. Es bewahrt die Geschichte der deutschen Teilung mit Original-Objekten und Zeitdokumenten. Ein Geschichtspfad zeigt Reste der Grenzanlagen, wie Zäune, einen Beobachtungsturm und einen Erdbunker.
 
 #### Ring der Erinnerung
 
-Der Künstler Hermann Prigann schuf hier den "Ring der Erinnerung" aus Totholz. Er erinnert an die "Hexenkreise" des Harzer Volksglaubens und bietet Vögeln Lebensraum. :contentReference[oaicite:1]{index=1}
+Der Künstler Hermann Prigann schuf hier den "Ring der Erinnerung" aus Totholz. Er erinnert an die "Hexenkreise" des Harzer Volksglaubens und bietet Vögeln Lebensraum.
 
 #### Wanderwege zum Grenzmuseum
 
 - **Startpunkt:** Parkplatz Eberbachstraße, Sorge
-  - **Route:** Vom Parkplatz führt ein kurzer Weg direkt zum Museum und zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Parkplatz führt ein kurzer Weg direkt zum Museum und zur Stempelstelle.
 
 #### Anfahrt
 

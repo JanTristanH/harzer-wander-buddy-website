@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Walzenhütte Trautenstein](https://commons.wikimedia.org/wiki/File:Walzenh%C3%BCtte_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Walzenhütte liegt auf 521 m Höhe zwischen Trautenstein und Benneckenstein im Gebiet der Harzer Bachtäler. Sie ist eine Schutzhütte und beherbergt die Stempelstelle 50 der Harzer Wandernadel. Ein idealer Ausgangspunkt für eine Wanderung ist der Parkplatz neben dem Café Dammbachtal am Ortsrand von Trautenstein. :contentReference[oaicite:0]{index=0}
+Die Walzenhütte liegt auf 521 m Höhe zwischen Trautenstein und Benneckenstein im Gebiet der Harzer Bachtäler. Sie ist eine Schutzhütte und beherbergt die Stempelstelle 50 der Harzer Wandernadel. Ein idealer Ausgangspunkt für eine Wanderung ist der Parkplatz neben dem Café Dammbachtal am Ortsrand von Trautenstein.
 
 #### Sehenswürdigkeiten in der Nähe
 
-In der Nähe der Walzenhütte befindet sich eine Brücke über die Gleise der Harzer Schmalspurbahn. Mit etwas Glück kann man hier die dampfenden Loks beobachten – ein tolles Fotomotiv! :contentReference[oaicite:1]{index=1}
+In der Nähe der Walzenhütte befindet sich eine Brücke über die Gleise der Harzer Schmalspurbahn. Mit etwas Glück kann man hier die dampfenden Loks beobachten – ein tolles Fotomotiv!
 
 #### Wanderwege zur Walzenhütte
 
 - **Trautenstein**: Vom Parkplatz am Café Dammbachtal führt ein Weg über die Rappbode direkt zur Walzenhütte. Entfernung: ca. 2,5 km.
 - **Benneckenstein**: Startet man in Benneckenstein, erreicht man die Hütte nach etwa 4,1 km.
-- **Ziegenalm Sophienhof**: Von hier aus führt eine Route über den Dreiherrenstein zur Walzenhütte. Entfernung: ca. 4,5 km. :contentReference[oaicite:2]{index=2}
+- **Ziegenalm Sophienhof**: Von hier aus führt eine Route über den Dreiherrenstein zur Walzenhütte. Entfernung: ca. 4,5 km.
 
 #### Anfahrt
 

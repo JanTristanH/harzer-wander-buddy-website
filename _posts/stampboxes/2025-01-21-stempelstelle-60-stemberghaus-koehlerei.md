@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Harzköhlerei Stemberghaus](https://commons.wikimedia.org/wiki/File:Hasselfelde_K%C3%B6hlerei.JPG) von <a href="//commons.wikimedia.org/wiki/User:Corradox" title="User:Corradox">Corradox</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Harzköhlerei Stemberghaus liegt an der B81 zwischen Blankenburg und Hasselfelde. Sie ist eine der wenigen noch aktiven Köhlereien in Deutschland. Besucher können hier das traditionelle Handwerk des Köhlers hautnah erleben. :contentReference[oaicite:0]{index=0}
+Die Harzköhlerei Stemberghaus liegt an der B81 zwischen Blankenburg und Hasselfelde. Sie ist eine der wenigen noch aktiven Köhlereien in Deutschland. Besucher können hier das traditionelle Handwerk des Köhlers hautnah erleben.
 
 #### Historische Bedeutung
 
-Die Köhlerei produziert jährlich rund 50 Tonnen Holzkohle aus Buchenholz und bewahrt so ein altes Handwerk. :contentReference[oaicite:1]{index=1}
+Die Köhlerei produziert jährlich rund 50 Tonnen Holzkohle aus Buchenholz und bewahrt so ein altes Handwerk.
 
 #### Wanderwege zum Stemberghaus
 

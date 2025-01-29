@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Ziegenalm](https://commons.wikimedia.org/wiki/File:Ziegenalm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Ziegenalm Sophienhof liegt im idyllischen Ortsteil Sophienhof der Gemeinde Harztor im Südharz. Umgeben von Wäldern bietet der Hof artgerechte Tierhaltung mit Ziegen, Schafen, Schweinen und Rindern. Besucher können die Tiere beobachten und im Hofladen regionale Produkte erwerben. Die Almstube lädt zur Einkehr ein. :contentReference[oaicite:0]{index=0}
+Die Ziegenalm Sophienhof liegt im idyllischen Ortsteil Sophienhof der Gemeinde Harztor im Südharz. Umgeben von Wäldern bietet der Hof artgerechte Tierhaltung mit Ziegen, Schafen, Schweinen und Rindern. Besucher können die Tiere beobachten und im Hofladen regionale Produkte erwerben. Die Almstube lädt zur Einkehr ein.
 
 #### Braugasthof "Brauner Hirsch"
 
-Gegenüber der Ziegenalm befindet sich der Braugasthof "Brauner Hirsch". Seit 2013 werden hier nach deutschem Reinheitsgebot gebraute Biere in rustikaler Atmosphäre serviert. :contentReference[oaicite:1]{index=1}
+Gegenüber der Ziegenalm befindet sich der Braugasthof "Brauner Hirsch". Seit 2013 werden hier nach deutschem Reinheitsgebot gebraute Biere in rustikaler Atmosphäre serviert.
 
 #### Wanderwege zur Ziegenalm
 
-- **Benneckenstein**: Startet in Benneckenstein und wandert über den Oberharzblick (HWN 47) und den Stierbergsteich (HWN 48) zur Ziegenalm. Die Route ist etwa 8 km lang. :contentReference[oaicite:2]{index=2}
+- **Benneckenstein**: Startet in Benneckenstein und wandert über den Oberharzblick (HWN 47) und den Stierbergsteich (HWN 48) zur Ziegenalm. Die Route ist etwa 8 km lang.
 
-- **Trautenstein**: Von Trautenstein führt ein Weg über die Walzenhütte (HWN 50) und den Carlsturm (HWN 51) zur Ziegenalm. Diese Strecke umfasst rund 10 km. :contentReference[oaicite:3]{index=3}
+- **Trautenstein**: Von Trautenstein führt ein Weg über die Walzenhütte (HWN 50) und den Carlsturm (HWN 51) zur Ziegenalm. Diese Strecke umfasst rund 10 km.
 
 #### Anfahrt
 

@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [WasserfallKoenigshuette](https://commons.wikimedia.org/wiki/File:WasserfallKoenigshuette.jpg) von <a href="https://de.wikipedia.org/wiki/User:JurecGermany" class="extiw" title="de:User:JurecGermany">JurecGermany</a> unter Lizenz Public domain'
 ---
 
-Der Königshütter Wasserfall liegt nahe der Bundesstraße 27 im Ortsteil Rothehütte von Königshütte. :contentReference[oaicite:0]{index=0}
+Der Königshütter Wasserfall liegt nahe der Bundesstraße 27 im Ortsteil Rothehütte von Königshütte.
 
 #### Künstlich angelegter Wasserfall
 
-Der Wasserfall wurde in einem ehemaligen Steinbruch künstlich geschaffen. :contentReference[oaicite:1]{index=1}
+Der Wasserfall wurde in einem ehemaligen Steinbruch künstlich geschaffen.
 
 #### Wanderwege zum Königshütter Wasserfall
 
-- **Königshütte**: Direkt an der B27 gibt es einen kleinen Parkplatz. Von dort sind es nur wenige Meter zum Wasserfall. :contentReference[oaicite:2]{index=2}
+- **Königshütte**: Direkt an der B27 gibt es einen kleinen Parkplatz. Von dort sind es nur wenige Meter zum Wasserfall.
 
-- **Drei Annen Hohne**: Vom Parkplatz am HSB-Bahnhof führt ein etwa 3,4 km langer Weg zum Wasserfall. :contentReference[oaicite:3]{index=3}
+- **Drei Annen Hohne**: Vom Parkplatz am HSB-Bahnhof führt ein etwa 3,4 km langer Weg zum Wasserfall.
 
-- **Elbingerode**: Startet am Parkplatz Altes Mühlental und wandert ca. 5,8 km zum Ziel. :contentReference[oaicite:4]{index=4}
+- **Elbingerode**: Startet am Parkplatz Altes Mühlental und wandert ca. 5,8 km zum Ziel.
 
 #### Anfahrt
 

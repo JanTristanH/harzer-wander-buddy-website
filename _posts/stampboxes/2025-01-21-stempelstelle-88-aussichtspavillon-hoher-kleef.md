@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [Hoher Kleef](https://commons.wikimedia.org/wiki/File:Hoher_Kleef.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Aussichtspavillon Hoher Kleef liegt auf 442 m Höhe über dem Ort Rübeland. :contentReference[oaicite:0]{index=0}
+Der Aussichtspavillon Hoher Kleef liegt auf 442 m Höhe über dem Ort Rübeland.
 
 #### Historische Bedeutung
 
-Der Pavillon wurde Anfang des 20. Jahrhunderts erbaut und bietet einen weiten Blick über Rübeland und die umliegende Harzlandschaft. :contentReference[oaicite:1]{index=1}
+Der Pavillon wurde Anfang des 20. Jahrhunderts erbaut und bietet einen weiten Blick über Rübeland und die umliegende Harzlandschaft.
 
 #### Wanderwege zum Hohen Kleef
 
 - **Startpunkt: Parkplatz an der Hermannshöhle**  
-  Ein beschilderter Pfad führt über die Burgruine Birkenfeld zum Pavillon. :contentReference[oaicite:2]{index=2}
+  Ein beschilderter Pfad führt über die Burgruine Birkenfeld zum Pavillon.
 
 - **Startpunkt: Bahnhof Rübeland**  
-  Ein sanfter Anstieg führt in Serpentinen zum Schützenhaus und weiter zum Pavillon. :contentReference[oaicite:3]{index=3}
+  Ein sanfter Anstieg führt in Serpentinen zum Schützenhaus und weiter zum Pavillon.
 
 #### Anfahrt
 

@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Gelber Brink 2020](https://commons.wikimedia.org/wiki/File:Gelber_Brink_2020.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Gelbe Brink ist ein Gebirgspass auf 888 m Höhe an der Brockenstraße. Er trennt die Täler der Ilse und der Kalten Bode. Hier befindet sich die Stempelstelle 22 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Der Gelbe Brink ist ein Gebirgspass auf 888 m Höhe an der Brockenstraße. Er trennt die Täler der Ilse und der Kalten Bode. Hier befindet sich die Stempelstelle 22 der Harzer Wandernadel.
 
 #### Urwaldstieg
 
-In der Nähe zweigt der Urwaldstieg von der Brockenstraße ab. Auf etwa 200 m Länge führt er durch die Kernzone des Nationalparks Harz. Entlang des Weges sind Gedichte des Schriftstellers Bernd Wolff zu lesen. :contentReference[oaicite:1]{index=1}
+In der Nähe zweigt der Urwaldstieg von der Brockenstraße ab. Auf etwa 200 m Länge führt er durch die Kernzone des Nationalparks Harz. Entlang des Weges sind Gedichte des Schriftstellers Bernd Wolff zu lesen.
 
 #### Wanderwege zum Gelben Brink
 
@@ -22,7 +22,7 @@ Mögliche Startpunkte zum Gelben Brink:
 
 - **Schierke**: 3,6 km über die Brockenstraße.
 - **Drei Annen Hohne**: 7,3 km über den Glashüttenweg.
-- **Ilsenburg**: 9,5 km über den Heinrich-Heine-Weg. :contentReference[oaicite:2]{index=2}
+- **Ilsenburg**: 9,5 km über den Heinrich-Heine-Weg.
 
 #### Anfahrt
 

@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Poppenbergturm](https://commons.wikimedia.org/wiki/File:Poppenbergturm.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Poppenberg (601 m) liegt zwischen Ilfeld und dem Hufhaus im Südharz. Auf seinem Gipfel steht ein 1897 erbauter Aussichtsturm. :contentReference[oaicite:0]{index=0}
+Der Poppenberg (601 m) liegt zwischen Ilfeld und dem Hufhaus im Südharz. Auf seinem Gipfel steht ein 1897 erbauter Aussichtsturm.
 
 #### Historischer Hintergrund
 
-Der Turm wurde vom Harzklub errichtet und bietet nach 177 Stufen einen weiten Blick über den Harz. :contentReference[oaicite:1]{index=1}
+Der Turm wurde vom Harzklub errichtet und bietet nach 177 Stufen einen weiten Blick über den Harz.
 
 #### Wanderwege zum Poppenberg
 

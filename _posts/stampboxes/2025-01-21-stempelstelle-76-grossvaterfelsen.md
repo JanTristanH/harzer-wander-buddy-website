@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Großvater Teufelsmauer](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fvater_Teufelsmauer.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Großvaterfelsen (317 m ü. NN) bildet zusammen mit der „Großmutter“ den westlichen Abschluss der Teufelsmauer und liegt am östlichen Ortsrand von Blankenburg. Er ist eine der imposantesten Felsklippen der Teufelsmauer und ein Wahrzeichen der Stadt. :contentReference[oaicite:0]{index=0}
+Der Großvaterfelsen (317 m ü. NN) bildet zusammen mit der „Großmutter“ den westlichen Abschluss der Teufelsmauer und liegt am östlichen Ortsrand von Blankenburg. Er ist eine der imposantesten Felsklippen der Teufelsmauer und ein Wahrzeichen der Stadt.
 
 #### Historische Bedeutung
 
-Es wird vermutet, dass der Name „Großvaterfelsen“ aus der Zeit der Germanen stammt, die hier ihrem Gott Wotan gehuldigt haben. :contentReference[oaicite:1]{index=1}
+Es wird vermutet, dass der Name „Großvaterfelsen“ aus der Zeit der Germanen stammt, die hier ihrem Gott Wotan gehuldigt haben.
 
 #### Wanderwege zum Großvaterfelsen
 
-- **Vom Kleinen Schloss Blankenburg**: Parken Sie am Gästeparkplatz oberhalb des Kleinen Schlosses. Überqueren Sie die Hasselfelder Straße (B81) und folgen Sie dem „Großvaterweg“ zum Felsen. :contentReference[oaicite:2]{index=2}
+- **Vom Kleinen Schloss Blankenburg**: Parken Sie am Gästeparkplatz oberhalb des Kleinen Schlosses. Überqueren Sie die Hasselfelder Straße (B81) und folgen Sie dem „Großvaterweg“ zum Felsen.
 
-- **Über den Löbbeckestieg**: Ein schmaler, teils in den Fels gehauener Kammweg, der vom Großvaterfelsen zum „Hamburger Wappen“ (HWN 74) nach Timmenrode führt. Er erfordert Trittsicherheit und bietet zahlreiche Aussichtspunkte. :contentReference[oaicite:3]{index=3}
+- **Über den Löbbeckestieg**: Ein schmaler, teils in den Fels gehauener Kammweg, der vom Großvaterfelsen zum „Hamburger Wappen“ (HWN 74) nach Timmenrode führt. Er erfordert Trittsicherheit und bietet zahlreiche Aussichtspunkte.
 
 #### Anfahrt
 

@@ -14,12 +14,12 @@ Die Ruine Hohnstein liegt nördlich von Neustadt im Harz auf einem Porphyrfelsen
 
 #### Historische Bedeutung
 
-Erbaut um 1200, diente die Burg als Stammsitz der Grafen von Hohnstein. Nach Zerstörungen im Dreißigjährigen Krieg blieb sie als Ruine erhalten. Heute können Besucher die Überreste erkunden und dabei in die Geschichte eintauchen. :contentReference[oaicite:0]{index=0}
+Erbaut um 1200, diente die Burg als Stammsitz der Grafen von Hohnstein. Nach Zerstörungen im Dreißigjährigen Krieg blieb sie als Ruine erhalten. Heute können Besucher die Überreste erkunden und dabei in die Geschichte eintauchen.
 
 #### Wanderwege zur Ruine Hohnstein
 
 - **Von Neustadt/Harz**: Start am Parkplatz in Neustadt, gut ausgeschilderter Weg zur Burg.
-- **Über den Lönspark**: Malerischer Pfad durch den Lönspark zur Ruine. :contentReference[oaicite:1]{index=1}
+- **Über den Lönspark**: Malerischer Pfad durch den Lönspark zur Ruine.
 
 #### Anfahrt
 

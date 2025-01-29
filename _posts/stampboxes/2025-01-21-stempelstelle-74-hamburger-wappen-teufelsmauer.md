@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [TeufelsmauerTimmenrode2](https://commons.wikimedia.org/wiki/File:TeufelsmauerTimmenrode2.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:JurecGermany" class="extiw" title="w:de:User:JurecGermany">JurecGermany</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Das Hamburger Wappen ist eine markante Felsformation der Teufelsmauer bei Timmenrode im Harz. Die drei aufragenden Felsnadeln erinnern an das Wappen der Hansestadt Hamburg. :contentReference[oaicite:0]{index=0}
+Das Hamburger Wappen ist eine markante Felsformation der Teufelsmauer bei Timmenrode im Harz. Die drei aufragenden Felsnadeln erinnern an das Wappen der Hansestadt Hamburg.
 
 #### Geologische Bedeutung
 
-Die Felsgruppe besteht aus Sandstein und ist etwa 252 Meter über Normalnull hoch. Sie ist Teil der sagenumwobenen Teufelsmauer zwischen Blankenburg und Timmenrode. :contentReference[oaicite:1]{index=1}
+Die Felsgruppe besteht aus Sandstein und ist etwa 252 Meter über Normalnull hoch. Sie ist Teil der sagenumwobenen Teufelsmauer zwischen Blankenburg und Timmenrode.
 
 #### Wanderwege zum Hamburger Wappen
 
-- **Ab Timmenrode**: Vom Parkplatz am Sportplatz führt ein beschilderter Pfad in etwa 10 Minuten zum Hamburger Wappen. :contentReference[oaicite:2]{index=2}
+- **Ab Timmenrode**: Vom Parkplatz am Sportplatz führt ein beschilderter Pfad in etwa 10 Minuten zum Hamburger Wappen.
 
-- **Ab Blankenburg**: Über den Löbbecke-Stieg (Kammweg) erreicht man die Felsformation nach ungefähr 3,2 Kilometern. :contentReference[oaicite:3]{index=3}
+- **Ab Blankenburg**: Über den Löbbecke-Stieg (Kammweg) erreicht man die Felsformation nach ungefähr 3,2 Kilometern.
 
 #### Anfahrt
 

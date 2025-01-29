@@ -18,9 +18,9 @@ Die Trageburg diente einst als Schutz für eine Furt durch die Rappbode und wurd
 
 #### Wanderwege zur Trageburg
 
-- **Trautenstein**: Vom Wanderparkplatz in der Ortsmitte führt ein Weg entlang des rechten Ufers der Rappbode zur Trageburg. Ein kurzer Anstieg ist zu bewältigen. :contentReference[oaicite:0]{index=0}
+- **Trautenstein**: Vom Wanderparkplatz in der Ortsmitte führt ein Weg entlang des rechten Ufers der Rappbode zur Trageburg. Ein kurzer Anstieg ist zu bewältigen.
 
-- **Rundwanderung**: Es bietet sich an, die Tour mit der Stempelstelle 56 "Rappbodeblick Trautenstein" zu verbinden. Überqueren Sie die Staumauer und kehren Sie auf der anderen Seite des Stausees zurück. Die Strecke ist etwa 8 km lang und bietet schöne Ausblicke auf die Rappbode-Vorsperre. :contentReference[oaicite:1]{index=1}
+- **Rundwanderung**: Es bietet sich an, die Tour mit der Stempelstelle 56 "Rappbodeblick Trautenstein" zu verbinden. Überqueren Sie die Staumauer und kehren Sie auf der anderen Seite des Stausees zurück. Die Strecke ist etwa 8 km lang und bietet schöne Ausblicke auf die Rappbode-Vorsperre.
 
 #### Anfahrt
 

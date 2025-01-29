@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [TanneHarz](https://commons.wikimedia.org/wiki/File:TanneHarz.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Tanne85" class="extiw" title="de:Benutzer:Tanne85">Tanne85</a> unter Lizenz Public domain'
 ---
 
-Der Kapitelsberg (528 m ü. NN) liegt zwischen Tanne und Königshütte. Auf dem Gipfel befindet sich eine Schutzhütte mit Stempelkasten, Bänken und einer Feuerstelle. Ein großes Holzkreuz und eine Orientierungstafel bieten einen weiten Blick über das Tal der Warmen Bode zum Wurmberg, Brocken und Hohnekamm. :contentReference[oaicite:0]{index=0}
+Der Kapitelsberg (528 m ü. NN) liegt zwischen Tanne und Königshütte. Auf dem Gipfel befindet sich eine Schutzhütte mit Stempelkasten, Bänken und einer Feuerstelle. Ein großes Holzkreuz und eine Orientierungstafel bieten einen weiten Blick über das Tal der Warmen Bode zum Wurmberg, Brocken und Hohnekamm.
 
 #### Aussichtspunkt
 
-Vom Gipfel des Kapitelsbergs hat man einen wunderbaren Blick über das Tal der Warmen Bode hinweg zum Wurmberg, zum Brocken und zum Hohnekamm. :contentReference[oaicite:1]{index=1}
+Vom Gipfel des Kapitelsbergs hat man einen wunderbaren Blick über das Tal der Warmen Bode hinweg zum Wurmberg, zum Brocken und zum Hohnekamm.
 
 #### Wanderwege zum Kapitelsberg
 
-- **Tanne**: Vom Ortsausgang Richtung Königshütte überquert man die Warme Bode, folgt dem Pfad bis zum Allerbach und steigt dann zum Gipfel auf. :contentReference[oaicite:2]{index=2}
-- **Königshütte**: Start am Wanderparkplatz Königsburg, etwa 6 km zum Gipfel. :contentReference[oaicite:3]{index=3}
-- **Sorge**: Vom Parkplatz Eschenbachstraße ca. 4,6 km Wanderung. :contentReference[oaicite:4]{index=4}
+- **Tanne**: Vom Ortsausgang Richtung Königshütte überquert man die Warme Bode, folgt dem Pfad bis zum Allerbach und steigt dann zum Gipfel auf.
+- **Königshütte**: Start am Wanderparkplatz Königsburg, etwa 6 km zum Gipfel.
+- **Sorge**: Vom Parkplatz Eschenbachstraße ca. 4,6 km Wanderung.
 
 #### Anfahrt
 

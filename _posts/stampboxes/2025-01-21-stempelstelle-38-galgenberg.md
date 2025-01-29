@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Galgenberg Elbingerode](https://commons.wikimedia.org/wiki/File:Galgenberg_Elbingerode.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Galgenberg bei Elbingerode erhebt sich 506 m über dem Meeresspiegel. Er ist die höchste Erhebung einer Kalksteinklippe östlich der Stadt. :contentReference[oaicite:0]{index=0}
+Der Galgenberg bei Elbingerode erhebt sich 506 m über dem Meeresspiegel. Er ist die höchste Erhebung einer Kalksteinklippe östlich der Stadt.
 
 #### Historische Bedeutung
 
-Früher diente der Galgenberg als Gerichtsstätte. Ab dem 16. Jahrhundert stand hier der Galgen von Elbingerode. :contentReference[oaicite:1]{index=1}
+Früher diente der Galgenberg als Gerichtsstätte. Ab dem 16. Jahrhundert stand hier der Galgen von Elbingerode.
 
 #### Wanderwege zum Galgenberg
 
-Ein guter Startpunkt ist der Parkplatz im Zentrum von Elbingerode. Von dort führt der Weg über den Steinweg zum Galgenberg. Der örtliche Harzklub hat den Pfad gut ausgeschildert. :contentReference[oaicite:2]{index=2}
+Ein guter Startpunkt ist der Parkplatz im Zentrum von Elbingerode. Von dort führt der Weg über den Steinweg zum Galgenberg. Der örtliche Harzklub hat den Pfad gut ausgeschildert.
 
 Weitere Startpunkte:
 

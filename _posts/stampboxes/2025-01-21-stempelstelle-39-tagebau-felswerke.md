@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Tagebau Felswerke](https://commons.wikimedia.org/wiki/File:Tagebau_Felswerke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Tagebau Felswerke liegt am Ortsrand von Elbingerode. Hier befindet sich die Stempelstelle 39 der Harzer Wandernadel. Vom Stempelkasten aus bietet sich ein beeindruckender Blick über den gesamten Tagebau. Eine Schautafel erklärt den Kalkabbau anschaulich. :contentReference[oaicite:0]{index=0}
+Der Tagebau Felswerke liegt am Ortsrand von Elbingerode. Hier befindet sich die Stempelstelle 39 der Harzer Wandernadel. Vom Stempelkasten aus bietet sich ein beeindruckender Blick über den gesamten Tagebau. Eine Schautafel erklärt den Kalkabbau anschaulich.
 
 #### Historische Bedeutung
 
-Seit über 100 Jahren wird in der Region Elbingerode/Rübeland hochwertiger Kalkstein abgebaut. Die Lagerstätten entstanden vor etwa 350 Millionen Jahren im Devon und zeichnen sich durch einen Kalziumkarbonat-Gehalt von 97–99 % aus. :contentReference[oaicite:1]{index=1}
+Seit über 100 Jahren wird in der Region Elbingerode/Rübeland hochwertiger Kalkstein abgebaut. Die Lagerstätten entstanden vor etwa 350 Millionen Jahren im Devon und zeichnen sich durch einen Kalziumkarbonat-Gehalt von 97–99 % aus.
 
 #### Wanderwege zum Tagebau Felswerke
 
 - **Elbingerode (Ortszentrum):** Über die Torstraße den Schildern folgen; ca. 300 m.
 - **Blankenburg (Parkplatz Michaelstein):** Rund 11,5 km Wanderung.
-- **Büchenberg (Parkplatz):** Etwa 3,8 km Fußweg. :contentReference[oaicite:2]{index=2}
+- **Büchenberg (Parkplatz):** Etwa 3,8 km Fußweg.
 
 #### Anfahrt
 

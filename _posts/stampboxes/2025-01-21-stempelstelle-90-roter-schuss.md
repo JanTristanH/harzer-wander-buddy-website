@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Roter Schuss](https://commons.wikimedia.org/wiki/File:Roter_Schuss.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der **Rote Schuss** liegt am Ende des Limbachtals im Ellricher Stadtwald auf 505 m Höhe. Zum Tal hin fällt er steil ab, wodurch der rote Porphyrit des Berges sichtbar wird. :contentReference[oaicite:0]{index=0}
+Der **Rote Schuss** liegt am Ende des Limbachtals im Ellricher Stadtwald auf 505 m Höhe. Zum Tal hin fällt er steil ab, wodurch der rote Porphyrit des Berges sichtbar wird.
 
 #### Historische Bedeutung
 
-Einer Legende nach lebte vor Jahrhunderten ein Wilderer in Ellrich. Ein junger Jäger stellte ihn eines Tages und wurde vom Wilderer erschossen. Seitdem soll der Berg aufgrund des vergossenen Blutes rot gefärbt sein. :contentReference[oaicite:1]{index=1}
+Einer Legende nach lebte vor Jahrhunderten ein Wilderer in Ellrich. Ein junger Jäger stellte ihn eines Tages und wurde vom Wilderer erschossen. Seitdem soll der Berg aufgrund des vergossenen Blutes rot gefärbt sein.
 
 #### Wanderwege zum Roten Schuss
 
-- **Parkplatz Ellricher Stadtwald**: Von hier führt ein beschilderter Weg direkt zum Roten Schuss. :contentReference[oaicite:2]{index=2}
-- **Rundwanderung**: Vom Roten Schuss weiter zur Wendeleiche (HWN 165), zur Stiefmutter (HWN 164) und zur Sonderstempelstelle Zweiländereiche. :contentReference[oaicite:3]{index=3}
+- **Parkplatz Ellricher Stadtwald**: Von hier führt ein beschilderter Weg direkt zum Roten Schuss.
+- **Rundwanderung**: Vom Roten Schuss weiter zur Wendeleiche (HWN 165), zur Stiefmutter (HWN 164) und zur Sonderstempelstelle Zweiländereiche.
 
 #### Anfahrt
 

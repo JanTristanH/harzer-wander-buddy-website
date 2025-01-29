@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Armeleuteberg](https://commons.wikimedia.org/wiki/File:Armeleuteberg.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Das Gasthaus Armeleuteberg liegt südlich von Wernigerode im Harz. Es ist bekannt für seine harztypischen Speisen und bietet Wanderern eine gemütliche Einkehrmöglichkeit. :contentReference[oaicite:0]{index=0}
+Das Gasthaus Armeleuteberg liegt südlich von Wernigerode im Harz. Es ist bekannt für seine harztypischen Speisen und bietet Wanderern eine gemütliche Einkehrmöglichkeit.
 
 #### Historische Bedeutung
 
-Der Armeleuteberg erhielt seinen Namen im 15. Jahrhundert, als der Petersberg dem St. Georgii-Hospital übergeben wurde, das sich um arme und kranke Menschen kümmerte. :contentReference[oaicite:1]{index=1}
+Der Armeleuteberg erhielt seinen Namen im 15. Jahrhundert, als der Petersberg dem St. Georgii-Hospital übergeben wurde, das sich um arme und kranke Menschen kümmerte.
 
 #### Wanderwege zum Gasthaus Armeleuteberg
 
 - **Hasseröder Ferienpark**: Start am Ferienpark, entlang des Märchenwegs zum Gasthaus.
-- **Wanderparkplatz Försterplatz**: Von hier führt ein direkter Weg zum Gasthaus. :contentReference[oaicite:2]{index=2}
+- **Wanderparkplatz Försterplatz**: Von hier führt ein direkter Weg zum Gasthaus.
 
 #### Anfahrt
 

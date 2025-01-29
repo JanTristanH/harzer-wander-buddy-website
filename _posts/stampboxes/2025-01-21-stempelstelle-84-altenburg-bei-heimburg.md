@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Altenburg Heimburg](https://commons.wikimedia.org/wiki/File:Altenburg_Heimburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Altenburg bei Heimburg ist eine Burgruine am nordwestlichen Ortsrand von Heimburg, einem Ortsteil von Blankenburg im Harz. Sie liegt auf einer 281 m hohen Erhebung und bietet einen Pavillon mit schöner Aussicht. Eine Schautafel informiert über die Geschichte der Burg. :contentReference[oaicite:0]{index=0}
+Die Altenburg bei Heimburg ist eine Burgruine am nordwestlichen Ortsrand von Heimburg, einem Ortsteil von Blankenburg im Harz. Sie liegt auf einer 281 m hohen Erhebung und bietet einen Pavillon mit schöner Aussicht. Eine Schautafel informiert über die Geschichte der Burg.
 
 #### Historische Bedeutung
 
-Erstmals 1073 erwähnt, diente die Burg dem Schutz von Handelswegen. Nach Zerstörungen im Dreißigjährigen Krieg wurde sie aufgegeben. :contentReference[oaicite:1]{index=1}
+Erstmals 1073 erwähnt, diente die Burg dem Schutz von Handelswegen. Nach Zerstörungen im Dreißigjährigen Krieg wurde sie aufgegeben.
 
 #### Wanderwege zur Altenburg
 
-- **Heimburg, Parkplatz Ortsmitte**: Direkt beschilderter Weg zur Altenburg. :contentReference[oaicite:2]{index=2}
+- **Heimburg, Parkplatz Ortsmitte**: Direkt beschilderter Weg zur Altenburg.
 - **Heimburg, Ziegenberg**: Etwas längerer Weg mit moderatem Anstieg.
 - **Blankenburg, Parkplatz Kloster Michaelstein**: Malerischer Pfad durch den Wald.
 

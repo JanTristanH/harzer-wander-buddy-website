@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Blick Ilfelder Wetterfahne](https://commons.wikimedia.org/wiki/File:Blick_Ilfelder_Wetterfahne.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Ilfelder Wetterfahne steht auf dem Herzberg bei Ilfeld. Sie ist seit über 100 Jahren ein Wahrzeichen des Ortes. :contentReference[oaicite:0]{index=0}
+Die Ilfelder Wetterfahne steht auf dem Herzberg bei Ilfeld. Sie ist seit über 100 Jahren ein Wahrzeichen des Ortes.
 
 #### Geschichte der Ilfelder Wetterfahne
 
-Die erste Wetterfahne wurde 1870/71 als hölzernes Monument errichtet. :contentReference[oaicite:1]{index=1}
+Die erste Wetterfahne wurde 1870/71 als hölzernes Monument errichtet.
 
 #### Wanderwege zur Ilfelder Wetterfahne
 
-- **Ilfeld, Georgsplatz**: Vom Parkplatz führt ein beschilderter Weg vorbei am Gänseschnabel zur Wetterfahne. :contentReference[oaicite:2]{index=2}
-- **Neustadt/Harz, Parkplatz Waldbad / Burgruine Hohnstein**: Ein etwa 4,8 km langer Weg führt zur Wetterfahne. :contentReference[oaicite:3]{index=3}
+- **Ilfeld, Georgsplatz**: Vom Parkplatz führt ein beschilderter Weg vorbei am Gänseschnabel zur Wetterfahne.
+- **Neustadt/Harz, Parkplatz Waldbad / Burgruine Hohnstein**: Ein etwa 4,8 km langer Weg führt zur Wetterfahne.
 
 #### Anfahrt
 

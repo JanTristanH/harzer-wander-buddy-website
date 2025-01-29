@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Ottofelsen6](https://commons.wikimedia.org/wiki/File:Ottofelsen6.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Dennis_Siebert" class="extiw" title="de:Benutzer:Dennis Siebert">Dennis Siebert</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Der Ottofelsen ist ein 36 Meter hoher Granitfelsen im Harz, gelegen auf 584 Metern Höhe zwischen Drei Annen und der Steinernen Renne. Über steile Eisenleitern kann man den Gipfel erklimmen und wird mit einer beeindruckenden Aussicht auf den Brocken und Wernigerode belohnt. :contentReference[oaicite:0]{index=0}
+Der Ottofelsen ist ein 36 Meter hoher Granitfelsen im Harz, gelegen auf 584 Metern Höhe zwischen Drei Annen und der Steinernen Renne. Über steile Eisenleitern kann man den Gipfel erklimmen und wird mit einer beeindruckenden Aussicht auf den Brocken und Wernigerode belohnt.
 
 #### Benennung nach Graf Otto zu Stolberg-Wernigerode
 
-Der Felsen wurde nach Graf Otto zu Stolberg-Wernigerode benannt und ist seit 1964 als Naturdenkmal geschützt. :contentReference[oaicite:1]{index=1}
+Der Felsen wurde nach Graf Otto zu Stolberg-Wernigerode benannt und ist seit 1964 als Naturdenkmal geschützt.
 
 #### Wanderwege zum Ottofelsen
 
-- **Wanderparkplatz Thumkuhlental**: Von Wernigerode auf der L100 Richtung Schierke, hinter dem Ortsausgang beim Lossen-Denkmal rechts abbiegen. Nach 100 Metern erreicht man den Parkplatz. Von hier sind es etwa 2,6 km zum Ottofelsen. :contentReference[oaicite:2]{index=2}
+- **Wanderparkplatz Thumkuhlental**: Von Wernigerode auf der L100 Richtung Schierke, hinter dem Ortsausgang beim Lossen-Denkmal rechts abbiegen. Nach 100 Metern erreicht man den Parkplatz. Von hier sind es etwa 2,6 km zum Ottofelsen.
 
-- **Bahnhof Steinerne Renne**: Start in Hasserode, entlang der Holtemme durch die Schlucht der Steinernen Renne zum gleichnamigen Gasthaus (Stempelstelle 28) und weiter zum Ottofelsen. :contentReference[oaicite:3]{index=3}
+- **Bahnhof Steinerne Renne**: Start in Hasserode, entlang der Holtemme durch die Schlucht der Steinernen Renne zum gleichnamigen Gasthaus (Stempelstelle 28) und weiter zum Ottofelsen.
 
 #### Anfahrt
 

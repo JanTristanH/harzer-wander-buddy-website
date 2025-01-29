@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Bodetal Prinzensicht](https://commons.wikimedia.org/wiki/File:Bodetal_Prinzensicht.jpg) von <a href="//commons.wikimedia.org/wiki/User:AxelHH" title="User:AxelHH">Axel Hindemith</a> unter Lizenz Public domain'
 ---
 
-Die Prinzensicht ist ein Aussichtspunkt oberhalb des Bodetals, nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick auf das 200 Meter tiefer liegende Bodetal. :contentReference[oaicite:0]{index=0}
+Die Prinzensicht ist ein Aussichtspunkt oberhalb des Bodetals, nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick auf das 200 Meter tiefer liegende Bodetal.
 
 #### Historische Bedeutung
 
-Auf der gegenüberliegenden Talseite steht ein Kreuz, das zu Ehren des im Ersten Weltkrieg gefallenen Freiherrn Hellmuth zu Bibra errichtet wurde. :contentReference[oaicite:1]{index=1}
+Auf der gegenüberliegenden Talseite steht ein Kreuz, das zu Ehren des im Ersten Weltkrieg gefallenen Freiherrn Hellmuth zu Bibra errichtet wurde.
 
 #### Wanderwege zur Prinzensicht
 
-- **Hexentanzplatz**: Ein kurzer, gut ausgeschilderter Pfad führt vom Hexentanzplatz zur Prinzensicht. :contentReference[oaicite:2]{index=2}
-- **Thale**: Startet man in Thale, führt eine etwa 4,5 km lange Route über den Hexentanzplatz zur Prinzensicht. :contentReference[oaicite:3]{index=3}
-- **Treseburg**: Von Treseburg aus gelangt man über einen 5,2 km langen Weg zur Prinzensicht. :contentReference[oaicite:4]{index=4}
+- **Hexentanzplatz**: Ein kurzer, gut ausgeschilderter Pfad führt vom Hexentanzplatz zur Prinzensicht.
+- **Thale**: Startet man in Thale, führt eine etwa 4,5 km lange Route über den Hexentanzplatz zur Prinzensicht.
+- **Treseburg**: Von Treseburg aus gelangt man über einen 5,2 km langen Weg zur Prinzensicht.
 
 #### Anfahrt
 

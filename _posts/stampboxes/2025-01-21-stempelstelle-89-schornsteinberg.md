@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Schornsteinberg-Rübeland](https://commons.wikimedia.org/wiki/File:Schornsteinberg-R%C3%BCbeland.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Schornsteinberg (458 m ü. NN) ist ein Aussichtspunkt oberhalb des Freibads Bodeperle in Rübeland. :contentReference[oaicite:0]{index=0}
+Der Schornsteinberg (458 m ü. NN) ist ein Aussichtspunkt oberhalb des Freibads Bodeperle in Rübeland.
 
 #### Historische Bedeutung
 
-Früher stand hier der etwa 6 m hohe Abschluss einer Verkohlungsanlage, die im Zweiten Weltkrieg zerstört wurde. :contentReference[oaicite:1]{index=1}
+Früher stand hier der etwa 6 m hohe Abschluss einer Verkohlungsanlage, die im Zweiten Weltkrieg zerstört wurde.
 
 #### Wanderwege zum Schornsteinberg
 
-- **Ab Baumannshöhle**: Start an der Baumannshöhle, dann in Serpentinen zur Wiese und weiter zum Aussichtspunkt. :contentReference[oaicite:2]{index=2}
+- **Ab Baumannshöhle**: Start an der Baumannshöhle, dann in Serpentinen zur Wiese und weiter zum Aussichtspunkt.
 
-- **Ab Freibad Bodeperle**: Ein steiler Pfad führt direkt vom Freibad zum Schornsteinberg. :contentReference[oaicite:3]{index=3}
+- **Ab Freibad Bodeperle**: Ein steiler Pfad führt direkt vom Freibad zum Schornsteinberg.
 
 #### Anfahrt
 

@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Ehem. Steinmühle](https://commons.wikimedia.org/wiki/File:Ehem._Steinm%C3%BChle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Steinmühlental liegt zwischen Netzkater, Rothesütte und Sülzhayn. Es erhielt seinen Namen von der 1756 erbauten Steinmühle. Heute sind nur noch wenige Ruinen vorhanden. :contentReference[oaicite:0]{index=0}
+Das Steinmühlental liegt zwischen Netzkater, Rothesütte und Sülzhayn. Es erhielt seinen Namen von der 1756 erbauten Steinmühle. Heute sind nur noch wenige Ruinen vorhanden.
 
 #### Sehenswerte Felsformationen
 
-Im Tal gibt es markante Felsen mit Namen wie „Eulenkopf“, „Pferd“ und „Herkules“. :contentReference[oaicite:1]{index=1}
+Im Tal gibt es markante Felsen mit Namen wie „Eulenkopf“, „Pferd“ und „Herkules“.
 
 #### Wanderwege zur Ehemaligen Steinmühle
 
-- **Wanderparkplatz Honigberg** (2,8 km): Direkt an der B4 zwischen Rothesütte und Netzkater gelegen. :contentReference[oaicite:2]{index=2}
-- **Rothesütte, Parkplatz Alte-Nordhäuser-Straße** (3,4 km): Von hier führt ein beschilderter Forstweg zur Stempelstelle. :contentReference[oaicite:3]{index=3}
-- **Netzkater, Haltepunkt HSB** (5,0 km): Startpunkt für eine Wanderung durch das Steinmühlental. :contentReference[oaicite:4]{index=4}
+- **Wanderparkplatz Honigberg** (2,8 km): Direkt an der B4 zwischen Rothesütte und Netzkater gelegen.
+- **Rothesütte, Parkplatz Alte-Nordhäuser-Straße** (3,4 km): Von hier führt ein beschilderter Forstweg zur Stempelstelle.
+- **Netzkater, Haltepunkt HSB** (5,0 km): Startpunkt für eine Wanderung durch das Steinmühlental.
 
 #### Anfahrt
 
