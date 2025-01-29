@@ -30,8 +30,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
   Auf einem Handy kannst du auch diesen 
   <a href="geo:51.83017,10.60277">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
 </div>
-</br>
 
 #### Stempel in der Nähe
 
