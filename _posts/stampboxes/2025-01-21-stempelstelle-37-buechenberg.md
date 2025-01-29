@@ -1,48 +1,49 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-37-buechenberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/037-schaubergwerk-buechenberg/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 37: Büchenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/37-buechenberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 37: Büchenberg | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Büchenberg](https://commons.wikimedia.org/wiki/File:B%C3%BCchenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+
+::contentReference[oaicite:0]{index=0}
 
 
+Die Stempelstelle 37 der Harzer Wandernadel befindet sich am Schaubergwerk Büchenberg bei Elbingerode. Das Bergwerk liegt an der Straße von Elbingerode nach Heimburg, oberhalb des Trecktals. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Schaubergwerk Büchenberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Im Schaubergwerk erfahren Besucher in etwa 75 Minuten, unter welchen Bedingungen die Harzer Bergleute bis 1970 Erze förderten. Über eine gut begehbare Treppenanlage gelangt man zur Antriebsanlage der ehemals längsten Seilbahn Europas. Unter Tage werden verschiedene Bergbaugeräte vorgeführt. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+#### Wanderwege zum Büchenberg
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+Mögliche Startpunkte und Entfernungen zur Stempelstelle:
+
+- **Benzingerode, Kirche**: ca. 8,0 km
+- **Blankenburg, Parkplatz Michaelstein**: ca. 8,3 km
+- **Elbingerode, Parkplatz Altes Mühlental**: ca. 4,0 km
+- **Wernigerode, Wanderparkplatz Kaltes Tal B244**: ca. 3,0 km
+
+Der kürzeste Weg führt vom Parkplatz Büchenberg (ca. 0,6 km). :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79104%2C%2010.81842) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79104,10.81842">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Galgenberg“ (HWN 38)**](/stempelstelle-38-galgenberg)
+- [**„Tagebau Felswerke“ (HWN 39)**](/stempelstelle-39-tagebau-felswerke)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)

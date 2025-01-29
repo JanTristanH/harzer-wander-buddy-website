@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-40-koenigshuetter-wasserfall/
-https://www.harzer-wander-gui.de/harzer-wandernadel/040-koenigshuetter-wasserfall/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 40: Königshütter Wasserfall"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/40-koenigshuetter-wasserfall.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 40: Königshütter Wasserfall | Königshütte"
 comments: false
 imageshadow: true
 imageSource: '📷 [WasserfallKoenigshuette](https://commons.wikimedia.org/wiki/File:WasserfallKoenigshuette.jpg) von <a href="https://de.wikipedia.org/wiki/User:JurecGermany" class="extiw" title="de:User:JurecGermany">JurecGermany</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Königshütter Wasserfall liegt nahe der Bundesstraße 27 im Ortsteil Rothehütte von Königshütte. :contentReference[oaicite:0]{index=0}
 
+#### Künstlich angelegter Wasserfall
 
+Der Wasserfall wurde in einem ehemaligen Steinbruch künstlich geschaffen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Königshütter Wasserfall
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Königshütte**: Direkt an der B27 gibt es einen kleinen Parkplatz. Von dort sind es nur wenige Meter zum Wasserfall. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+- **Drei Annen Hohne**: Vom Parkplatz am HSB-Bahnhof führt ein etwa 3,4 km langer Weg zum Wasserfall. :contentReference[oaicite:3]{index=3}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Elbingerode**: Startet am Parkplatz Altes Mühlental und wandert ca. 5,8 km zum Ziel. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75110%2C%2010.75307) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75110,10.75307">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-41-ruine-koenigsburg)
+- [**„Trogfurther Brücke“ (HWN 42)**](/stempelstelle-42-trogfurther-bruecke)

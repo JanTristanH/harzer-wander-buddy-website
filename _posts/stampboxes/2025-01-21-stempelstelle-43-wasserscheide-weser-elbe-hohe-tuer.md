@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 43: Wasserscheide Weser-Elbe 'Hohe Tür'"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/43-wasserscheide-weser-elbe-hohe-tuer.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 43: Wasserscheide Weser-Elbe 'Hohe Tür' | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [TalsperreKönigshütteStaumauer](https://commons.wikimedia.org/wiki/File:TalsperreK%C3%B6nigsh%C3%BCtteStaumauer.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 43, bekannt als "Hohe Tür", liegt zwischen Bad Lauterberg und dem Kurort Steina, einem Ortsteil von Bad Sachsa. Hier verläuft die Wasserscheide zwischen Weser und Elbe. :contentReference[oaicite:0]{index=0}
 
+#### Wiesenbeker Teich
 
+Etwa 1,5 km entfernt befindet sich der Wiesenbeker Teich. Dieser 1715 angelegte Bergsee diente einst der Wasserversorgung des Kupferbergwerks "Aufrichtigkeit". Heute ist er ein beliebtes Naherholungsziel zum Baden, Angeln oder Bootfahren. Direkt am See lädt Dombrowsky's Baude zur Einkehr ein. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Hohen Tür
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Wiesenbeker Teich**: Start am Parkplatz, ca. 1,5 km Wanderung zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Ab Steina**: Direkter Aufstieg mit kurzer, aber steiler Passage. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61864%2C%2010.50431) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.61864,10.50431">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Hassenstein“ (HWN 158)**](/stempelstelle-158-hassenstein)
+- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
+- [**„Phillippsgruß“ (HWN 220)**](/stempelstelle-220-phillippsgruss)

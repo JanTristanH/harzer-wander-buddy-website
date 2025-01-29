@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-84-altenburg-bei-heimburg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/084-altenburg-bei-heimburg/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 84: Altenburg bei Heimburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/84-altenburg-bei-heimburg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 84: Altenburg bei Heimburg | Heimburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Altenburg Heimburg](https://commons.wikimedia.org/wiki/File:Altenburg_Heimburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Altenburg bei Heimburg ist eine Burgruine am nordwestlichen Ortsrand von Heimburg, einem Ortsteil von Blankenburg im Harz. Sie liegt auf einer 281 m hohen Erhebung und bietet einen Pavillon mit schöner Aussicht. Eine Schautafel informiert über die Geschichte der Burg. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Erstmals 1073 erwähnt, diente die Burg dem Schutz von Handelswegen. Nach Zerstörungen im Dreißigjährigen Krieg wurde sie aufgegeben. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Altenburg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Heimburg, Parkplatz Ortsmitte**: Direkt beschilderter Weg zur Altenburg. :contentReference[oaicite:2]{index=2}
+- **Heimburg, Ziegenberg**: Etwas längerer Weg mit moderatem Anstieg.
+- **Blankenburg, Parkplatz Kloster Michaelstein**: Malerischer Pfad durch den Wald.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82693%2C%2010.9113) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.82693,10.9113">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Austbergturm“ (HWN 83)**](/stempelstelle-83-austbergturm)
+- [**„Stapenberg“ (HWN 33)**](/stempelstelle-33-stapenberg)
+- [**„Klostergrund Michaelstein“ (HWN 59)**](/stempelstelle-59-klostergrund-michaelstein)

@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-80-burgruine-regenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/080-burgruine-regenstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 80: Burgruine Regenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/80-burgruine-regenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 80: Burgruine Regenstein | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Burgruine Regenstein](https://commons.wikimedia.org/wiki/File:Burgruine_Regenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Burgruine Regenstein liegt nördlich von Blankenburg auf einem markanten Sandsteinfelsen. Sie ist bekannt für ihre in den Fels gehauenen Räume und bietet beeindruckende Panoramablicke. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Erstmals 1162 erwähnt, war die Burg Sitz der Grafen von Regenstein. Im 17. Jahrhundert bauten die Preußen sie zur Festung aus. Heute sind noch Kasematten und Felseinbauten erhalten. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Burgruine Regenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz unterhalb der Burg**: Ein kurzer, beschilderter Pfad führt direkt zur Ruine.
+- **Rundweg über Regensteinmühle (HWN 82) und Sandhöhlen im Heers (HWN 81)**: Start am Parkplatz, erst zur Mühle, dann zu den Sandhöhlen und schließlich zur Burg. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81386%2C%2010.95836) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81386,10.95836">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regensteinmuehle)
+- [**„Sandhöhlen im Heers“ (HWN 81)**](/stempelstelle-81-sandhoehlen-im-heers)

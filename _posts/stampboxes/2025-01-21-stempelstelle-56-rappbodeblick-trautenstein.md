@@ -1,48 +1,45 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-56-rappbodeblick-trautenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/056-rappbodeblick-trautenstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 56: Rappbodeblick Trautenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/56-rappbodeblick-trautenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 56: Rappbodeblick Trautenstein | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rappbodeblick Trautenstein](https://commons.wikimedia.org/wiki/File:Rappbodeblick_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 56 der Harzer Wandernadel befindet sich oberhalb der Staumauer der Rappbode-Vorsperre, am Harzer Hexenstieg zwischen Trautenstein und Königshütte. Eine Ruhebank lädt zum Verweilen ein und bietet einen herrlichen Blick auf die 24 Meter hohe und 134 Meter lange Staumauer. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung der Rappbode-Vorsperre
 
+Die Rappbode-Vorsperre dient der Vorreinigung des Wassers von Geröll und Trübstoffen. Das angestaute Wasser fließt durch Überläufe in den Bachlauf und weiter in die Hauptsperre. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Rappbodeblick
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Trautenstein (Ortsmitte)**: Vom Wanderparkplatz in der Ortsmitte führt der Weg am rechten Ufer der Rappbode entlang. Nach einem kurzen Anstieg erreicht man die Trageburg (HWN 52). Von dort geht es über die Staumauer und rechts auf einem breiten Forstweg zur Stempelstelle. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Ein etwa 4,6 km langer Weg führt von hier zur Stempelstelle. :contentReference[oaicite:3]{index=3}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Königshütte (Parkplatz Königsburg)**: Von diesem Startpunkt sind es ca. 5,4 km bis zum Rappbodeblick. :contentReference[oaicite:4]{index=4}
+
+- **Tanne (Bodetalstraße / Aufgang Kapitelsberg)**: Eine etwa 6,4 km lange Route führt von hier zur Stempelstelle. :contentReference[oaicite:5]{index=5}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71153%2C%2010.80097) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71153,10.80097">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg)
+- [**„Hassel-Vorsperre“ (HWN 53)**](/stempelstelle-53-hassel-vorsperre)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-41-ruine-koenigsburg)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)

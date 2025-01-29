@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-96-ehemalige-steinmuehle/
-https://www.harzer-wander-gui.de/harzer-wandernadel/096-ehemalige-steinmuehle/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 96: Ehemalige Steinmühle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/96-ehemalige-steinmuehle.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 96: Ehemalige Steinmühle | Sülzhayn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ehem. Steinmühle](https://commons.wikimedia.org/wiki/File:Ehem._Steinm%C3%BChle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Steinmühlental liegt zwischen Netzkater, Rothesütte und Sülzhayn. Es erhielt seinen Namen von der 1756 erbauten Steinmühle. Heute sind nur noch wenige Ruinen vorhanden. :contentReference[oaicite:0]{index=0}
 
+#### Sehenswerte Felsformationen
 
+Im Tal gibt es markante Felsen mit Namen wie „Eulenkopf“, „Pferd“ und „Herkules“. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Ehemaligen Steinmühle
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Wanderparkplatz Honigberg** (2,8 km): Direkt an der B4 zwischen Rothesütte und Netzkater gelegen. :contentReference[oaicite:2]{index=2}
+- **Rothesütte, Parkplatz Alte-Nordhäuser-Straße** (3,4 km): Von hier führt ein beschilderter Forstweg zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Netzkater, Haltepunkt HSB** (5,0 km): Startpunkt für eine Wanderung durch das Steinmühlental. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6077%2C%2010.72845) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.6077,10.72845">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
+- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg)
+- [**„Dreitälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
+- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

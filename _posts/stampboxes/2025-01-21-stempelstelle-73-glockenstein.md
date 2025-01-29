@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-73-glockenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/073-glockenstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 73: Glockenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/73-glockenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 73: Glockenstein | Stecklenberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Glockenstein Stecklenberg](https://commons.wikimedia.org/wiki/File:Glockenstein_Stecklenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Glockenstein liegt oberhalb des Wurmbachtals bei Stecklenberg. Der Granitblock erinnert an eine Glocke und war vermutlich eine altgermanische Kultstätte. :contentReference[oaicite:0]{index=0}
 
+#### Sage vom Glockenstein
 
+Der Legende nach ertönt der Stein in der Walpurgisnacht wie eine Glocke und weist den Hexen den Weg zum Brocken. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Glockenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Stecklenberg**: Vom Parkplatz am Wurmbachtal führt ein steiler Pfad direkt zum Glockenstein (ca. 2,4 km). :contentReference[oaicite:2]{index=2}
+- **Bad Suderode**: Start am Sportplatz, durch das Wurmbachtal zum Ziel (ca. 5,9 km). :contentReference[oaicite:3]{index=3}
+- **Friedrichsbrunn**: Beginn am Parkplatz "Am Ramberg", über Waldwege zum Glockenstein (ca. 6,1 km). :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2011.05713) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.72912,11.05713">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Lauenburg“ (HWN 187)**](/stempelstelle-187-ruine-lauenburg)
+- [**„La Viershöhe“ (HWN 072)**](/stempelstelle-72-la-viershoehe)
+- [**„Rosstrappe“ (HWN 071)**](/stempelstelle-71-rosstrappe)

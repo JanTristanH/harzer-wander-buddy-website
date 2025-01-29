@@ -1,48 +1,43 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-49-gruental/
-https://www.harzer-wander-gui.de/harzer-wandernadel/049-gruental/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 49: Grüntal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/49-gruental.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 49: Grüntal | Benneckenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Forstort Grüntal](https://commons.wikimedia.org/wiki/File:Forstort_Gr%C3%BCntal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+
+::contentReference[oaicite:0]{index=0}
 
 
+Die Stempelstelle 49 der Harzer Wandernadel befindet sich im malerischen Grüntal, zwischen Benneckenstein und Trautenstein. Hier steht ein noch bewohntes Forsthaus, umgeben von einigen Ferienhäusern. Ein idyllischer Rastplatz lädt Wanderer zum Verweilen ein. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Grüntal
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Ab Benneckenstein**: Am Ortsausgang Richtung Trautenstein befindet sich links ein Parkplatz. Von dort führt ein Weg direkt zum Grüntal. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+- **Ab Tanne**: Kurz vor dem Ort gibt es an der B242 einen Parkplatz. Von hier aus führt ein etwa 30-minütiger Weg zur Stempelstelle. :contentReference[oaicite:3]{index=3}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ab Trautenstein**: Ein Parkplatz am Ortsausgang bietet einen idealen Startpunkt für die Wanderung zum Grüntal. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67660%2C%2010.75533) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.67660,10.75533">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
+- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-47-oberharzblick)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-51-carlsturm)

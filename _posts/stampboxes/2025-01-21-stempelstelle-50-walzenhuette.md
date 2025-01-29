@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-50-walzenhuette/
-https://www.harzer-wander-gui.de/harzer-wandernadel/050-walzenhuette/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 50: Walzenhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/50-walzenhuette.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 50: Walzenhütte | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Walzenhütte Trautenstein](https://commons.wikimedia.org/wiki/File:Walzenh%C3%BCtte_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Walzenhütte liegt auf 521 m Höhe zwischen Trautenstein und Benneckenstein im Gebiet der Harzer Bachtäler. Sie ist eine Schutzhütte und beherbergt die Stempelstelle 50 der Harzer Wandernadel. Ein idealer Ausgangspunkt für eine Wanderung ist der Parkplatz neben dem Café Dammbachtal am Ortsrand von Trautenstein. :contentReference[oaicite:0]{index=0}
 
+#### Sehenswürdigkeiten in der Nähe
 
+In der Nähe der Walzenhütte befindet sich eine Brücke über die Gleise der Harzer Schmalspurbahn. Mit etwas Glück kann man hier die dampfenden Loks beobachten – ein tolles Fotomotiv! :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Walzenhütte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Trautenstein**: Vom Parkplatz am Café Dammbachtal führt ein Weg über die Rappbode direkt zur Walzenhütte. Entfernung: ca. 2,5 km.
+- **Benneckenstein**: Startet man in Benneckenstein, erreicht man die Hütte nach etwa 4,1 km.
+- **Ziegenalm Sophienhof**: Von hier aus führt eine Route über den Dreiherrenstein zur Walzenhütte. Entfernung: ca. 4,5 km. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66103%2C%2010.76721) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.66103,10.76721">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-47-oberharzblick)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-51-carlsturm)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

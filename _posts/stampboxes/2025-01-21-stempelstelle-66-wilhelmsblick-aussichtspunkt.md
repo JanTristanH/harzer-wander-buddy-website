@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-66-wilhelmsblick-aussichtspunkt/
-https://www.harzer-wander-gui.de/harzer-wandernadel/066-wilhelmsblick/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 66: Wilhelmsblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/66-wilhelmsblick-aussichtspunkt.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 66: Wilhelmsblick | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wilhelmsblick](https://commons.wikimedia.org/wiki/File:Wilhelmsblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Wilhelmsblick liegt oberhalb von Treseburg, etwa 1 km hinter dem Ortsausgang Richtung Thale. Von diesem Aussichtspunkt auf einem schmalen Felsgrat bietet sich ein beeindruckender Blick auf mehrere Flussabschnitte der Bode, die den Felsen in einer großen Schleife umfließt. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+1861 ließ der Straßenbaumeister Wilhelm einen Tunnel neben der Landstraße anlegen, um den darüber liegenden Aussichtspunkt zugänglich zu machen. Dieser wurde später zu seinen Ehren "Wilhelmsblick" genannt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Wilhelmsblick
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Treseburg**: Vom Parkplatz am Bodeufer führt ein ansteigender Pfad mit mehreren Aussichtspunkten direkt zum Wilhelmsblick. :contentReference[oaicite:2]{index=2}
+- **L93 (Landstraße)**: Durch den erwähnten Tunnel gelangt man über eine Treppe in wenigen Minuten zum Aussichtspunkt. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7231%2C%2010.96613) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.7231,10.96613">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-65-gasthaus-todtenrode)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
+- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
+- [**„Sonnenklippe (Bodetal)“ (HWN 69)**](/stempelstelle-69-sonnenklippe-bodetal)

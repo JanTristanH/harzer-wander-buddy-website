@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-70-prinzensicht-aussichtsturm/
-https://www.harzer-wander-gui.de/harzer-wandernadel/070-prinzensicht/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 70: Prinzensicht"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/70-prinzensicht-aussichtsturm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 70: Prinzensicht | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bodetal Prinzensicht](https://commons.wikimedia.org/wiki/File:Bodetal_Prinzensicht.jpg) von <a href="//commons.wikimedia.org/wiki/User:AxelHH" title="User:AxelHH">Axel Hindemith</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Prinzensicht ist ein Aussichtspunkt oberhalb des Bodetals, nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick auf das 200 Meter tiefer liegende Bodetal. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Auf der gegenüberliegenden Talseite steht ein Kreuz, das zu Ehren des im Ersten Weltkrieg gefallenen Freiherrn Hellmuth zu Bibra errichtet wurde. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Prinzensicht
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Hexentanzplatz**: Ein kurzer, gut ausgeschilderter Pfad führt vom Hexentanzplatz zur Prinzensicht. :contentReference[oaicite:2]{index=2}
+- **Thale**: Startet man in Thale, führt eine etwa 4,5 km lange Route über den Hexentanzplatz zur Prinzensicht. :contentReference[oaicite:3]{index=3}
+- **Treseburg**: Von Treseburg aus gelangt man über einen 5,2 km langen Weg zur Prinzensicht. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73372%2C%2011.00740) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.73372,11.00740">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„La Viershöhe“ (HWN 72)**](/stempelstelle-72-la-viershoehe)
+- [**„Roßtrappe“ (HWN 71)**](/stempelstelle-71-rosstrappe)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)

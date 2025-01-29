@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-51-carlsturm/
-https://www.harzer-wander-gui.de/harzer-wandernadel/051-carlsturm/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 51: Carlsturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/51-carlsturm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 51: Carlsturm | Trautenstein"
 comments: false
 imageshadow: true
-imageSource: '📷 [Karlshaus](https://commons.wikimedia.org/wiki/File:Karlshaus.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Bastindh" class="extiw" title="w:de:User:Bastindh">Bastindh</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
+imageSource: '📷 [Carlsturm](https://www.harzer-wander-gui.de/harzer-wandernadel/051-carlsturm/) von Harzer*Wander*GuiDE'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Carlsturm steht auf der Carlshaushöhe (626 m ü. NN) zwischen Trautenstein und Sophienhof. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Der Turm wurde 1998 von der Harzer Schmalspurbahn GmbH als Funkturm mit Besucherplattform neu errichtet. Er wiegt 30.000 kg und ist 50 m hoch. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Carlsturm
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ab Trautenstein**: Vom Wanderparkplatz durch das Dammbachtal zum Carlsturm.
+- **Ab Hasselfelde**: Über die Stempelstellen Walzenhütte (HWN 50) und Oberharzblick (HWN 47) zum Ziel.
+- **Ab Sophienhof**: Start an der Ziegenalm (HWN 97), vorbei am Stierbergsteich (HWN 48) zum Carlsturm.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65641%2C%2010.79706) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.65641,10.79706">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
+- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-47-oberharzblick)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

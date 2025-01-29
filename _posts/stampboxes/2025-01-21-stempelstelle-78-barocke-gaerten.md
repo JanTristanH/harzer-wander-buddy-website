@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-78-barocke-gaerten/
-https://www.harzer-wander-gui.de/harzer-wandernadel/078-barocke-gaerten/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 78: Barocke Gärten"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/78-barocke-gaerten.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 78: Barocke Gärten | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Blankenburg (Harz), Schlossgarten, Blick zur Stadtmauer](https://commons.wikimedia.org/wiki/File:Blankenburg_(Harz),_Schlossgarten,_Blick_zur_Stadtmauer.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Dguendel&amp;action=edit&amp;redlink=1" class="new" title="User:Dguendel (page does not exist)">Dguendel</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 78 der Harzer Wandernadel befindet sich in den Barocken Gärten von Blankenburg. Diese beginnen hinter dem Kleinen Schloss und gehören zum Netzwerk "Gartenträume – Historische Parks in Sachsen-Anhalt". Der Lustgarten mit Sandsteinfiguren, Brunnen und gepflegten Hecken wurde 1718 angelegt und ist heute ein beliebter Ort für Trauungen. Am Ende des Gartens, beim Gasthaus "Obere Mühle", befindet sich der Stempelkasten. :contentReference[oaicite:0]{index=0}
 
+#### Großes Schloss Blankenburg
 
+Ein Aufstieg vom Gasthaus führt zum Großen Schloss, der ehemaligen Residenz der Grafen von Regenstein. Von dort bieten sich beeindruckende Ausblicke auf die Stadt und das Umland. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zu den Barocken Gärten
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Blankenburg/Kleines Schloss**: Ein kurzer Spaziergang von 0,4 km führt direkt zu den Gärten.
+- **Blankenburg/Kloster Michaelstein**: Eine 4,6 km lange Route verbindet das Kloster mit den Gärten.
+- **Timmenrode**: Ein Weg von 4,5 km Länge führt von Timmenrode zu den Gärten.
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+:contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78747%2C%2010.95635) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.78747,10.95635">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-77-ruine-luisenburg)
+- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-76-gasthaus-grossvater)
+- [**„Burgruine Regenstein“ (HWN 80)**](/stempelstelle-80-burgruine-regenstein)

@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-39-tagebau-felswerke/
-https://www.harzer-wander-gui.de/harzer-wandernadel/039-tagebau-felswerke/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 39: Tagebau Felswerke"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/39-tagebau-felswerke.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 39: Tagebau Felswerke | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Tagebau Felswerke](https://commons.wikimedia.org/wiki/File:Tagebau_Felswerke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Tagebau Felswerke liegt am Ortsrand von Elbingerode. Hier befindet sich die Stempelstelle 39 der Harzer Wandernadel. Vom Stempelkasten aus bietet sich ein beeindruckender Blick über den gesamten Tagebau. Eine Schautafel erklärt den Kalkabbau anschaulich. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Seit über 100 Jahren wird in der Region Elbingerode/Rübeland hochwertiger Kalkstein abgebaut. Die Lagerstätten entstanden vor etwa 350 Millionen Jahren im Devon und zeichnen sich durch einen Kalziumkarbonat-Gehalt von 97–99 % aus. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Tagebau Felswerke
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Elbingerode (Ortszentrum):** Über die Torstraße den Schildern folgen; ca. 300 m.
+- **Blankenburg (Parkplatz Michaelstein):** Rund 11,5 km Wanderung.
+- **Büchenberg (Parkplatz):** Etwa 3,8 km Fußweg. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75997%2C%2010.80184) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75997,10.80184">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Galgenberg“ (HWN 38)**](/stempelstelle-38-galgenberg)
+- [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-37-schaubergwerk-buechenberg)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)

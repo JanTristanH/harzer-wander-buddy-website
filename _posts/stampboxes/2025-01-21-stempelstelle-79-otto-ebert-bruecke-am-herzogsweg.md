@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-79-otto-ebert-bruecke-am-herzogsweg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/079-otto-ebert-bruecke/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 79: Otto-Ebert-Brücke"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/79-otto-ebert-bruecke-am-herzogsweg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 79: Otto-Ebert-Brücke | Blankenburg (Harz)"
 comments: false
 imageshadow: true
 imageSource: '📷 [Otto-Ebert-Brücke](https://commons.wikimedia.org/wiki/File:Otto-Ebert-Br%C3%BCcke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Otto-Ebert-Brücke liegt am Herzogsweg, nahe der B 27 zwischen Blankenburg und Hüttenrode. Sie überspannt die Rübelandbahn und verbindet den Wanderweg wieder.
 
+#### Historischer Hintergrund
 
+In den 1960er Jahren wurde die Rübelandbahn elektrifiziert. Dabei wurde der Herzogsweg unterbrochen. Oberingenieur Otto Ebert setzte sich für den Bau der Brücke ein, die 2007 eröffnet und nach ihm benannt wurde.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Otto-Ebert-Brücke
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Albert-Schneider-Denkmal**: Etwa 0,5 km westlich auf dem Herzogsweg.
+- **Gasthaus Ziegenkopf**: Rund 0,8 km entfernt.
+- **Kloster Michaelstein**: Ca. 4,2 km über den Herzogsweg.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78495%2C%2010.92302) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.78495,10.92302">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-77-ruine-luisenburg)
+- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-76-gasthaus-grossvater)
+- [**„Obere Mühle Blankenburg“ (HWN 78)**](/stempelstelle-78-obere-muehle-blankenburg)
+- [**„Volkmarskeller“ (HWN 87)**](/stempelstelle-87-volkmarskeller)

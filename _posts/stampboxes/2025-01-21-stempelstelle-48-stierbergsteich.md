@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-48-stierbergsteich/
-https://www.harzer-wander-gui.de/harzer-wandernadel/048-stierbergsteich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 48: Stierbergsteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/48-stierbergsteich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 48: Stierbergsteich | Benneckenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stierbergsteich](https://commons.wikimedia.org/wiki/File:Stierbergsteich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Stierbergsteich liegt auf 550 m Höhe zwischen Sophienhof, Rothesütte und Benneckenstein. Er wurde künstlich angelegt, um Wasser für ein Wasserrad zu stauen, das Pumpen in den umliegenden Bergwerken antrieb. Heute markiert der Teich die Grenze zwischen Sachsen-Anhalt und Thüringen. Der Stempelkasten befindet sich in einer Schutzhütte am Teich.
 
+#### Historische Bedeutung
 
+In der Region um Benneckenstein wurde hauptsächlich Roteisenerz abgebaut. Der Stierbergsteich diente dabei zur Wasserversorgung der Bergwerke.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Stierbergsteich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Sophienhof**: Vom Sophienhof (Stempelstelle 97) führt ein 3,5 km langer Weg zum Stierbergsteich. :contentReference[oaicite:0]{index=0}
+- **Benneckenstein**: Eine etwa 5 km lange Route startet in Benneckenstein und führt durch malerische Waldwege. :contentReference[oaicite:1]{index=1}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64111%2C%2010.75639) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.64111,10.75639">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-47-oberharzblick-am-buchenberg)
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-51-carlsturm)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

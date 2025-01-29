@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-83-austbergturm/
-https://www.harzer-wander-gui.de/harzer-wandernadel/083-austbergturm/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 83: Austbergturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/83-austbergturm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 83: Austbergturm | Benzingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Austbergturm](https://commons.wikimedia.org/wiki/File:Austbergturm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Austbergturm steht auf dem Austberg zwischen Benzingerode und Wernigerode. Er wurde 1250 von den Regensteiner Grafen als Signalturm erbaut und diente dem Regensteiner Wehrsystem. In den Jahren 2006 bis 2008 wurde der Turm restauriert, mit einem Dach und einer Wetterfahne versehen und als Aussichtsturm eröffnet. Von der Plattform bietet sich eine schöne Sicht auf Benzingerode, den Regenstein, Heimburg mit der Altenburg und den Brocken. :contentReference[oaicite:0]{index=0}
 
+#### Geschichte des Austbergturms
 
+Der Austbergturm wurde 1250 von den Grafen von Regenstein als Signalturm errichtet. Über die Jahrhunderte verfiel er, bis er 2006 restauriert und 2008 als Aussichtsturm wiedereröffnet wurde. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Austbergturm
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Benzingerode/Kirche (0,9 km):** Kurzer Aufstieg vom Parkplatz an der Kirche.
+- **Heimburg (4,7 km):** Wanderung durch abwechslungsreiche Landschaft.
+- **Wernigerode/Christianental (5,0 km):** Malerischer Weg mit schönen Ausblicken. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83771%2C%2010.85929) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.83771,10.85929">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stapenberg“ (HWN 33)**](/stempelstelle-33-stapenberg)
+- [**„Altenburg/Heimburg“ (HWN 84)**](/stempelstelle-84-altenburg-bei-heimburg)
+- [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-32-gasthaus-christianental)

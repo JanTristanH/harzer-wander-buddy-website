@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-62-talsperre-wendefurth-talsperrenblick/
-https://www.harzer-wander-gui.de/harzer-wandernadel/062-talsperre-wendefurth/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 62: Talsperre Wendefurth (Talsperrenblick)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/62-talsperre-wendefurth-talsperrenblick.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 62: Talsperre Wendefurth (Talsperrenblick) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wendefurther Becken](https://commons.wikimedia.org/wiki/File:Wendefurther_Becken.JPG) von <a href="//commons.wikimedia.org/wiki/User:Corradox" title="User:Corradox">Corradox</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Talsperre Wendefurth liegt zwischen Blankenburg und Hasselfelde, oberhalb der B81. Sie ist Teil der Multifunktionsanlage Bodewerk und dient dem Hochwasserschutz, der Niedrigwasseraufhöhung und der Stromerzeugung. Zudem fungiert sie als Unterbecken für das Pumpspeicherwerk. :contentReference[oaicite:0]{index=0}
 
+#### Freizeitmöglichkeiten
 
+Die Talsperre bietet zahlreiche Freizeitaktivitäten. Die schwimmende Gaststätte „Zum Hecht“ lädt zu Bootsverleih und Floßfahrten mit Verpflegung ein. Für Adrenalinliebhaber gibt es bei Harzdrenalin Angebote wie das „Wallrunning“ an der Staumauer. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Talsperre Wendefurth
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Altenbrak**: Vom Parkplatz Bodewiese führt ein etwa 5,2 km langer Weg zur Stempelstelle.
+- **Hasselfelde**: Start am Wanderparkplatz Hasselvorsperre, Strecke ca. 6 km.
+- **Wendefurth**: Direkt von der Staumauer aus ist die Stempelstelle in kurzer Zeit erreichbar. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74322%2C%2010.91930) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.74322,10.91930">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Schöneburg (Aussichtspunkt)“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt)
+- [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
+- [**„Harzköhlerei Stemberghaus“ (HWN 60)**](/stempelstelle-60-harzkoehlerei-stemberghaus)

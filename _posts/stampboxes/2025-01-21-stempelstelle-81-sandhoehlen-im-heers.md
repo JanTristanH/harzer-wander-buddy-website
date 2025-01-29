@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-81-sandhoehlen-im-heers/
-https://www.harzer-wander-gui.de/harzer-wandernadel/081-sandhoehlen-im-heers/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 81: Sandhöhlen im Heers"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/81-sandhoehlen-im-heers.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 81: Sandhöhlen im Heers | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sandhöhlen im Heers](https://commons.wikimedia.org/wiki/File:Sandh%C3%B6hlen_im_Heers.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Sandhöhlen im Heers sind beeindruckende Sandsteinformationen bei Blankenburg im Harz. Sie liegen nordöstlich der Burg Regenstein in einem Kiefernwald. Die Einheimischen nennen sie "Sandhutsche". :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Vermutlich nutzten bereits die Germanen diesen Ort für Versammlungen. Später wurde der feine Quarzsand als Scheuer- und Streusand abgebaut. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zu den Sandhöhlen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Burg Regenstein**: Von hier führt ein beschilderter Pfad zu den Sandhöhlen (ca. 1,1 km). :contentReference[oaicite:2]{index=2}
+- **Parkplatz an der B81**: Über die Regensteinmühle gelangt man zu den Höhlen (ca. 2 km). :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81721%2C%2010.96584) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81721,10.96584">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Burgruine Regenstein“ (HWN 80)**](/stempelstelle-80-burgruine-regenstein)
+- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regensteinmuehle)

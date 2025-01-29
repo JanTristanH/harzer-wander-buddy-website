@@ -1,48 +1,43 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-93-dreitaelerblick/
-https://www.harzer-wander-gui.de/harzer-wandernadel/093-dreitaelerblick/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 93: Dreitälerblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/93-dreitaelerblick.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 93: Dreitälerblick | Netzkater"
 comments: false
 imageshadow: true
 imageSource: '📷 [Dreitälerblick](https://commons.wikimedia.org/wiki/File:Dreit%C3%A4lerblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Dreitälerblick liegt zwischen Ilfeld und Netzkater oberhalb des Besucherbergwerks Rabensteiner Stollen. Von hier aus bietet sich ein beeindruckender Ausblick in das Brandesbachtal, das Ilfelder Tal und das Kalte Tal. :contentReference[oaicite:0]{index=0}
 
+#### Besucherbergwerk Rabensteiner Stollen
 
+Direkt unterhalb des Aussichtspunkts befindet sich das Schaubergwerk Rabensteiner Stollen. Es war das einzige Steinkohlebergwerk im Harz und von 1737 bis 1949 in Betrieb. Ein Besuch bietet spannende Einblicke in die Bergbaugeschichte der Region. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Dreitälerblick
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Netzkater (Bahnhof HSB)**: Nur wenige hundert Meter entfernt. Der Aufstieg ist stellenweise steil und erfolgt auf schmalen Pfaden. :contentReference[oaicite:2]{index=2}
+- **Ilfeld, Georgsplatz**: Etwa 3,3 km Entfernung.
+- **Eisfelder Talmühle, Bahnhof**: Rund 3,8 km entfernt.
+- **Hufhaus, Wanderparkplatz „Tisch“**: Ungefähr 4,6 km Entfernung.
+- **Neustadt/Harz, Parkplatz Waldbad / Burgruine Hohnstein**: Circa 5,7 km entfernt.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60127%2C%2010.79257) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.60127,10.79257">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
+- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
+- [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-98-ruine-hohnstein)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

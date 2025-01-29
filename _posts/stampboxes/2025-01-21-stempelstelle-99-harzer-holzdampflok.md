@@ -1,48 +1,48 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-99-harzer-holzdampflok/
-https://www.harzer-wander-gui.de/harzer-wandernadel/099-harzer-holzdampflok/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 99: Harzer Holzdampflok"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/99-harzer-holzdampflok.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 99: Harzer Holzdampflok | Neustadt/Harz"
 comments: false
 imageshadow: true
-imageSource: '📷 [Harzer Holzdampflock](https://commons.wikimedia.org/wiki/File:Harzer_Holzdampflock.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:M.J.&amp;action=edit&amp;redlink=1" class="new" title="User:M.J. (page does not exist)">M.J.</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
+imageSource: '📷 [Harzer Holzdampflok](https://commons.wikimedia.org/wiki/File:Harzer_Holzdampflok.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:M.J.&amp;action=edit&amp;redlink=1" class="new" title="User:M.J. (page does not exist)">M.J.</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 99 der Harzer Wandernadel befindet sich auf dem Galgenberg bei Neustadt/Harz. Dort steht eine imposante Dampflok-Attrappe aus Holz in Lebensgröße. Von hier aus bietet sich ein malerischer Blick auf die Burgruine Hohnstein und die umliegenden Harzer Wälder. :contentReference[oaicite:0]{index=0}
 
+#### Südharzer Dampflok Steig
 
+Der Südharzer Dampflok Steig erstreckt sich über 42 Kilometer durch den Naturpark Südharz. Dabei werden rund 2.000 Höhenmeter überwunden. Die Route führt durch Laub-Mischwälder und bietet faszinierende Ausblicke ins Harzvorland. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Harzer Holzdampflok
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Mögliche Startpunkte zur Stempelstelle 99:
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Neustadt/Harz, Parkplatz Rüdigsdorfer Weg**: ca. 800 Meter. Folgen Sie den roten Schildern mit der weißen Dampflok.
+- **Neustadt/Harz, Parkplatz Waldbad/Burgruine Hohnstein**: ca. 2,4 Kilometer.
+- **Hufhaus, Wanderparkplatz "Tisch"**: ca. 5,4 Kilometer.
+- **Ilfeld, Georgsplatz**: ca. 5,4 Kilometer.
+- **Netzkater, Parkplatz Rabensteiner Stollen/Bahnhof**: ca. 7,9 Kilometer. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.556583%2C%2010.825472) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.556583,10.825472">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-98-ruine-hohnstein)
+- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg)
+- [**„Dreitälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
+- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
+- [**„Ruine Ebersburg“ (HWN 100)**](/stempelstelle-100-ruine-ebersburg)
+- [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine)
+- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre) :contentReference[oaicite:3]{index=3}

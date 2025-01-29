@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-44-kapitelsberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/044-kapitelsberg-tanne/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 44: Kapitelsberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/44-kapitelsberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 44: Kapitelsberg | Tanne"
 comments: false
 imageshadow: true
 imageSource: '📷 [TanneHarz](https://commons.wikimedia.org/wiki/File:TanneHarz.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Tanne85" class="extiw" title="de:Benutzer:Tanne85">Tanne85</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Kapitelsberg (528 m ü. NN) liegt zwischen Tanne und Königshütte. Auf dem Gipfel befindet sich eine Schutzhütte mit Stempelkasten, Bänken und einer Feuerstelle. Ein großes Holzkreuz und eine Orientierungstafel bieten einen weiten Blick über das Tal der Warmen Bode zum Wurmberg, Brocken und Hohnekamm. :contentReference[oaicite:0]{index=0}
 
+#### Aussichtspunkt
 
+Vom Gipfel des Kapitelsbergs hat man einen wunderbaren Blick über das Tal der Warmen Bode hinweg zum Wurmberg, zum Brocken und zum Hohnekamm. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Kapitelsberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Tanne**: Vom Ortsausgang Richtung Königshütte überquert man die Warme Bode, folgt dem Pfad bis zum Allerbach und steigt dann zum Gipfel auf. :contentReference[oaicite:2]{index=2}
+- **Königshütte**: Start am Wanderparkplatz Königsburg, etwa 6 km zum Gipfel. :contentReference[oaicite:3]{index=3}
+- **Sorge**: Vom Parkplatz Eschenbachstraße ca. 4,6 km Wanderung. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70559%2C%2010.74089) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.70559,10.74089">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-41-ruine-koenigsburg)
+- [**„Trogfurther Brücke“ (HWN 42)**](/stempelstelle-42-trogfurther-bruecke)

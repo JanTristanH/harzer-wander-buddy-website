@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-97-ziegenalm-sophienhof/
-https://www.harzer-wander-gui.de/harzer-wandernadel/097-ziegenalm-sophienhof/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 97: Ziegenalm Sophienhof"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/97-ziegenalm-sophienhof.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 97: Ziegenalm Sophienhof | Harztor"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ziegenalm](https://commons.wikimedia.org/wiki/File:Ziegenalm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Ziegenalm Sophienhof liegt im idyllischen Ortsteil Sophienhof der Gemeinde Harztor im Südharz. Umgeben von Wäldern bietet der Hof artgerechte Tierhaltung mit Ziegen, Schafen, Schweinen und Rindern. Besucher können die Tiere beobachten und im Hofladen regionale Produkte erwerben. Die Almstube lädt zur Einkehr ein. :contentReference[oaicite:0]{index=0}
 
+#### Braugasthof "Brauner Hirsch"
 
+Gegenüber der Ziegenalm befindet sich der Braugasthof "Brauner Hirsch". Seit 2013 werden hier nach deutschem Reinheitsgebot gebraute Biere in rustikaler Atmosphäre serviert. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Ziegenalm
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Benneckenstein**: Startet in Benneckenstein und wandert über den Oberharzblick (HWN 47) und den Stierbergsteich (HWN 48) zur Ziegenalm. Die Route ist etwa 8 km lang. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Trautenstein**: Von Trautenstein führt ein Weg über die Walzenhütte (HWN 50) und den Carlsturm (HWN 51) zur Ziegenalm. Diese Strecke umfasst rund 10 km. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63259%2C%2010.79096) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.63259,10.79096">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-47-oberharzblick-am-buchenberg)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-51-carlsturm)

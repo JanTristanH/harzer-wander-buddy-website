@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-90-roter-schuss/
-https://www.harzer-wander-gui.de/harzer-wandernadel/190-bergrat-mueller-teich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 90: Roter Schuss"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/90-roter-schuss.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 90: Roter Schuss | Ellrich"
 comments: false
 imageshadow: true
 imageSource: '📷 [Roter Schuss](https://commons.wikimedia.org/wiki/File:Roter_Schuss.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der **Rote Schuss** liegt am Ende des Limbachtals im Ellricher Stadtwald auf 505 m Höhe. Zum Tal hin fällt er steil ab, wodurch der rote Porphyrit des Berges sichtbar wird. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Einer Legende nach lebte vor Jahrhunderten ein Wilderer in Ellrich. Ein junger Jäger stellte ihn eines Tages und wurde vom Wilderer erschossen. Seitdem soll der Berg aufgrund des vergossenen Blutes rot gefärbt sein. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Roten Schuss
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Ellricher Stadtwald**: Von hier führt ein beschilderter Weg direkt zum Roten Schuss. :contentReference[oaicite:2]{index=2}
+- **Rundwanderung**: Vom Roten Schuss weiter zur Wendeleiche (HWN 165), zur Stiefmutter (HWN 164) und zur Sonderstempelstelle Zweiländereiche. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61714%2C%2010.65168) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.61714,10.65168">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendeleiche)
+- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter)
+- [**„Zweiländereiche“ (Sonderstempel)**](/stempelstelle-sonder-zweiländereiche)

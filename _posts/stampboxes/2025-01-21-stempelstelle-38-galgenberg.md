@@ -1,48 +1,44 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-38-galgenberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/038-galgenberg-elbingerode/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 38: Galgenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/38-galgenberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 38: Galgenberg | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Galgenberg Elbingerode](https://commons.wikimedia.org/wiki/File:Galgenberg_Elbingerode.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Galgenberg bei Elbingerode erhebt sich 506 m über dem Meeresspiegel. Er ist die höchste Erhebung einer Kalksteinklippe östlich der Stadt. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Früher diente der Galgenberg als Gerichtsstätte. Ab dem 16. Jahrhundert stand hier der Galgen von Elbingerode. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Galgenberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Ein guter Startpunkt ist der Parkplatz im Zentrum von Elbingerode. Von dort führt der Weg über den Steinweg zum Galgenberg. Der örtliche Harzklub hat den Pfad gut ausgeschildert. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+Weitere Startpunkte:
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Büchenberg** (ca. 1,6 km): Kurzer Spaziergang durch den Wald.
+- **Rübeland** (ca. 4 km): Malerischer Weg entlang des Flusses.
+- **Königshütte** (ca. 6,3 km): Wanderung mit leichtem Anstieg.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7738%2C%2010.81677) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.7738,10.81677">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Tagebau Felswerke“ (HWN 39)**](/stempelstelle-39-tagebau-felswerke)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-41-ruine-koenigsburg)

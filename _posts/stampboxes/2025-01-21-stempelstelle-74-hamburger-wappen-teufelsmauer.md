@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-74-hamburger-wappen-teufelsmauer/
-https://www.harzer-wander-gui.de/harzer-wandernadel/074-hamburger-wappen/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 74: Hamburger Wappen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/74-hamburger-wappen-teufelsmauer.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 74: Hamburger Wappen | Timmenrode"
 comments: false
 imageshadow: true
 imageSource: '📷 [TeufelsmauerTimmenrode2](https://commons.wikimedia.org/wiki/File:TeufelsmauerTimmenrode2.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:JurecGermany" class="extiw" title="w:de:User:JurecGermany">JurecGermany</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Hamburger Wappen ist eine markante Felsformation der Teufelsmauer bei Timmenrode im Harz. Die drei aufragenden Felsnadeln erinnern an das Wappen der Hansestadt Hamburg. :contentReference[oaicite:0]{index=0}
 
+#### Geologische Bedeutung
 
+Die Felsgruppe besteht aus Sandstein und ist etwa 252 Meter über Normalnull hoch. Sie ist Teil der sagenumwobenen Teufelsmauer zwischen Blankenburg und Timmenrode. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Hamburger Wappen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Ab Timmenrode**: Vom Parkplatz am Sportplatz führt ein beschilderter Pfad in etwa 10 Minuten zum Hamburger Wappen. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ab Blankenburg**: Über den Löbbecke-Stieg (Kammweg) erreicht man die Felsformation nach ungefähr 3,2 Kilometern. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7769%2C%2011.00113) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.7769,11.00113">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Großvaterfelsen“ (HWN 76)**](/stempelstelle-76-grossvaterfelsen)
+- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-77-ruine-luisenburg)
+- [**„Barocke Gärten“ (HWN 78)**](/stempelstelle-78-barocke-gaerten)

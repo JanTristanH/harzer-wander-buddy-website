@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-98-ruine-hohnstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/098-ruine-hohnstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 98: Ruine Hohnstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/98-ruine-hohnstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 98: Ruine Hohnstein | Neustadt/Harz"
 comments: false
 imageshadow: true
-imageSource: '📷 [Wikimedia error 404](https://commons.wikimedia.org/wiki/File:Wikimedia_error_404.png) von Wikimedia Foundation unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
+imageSource: '📷 [Ruine Hohnstein](https://www.flickr.com/photos/184958786@N04/49212569986/) von Carola Ballat unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Ruine Hohnstein liegt nördlich von Neustadt im Harz auf einem Porphyrfelsen. Sie ist eine der ältesten Burgen der Region und bietet heute als Stempelstelle 98 der Harzer Wandernadel ein spannendes Ziel für Wanderer. 🏰
 
+#### Historische Bedeutung
 
+Erbaut um 1200, diente die Burg als Stammsitz der Grafen von Hohnstein. Nach Zerstörungen im Dreißigjährigen Krieg blieb sie als Ruine erhalten. Heute können Besucher die Überreste erkunden und dabei in die Geschichte eintauchen. :contentReference[oaicite:0]{index=0}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Ruine Hohnstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Von Neustadt/Harz**: Start am Parkplatz in Neustadt, gut ausgeschilderter Weg zur Burg.
+- **Über den Lönspark**: Malerischer Pfad durch den Lönspark zur Ruine. :contentReference[oaicite:1]{index=1}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.5698%2C%2010.83748) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.5698,10.83748">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Dampflokstieg Lok“ (HWN 99)**](/stempelstelle-99-dampflokstieg-lok)
+- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre)

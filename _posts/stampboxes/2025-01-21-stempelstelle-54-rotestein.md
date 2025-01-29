@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-54-rotestein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/054-rotestein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 54: Rotestein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/54-rotestein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 54: Rotestein | Hasselfelde"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rote-Stein-Blick1](https://commons.wikimedia.org/wiki/File:Rote-Stein-Blick1.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der **Rotestein** (503 m ü. NN) liegt nahe der Köhlerei Stemberghaus bei Hasselfelde. Von diesem Aussichtspunkt blickt man über die Rappbodetalsperre bis zum Brocken. :contentReference[oaicite:0]{index=0}
 
+#### Auszeichnung
 
+2010 wurde der Rotestein zur schönsten Stempelstelle der Harzer Wandernadel gewählt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Rotestein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Köhlerei Stemberghaus**: Start am Parkplatz, überquere die B81 und folge dem beschilderten Weg ca. 2 km zum Rotestein. :contentReference[oaicite:2]{index=2}
+- **Parkplatz an der B81**: Kurzer Weg von etwa 800 m zum Aussichtspunkt. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2010.88091) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.72912,10.88091">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stemberghaus - Köhlerei“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei)
+- [**„Rappbodeblick Trautenstein“ (HWN 56)**](/stempelstelle-56-rappbodeblick-trautenstein)

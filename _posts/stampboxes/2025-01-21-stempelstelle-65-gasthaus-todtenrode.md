@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-65-gasthaus-todtenrode/
-https://www.harzer-wander-gui.de/harzer-wandernadel/065-gasthaus-todtenrode/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 65: Gasthaus Todtenrode"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/65-gasthaus-todtenrode.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 65: Gasthaus Todtenrode | Altenbrak"
 comments: false
 imageshadow: true
 imageSource: '📷 [Todtenrode](https://commons.wikimedia.org/wiki/File:Todtenrode.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Gasthaus "Altes Forsthaus Todtenrode" liegt auf 420 m Höhe oberhalb von Altenbrak. Es ist von Waldwiesen umgeben und bietet eine gemütliche Atmosphäre mit zahlreichen Holzschnitzereien. Der Stempelkasten der Harzer Wandernadel befindet sich am Eingang des Gasthauses. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+1831 ließ Herzog Wilhelm hier ein Jagdhaus errichten, das später um eine Försterwohnung erweitert wurde. Nach 1945 musste das ursprüngliche Gebäude wegen Baufälligkeit abgerissen werden. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Gasthaus Todtenrode
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Altenbrak**: Etwa 2,7 km. Ein kurzer Weg durch den Wald führt direkt zum Gasthaus.
+- **Treseburg**: Ungefähr 3,6 km. Ein malerischer Pfad durch das Bodetal.
+- **Wienrode**: Rund 3,9 km. Ein angenehmer Spaziergang durch die Natur. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
+Das Gasthaus ist über die B81 erreichbar. Am Abzweig Altenbrak führt eine beschilderte Forststraße direkt zum Parkplatz der Gaststätte. :contentReference[oaicite:3]{index=3}
 
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73703%2C%2010.95567) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.73703,10.95567">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoenburg)

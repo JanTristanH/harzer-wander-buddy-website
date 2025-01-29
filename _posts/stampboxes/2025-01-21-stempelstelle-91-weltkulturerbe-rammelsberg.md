@@ -1,48 +1,37 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-91-weltkulturerbe-rammelsberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/191-laubtalblick/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 91: Weltkulturerbe Rammelsberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/91-weltkulturerbe-rammelsberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 91: Weltkulturerbe Rammelsberg | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rammelsberg Bergwerksanlagen](https://commons.wikimedia.org/wiki/File:Rammelsberg_Bergwerksanlagen.jpg) von <a href="//commons.wikimedia.org/wiki/User:AxelHH" title="User:AxelHH">Axel Hindemith</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Weltkulturerbe Rammelsberg liegt südlich von Goslar. Es war über 1.000 Jahre ununterbrochen in Betrieb und wurde 1988 stillgelegt. Seit 1992 gehört es zum UNESCO-Weltkulturerbe. Die Stempelstelle befindet sich im Innenraum des Haupteingangs. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Der Rammelsberg war eine der bedeutendsten Erzlagerstätten weltweit. Archäologische Funde deuten auf eine Nutzung seit über 3.000 Jahren hin. In der Nähe steht der Maltermeisterturm, das älteste Übertagegebäude des deutschen Bergbaus. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Rammelsberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt:** Parkplatz am Weltkulturerbe Rammelsberg
+  - **Route:** Vom Parkplatz führt ein moderater Anstieg zum Maltermeisterturm. Von dort kann man weiter zum Ramseck (HWN 114) wandern und eine fantastische Aussicht ins Harzvorland genießen. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.89008%2C%2010.41905) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.89008,10.41905">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ramseck“ (HWN 114)**](/stempelstelle-114-ramseck)

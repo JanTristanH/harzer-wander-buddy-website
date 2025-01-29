@@ -1,48 +1,45 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-61-harzer-grauwacke-rieder/
-https://www.harzer-wander-gui.de/harzer-wandernadel/061-harzer-grauwacke/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 61: Harzer Grauwacke Rieder"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/61-harzer-grauwacke-rieder.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 61: Harzer Grauwacke Rieder | Rieder"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harzer Grauwacke Rieder](https://commons.wikimedia.org/wiki/File:Harzer_Grauwacke_Rieder.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 61 der Harzer Wandernadel befindet sich am Grauwacke-Steinbruch oberhalb von Rieder, zwischen Gernrode und Ballenstedt. :contentReference[oaicite:0]{index=0}
+
+#### Historischer Hintergrund
+
+Seit 1935 wird im Eulenbachtal Grauwacke abgebaut. :contentReference[oaicite:1]{index=1}
+
+#### Wanderwege zur Harzer Grauwacke Rieder
+
+- **Bad Suderode (Parkplatz Sportplatz L239)**: 7,4 km
+- **Ballenstedt (Parkplatz am Schloss)**: 4,1 km
+- **Haferfeld (Wanderparkplatz)**: 5,4 km
+- **Parkplatz Suppenküche B185 / Buttlars Grab**: 1,8 km
+- **Selkemühle**: 6,5 km
+- **Sternhaus, L243**: 4,6 km
 
 
-
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
-
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.713333%2C%2011.179444) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.713333,11.179444">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
+- [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-65-gasthaus-todtenrode)

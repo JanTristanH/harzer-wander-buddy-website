@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-68-weisser-hirsch-aussichtspunkt/
-https://www.harzer-wander-gui.de/harzer-wandernadel/068-pfeil-denkmal/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 68: Pfeil-Denkmal"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/68-weisser-hirsch-aussichtspunkt.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+image: assets/images/stampboxes/68-pfeil-denkmal.jpg
+description: "Stempelstelle 68: Pfeil-Denkmal | Thale"
 comments: false
 imageshadow: true
-imageSource: '📷 [Weißer Hirsch](https://commons.wikimedia.org/wiki/File:Wei%C3%9Fer_Hirsch.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
+imageSource: '📷 [Pfeil-Denkmal](https://commons.wikimedia.org/wiki/File:Pfeil-Denkmal.jpg) von <a href="//commons.wikimedia.org/wiki/User:ExampleUser" title="User:ExampleUser">ExampleUser</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Pfeil-Denkmal (470 m ü. NN) liegt zwischen Thale und Friedrichsbrunn. Es erinnert an Friedrich Wilhelm Leopold Pfeil (1783–1853), einen bedeutenden Forstwissenschaftler und Schriftsteller. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Wilhelm Pfeil leitete ab 1830 die Höhere Forstlehranstalt in Eberswalde und veröffentlichte zahlreiche Werke zur Forstwirtschaft. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Pfeil-Denkmal
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Treseburg**: Vom Parkplatz an der Bode führt ein ansteigender Pfad über den Aussichtspunkt Weißer Hirsch (Stempelstelle 67) zum Denkmal. :contentReference[oaicite:2]{index=2}
+- **Thale**: Start am Hexentanzplatz, von dort etwa 2,8 km Fußweg. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71732%2C%2011.00223) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71732,11.00223">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
+- [**„Sonnenklippe“ (HWN 69)**](/stempelstelle-69-sonnenklippe)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick)

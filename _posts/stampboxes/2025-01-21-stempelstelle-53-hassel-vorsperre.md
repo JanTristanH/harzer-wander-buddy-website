@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-53-hassel-vorsperre/
-https://www.harzer-wander-gui.de/harzer-wandernadel/053-hasselvorsperre/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 53: Hassel-Vorsperre"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/53-hassel-vorsperre.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 53: Hassel-Vorsperre | Hasselfelde"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hasselvorsperre](https://commons.wikimedia.org/wiki/File:Hasselvorsperre.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Moonie&amp;action=edit&amp;redlink=1" class="new" title="User:Moonie (page does not exist)">Moonie</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Hassel-Vorsperre liegt zwischen Hasselfelde und Trautenstein. Sie dient der Rappbodetalsperre als Vorsperre und unterstützt die Trinkwasserversorgung. Ein Rundwanderweg von etwa 5,6 km Länge führt um den Stausee. Der Stempelkasten befindet sich an der rechten Seite der Staumauer. :contentReference[oaicite:0]{index=0}
 
+#### Geschichte der Hassel-Vorsperre
 
+Die Talsperre wurde von 1956 bis 1959 erbaut. Die 21,5 Meter hohe Staumauer staut 1,47 Millionen Kubikmeter Wasser. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Hassel-Vorsperre
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Hasselfelde (Wanderparkplatz Hagenmühle)**: Vom Parkplatz unterhalb der Hagenmühle führt ein 3 km langer Weg entlang des Sees zur Staumauer. :contentReference[oaicite:2]{index=2}
+- **Trautenstein**: Ein etwa 5 km langer Weg führt zur Hassel-Vorsperre. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70968%2C%2010.83113) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.70968,10.83113">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg)
+- [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
+- [**„Rappbodeblick“ (HWN 56)**](/stempelstelle-56-rappbodeblick)

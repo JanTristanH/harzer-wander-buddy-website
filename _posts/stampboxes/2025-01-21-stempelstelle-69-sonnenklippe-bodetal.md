@@ -1,48 +1,44 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-69-sonnenklippe-bodetal/
-https://www.harzer-wander-gui.de/harzer-wandernadel/069-sonnenklippe-bodetal/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 69: Sonnenklippe (Bodetal)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/69-sonnenklippe-bodetal.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 69: Sonnenklippe (Bodetal) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sonnenklippe](https://commons.wikimedia.org/wiki/File:Sonnenklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Sonnenklippe** ist ein markanter Felsvorsprung im Bodetal, nahe Treseburg. Sie liegt auf 280 m Höhe und ist als Stempelstelle 69 der Harzer Wandernadel bekannt. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Bis Anfang des 19. Jahrhunderts war das Bodetal nahezu unzugänglich. Erst um 1818 wurden die ersten Wanderwege angelegt, um den aufkommenden Tourismus zu fördern. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Sonnenklippe
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Treseburg**: Vom Parkplatz an der Bode folgt man dem Harzer-Hexen-Stieg in Richtung Thale und erreicht nach etwa 1 km die Sonnenklippe. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+- **Altenbrak**: Start am Parkplatz Bodewiese, ca. 4,8 km.
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Friedrichsbrunn**: Beginn am Parkplatz am Ramberg, etwa 8,2 km.
+
+- **Thale**: Vom Parkplatz Hexentanzplatz & Roßtrappe, rund 7,7 km. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.722%2C%2010.97013) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.722,10.97013">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)
+- [**„Hirschgrund“ (HWN 178)**](/stempelstelle-178-hirschgrund)

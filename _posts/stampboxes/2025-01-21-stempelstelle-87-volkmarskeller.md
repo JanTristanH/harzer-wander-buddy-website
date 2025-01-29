@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-87-volkmarskeller/
-https://www.harzer-wander-gui.de/harzer-wandernadel/087-volkmarskeller/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 87: Volkmarskeller"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/87-volkmarskeller.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 87: Volkmarskeller | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Volkmarskeller Cave 2](https://commons.wikimedia.org/wiki/File:Volkmarskeller_Cave_2.jpg) von <a href="//commons.wikimedia.org/wiki/User:Bermicourt" title="User:Bermicourt">Bermicourt</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Volkmarskeller ist eine natürliche Karsthöhle westlich von Blankenburg im Harz. Er liegt oberhalb des Klostergrundes, etwa 4 km vom Kloster Michaelstein entfernt. Die Höhle diente im Mittelalter als Einsiedelei und später als Klosterkirche. Heute ist sie als Stempelstelle 87 der Harzer Wandernadel bekannt. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Im 12. Jahrhundert errichteten Zisterziensermönche über der Höhle ein kleines Kloster, das sie nach ihrem Schutzheiligen "Michaelstein" nannten. Die Höhle wurde zu einer Höhlenkirche umgestaltet. 1884–87 wurde die Höhle von Baurat Brinkmann ausgegraben. An den Wänden fand sich noch alter Mörtelputz, und vor einem gemauerten Altarsockel fand man die Skelette von drei Erwachsenen und drei Kindern. Am Südeingang erinnern noch zwei eingehauene Weihekreuze und eine in den Felsen gehauene Nische an die einstige sakrale Funktion. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Volkmarskeller
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt Kloster Michaelstein**: Vom Parkplatz am Kloster führt ein Weg entlang der Klosterteiche zur Stempelstelle 59 "Klostergrund Michaelstein". Von dort folgt man dem beschilderten Pfad zum Volkmarskeller, vorbei an einem Denkmal für die 1893 bei einer Sprengstoffexplosion ums Leben gekommenen Bergleute der Grube Volkmar. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt Eggeröder Brunnen**: Ein kürzerer Weg führt vom Parkplatz in Eggeröder Brunnen in etwa 15 Minuten zur Höhle. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78734%2C%2010.87332) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.78734,10.87332">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Klostergrund Michaelstein“ (HWN 59)**](/stempelstelle-59-klostergrund-michaelstein)
+- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-79-otto-ebert-bruecke)

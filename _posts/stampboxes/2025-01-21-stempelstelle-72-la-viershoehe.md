@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-72-la-viershoehe/
-https://www.harzer-wander-gui.de/harzer-wandernadel/072-la-viershoehe/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 72: La Viershöhe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/72-la-viershoehe.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 72: La Viershöhe | Thale"
 comments: false
 imageshadow: true
-imageSource: '📷 [La Viers-Höhe](https://commons.wikimedia.org/wiki/File:La_Viers-H%C3%B6he.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
+imageSource: '📷 [La Viershöhe](https://commons.wikimedia.org/wiki/File:La_Viers-H%C3%B6he.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die La Viershöhe (478 m ü. NN) liegt oberhalb des Bodetals nahe dem Hexentanzplatz bei Thale. Von hier bietet sich ein beeindruckender Blick ins Bodetal und auf die gegenüberliegende Roßtrappe. :contentReference[oaicite:0]{index=0}
 
+#### Namensgebung
 
+Benannt ist die Höhe nach Oberförster La Viers, der im 19. Jahrhundert als ranghöchster Forstbeamter der Region tätig war. Er erkannte früh die landschaftliche Schönheit des Bodetals und förderte den Bau von Wanderwegen für Touristen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur La Viershöhe
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Hexentanzplatz**: Vom Hexentanzplatz führt ein beschilderter Pfad direkt zur La Viershöhe. :contentReference[oaicite:2]{index=2}
+- **Thale**: Start in Thale, Aufstieg über die Serpentine am Hirschgrund oder mit der Seilbahn zum Hexentanzplatz, dann weiter zur La Viershöhe. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73058%2C%2011.01683) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.73058,11.01683">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Prinzensicht“ (HWN 70)**](/stempelstelle-70-prinzensicht)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)
+- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
