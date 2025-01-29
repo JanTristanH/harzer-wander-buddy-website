@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-2-scharfenstein-rangerstation/
-https://www.harzer-wander-gui.de/harzer-wandernadel/002-scharfenstein-rangerstation/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 2: Scharfenstein (Rangerstation)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/2-scharfenstein-rangerstation.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 2: Scharfenstein (Rangerstation) | Ilsenburg"
 comments: false
 imageshadow: true
-imageSource: '📷 [RangerstatationScharfenstein](https://commons.wikimedia.org/wiki/File:RangerstatationScharfenstein.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
+imageSource: '📷 [Rangerstation Scharfenstein](https://commons.wikimedia.org/wiki/File:RangerstatationScharfenstein.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Scharfensteinklippe erhebt sich auf 698 m Höhe südwestlich von Ilsenburg. Direkt darunter befindet sich die Rangerstation Scharfenstein. Sie bietet Wanderern Informationen und einen Imbiss. Die Station ist Teil der Harzer Wandernadel als Stempelstelle 2. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Um 1875 ließ Graf Otto zu Stolberg-Wernigerode hier ein Forsthaus errichten. Dieses entwickelte sich bis 1920 zu einer beliebten Raststätte für Brockenwanderer. Nach wechselvoller Geschichte wurde 2002 die heutige Rangerstation mit zwei Blockhäusern eröffnet. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Scharfenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ilsenburg**: Vom Parkplatz Ilsetal (ca. 6,7 km) entlang des Heinrich-Heine-Wegs.
+- **Bad Harzburg**: Über die Eckertalsperre und den Teufelsstieg (ca. 9,7 km).
+- **Drei Annen Hohne**: Durch den Nationalpark Harz (ca. 12,7 km). :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83017%2C%2010.60277) ist der Stempel in Google Maps zu finden.
 
 <div class="mobile-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.83017,10.60277">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
 </div>
 </br>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Am Kruzifix“ (HWN 3)**](/stempelstelle-3-am-kruzifix)
+- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-4-taubenklippe)
+- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
