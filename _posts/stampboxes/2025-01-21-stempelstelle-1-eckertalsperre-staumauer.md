@@ -25,7 +25,7 @@ Die Eckertalsperre wurde 1943 erbaut und diente der Trinkwasserversorgung. Währ
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7962%2C%2010.5971) ist der Stempel in Google Maps zu finden.
 
-<div class="mobile-only">
+<div class="android-only">
   Auf einem Handy kannst du auch diesen 
   <a href="geo:51.7962,10.5971">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.

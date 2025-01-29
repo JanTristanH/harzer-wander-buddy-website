@@ -37,7 +37,7 @@ imageSource: '📷 [Bauerngraben im gefüllten Zustand](https://commons.wikimedi
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
 
 
-<div class="mobile-only">
+<div class="android-only">
   Auf einem Handy kannst du auch diesen 
   <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.

@@ -87,3 +87,10 @@ https://search.google.com/structured-data/testing-tool/u/0/
     }
     </script>
 {% endif %}
+
+<script>
+// Detect Android device
+if (!/Android/i.test(navigator.userAgent)) {
+  document.querySelector('.android-only').style.display = 'none';
+}
+</script>
