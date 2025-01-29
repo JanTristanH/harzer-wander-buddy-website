@@ -1,6 +1,47 @@
 Vormuliere einen Neuen Text aus den beiden Links. 
 Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
+SEO op---
+layout: post
+title:  "Stempelstelle 108: Sudmerberger Warte"
+author: buddy
+categories: [ Stempelstelle ]
+image: assets/images/stampboxes/108-sudmerberger-warte.jpg
+description: "Stempelstelle 108: Sudmerberger Warte | Goslar"
+comments: false
+imageshadow: true
+imageSource: '📷 [SudmerbergTurm](https://commons.wikimedia.org/wiki/File:SudmerbergTurm.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
+---
+
+Die Sudmerberger Warte liegt auf dem 354 m hohen Sudmerberg östlich von Goslar. Sie bietet einen weiten Blick auf Goslar, den Brocken und das Harzvorland. :contentReference[oaicite:0]{index=0}
+
+#### Historische Bedeutung
+
+Ursprünglich stand hier ein hölzerner Turm, der später durch einen steinernen ersetzt wurde. Von hier aus konnten die Goslarer Stadtwachen bei Gefahr alarmiert werden. Bis zum Ende des Zweiten Weltkriegs wurde der Turm militärisch genutzt. Heute dient er als Aussichtsturm. :contentReference[oaicite:1]{index=1}
+
+#### Wanderwege zur Sudmerberger Warte
+
+- **Startpunkt: Goslar**  
+  Vom Stadtzentrum führt ein Weg über die Mühlenstraße und den Burgweg zum Sudmerberg. Der Aufstieg ist steil, bietet aber herrliche Ausblicke auf den Harz und den Brocken. :contentReference[oaicite:2]{index=2}
+
+- **Startpunkt: Sudmerberg**  
+  Eine kürzere Route beginnt am Schützenhaus im Stadtteil Sudmerberg und führt direkt zur Warte. :contentReference[oaicite:3]{index=3}
+
+#### Anfahrt
+
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.46775) ist der Stempel in Google Maps zu finden.
+
+<div class="android-only">
+  Auf einem Handy kannst du auch diesen 
+  <a href="geo:51.91484,10.46775">🗺️ Link</a> 
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
+</div>
+
+#### Stempel in der Nähe
+
+- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm)
+- [**„Klusfelsen“ (HWN 112)**](/stempelstelle-112-klusfelsen)
+timiert für die Harzer Wandernadel.
 Ausgabe als markdown. Gib Nur den code aus.
 
 http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-108-sudmerberger-warte/

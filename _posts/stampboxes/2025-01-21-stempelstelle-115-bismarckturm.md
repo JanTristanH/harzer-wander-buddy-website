@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-115-bismarckturm/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 115: Bismarckturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/115-bismarckturm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 115: Bismarckturm | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bismarckturm Bad Lauterberg](https://commons.wikimedia.org/wiki/File:Bismarckturm_Bad_Lauterberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Stefan_Bellini" title="User:Stefan Bellini">Stefan Bellini</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der 15 Meter hohe Bismarckturm steht auf dem Kummelberg (536 m ü. NN) in Bad Lauterberg. Er wurde 1904 auf Initiative von Sanitätsrat August Tischmann erbaut und gehört heute dem Harzklub ZV Bad Lauterberg. Vom Turm bietet sich ein hervorragender Blick auf den Großen Knollen, die Hanskühnenburg, den Brocken, den Wurmberg, Sankt Andreasberg, die Odertalsperre, den Ravensberg sowie Bad Lauterberg und seine Ortsteile. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Bismarckturm wurde zu Ehren von Otto von Bismarck errichtet. Ein bronzenes Relief des Reichskanzlers ziert den Turm über dem Eingang. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bismarckturm
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Vom Parkplatz Lönsweg**: Ein direkter Weg führt vom Parkplatz am Lönsweg zum Turm. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Über die Kummelstraße**: Starten Sie in der Kummelstraße und folgen Sie dem Weg in Serpentinen durch den Wald bis zur Waldgaststätte Bismarckturm. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64080%2C%2010.47221) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.64080,10.47221">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-großer-knollen)
+- [**„Burgruine Scharzfels“ (HWN 151)**](/stempelstelle-151-burgruine-scharzfels)
+- [**„Ravensberg“ (HWN 102)**](/stempelstelle-102-ravensberg)

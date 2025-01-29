@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-102-lageswarte/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 102: Lageswarte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/102-lageswarte.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 102: Lageswarte | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Lageswarte](https://commons.wikimedia.org/wiki/File:Lageswarte.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Lageswarte liegt am Innerste-Rennstieg zwischen Lautenthal und Neuekrug-Hahausen, oberhalb der Innerstetalsperre. Vom Gipfel bietet sich ein wunderschöner Blick auf die Innerste-Talsperre und den Brocken. 🏞️
 
+#### Historische Bedeutung
 
+Jungsteinzeitliche und bronzezeitliche Funde belegen, dass der Rennstieg seit Jahrtausenden als Verbindungsweg für Nachrichten und Warentransport genutzt wurde. Im 10. Jahrhundert bildete der Innerste-Rennstieg die Grenze des zu Werla gehörenden Forstes. Die nördliche Strecke des Rennstiegs verläuft über die Lageswarte. [^1]
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Lageswarte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Sternplatz**: Oberhalb von Lautenthal gelegen. Von hier aus kann man eine Wanderung zur Lageswarte in Verbindung mit dem Luchsstein (HWN 103) und der Tränkebachhütte (HWN 104) unternehmen. [^1]
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.25144) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.91484,10.25144">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)
+- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette)
+
+[^1]: [Stempelstelle 102 / Lageswarte - Harzer Wandernadel](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-102-lageswarte/)

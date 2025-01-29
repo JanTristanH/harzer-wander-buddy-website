@@ -1,48 +1,43 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-113-grumbacher-teich/
-https://www.harzer-wander-gui.de/harzer-wandernadel/113-grumbacher-teich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 113: Grumbacher Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/113-grumbacher-teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 113: Grumbacher Teich | Hahnenklee-Bockswiese"
 comments: false
 imageshadow: true
 imageSource: '📷 [Unterer Grumbacher Teich](https://commons.wikimedia.org/wiki/File:Unterer_Grumbacher_Teich.JPG) von <a href="//commons.wikimedia.org/wiki/User:BRFBlake" title="User:BRFBlake">BRFBlake</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Untere Grumbacher Teich liegt zwischen Hahnenklee-Bockswiese und Wildemann im Großen Dreckstal. Er gehört zum Oberharzer Wasserregal und wurde von Bergleuten angelegt, um Wasserräder zu betreiben. 🌊
 
+#### Historische Bedeutung
 
+Der Teich diente nicht nur der Energiegewinnung, sondern auch dem Holzflößen. Mehrere Grumbacher Teiche entstanden zwischen 1673 und 1714. 🪵
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Grumbacher Teich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Kuttelbacher Teich**: 2,0 km
+- **Clausthal-Zellerfeld, Parkplatz Kiefhölzer Teich**: 7,9 km
+- **Hahnenklee, Parkplatz Hotel Harzhöhe**: 4,2 km
+- **Lautenthal, Parkplatz Tourist Info**: 3,6 km
+- **Wanderparkplatz Auerhahn B241**: 6,0 km
+- **Wildemann, Parkplatz Hindenburgstraße**: 3,6 km
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84918%2C%2010.29940) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.84918,10.29940">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
+- [**„Liebesbankweg“ (HWN 112)**](/stempelstelle-112-liebesbankweg)
+- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)

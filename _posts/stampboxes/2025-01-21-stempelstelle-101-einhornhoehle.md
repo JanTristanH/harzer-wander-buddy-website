@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-101-einhornhoehle/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 101: Einhornhöhle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/101-einhornhoehle.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 101: Einhornhöhle | Scharzfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Scharzfeld (Herzberg) - Einhornhöhle (01-2)](https://commons.wikimedia.org/wiki/File:Scharzfeld_(Herzberg)_-_Einhornh%C3%B6hle_(01-2).jpg) von <a href="//commons.wikimedia.org/wiki/User:Norbert_Kaiser" title="User:Norbert Kaiser">Norbert Kaiser</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Einhornhöhle liegt bei Scharzfeld im Harz. Sie ist die größte begehbare Karsthöhle im Westharz. Ihren Namen verdankt sie Knochenfunden, die einst für Überreste von Einhörnern gehalten wurden. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Im 17. Jahrhundert rekonstruierte Otto von Guericke aus den Knochen ein Einhorn. Man glaubte damals an die heilende Wirkung dieser Knochen und verkaufte sie als Medizin. Später erkannte man, dass es sich um fossile Überreste von Großsäugetieren wie dem Höhlenbären handelte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Einhornhöhle
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt Scharzfeld**: Vom Ortsteil Scharzfeld führt ein ausgeschilderter Weg direkt zur Höhle. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Rundweg über die Burgruine Scharzfels**: Kombinieren Sie den Besuch der Einhornhöhle mit einer Wanderung zur nahegelegenen Burgruine Scharzfels (Stempelstelle 151). :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63502%2C%2010.40440) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.63502,10.40440">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Ruine Scharzfels“ (HWN 151)**](/stempelstelle-151-ruine-scharzfels)

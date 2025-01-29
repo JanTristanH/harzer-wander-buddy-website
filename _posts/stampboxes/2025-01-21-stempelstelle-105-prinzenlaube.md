@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-105-prinzenlaube/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 105: Prinzenlaube"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/105-prinzenlaube.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 105: Prinzenlaube | Wildemann"
 comments: false
 imageshadow: true
 imageSource: '📷 [Prinzenlaube](https://commons.wikimedia.org/wiki/File:Prinzenlaube.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Prinzenlaube steht auf der Ernst-August-Höhe bei Wildemann im Harz. Sie liegt auf 558 Metern Höhe und bietet einen herrlichen Blick auf die Bergstadt Wildemann. Heute befindet sich dort eine Wanderhütte des Harzklub-Zweigvereins Wildemann, die einer Köhlerhütte nachempfunden ist. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Im November 1814 besuchte Prinz Adolph von Hannover die Stelle, genoss die Aussicht und wurde in einer Laube bewirtet. 1839 erhielt das Gebäude anlässlich des Besuchs von König Ernst-August II. das Aussehen einer "Jägerei". Zu Ehren des Königs wurde der Berg in "Ernst-August-Höhe" umbenannt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Prinzenlaube
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Ernst-August-Stieg**: Von Wildemann führt der ausgeschilderte "Ernst-August-Stieg" direkt zur Prinzenlaube. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+- **Spiegeltal-Weg**: Ein Wanderweg durch das Spiegeltal mit Anschluss nach Clausthal-Zellerfeld. :contentReference[oaicite:3]{index=3}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Adlersberg-Route**: Ein Weg am westlichen Adlersberg entlang bis nach Lautenthal. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82580%2C%2010.28858) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.82580,10.28858">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Grumbacher Teiche“ (HWN 113)**](/stempelstelle-113-grumbacher-teiche)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
+- [**„Albertturm“ (HWN 130)**](/stempelstelle-130-albertturm)

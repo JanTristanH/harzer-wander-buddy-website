@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-104-traenkebachhuette/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 104: Tränkebachhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/104-traenkebachhuette.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 104: Tränkebachhütte | Seesen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Tränkebachhütte](https://commons.wikimedia.org/wiki/File:Tr%C3%A4nkebachh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Tränkebachhütte liegt auf 560 m Höhe oberhalb von Seesen. Sie ist eine gepflegte Schutzhütte des Harzklub ZV Seesen. Bei klarem Wetter reicht der Blick bis ins Weserbergland. Neben der Hütte entspringt der Tränkebach. Die Hütte befindet sich am Steinway Trail, der von Wolfshagen nach Seesen führt. :contentReference[oaicite:0]{index=0}
 
+#### Steinway Trail
 
+Der Steinway Trail erinnert an Heinrich Engelhard Steinweg, den Gründer von Steinway & Sons. Er wurde 1797 in Wolfshagen geboren und zog 1825 nach Seesen. Dort baute er Klaviere, bevor er 1850 nach New York auswanderte und die weltbekannte Firma gründete. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Tränkebachhütte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Sternplatz**: An der Straße von Lautenthal nach Seesen gelegen. Von hier führt ein beschilderter Forstweg zur Hütte. :contentReference[oaicite:2]{index=2}
+- **Parkplatz Neckelnberg**: Ebenfalls an der Straße von Lautenthal nach Seesen. Ein weiterer Ausgangspunkt für die Wanderung. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88490%2C%2010.23857) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.88490,10.23857">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)
+- [**„Lageswarte“ (HWN 102)**](/stempelstelle-102-lageswarte)

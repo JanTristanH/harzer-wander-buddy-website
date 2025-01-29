@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-106-schoene-aussicht-bielstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/106-schoene-aussicht-bielstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 106: Schöne Aussicht Bielstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/106-schoene-aussicht-bielstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 106: Schöne Aussicht Bielstein | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schöne Aussicht, Bielstein](https://commons.wikimedia.org/wiki/File:Sch%C3%B6ne_Aussicht,_Bielstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Schöne Aussicht Bielstein** (495 m ü. NN) liegt oberhalb von Lautenthal am Westhang des Bielsteins. Eine Schutzhütte und mehrere Bänke laden zur Rast ein. Von hier bietet sich ein herrlicher Blick auf Lautenthal. 🌄
 
+#### Glücksplatz der Harzer Wandernadel
 
+Diese Stempelstelle ist einer der elf Glücksplätze der Harzer Wandernadel. Ein Ort zum Verweilen und Genießen. 🍀
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Schönen Aussicht Bielstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Lautenthal**: Start an der Tourist-Info, 2,5 km Aufstieg. :contentReference[oaicite:0]{index=0}
+- **Innerstetalsperre**: Wanderparkplatz an der L545, 4,3 km. :contentReference[oaicite:1]{index=1}
+- **Bockswiese**: Kuttelbacher Teich an der L516, 5,9 km. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87683%2C%2010.29205) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.87683,10.29205">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
+- [**„Mandolinenhütte“ (HWN 142)**](/stempelstelle-142-mandolinenhuette)
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)

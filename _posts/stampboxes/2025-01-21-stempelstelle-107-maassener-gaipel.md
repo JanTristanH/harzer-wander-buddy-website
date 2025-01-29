@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-107-maassener-gaipel/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 107: Maaßener Gaipel"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/107-maassener-gaipel.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 107: Maaßener Gaipel | Lautenthal"
 comments: false
 imageshadow: true
-imageSource: '📷 [Maassener Gaipel 01](https://commons.wikimedia.org/wiki/File:Maassener_Gaipel_01.JPG) von <a href="https://de.wikipedia.org/wiki/User:Matthias_Becker" class="extiw" title="de:User:Matthias Becker">Matthias Becker</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
+imageSource: '📷 [Maaßener Gaipel](https://commons.wikimedia.org/wiki/File:Maassener_Gaipel_01.JPG) von <a href="https://de.wikipedia.org/wiki/User:Matthias_Becker" class="extiw" title="de:User:Matthias Becker">Matthias Becker</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Maaßener Gaipel liegt oberhalb von Lautenthal im Harz. Von hier bietet sich ein beeindruckender Blick auf die Stadt und die umliegende Berglandschaft. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Begriff "Gaipel" stammt von den früheren Göpelrädern, mit denen Pferde silberhaltige Erze aus dem Schacht förderten. Heute erinnert ein Bergbauerlebnispfad in der Nähe an diese Bergbaugeschichte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Maaßener Gaipel
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz beim Restaurant**: es kann dierekt bis zur Maaßener Gaipel vorgefahren werden
+- **Startpunkt Lautenthal**: Vom Ortszentrum führt ein markierter Weg direkt zum Maaßener Gaipel.
+- **Bergbaulehrpfad**: Ein thematischer Pfad von Lautenthal aus, der die Bergbaugeschichte der Region erläutert. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86360%2C%2010.29024) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.86360,10.29024">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Unterer Grumbacher Teich“ (HWN 113)**](/stempelstelle-113-unterer-grumbacher-teich)

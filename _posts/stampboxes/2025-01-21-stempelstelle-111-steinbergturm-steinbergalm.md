@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-111-steinbergturm-steinbergalm/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 111: Steinbergturm / Steinbergalm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/111-steinbergturm-steinbergalm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 111: Steinbergturm / Steinbergalm | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Steinberg 02](https://commons.wikimedia.org/wiki/File:Steinberg_02.jpg) von <a href="//commons.wikimedia.org/wiki/User:Rabanus_Flavus" title="User:Rabanus Flavus">Rabanus Flavus</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Steinbergturm steht südwestlich von Goslar auf dem 472 m hohen Steinberg. Er wurde 1888 als Kaiserturm erbaut. Vom Turm bietet sich ein beeindruckender Blick auf den Granestausee, den Rammelsberg und das Harzvorland. Der Stempelkasten befindet sich direkt vor dem Turm. Ein weiterer Stempelkasten mit der Nummer 111 ist vor der Steinbergalm zu finden.
 
+#### Steinbergalm
 
+Die Steinbergalm liegt in unmittelbarer Nähe des Steinbergturms und bietet Wanderern eine gemütliche Einkehrmöglichkeit. Weitere Informationen finden Sie auf der [Website der Steinbergalm](http://www.steinbergalm.de/).
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Steinbergturm
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz „Unter den Linden“**: Vom Parkplatz führt ein gut ausgeschilderter Weg direkt zum Steinbergturm.
+- **Parkplatz „Unter den Eichen“**: Auch von hier gelangt man auf einem angenehmen Pfad zum Turm.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.90652%2C%2010.40525) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.90652,10.40525">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Granestausee“ (HWN 110)**](/stempelstelle-110-granestausee)
+- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank)
+- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
