@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-116-verlobungsinsel-in-der-oker/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 116: Verlobungsinsel in der Oker"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/116-verlobungsinsel-in-der-oker.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 116: Verlobungsinsel in der Oker | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [OkerVerlobungsinsel](https://commons.wikimedia.org/wiki/File:OkerVerlobungsinsel.JPG) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Verlobungsinsel liegt im wildromantischen Okertal bei Goslar. Sie ist von mächtigen Granitblöcken umgeben und über eine kleine Holzbrücke erreichbar. Hier befindet sich die Stempelstelle 116 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
 
+#### Romkerhaller Wasserfall
 
+Oberhalb der Verlobungsinsel liegt der Romkerhaller Wasserfall. Über den künstlich angelegten, etwa 70 Meter tiefen Wasserfall stürzt das Wasser des Flusses Romke hinab und fließt dann in die Oker. Auf einer Aussichtsplattform können Sie dieses Schauspiel beobachten. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Verlobungsinsel
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt: Parkplatz Romkerhalle**  
+  Vom Parkplatz Romkerhalle unterhalb des Wasserkraftwerks gelangt man über den beschilderten, steinigen Weg flussabwärts und über eine Holzbrücke zur Verlobungsinsel. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt: Parkplatz an der B498**  
+  Alternativ kann man vom Parkplatz an der B498 unweit der Staumauer des Ausgleichsbeckens starten und erreicht die Verlobungsinsel über einen teilweise recht beschwerlichen Wanderweg entlang des westlichen Ufers der Oker. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.8506%2C%2010.4711) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.8506,10.4711">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
+- [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus)
+- [**„Hallesche Hütte“ (HWN 119)**](/stempelstelle-119-hallesche-huette)

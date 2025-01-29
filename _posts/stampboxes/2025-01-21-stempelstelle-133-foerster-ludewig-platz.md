@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-133-foerster-ludewig-platz/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 133: Förster-Ludewig-Platz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/133-foerster-ludewig-platz.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 133: Förster-Ludewig-Platz | Altenau"
 comments: false
 imageshadow: true
 imageSource: '📷 [Förster-Ludewig-Platz](https://commons.wikimedia.org/wiki/File:F%C3%B6rster-Ludewig-Platz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Förster-Ludewig-Platz liegt idyllisch am Dammgraben zwischen Altenau und Torfhaus. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Hier steht ein Denkmal für die im Ersten Weltkrieg gefallenen Waldarbeiter und Förster Meyer. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Förster-Ludewig-Platz
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz an der Straße Torfhaus–Altenau**: Ein kurzer Weg entlang des Dammgrabens führt direkt zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Über den Harzer Hexenstieg**: Der Weg führt über den Nabentaler Wasserfall und die Skiwiese am Rinderkopf zum Torfhaus. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80347%2C%2010.48783) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.80347,10.48783">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kleine Oker“ (HWN 149)**](/stempelstelle-149-kleine-oker)
+- [**„Brander Klippe“ (HWN 134)**](/stempelstelle-134-brander-klippe)
+- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)

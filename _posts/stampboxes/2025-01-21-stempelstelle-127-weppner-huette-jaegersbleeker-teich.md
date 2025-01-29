@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-127-weppner-huette-jaegersbleeker-teich/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 127: Weppner Hütte, Jägersbleeker Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/127-weppner-huette-jaegersbleeker-teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 127: Weppner Hütte, Jägersbleeker Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Jaegersbleeker Teich 030](https://commons.wikimedia.org/wiki/File:Jaegersbleeker_Teich_030.jpg) von Sarkana unter Lizenz [FAL](http://artlibre.org/licence/lal/en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Jägersbleeker Teich liegt zwischen Clausthal-Zellerfeld und dem Sperberhaier Dammhaus. Er gehört zum Oberharzer Wasserregal, dient der Trinkwassergewinnung und steht unter Biotopschutz. Am Ende des Staudamms steht die nach Forstamtmann August Weppner benannte Schutzhütte mit der Stempelstelle 127. :contentReference[oaicite:0]{index=0}
 
+#### Oberharzer Wasserregal
 
+Das Oberharzer Wasserregal ist ein historisches System von Teichen, Gräben und Wasserläufen zur Energieversorgung des Bergbaus. Heute ist es ein UNESCO-Weltkulturerbe und bietet Einblicke in die Ingenieurskunst vergangener Zeiten.
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Weppner Hütte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Polsterberger Hubhaus**: Von der Waldgaststätte führt ein Wanderweg oberhalb der Terrasse durch den Wald direkt zur Stempelstelle. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Clausthal-Zellerfeld**: Ein Weg über den Damm des Jägersbleeker Teichs verbindet die Stadt mit der Weppner Hütte. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79791%2C%2010.38888) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.79791,10.38888">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Huttaler Widerwaage“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage)
+- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich)
+- [**„Polsterberger Hubhaus“ (HWN 169)**](/stempelstelle-169-polsterberger-hubhaus)

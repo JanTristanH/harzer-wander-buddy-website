@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-143-koete-schindelkopf/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 143: Köte Schindelkopf"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/143-koete-schindelkopf.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 143: Köte Schindelkopf | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Köte Schindelkopf](https://commons.wikimedia.org/wiki/File:K%C3%B6te_Schindelkopf.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die **Köte Schindelkopf** liegt auf 550 m Höhe südwestlich des Acker-Höhenzugs bei Osterode am Harz. Von hier bietet sich ein Blick auf die Sösetalsperre und das südliche Harzvorland. :contentReference[oaicite:0]{index=0}
 
+#### Historische Schutzhütte
 
+Im Jahr 2002 wurde hier eine Schutzhütte im Stil der traditionellen Köten errichtet. Früher dienten solche Unterkünfte den Köhlern als Wohn- und Arbeitsstätte, da sie ihre Meiler ständig beaufsichtigen mussten. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Köte Schindelkopf
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Waldvogelstation an der Sösetalsperre**: Vom Wanderparkplatz führt ein kurzer, ausgeschilderter Weg zur Köte. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Wanderparkplatz „Fuchshaller Weg“**: Am Stadtrand von Osterode beginnt der Weg über den „Nassen Weg“ zur Köte. Von dort kann die Tour zur Hanskühnenburg (HWN 144) fortgesetzt werden. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72322%2C%2010.33626) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.72322,10.33626">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg)

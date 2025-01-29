@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-135-wolfswarte/
-https://www.harzer-wander-gui.de/harzer-wandernadel/135-wolfswarte/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 135: Wolfswarte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/135-wolfswarte.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 135: Wolfswarte | Altenau"
 comments: false
 imageshadow: true
 imageSource: '📷 [BruchbergWolfswarte](https://commons.wikimedia.org/wiki/File:BruchbergWolfswarte.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Wolfswarte (918 m ü. NN) ist eine markante Felskuppe aus Quarzit im Nationalpark Harz. Sie liegt nahe Altenau und bietet einen weiten Blick über den Westharz bis ins nördliche Harzvorland. 🌄
 
+#### Historische Bedeutung
 
+Die Wolfswarte gehört zum Bruchbergmassiv, dessen höchster Punkt (927 m ü. NN) etwa 700 m südlich liegt. Der eigentliche Gipfel ist nicht zugänglich, da er in der Kernzone des Nationalparks liegt. Die Wolfswarte hingegen ist ein beliebtes Wanderziel und Teil der Harzer Wandernadel als Stempelstelle 135. 🥾
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Wolfswarte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Von Torfhaus**: Start am Parkplatz Brockenblick (gebührenpflichtig). Der Weg ist etwa 3 km lang und führt über gut markierte Pfade zur Wolfswarte. 🗺️
 
-#### Wanderwege zur / zum <namen>
+- **Von Altenau**: Beginn am Parkplatz „Am Mühlenberg“. Über den Gustav-Baumann-Weg gelangt man zum Dammgraben und weiter zur Wolfswarte. Diese Route ist länger, bietet aber schöne Ausblicke. 🏞️
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz an der L504**: Für eine kürzere Wanderung kann man an der Straße von Torfhaus nach Altenau parken. Von dort führt ein steiniger Pfad direkt zur Wolfswarte. Trittsicherheit und gutes Schuhwerk sind erforderlich. 👟
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78933%2C%2010.50037) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.78933,10.50037">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gustav-Baumann-Weg“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg)
+- [**„Förster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz)
+- [**„Kleine Oker“ (HWN 149)**](/stempelstelle-149-kleine-oker)

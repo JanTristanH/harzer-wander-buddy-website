@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-123-gaststaette-rinderstall/
-https://www.harzer-wander-gui.de/harzer-wandernadel/123-gaststaette-rinderstall/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 123: Gaststätte Rinderstall"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/123-gaststaette-rinderstall.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 123: Gaststätte Rinderstall | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gaststätte Rinderstall](https://commons.wikimedia.org/wiki/File:Gastst%C3%A4tte_Rinderstall.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Gaststätte Rinderstall liegt zwischen Braunlage und Sankt Andreasberg im idyllischen Odertal. Sie ist Stempelstelle 123 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Seit 1870 diente das Odertal als Sommerweide für die braunen Harzrinder. Der Rinderstall bot Unterkunft für Hirten und Tiere. Später entwickelte er sich zur beliebten Waldgaststätte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Gaststätte Rinderstall
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Oderhaus**: Start am Parkplatz Oderhaus, ebener Weg zum Rinderstall.
+- **Oderteich**: Wanderung über das Oberharzer Wasserregal, ca. 6,7 km.
+- **Königskrug**: Route von Königskrug, ca. 5,3 km.
+- **St. Andreasberg**: Weg ab St. Andreasberg, ca. 3,7 km. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71541%2C%2010.56131) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71541,10.56131">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Naturmythenpfad“ (HWN 148)**](/stempelstelle-148-naturmythenpfad)
+- [**„Rehberger Grabenhaus“ (HWN 155)**](/stempelstelle-155-rehberger-grabenhaus)
+- [**„Dreibrodestein“ (HWN 154)**](/stempelstelle-154-dreibrodestein)

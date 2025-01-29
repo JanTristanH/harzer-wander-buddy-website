@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-120-elfenstein/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 120: Elfenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/120-elfenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 120: Elfenstein | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [ElfensteinHarz](https://commons.wikimedia.org/wiki/File:ElfensteinHarz.jpg) von <a href="//commons.wikimedia.org/wiki/User:BRFBlake" title="User:BRFBlake">BRFBlake</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Elfenstein ist eine markante Felsformation am Stadtrand von Bad Harzburg, in der sogenannten Elfenecke. Über in den Fels gehauene Stufen kann man den Gipfel erklimmen und einen schönen Blick auf Bad Harzburg und das Harzvorland genießen. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Im Mittelalter galt der Elfenstein als Wohnstätte von Elfen oder anderen Lichtwesen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Elfenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt:** Café Winuwuk
+  - **Route:** Vom Café auf die Waldstraße, dann über die Straße "Am Elfenstein" auf den Wanderweg 50C, der steil zum Elfenstein führt. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87910%2C%2010.52723) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.87910,10.52723">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus)
+- [**„Verlobungsinsel in der Oker“ (HWN 116)**](/stempelstelle-116-verlobungsinsel-in-der-oker)
+- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)

@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-146-grosses-wehr/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 146: Großes Wehr"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/146-grosses-wehr.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 146: Großes Wehr | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Morgenbrodtshütte](https://commons.wikimedia.org/wiki/File:Morgenbrodtsh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das **Große Wehr** liegt zwischen der Hammersteinklippe an der Stieglitzecke und dem Sperberhaier Dammhaus. Hier beginnt der 4,1 km lange Morgenbrodtsthaler Graben, der Wasser von der Großen Söse und dem Morgenbrodtsbach zum Dammgraben leitet. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Morgenbrodtsthaler Graben wurde 1715 erschlossen. Mit dem Bau des Sperberhaier Damms (1732–1734) konnte sein Wasser für den Erzbergbau in den Gruben Dorothea und Caroline genutzt werden. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Großen Wehr
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Sperberhaier Dammhaus**: Vom Dammhaus führt ein Weg entlang des Morgenbrodtsthaler Grabens direkt zum Großen Wehr. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Stieglitzecke**: Ein steilerer Pfad führt von der Stieglitzecke über die Hammersteinklippe und am Sösestein vorbei zum Großen Wehr. Aktuell ist dieser Weg jedoch aufgrund umgestürzter Bäume nicht begehbar. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.76260%2C%2010.44573) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.76260,10.44573">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg)
+- [**„Schmidts-Denkmal“ (HWN 145)**](/stempelstelle-145-schmidts-denkmal)
+- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)

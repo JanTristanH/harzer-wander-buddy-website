@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-141-Oberer-Hahnebalzer-Teich/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 141: Oberer Hahnebalzer Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/141-Oberer-Hahnebalzer-Teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 141: Oberer Hahnebalzer Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Oberer Hahnebalzer Teich](https://commons.wikimedia.org/wiki/File:Oberer_Hahnebalzer_Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Obere Hahnebalzer Teich liegt nahe Clausthal-Zellerfeld im Harz. Er gehört zum UNESCO-Weltkulturerbe Oberharzer Wasserregal. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Teich wurde im 17. Jahrhundert durch einen 8 Meter hohen Damm aufgestaut. Er diente der Energieversorgung der Erzgruben nahe Bad Grund. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Oberen Hahnebalzer Teich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Prinzenteich**: Vom Parkplatz am Prinzenteich führt der Harzer Försterstieg direkt zum Teich. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Lasfelder Tränke**: Eine Route führt von der Lasfelder Tränke (Stempelstelle 131) zum Oberen Hahnebalzer Teich. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.784750%2C%2010.286183) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.784750,10.286183">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kaysereiche“ (HWN 131)**](/stempelstelle-131-kaysereiche)
+- [**„Prinzenteich“ (HWN 139)**](/stempelstelle-139-prinzenteich)

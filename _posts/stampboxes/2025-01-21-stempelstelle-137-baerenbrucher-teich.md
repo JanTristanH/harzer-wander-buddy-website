@@ -1,48 +1,37 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-137-baerenbrucher-teich/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 137: Bärenbrucher Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/137-baerenbrucher-teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 137: Bärenbrucher Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
-imageSource: '📷 [BärenbrLuftbild](https://commons.wikimedia.org/wiki/File:B%C3%A4renbrLuftbild.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">Benutzer:JuTe CLZ</a> unter Lizenz Public domain'
+imageSource: '📷 [Bärenbrucher Teich](https://commons.wikimedia.org/wiki/File:B%C3%A4renbrucher_Teich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">Benutzer:JuTe CLZ</a> unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Bärenbrucher Teich liegt östlich von Buntenbock bei Clausthal-Zellerfeld. Er gehört zum Oberharzer Wasserregal und stammt aus dem 17. Jahrhundert. Heute fließt sein Wasser über den Überlauf in den Ziegenberger Teich. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Ursprünglich diente der Teich der Energieversorgung der Oberharzer Bergwerke. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bärenbrucher Teich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **WasserWanderWeg Buntenbocker Teiche**: Familienfreundlicher Rundweg ab dem Großen Sumpfteich bei Buntenbock. Unterwegs passieren Sie mehrere Teiche und Wasserläufe. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.777546%2C%2010.351589) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.777546,10.351589">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich)
+- [**„Oberer Hahnebalzer Teich“ (HWN 141)**](/stempelstelle-141-oberer-hahnebalzer-teich)

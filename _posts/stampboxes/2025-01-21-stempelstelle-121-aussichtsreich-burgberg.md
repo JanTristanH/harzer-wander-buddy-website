@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-121-aussichtsreich-burgberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/121-aussichtsreich-burgberg/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 121: Aussichtsreich Burgberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/121-aussichtsreich-burgberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 121: Aussichtsreich Burgberg | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bad Harzburg Großer Burgberg Canossasäule](https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Gro%C3%9Fer_Burgberg_Canossas%C3%A4ule.jpg) von <a href="//commons.wikimedia.org/wiki/User:Rabanus_Flavus" title="User:Rabanus Flavus">Rabanus Flavus</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das **Aussichtsreich** ist ein Gasthaus auf dem Großen Burgberg (483 m ü. NN) über Bad Harzburg. Es ist zu Fuß oder mit der Seilbahn erreichbar. Die Stempelstelle befindet sich direkt am Gartenzaun des Gasthauses, neben der Bergstation der Seilbahn. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung des Burgbergs
 
+Im 8. Jahrhundert stand hier das Standbild des sächsischen Gottes Krodo. Zwischen 1065 und 1068 ließ Kaiser Heinrich IV. die erste Harzburg errichten. Nach Zerstörungen und Wiederaufbauten wurde die Burg im 17. Jahrhundert endgültig abgetragen. Heute kümmert sich der „Förderverein Historischer Burgberg Bad Harzburg e.V.“ um die Überreste. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Aussichtsreich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Bad Harzburg, Großparkplatz B4**: 1,7 km, Aufstieg zu Fuß oder mit der Seilbahn.
+- **Radauwasserfall, Wanderparkplatz B4**: 4,1 km, mittelschwerer Anstieg durch den Wald.
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+:contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.871667%2C%2010.566389) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.871667,10.566389">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kreuz des deutschen Ostens“ (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens)
+- [**„Rabenklippe“ (HWN 170)**](/stempelstelle-170-rabenklippe)
+- [**„Molkenhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus)

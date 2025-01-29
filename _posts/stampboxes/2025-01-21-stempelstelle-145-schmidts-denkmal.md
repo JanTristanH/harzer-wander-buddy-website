@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-145-schmidts-denkmal/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 145: Schmidts-Denkmal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/145-schmidts-denkmal.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 145: Schmidts-Denkmal | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schmidts-Denkmal](https://commons.wikimedia.org/wiki/File:Schmidts-Denkmal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Schmidts-Denkmal liegt auf 607 m Höhe zwischen dem Parkplatz Polsterberg bei Clausthal-Zellerfeld und dem Ort Kammschlacken. Es erinnert an den königlichen Feldjäger August Schmidt, der am 2. Juni 1849 von zwei Wilddieben überfallen und tödlich verletzt wurde. Schwer verwundet schleppte er sich nach Kammschlacken, wo er acht Tage später verstarb. Seine Kollegen errichteten an der Stelle des Überfalls dieses Denkmal. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+August Schmidt wurde während einer Patrouille hinterrücks mit einer Axt niedergeschlagen. Trotz seiner Verletzungen konnte er einen der Täter identifizieren, was zur Verhaftung und Hinrichtung des „Gelben Wagener“ führte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Schmidts-Denkmal
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz Polsterberg**: Ein breiter Forstweg führt direkt zum Denkmal. :contentReference[oaicite:2]{index=2}
+- **Ab Clausthal-Zellerfeld**: Verschiedene Routen durch den Wald bieten sich an.
+- **Von Kammschlacken**: Ein gut ausgeschilderter Weg führt zum Denkmal.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77710%2C%2010.38783) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.77710,10.38783">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich)
+- [**„Großes Wehr“ (HWN 146)**](/stempelstelle-146-grosses-wehr)
+- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)

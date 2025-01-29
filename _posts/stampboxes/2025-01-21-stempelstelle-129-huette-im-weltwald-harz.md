@@ -1,48 +1,37 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-129-huette-im-weltwald-harz/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 129: Hütte im WeltWald Harz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/129-huette-im-weltwald-harz.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 129: Hütte im WeltWald Harz | Bad Grund"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hütte am Arboretum](https://commons.wikimedia.org/wiki/File:H%C3%BCtte_am_Arboretum.JPG) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">JuTe CLZ</a> unter Lizenz Copyrighted free use'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 129 der Harzer Wandernadel befindet sich im WeltWald Harz bei Bad Grund. Auf rund 65 Hektar präsentieren sich über 600 Baum- und Straucharten aus Nordamerika, Asien und Europa. 12 Kilometer beschilderte Naturwege laden zum Entdecken ein. Der Eintritt ist frei. :contentReference[oaicite:0]{index=0}
 
+#### Hübichenstein
 
+In unmittelbarer Nähe liegt der markante Hübichenstein, ein beeindruckendes Naturdenkmal und beliebtes Ausflugsziel. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Hütte im WeltWald Harz
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Mammutbaumpfad**: Start am Parkplatz "Hübichenstein", etwa 5,8 km, leicht begehbar. :contentReference[oaicite:2]{index=2}
+- **Hängebrückenrunde**: Ausgangspunkt Bergstadt Bad Grund, ca. 9,6 km, mittelschwer. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81926%2C%2010.22503) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81926,10.22503">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Iberger Albertturm“ (HWN 130)**](/stempelstelle-130-iberger-albertturm)
