@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-35-gasthaus-armeleuteberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/035-gasthaus-armeleuteberg/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 35: Gasthaus Armeleuteberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/35-gasthaus-armeleuteberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 35: Gasthaus Armeleuteberg | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Armeleuteberg](https://commons.wikimedia.org/wiki/File:Armeleuteberg.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Gasthaus Armeleuteberg liegt südlich von Wernigerode im Harz. Es ist bekannt für seine harztypischen Speisen und bietet Wanderern eine gemütliche Einkehrmöglichkeit. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Armeleuteberg erhielt seinen Namen im 15. Jahrhundert, als der Petersberg dem St. Georgii-Hospital übergeben wurde, das sich um arme und kranke Menschen kümmerte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Gasthaus Armeleuteberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Hasseröder Ferienpark**: Start am Ferienpark, entlang des Märchenwegs zum Gasthaus.
+- **Wanderparkplatz Försterplatz**: Von hier führt ein direkter Weg zum Gasthaus. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81545%2C%2010.77663) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81545,10.77663">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Elverstein“ (HWN 29)**](/stempelstelle-29-elverstein)
+- [**„Agnesberg“ (HWN 31)**](/stempelstelle-31-agnesberg)
+- [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-32-gasthaus-christianental)
+- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-34-scharfenstein)

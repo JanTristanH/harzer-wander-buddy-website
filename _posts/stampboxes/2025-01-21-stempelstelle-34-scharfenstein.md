@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-34-scharfenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/034-scharfenstein-wernigerode/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 34: Scharfenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/34-scharfenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 34: Scharfenstein | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Scharfenstein Wernigerode](https://commons.wikimedia.org/wiki/File:Scharfenstein_Wernigerode.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Scharfenstein (462 m ü. NN) liegt südlich von Wernigerode im Ortsteil Nöschenrode. Eine Steintreppe führt zum Gipfel mit herrlichem Blick auf die Harzer Berge und den Brocken. 🏞️
 
+#### Historische Bedeutung
 
+Die Scharfensteinklippe ist ein markanter Felsvorsprung des Eichberg-Süd und markiert die östliche Grenze des Oberharzes. Sie liegt im Naturpark Harz/Sachsen-Anhalt und bietet einen beeindruckenden Ausblick. :contentReference[oaicite:0]{index=0}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Scharfenstein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Wanderparkplatz Kaltes Tal**: An der B244 Richtung Elbingerode, ca. 2 km zum Gipfel.
+- **Wanderparkplatz Försterplatz am Armeleuteberg**: Ebenfalls etwa 2 km Entfernung. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+Beide Routen sind leicht begehbar und gut ausgeschildert.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81002%2C%2010.79840) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.81002,10.79840">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-35-gasthaus-armeleuteberg)
+- [**„Peterstein“ (HWN 36)**](/stempelstelle-36-peterstein)
+- [**„Agnesberg“ (HWN 31)**](/stempelstelle-31-agnesberg)
