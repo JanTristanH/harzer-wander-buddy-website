@@ -36,5 +36,13 @@ imageSource: '📷 [GasthausRabenklippe](https://commons.wikimedia.org/wiki/File
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
 
+
+<div class="mobile-only">
+  Auf einem Handy kannst du auch diesen 
+  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+</div>
+</br>
+
 #### Stempel in der Nähe
 <auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
