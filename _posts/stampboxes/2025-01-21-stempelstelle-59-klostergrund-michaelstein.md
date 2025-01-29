@@ -11,9 +11,6 @@ imageSource: '📷 [Klostergrund Michaelstein – Stempelstelle 59](https://www.
 ---
 
 
-::contentReference[oaicite:0]{index=0}
-
-
 Die Stempelstelle 59 der Harzer Wandernadel befindet sich im Klostergrund Michaelstein bei Blankenburg. Sie liegt rechts vom Damm des dritten Teiches an einer Informationstafel.
 
 #### Kloster Michaelstein

@@ -22,8 +22,6 @@ Etwa 550 Meter vom Molkenhausstern entfernt befindet sich das historische Molke
 - **Ilsenburg**: Vom Parkplatz Ilsetal etwa 7,5 km durch das Ilsetal.
 - **Schierke**: Rund 6,7 km über den Hohnekamm.
 
-:contentReference[oaicite:2]{index=2}
-
 #### Anfahrt
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80771%2C%2010.65779) ist der Stempel in Google Maps zu finden.

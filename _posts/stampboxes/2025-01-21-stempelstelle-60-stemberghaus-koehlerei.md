@@ -28,8 +28,6 @@ Die Köhlerei produziert jährlich rund 50 Tonnen Holzkohle aus Buchenholz und b
 - **Wendefurth (Parkplatz B81)**: 3,3 km
 - **Wendefurth (Parkplatz Staumauer)**: 3,3 km
 
-:contentReference[oaicite:2]{index=2}
-
 #### Anfahrt
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72195%2C%2010.89618) ist der Stempel in Google Maps zu finden.

@@ -22,8 +22,6 @@ Ein Aufstieg vom Gasthaus führt zum Großen Schloss, der ehemaligen Residenz de
 - **Blankenburg/Kloster Michaelstein**: Eine 4,6 km lange Route verbindet das Kloster mit den Gärten.
 - **Timmenrode**: Ein Weg von 4,5 km Länge führt von Timmenrode zu den Gärten.
 
-:contentReference[oaicite:2]{index=2}
-
 #### Anfahrt
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78747%2C%2010.95635) ist der Stempel in Google Maps zu finden.

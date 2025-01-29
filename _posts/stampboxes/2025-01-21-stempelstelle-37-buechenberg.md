@@ -11,9 +11,6 @@ imageSource: '📷 [Büchenberg](https://commons.wikimedia.org/wiki/File:B%C3%BC
 ---
 
 
-::contentReference[oaicite:0]{index=0}
-
-
 Die Stempelstelle 37 der Harzer Wandernadel befindet sich am Schaubergwerk Büchenberg bei Elbingerode. Das Bergwerk liegt an der Straße von Elbingerode nach Heimburg, oberhalb des Trecktals.
 
 #### Schaubergwerk Büchenberg
