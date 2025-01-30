@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Molkenhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus)
-- [**„Torfhaus“ (HWN 135)**](/stempelstelle-135-torfhaus)
-- [**„Brocken“ (HWN 9)**](/stempelstelle-9-brocken)
+- [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte)
+- [**„Brocken“ (HWN 9)**](/stempelstelle-9-brockenhaus)

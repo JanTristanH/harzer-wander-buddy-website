@@ -34,7 +34,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Brocken“ (HWN 9)**](/stempelstelle-9-brocken)
+- [**„Brocken“ (HWN 9)**](/stempelstelle-9-brockenhaus)
 - [**„Wurmberg-Baude“ (HWN 156)**](/stempelstelle-156-wurmberg-baude)
 - [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)
 

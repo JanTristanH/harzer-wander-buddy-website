@@ -34,7 +34,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Eckertalsperre“ (HWN 001)**](/stempelstelle-001-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 001)**](/stempelstelle-1-eckertalsperre)
 - [**„Rabenklippe“ (HWN 170)**](/stempelstelle-170-rabenklippe)
 - [**„Aussichtsreich Burgberg“ (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg)
 - [**„Kreuz des Deutschen Ostens“ (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens)

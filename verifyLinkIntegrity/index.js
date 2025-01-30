@@ -3,6 +3,7 @@ import fs from 'fs';
 
 const hostSitemap = 'https://www.harzer-wander-buddy.de';
 const hostTest = 'http://localhost:4000';
+const aBadLinks = [];
 
 const aDefaultLinksToIgnoreInSubLinks = [
     '/',
@@ -28,7 +29,12 @@ const aRegexToIgnoreInSubLinks = [
     /categories#Stempelstelle/,
     /wikimedia/,
     /wikipedia/,
-    /license/
+    /license/,
+    /wikidata/,
+    /flickr/,
+    /categories/,
+    /licence/,
+    /domain/
 ];
 
 const verifyLinkIntegrity = (sitemapPath) => {
@@ -42,7 +48,8 @@ const verifyLink = (link, bVerifySubLinks) => {
     return fetch(link)
         .then(response => response.text()
             .then(text => {
-                if (text.match(/404 Not Found/)) {
+                if (text.match(/404/)) {
+                    aBadLinks.push(link);
                     return {
                         link,
                         status: 404,
@@ -95,6 +102,7 @@ const aResult = verifyLinkIntegrity('../sitemap.xml');
 Promise.all(aResult).then((result) => {
     console.timeEnd("all");
     fs.writeFileSync('result.json', JSON.stringify(result, null, 4));
+    fs.writeFileSync('result_badLinks.json', JSON.stringify(aBadLinks.map(e => e.replace(hostTest, "")).filter((subLink, index, self) => self.indexOf(subLink) === index).sort(), null, 4));
     // console.log(result);
  });
 
