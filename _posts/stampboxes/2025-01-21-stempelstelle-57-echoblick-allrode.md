@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick)
-- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick-aussichtspunkt)
+- [**„Weißer Hirsch“ (HWN 67)**](undefined)
 - [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)

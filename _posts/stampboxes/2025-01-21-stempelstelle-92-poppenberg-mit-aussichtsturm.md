@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Drei Tälerblick“ (HWN 93)**](/stempelstelle-93-drei-taelerblick)
+- [**„Drei Tälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
 - [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)

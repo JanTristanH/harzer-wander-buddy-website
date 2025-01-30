@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Burgruine Regenstein“ (HWN 80)**](/stempelstelle-80-burgruine-regenstein)
-- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regensteinmuehle)
+- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regenstein-muehle)

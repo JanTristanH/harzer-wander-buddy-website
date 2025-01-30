@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kaysereiche“ (HWN 131)**](/stempelstelle-131-kaysereiche)
-- [**„Prinzenteich“ (HWN 139)**](/stempelstelle-139-prinzenteich)
+- [**„Kaysereiche“ (HWN 131)**](/stempelstelle-131-kaysereiche-schutzhuette)
+- [**„Prinzenteich“ (HWN 139)**](/stempelstelle-139-kuckholzklippe)

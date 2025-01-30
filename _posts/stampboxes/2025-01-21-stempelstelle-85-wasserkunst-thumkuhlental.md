@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Ottofelsen“ (HWN 27)**](/stempelstelle-27-ottofelsen)
-- [**„Steinerne Renne“ (HWN 28)**](/stempelstelle-28-steinerne-renne)
+- [**„Steinerne Renne“ (HWN 28)**](/stempelstelle-28-gasthaus-steinerne-renne)
 - [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-moenchsbuche)

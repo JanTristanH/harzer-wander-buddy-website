@@ -39,4 +39,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Schornsteinberg“ (HWN 89)**](/stempelstelle-89-schornsteinberg)
 - [**„Volkmarskeller“ (HWN 87)**](/stempelstelle-87-volkmarskeller)
-- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-79-otto-ebert-bruecke)
+- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-79-otto-ebert-bruecke-am-herzogsweg)

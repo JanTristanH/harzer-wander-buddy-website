@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wüstung Selkenfelde“ (HWN 55)**](/stempelstelle-55-wuestung-selkenfelde)
-- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg)
+- [**„Wüstung Selkenfelde“ (HWN 55)**](/stempelstelle-55-wuestung-selkefeldekirche)
+- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
 - [**„Lutherbuche“ (HWN 216)**](/stempelstelle-216-lutherbuche)
-- [**„Talsperre Neustadt“ (HWN 218)**](/stempelstelle-218-talsperre-neustadt)
+- [**„Talsperre Neustadt“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre)

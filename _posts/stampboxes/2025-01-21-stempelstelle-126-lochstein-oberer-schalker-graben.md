@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)
-- [**„Köte am Heidestieg“ (HWN 124)**](/stempelstelle-124-koete-am-heidestieg)
+- [**„Köte am Heidestieg“ (HWN 124)**](/stempelstelle-124-koete-am-heidenstieg)

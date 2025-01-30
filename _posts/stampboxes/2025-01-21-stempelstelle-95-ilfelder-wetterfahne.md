@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
+- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm-mit-aussichtsturm)
 - [**„Dreitälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
 - [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-98-ruine-hohnstein)

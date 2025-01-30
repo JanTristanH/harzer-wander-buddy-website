@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
 - [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
 - [**„Taubenklippe“ (HWN 4)**](/stempelstelle-4-taubenklippe)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)

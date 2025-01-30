@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendeleiche)
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
 - [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter)
 - [**„Zweiländereiche“ (Sonderstempel)**](/stempelstelle-sonder-zweiländereiche)

@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
+- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette-schutzhuette)
 - [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)
 - [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
 - [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)

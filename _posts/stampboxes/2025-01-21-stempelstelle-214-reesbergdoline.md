@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine)
 - [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
-- [**„Queste“ (HWN 212)**](/stempelstelle-212-queste)
+- [**„Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste)

@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Hassenstein“ (HWN 158)**](/stempelstelle-158-hassenstein)
 - [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
-- [**„Phillippsgruß“ (HWN 220)**](/stempelstelle-220-phillippsgruss)
+- [**„Phillippsgruß“ (HWN 220)**](/stempelstelle-220-schutzhuette-phillippsgruss)

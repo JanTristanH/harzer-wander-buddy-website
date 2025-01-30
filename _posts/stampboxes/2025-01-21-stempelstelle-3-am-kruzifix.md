@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Scharfenstein (Rangerstation)“ (HWN 2)**](/stempelstelle-2-scharfenstein-rangerstation)
 - [**„Taubenklippe“ (HWN 4)**](/stempelstelle-4-taubenklippe)
 - [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)

@@ -37,4 +37,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Hahnestein“ (HWN 206)**](/stempelstelle-206-hahnestein)
 - [**„Pferdchen“ (HWN 58)**](/stempelstelle-58-pferdchen)
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)

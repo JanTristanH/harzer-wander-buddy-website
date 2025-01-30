@@ -39,4 +39,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
 - [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
 - [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)

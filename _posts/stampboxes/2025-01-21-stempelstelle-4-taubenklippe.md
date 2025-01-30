@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Am Kruzifix“ (HWN 3)**](/stempelstelle-3-am-kruzifix)
 - [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)
 - [**„Scharfenstein (Rangerstation)“ (HWN 2)**](/stempelstelle-2-scharfenstein-rangerstation)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-65-gasthaus-todtenrode)
-- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
-- [**„Weißer Hirsch“ (HWN 67)**](/stempelstelle-67-weisser-hirsch)
-- [**„Sonnenklippe (Bodetal)“ (HWN 69)**](/stempelstelle-69-sonnenklippe-bodetal)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef-aussichtspunkt)
+- [**„Weißer Hirsch“ (HWN 67)**](undefined)
+- [**„Sonnenklippe (Bodetal)“ (HWN 69)**](/stempelstelle-69-sonnenklippe-bodetal-bodetal)

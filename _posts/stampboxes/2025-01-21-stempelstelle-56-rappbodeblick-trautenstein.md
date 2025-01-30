@@ -39,7 +39,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg)
+- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg-am-hexenstieg)
 - [**„Hassel-Vorsperre“ (HWN 53)**](/stempelstelle-53-hassel-vorsperre)
 - [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-41-ruine-koenigsburg)
 - [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)

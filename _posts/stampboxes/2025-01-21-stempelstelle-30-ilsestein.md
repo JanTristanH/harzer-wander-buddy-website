@@ -51,9 +51,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-obere-ilsefaelle)
-- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-plessenburg)
-- [**„Oberförster-Koch-Denkmal“ (HWN 8)**](/stempelstelle-8-oberfoerster-koch-denkmal)
+- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
+- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
+- [**„Oberförster-Koch-Denkmal“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
 ies: [ Stempelstelle ]
 image: assets/images/stampboxes/30-ilsestein.jpg
 description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"

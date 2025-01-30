@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-großer-knollen)
-- [**„Burgruine Scharzfels“ (HWN 151)**](/stempelstelle-151-burgruine-scharzfels)
-- [**„Ravensberg“ (HWN 102)**](/stempelstelle-102-ravensberg)
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
+- [**„Burgruine Scharzfels“ (HWN 151)**](/stempelstelle-151-ruine-scharzfels)
+- [**„Ravensberg“ (HWN 102)**](/stempelstelle-102-lageswarte)

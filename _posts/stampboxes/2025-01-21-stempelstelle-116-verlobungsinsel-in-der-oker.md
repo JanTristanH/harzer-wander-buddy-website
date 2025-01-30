@@ -39,4 +39,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
 - [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus)
-- [**„Hallesche Hütte“ (HWN 119)**](/stempelstelle-119-hallesche-huette)
+- [**„Hallesche Hütte“ (HWN 119)**](/stempelstelle-119-hallesche-huette-an-den-ahrendsberger-klippen)

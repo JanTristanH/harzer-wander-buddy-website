@@ -39,8 +39,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm)
-- [**„Klusfelsen“ (HWN 112)**](/stempelstelle-112-klusfelsen)
+- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm)
+- [**„Klusfelsen“ (HWN 112)**](/stempelstelle-112-liebesbank)
 timiert für die Harzer Wandernadel.
 Ausgabe als markdown. Gib Nur den code aus.
 

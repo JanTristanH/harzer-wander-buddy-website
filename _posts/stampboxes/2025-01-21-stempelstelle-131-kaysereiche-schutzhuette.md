@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Oberer Hahnebalzer Teich“ (HWN 141)**](/stempelstelle-141-oberer-hahnebalzer-teich)
+- [**„Oberer Hahnebalzer Teich“ (HWN 141)**](/stempelstelle-141-Oberer-Hahnebalzer-Teich)
 - [**„Kuckholzklippe“ (HWN 139)**](/stempelstelle-139-kuckholzklippe)
 - [**„Eselsplatz“ (HWN 140)**](/stempelstelle-140-eselsplatz)

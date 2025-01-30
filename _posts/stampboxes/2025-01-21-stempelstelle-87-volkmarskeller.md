@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Klostergrund Michaelstein“ (HWN 59)**](/stempelstelle-59-klostergrund-michaelstein)
-- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-79-otto-ebert-bruecke)
+- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-79-otto-ebert-bruecke-am-herzogsweg)

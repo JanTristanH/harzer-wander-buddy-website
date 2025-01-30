@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
 - [**„Stöberhai“ (HWN 159)**](/stempelstelle-159-stoeberhai)
-- [**„Hohe Tür“ (HWN 43)**](/stempelstelle-43-hohe-tuer)
+- [**„Hohe Tür“ (HWN 43)**](/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer)

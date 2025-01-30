@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
-- [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-mönchsbuche)
+- [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-moenchsbuche)
 - [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-28-gasthaus-steinerne-renne)

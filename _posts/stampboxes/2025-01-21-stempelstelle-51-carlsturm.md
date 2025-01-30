@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
-- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-47-oberharzblick)
+- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-47-oberharzblick-am-buchberg)
 - [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
 - [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

@@ -37,7 +37,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
+- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm-mit-aussichtsturm)
 - [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
 - [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-98-ruine-hohnstein)
 - [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

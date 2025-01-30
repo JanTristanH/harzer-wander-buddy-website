@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)
 - [**„Am Kruzifix“ (HWN 3)**](/stempelstelle-3-am-kruzifix)
 - [**„Taubenklippe“ (HWN 4)**](/stempelstelle-4-taubenklippe)
 - [**„Froschfelsen“ (HWN 5)**](/stempelstelle-5-froschfelsen)

@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-obere-ilsefaelle)
+- [**„Obere Ilsefälle“ (HWN 6)**](/stempelstelle-6-bremer-huette-obere-ilsefaelle)
 - [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)
 - [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
 - [**„Große Zeterklippe“ (HWN 10)**](/stempelstelle-10-grosse-zeterklippe)

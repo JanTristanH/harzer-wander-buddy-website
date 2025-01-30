@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-77-ruine-luisenburg)
-- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-76-gasthaus-grossvater)
-- [**„Obere Mühle Blankenburg“ (HWN 78)**](/stempelstelle-78-obere-muehle-blankenburg)
+- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-76-grossvaterfelsen)
+- [**„Obere Mühle Blankenburg“ (HWN 78)**](/stempelstelle-78-barocke-gaerten)
 - [**„Volkmarskeller“ (HWN 87)**](/stempelstelle-87-volkmarskeller)

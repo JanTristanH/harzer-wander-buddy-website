@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-65-gasthaus-todtenrode)
-- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick)
-- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoneburg)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick-aussichtspunkt)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt)

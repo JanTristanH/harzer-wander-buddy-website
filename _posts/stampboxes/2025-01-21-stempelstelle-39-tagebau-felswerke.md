@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Galgenberg“ (HWN 38)**](/stempelstelle-38-galgenberg)
-- [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-37-schaubergwerk-buechenberg)
+- [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-37-buechenberg)
 - [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-40-koenigshuetter-wasserfall)

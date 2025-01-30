@@ -40,5 +40,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-32-gasthaus-christianental)
 - [**„Scharfenstein“ (HWN 34)**](/stempelstelle-34-scharfenstein)
 - [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-35-gasthaus-armeleuteberg)
-- [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-37-schaubergwerk-buechenberg)
+- [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-37-buechenberg)
 - [**„Galgenberg“ (HWN 38)**](/stempelstelle-38-galgenberg)

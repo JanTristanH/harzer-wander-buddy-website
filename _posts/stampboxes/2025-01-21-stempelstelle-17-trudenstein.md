@@ -37,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
 - [**„Leistenklippe“ (HWN 15)**](/stempelstelle-15-leistenklippe)
-- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
+- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette-schutzhuette)
 - [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)

@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
-- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick)
-- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoenburg)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef-aussichtspunkt)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick-aussichtspunkt)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt-aussichtspunkt)

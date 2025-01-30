@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Pferdchen“ (HWN 58)**](/stempelstelle-58-pferdchen)
 - [**„Kreuztalsklippe“ (HWN 162)**](/stempelstelle-162-kreuztalsklippe)
-- [**„Bremer Klippe“ (HWN 163)**](/stempelstelle-163-bremer-klippe)
+- [**„Bremer Klippe“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg)

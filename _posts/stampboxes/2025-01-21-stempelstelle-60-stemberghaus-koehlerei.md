@@ -41,6 +41,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotesteine)
-- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg)
-- [**„Talsperre Wendefurth“ (HWN 62)**](/stempelstelle-62-talsperre-wendefurth)
+- [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt)
+- [**„Talsperre Wendefurth“ (HWN 62)**](/stempelstelle-62-talsperre-wendefurth-talsperrenblick)

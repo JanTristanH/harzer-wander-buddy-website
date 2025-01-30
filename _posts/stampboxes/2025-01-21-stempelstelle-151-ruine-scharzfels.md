@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Einhornhöhle“ (HWN 101)**](/stempelstelle-101-einhornhoehle)
-- [**„Burgruine Frauenstein“ (HWN 150)**](/stempelstelle-150-burgruine-frauenstein)
+- [**„Burgruine Frauenstein“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
 - [**„Knollenkreuz“ (HWN 152)**](/stempelstelle-152-knollenkreuz)

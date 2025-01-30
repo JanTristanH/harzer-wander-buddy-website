@@ -39,4 +39,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„IV. Friedrichshammer“ (HWN 179)**](/stempelstelle-179-iv-friedrichshammer)
 - [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
-- [**„Schutzhütte am Mettenberg“ (HWN 203)**](/stempelstelle-203-schutzhutte-am-mettenberg)
+- [**„Schutzhütte am Mettenberg“ (HWN 203)**](/stempelstelle-203-schutzhuette-am-mettenberg)

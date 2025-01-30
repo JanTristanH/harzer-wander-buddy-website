@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Braunseck“ (HWN 138)**](/stempelstelle-138-braunseck)
-- [**„Mangelhalber Tor“ (HWN 137)**](/stempelstelle-137-mangelhalber-tor)
-- [**„Schindelkopf“ (HWN 128)**](/stempelstelle-128-schindelkopf)
+- [**„Mangelhalber Tor“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich)
+- [**„Schindelkopf“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage)

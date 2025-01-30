@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg)
+- [**„Trageburg“ (HWN 52)**](/stempelstelle-52-trageburg-am-hexenstieg)
 - [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
-- [**„Rappbodeblick“ (HWN 56)**](/stempelstelle-56-rappbodeblick)
+- [**„Rappbodeblick“ (HWN 56)**](/stempelstelle-56-rappbodeblick-trautenstein)

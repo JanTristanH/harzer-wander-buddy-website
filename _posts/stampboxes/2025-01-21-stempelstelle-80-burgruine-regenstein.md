@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regensteinmuehle)
+- [**„Regensteinmühle“ (HWN 82)**](/stempelstelle-82-regenstein-muehle)
 - [**„Sandhöhlen im Heers“ (HWN 81)**](/stempelstelle-81-sandhoehlen-im-heers)

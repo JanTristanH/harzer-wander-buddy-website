@@ -33,6 +33,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Altarklippen“ (HWN 171)**](/stempelstelle-171-altarklippen)
+- [**„Altarklippen“ (HWN 171)**](/stempelstelle-171-altarklippen-oberhalb-d-granestausees)
 - [**„Granestausee“ (HWN 110)**](/stempelstelle-110-granestausee)
-- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm)
+- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm)

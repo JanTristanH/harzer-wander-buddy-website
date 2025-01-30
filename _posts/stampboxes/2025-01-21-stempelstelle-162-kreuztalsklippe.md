@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh)
-- [**„Bremer Klippe“ (HWN 163)**](/stempelstelle-163-bremer-klippe)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)
+- [**„Bremer Klippe“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg)

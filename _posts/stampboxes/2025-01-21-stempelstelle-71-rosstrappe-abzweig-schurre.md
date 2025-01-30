@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„La Viershöhe“ (HWN 68)**](/stempelstelle-68-la-viershoehe)
-- [**„Wilhelmsblick“ (HWN 72)**](/stempelstelle-72-wilhelmsblick)
-- [**„Königsruhe“ (HWN 178)**](/stempelstelle-178-koenigsruhe)
+- [**„La Viershöhe“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)
+- [**„Wilhelmsblick“ (HWN 72)**](/stempelstelle-72-la-viershoehe)
+- [**„Königsruhe“ (HWN 178)**](/stempelstelle-178-hirschgrund-am-gasthaus-koenigskrug)

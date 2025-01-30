@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Ottofelsen“ (HWN 27)**](/stempelstelle-27-ottofelsen)
 - [**„Mönchsbuche“ (HWN 26)**](/stempelstelle-26-moenchsbuche)
-- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-plessenburg)
+- [**„Plessenburg“ (HWN 7)**](/stempelstelle-7-gasthaus-plessenburg)

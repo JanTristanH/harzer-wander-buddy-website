@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-47-oberharzblick-am-buchenberg)
+- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-47-oberharzblick-am-buchberg-am-buchenberg)
 - [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
 - [**„Walzenhütte“ (HWN 50)**](/stempelstelle-50-walzenhuette)
 - [**„Carlsturm“ (HWN 51)**](/stempelstelle-51-carlsturm)

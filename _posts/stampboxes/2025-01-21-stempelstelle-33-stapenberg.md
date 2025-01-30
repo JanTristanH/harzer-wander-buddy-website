@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-32-gasthaus-christianental)
 - [**„Austbergturm“ (HWN 83)**](/stempelstelle-83-austbergturm)
-- [**„Altenburg Heimburg“ (HWN 84)**](/stempelstelle-84-altenburg-heimburg)
+- [**„Altenburg Heimburg“ (HWN 84)**](/stempelstelle-84-altenburg-bei-heimburg)

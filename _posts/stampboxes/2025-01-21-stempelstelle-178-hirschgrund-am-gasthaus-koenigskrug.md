@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Roßtrappe“ (HWN 071)**](/stempelstelle-71-rosstrappe-abzweig-schurre)
+- [**„Roßtrappe“ (HWN 071)**](/stempelstelle-71-rosstrappe-abzweig-schurre-abzweig-schurre)
 - [**„La Viershöhe“ (HWN 072)**](/stempelstelle-72-la-viershoehe)
-- [**„Prinzensicht“ (HWN 070)**](/stempelstelle-70-prinzensicht)
+- [**„Prinzensicht“ (HWN 070)**](/stempelstelle-70-prinzensicht-aussichtsturm)

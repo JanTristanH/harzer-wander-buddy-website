@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-18-grenzweg-am-kaffeehorst)
 - [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)
 - [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-16-ferdinandsstein)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-1-eckertalsperre-staumauer)

@@ -34,7 +34,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Elverstein“ (HWN 29)**](/stempelstelle-29-elverstein)
+- [**„Elverstein“ (HWN 29)**](/stempelstelle-29-elversstein)
 - [**„Agnesberg“ (HWN 31)**](/stempelstelle-31-agnesberg)
 - [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-32-gasthaus-christianental)
 - [**„Scharfenstein“ (HWN 34)**](/stempelstelle-34-scharfenstein)

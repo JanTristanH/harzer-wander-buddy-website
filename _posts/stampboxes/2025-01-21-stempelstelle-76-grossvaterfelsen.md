@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hamburger Wappen“ (HWN 74)**](/stempelstelle-74-hamburger-wappen)
-- [**„Heidelberg“ (HWN 75)**](/stempelstelle-75-heidelberg)
-- [**„Teufelsmauer Timmenrode“ (HWN 77)**](/stempelstelle-77-teufelsmauer-timmenrode)
+- [**„Hamburger Wappen“ (HWN 74)**](/stempelstelle-74-hamburger-wappen-teufelsmauer)
+- [**„Heidelberg“ (HWN 75)**](/stempelstelle-75-hahnenkleeklippen)
+- [**„Teufelsmauer Timmenrode“ (HWN 77)**](/stempelstelle-77-ruine-luisenburg)

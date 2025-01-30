@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm)
+- [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm)

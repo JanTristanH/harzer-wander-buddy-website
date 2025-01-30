@@ -40,9 +40,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-98-ruine-hohnstein)
-- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg)
+- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
 - [**„Dreitälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
 - [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
-- [**„Ruine Ebersburg“ (HWN 100)**](/stempelstelle-100-ruine-ebersburg)
+- [**„Ruine Ebersburg“ (HWN 100)**](/stempelstelle-100-ebersburg)
 - [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine)
 - [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre)

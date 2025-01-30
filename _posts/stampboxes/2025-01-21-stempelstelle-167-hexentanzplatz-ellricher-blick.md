@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Sachsenstein“ (HWN 166)**](/stempelstelle-166-sachsenstein)
+- [**„Sachsenstein“ (HWN 166)**](/stempelstelle-166-sachsensteinhuette)
 - [**„Zweiländereiche“ (HWN 192)**](/stempelstelle-192-historischer-gipsbrennofen)

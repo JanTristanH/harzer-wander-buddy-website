@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bergsee Güntersberge“ (HWN 171)**](/stempelstelle-171-altarklippen-oberhalb-d-granestausees)
+- [**„Bergsee Güntersberge“ (HWN 171)**](/stempelstelle-171-altarklippen-oberhalb-d-granestausees-oberhalb-d-granestausees)
 - [**„Selkemühle“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht)

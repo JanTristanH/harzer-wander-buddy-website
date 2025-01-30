@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Kiliansteiche“ (HWN 211)**](/stempelstelle-211-kiliansteiche)
 - [**„Lutherbuche“ (HWN 216)**](/stempelstelle-216-lutherbuche)
-- [**„Schaubergwerk Glasbach Stollen“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasbach-stollen)
+- [**„Schaubergwerk Glasbach Stollen“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach)

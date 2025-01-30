@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stemberghaus“ (HWN 60)**](/stempelstelle-60-stemberghaus)
+- [**„Stemberghaus“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei)
 - [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
-- [**„Talsperre Wendefurth“ (HWN 62)**](/stempelstelle-62-talsperre-wendefurth)
-- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef)
+- [**„Talsperre Wendefurth“ (HWN 62)**](/stempelstelle-62-talsperre-wendefurth-talsperrenblick)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef-aussichtspunkt)

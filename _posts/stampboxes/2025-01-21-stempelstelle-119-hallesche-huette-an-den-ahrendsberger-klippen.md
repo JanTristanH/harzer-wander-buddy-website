@@ -38,4 +38,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
 - [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus)
-- [**„Verlobungsinsel“ (HWN 116)**](/stempelstelle-116-verlobungsinsel)
+- [**„Verlobungsinsel“ (HWN 116)**](/stempelstelle-116-verlobungsinsel-in-der-oker)

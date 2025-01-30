@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
-- [**„Gasthaus Rinderstall“ (HWN 123)**](/stempelstelle-123-gasthaus-rinderstall)
-- [**„Naturmythenpfad“ (HWN 148)**](/stempelstelle-148-naturmythenpfad)
+- [**„Gasthaus Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
+- [**„Naturmythenpfad“ (HWN 148)**](/stempelstelle-148-naturmythenpfad-nph)

@@ -36,7 +36,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-48-stierbergsteich)
-- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg)
+- [**„Poppenberg“ (HWN 92)**](/stempelstelle-92-poppenberg-mit-aussichtsturm)
 - [**„Dreitälerblick“ (HWN 93)**](/stempelstelle-93-dreitaelerblick)
 - [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-95-ilfelder-wetterfahne)
 - [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-97-ziegenalm-sophienhof)

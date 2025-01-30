@@ -37,4 +37,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Gaststätte Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
 - [**„Rehberger Grabenhaus“ (HWN 155)**](/stempelstelle-155-rehberger-grabenhaus)
-- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz)
+- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz-2)

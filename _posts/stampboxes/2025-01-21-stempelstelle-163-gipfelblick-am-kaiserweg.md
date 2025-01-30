@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kapellenfleck)
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh)
-- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendeleiche)
+- [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kappellenfleck)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
