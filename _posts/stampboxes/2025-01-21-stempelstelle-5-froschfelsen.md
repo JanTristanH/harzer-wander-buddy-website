@@ -24,7 +24,7 @@ Einer Legende nach soll ein verzauberter Frosch im Felsen wohnen. Wer genau hinh
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81186%2C%2010.62598) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81186%2C%2010.62598) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 #### Stempel in der Nähe
 

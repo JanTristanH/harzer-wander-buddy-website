@@ -26,7 +26,7 @@ Erstmals erwähnt wurde Selkenfelde in einer Urkunde Kaiser Ottos I. im Jahr 961
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65044%2C%2010.91886) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65044%2C%2010.91886) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

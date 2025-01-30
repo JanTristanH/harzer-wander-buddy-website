@@ -24,7 +24,7 @@ Bereits 1890 wurde auf dem Gipfel ein etwa 8 Meter hoher hölzerner Aussichtstu
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6667%2C%2010.4167) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6667%2C%2010.4167) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

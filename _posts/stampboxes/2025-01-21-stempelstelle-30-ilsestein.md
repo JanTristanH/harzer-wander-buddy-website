@@ -40,7 +40,7 @@ Graf Anton zu Stolberg-Wernigerode ließ auf dem Gipfel ein eisernes Kreuz erric
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84634%2C%2010.66313) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84634%2C%2010.66313) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
@@ -76,7 +76,7 @@ imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 
 <div class="android-only">

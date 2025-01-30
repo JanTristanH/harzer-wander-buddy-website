@@ -28,7 +28,7 @@ Ursprünglich stand hier ein hölzerner Turm, der später durch einen steinernen
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.46775) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.46775) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
@@ -75,7 +75,7 @@ imageSource: '📷 [SudmerbergTurm](https://commons.wikimedia.org/wiki/File:Sudm
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 
 <div class="android-only">

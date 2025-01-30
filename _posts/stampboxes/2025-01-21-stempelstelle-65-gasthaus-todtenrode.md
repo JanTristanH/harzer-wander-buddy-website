@@ -26,7 +26,7 @@ Das Gasthaus "Altes Forsthaus Todtenrode" liegt auf 420 m Höhe oberhalb von A
 
 Das Gasthaus ist über die B81 erreichbar. Am Abzweig Altenbrak führt eine beschilderte Forststraße direkt zum Parkplatz der Gaststätte.
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73703%2C%2010.95567) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73703%2C%2010.95567) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
