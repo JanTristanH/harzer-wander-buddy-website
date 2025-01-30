@@ -17,6 +17,19 @@ const aDefaultLinksToIgnoreInSubLinks = [
     'https://www.wowthemes.net/memoirs-free-jekyll-theme/'
 ];
 
+const aRegexToIgnoreInSubLinks = [
+    /google/,
+    /geo:/,
+    /instagram/,
+    /mailto/,
+    /facebook/,
+    /twitter/,
+    /linkedin/,
+    /categories#Stempelstelle/,
+    /wikimedia/,
+    /wikipedia/,
+];
+
 const verifyLinkIntegrity = (sitemapPath) => {
     const links = extractLinksFromSitemap(sitemapPath)
         .map((link) => link.replace(hostSitemap, hostTest));
@@ -44,6 +57,7 @@ const verifyLink = (link, bVerifySubLinks) => {
                 
                 const subLinks = extractLinksFromResponse(text)
                     .filter(subLink => !aDefaultLinksToIgnoreInSubLinks.includes(subLink))
+                    .filter(subLink => !aRegexToIgnoreInSubLinks.some(regex => regex.test(subLink)))
                     .map(subLink => `${hostTest}${subLink}`)
                     // remove duplicates
                     .filter((subLink, index, self) => self.indexOf(subLink) === index)
