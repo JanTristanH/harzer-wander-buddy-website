@@ -4,6 +4,14 @@ layout: default
 permalink: "/categories.html"
 ---
 
+<h3 class="mt-5 mb-neg-15"> Verfügbare Kategorien</h3>
+</br>
+{% for category in site.categories %}
+<a href="/categories#{{ category[0] | replace: " ","-" }}" class="btn btn-dark" style="margin-bottom: 10px;">{{ category[0] }}</a>
+{% endfor %}
+</br>
+<hr>
+
 
 {% for category in site.categories %}
 <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>

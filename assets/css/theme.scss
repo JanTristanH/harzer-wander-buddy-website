@@ -739,12 +739,3 @@ body.active-side {
         }
     }
 }
-.mobile-only {
-  display: none;
-}
-
-@media (max-width: 768px) {
-  .mobile-only {
-    display: block;
-  }
-}

@@ -4,7 +4,7 @@ title:  "Stempelstelle 204: Selkesicht an der Ackeburg"
 author: buddy
 categories: [ Stempelstelle, Stempelstelle des Jahres, Selketal ]
 image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpg
-description: "Stempelstelle 204: Selkesicht an der Ackeburg | Schönste Stempelstelle des Jahres 2021 | Ballenstedt"
+description: "HWN 204: Selkesicht an der Ackeburg | Schönste Stempelstelle des Jahres 2021 | Ballenstedt"
 comments: false
 imageshadow: true
 ---
@@ -31,7 +31,12 @@ Die Selkesicht kann auf verschiedenen Wegen erreicht werden:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68547%2C%2011.25443) ist der Stempel in Google Maps zu finden.
+<div class="android-only">
+  Auf einem Handy kannst du auch diesen 
+  <a href="geo:51.68547,11.25443">🗺️ Link</a> 
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
+</div>
 
 #### Geographische Lage
 
@@ -45,3 +50,13 @@ Bei unserem Besuch im Herbst haben wir vielen Zecken aus dem Fell unseres Beglei
 #### Geheimtipp
 
 <span class="spoiler">Für Geocacher findet sich auch ein Cache auf dem Weg vom Vom Selketal aus 🤫</span>
+
+
+#### Stempel in der Nähe
+
+- [**„Alter Kohlenschacht“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht)
+- [**„Forstmeister Tannen“ (HWN 181)**](/stempelstelle-181-forstmeister-tannen)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
+- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm)
+- 

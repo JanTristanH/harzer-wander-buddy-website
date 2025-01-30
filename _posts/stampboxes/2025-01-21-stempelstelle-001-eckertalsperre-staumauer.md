@@ -3,8 +3,8 @@ layout: post
 title: "Stempelstelle 1: Eckertalsperre Staumauer"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/1_eckertalsperre_staumauer.jpg
-description: "Stempelstelle 1: Eckertalsperre Staumauer | Bad Harzburg"
+image: assets/images/stampboxes/1-eckertalsperre-staumauer.jpg
+description: "HWN 1: Eckertalsperre Staumauer | Bad Harzburg"
 comments: false
 imageshadow: true
 ---
@@ -23,16 +23,17 @@ Die Eckertalsperre wurde 1943 erbaut und diente der Trinkwasserversorgung. Währ
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7962%2C%2010.5971) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7962%2C%2010.5971) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
-<div class="mobile-only">
+<div class="android-only">
   Auf einem Handy kannst du auch diesen 
   <a href="geo:51.7962,10.5971">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
 </div>
 
 #### Stempel in der Nähe
 
 - [**„Molkenhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus)
-- [**„Torfhaus“ (HWN 135)**](/stempelstelle-135-torfhaus)
-- [**„Brocken“ (HWN 9)**](/stempelstelle-9-brocken)
+- [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte)
+- [**„Brocken“ (HWN 9)**](/stempelstelle-009-brockenhaus)
