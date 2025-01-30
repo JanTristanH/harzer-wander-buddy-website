@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hohe Tür“ (HWN 043)**](/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer)
+- [**„Hohe Tür“ (HWN 043)**](/stempelstelle-043-wasserscheide-weser-elbe-hohe-tuer)
 - [**„Hassenstein“ (HWN 158)**](/stempelstelle-158-hassenstein)
 - [**„Stöberhai“ (HWN 159)**](/stempelstelle-159-stoeberhai)

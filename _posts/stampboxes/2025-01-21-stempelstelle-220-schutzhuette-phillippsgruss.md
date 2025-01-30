@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wasserscheide Weser-Elbe ‚Hohe Tür‘“ (HWN 43)**](/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer)
-- [**„Pferdchen“ (HWN 58)**](/stempelstelle-58-pferdchen)
-- [**„Kapitelsberg“ (HWN 44)**](/stempelstelle-44-kapitelsberg)
+- [**„Wasserscheide Weser-Elbe ‚Hohe Tür‘“ (HWN 43)**](/stempelstelle-043-wasserscheide-weser-elbe-hohe-tuer)
+- [**„Pferdchen“ (HWN 58)**](/stempelstelle-058-pferdchen)
+- [**„Kapitelsberg“ (HWN 44)**](/stempelstelle-044-kapitelsberg)

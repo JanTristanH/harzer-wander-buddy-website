@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Büchenberg“ (HWN 37)**](/stempelstelle-37-buechenberg)
+- [**„Büchenberg“ (HWN 37)**](/stempelstelle-037-buechenberg)
 - [**„Stahlquelle“ (HWN 193)**](/stempelstelle-193-stahlquelle)

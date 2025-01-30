@@ -18,105 +18,105 @@ Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[intera
 
 | Nummer | | Name der Stempelstelle | Besonderheiten |
 |--------|--------|-------------------------|----------------|
-| HWN 1 | | [Eckertalsperre Staumauer](/stempelstelle-1-eckertalsperre-staumauer) | |
-| HWN 2 | | [Scharfenstein Rangerstation](/stempelstelle-2-scharfenstein-rangerstation) | |
-| HWN 3 | | [Am Kruzifix](/stempelstelle-3-am-kruzifix) | |
-| HWN 4 | | [Taubenklippe](/stempelstelle-4-taubenklippe) | |
-| HWN 5 | | [Froschfelsen](/stempelstelle-5-froschfelsen) | |
-| HWN 6 | | [Bremer Hütte Obere Ilsefälle](/stempelstelle-6-bremer-huette-obere-ilsefaelle) | |
-| HWN 7 | | [Gasthaus Plessenburg](/stempelstelle-7-gasthaus-plessenburg) | |
-| HWN 8 | | [Stempelsbuche](/stempelstelle-8-stempelsbuche) | |
-| HWN 9 | | [Brockenhaus](/stempelstelle-9-brockenhaus) | |
-| HWN 10 | | [Große Zeterklippe](/stempelstelle-10-grosse-zeterklippe) | |
-| HWN 11 | | [Eckerloch](/stempelstelle-11-eckerloch) | |
-| HWN 12 | | [Achtermannshöhe](/stempelstelle-12-achtermannshoehe) | |
-| HWN 13 | | [Ahrensklint](/stempelstelle-13-ahrensklint) | |
-| HWN 14 | | [Schnarcherklippe Schutzhütte](/stempelstelle-14-schnarcherklippe-schutzhuette) | |
-| HWN 15 | | [Leistenklippe](/stempelstelle-15-leistenklippe) | |
-| HWN 16 | | [Ferdinandsstein](/stempelstelle-16-ferdinandsstein) | |
-| HWN 17 | | [Trudenstein](/stempelstelle-17-trudenstein) | |
-| HWN 18 | | [Grenzweg am Kaffeehorst](/stempelstelle-18-grenzweg-am-kaffeehorst) | |
-| HWN 19 | | [Skidenkmal Nähe Eckerstausee](/stempelstelle-19-skidenkmal-naehe-eckerstausee) | |
-| HWN 20 | | [Bärenberg Aussichtspunkt](/stempelstelle-20-barenberg-aussichtspunkt) | |
-| HWN 21 | | [Helenenruh](/stempelstelle-21-helenenruh) | |
-| HWN 22 | | [Gelber Brink](/stempelstelle-22-gelber-brink) | |
-| HWN 23 | | [Molkenhausstern](/stempelstelle-23-molkenhausstern) | |
-| HWN 24 | | [Wolfsklippe](/stempelstelle-24-wolfsklippe) | |
-| HWN 25 | | [Oberförster Koch Denkmal](/stempelstelle-25-oberfoerster-koch-denkmal) | |
-| HWN 26 | | [Mönchsbuche](/stempelstelle-26-moenchsbuche) | |
-| HWN 27 | | [Ottofelsen](/stempelstelle-27-ottofelsen) | |
-| HWN 28 | | [Gasthaus Steinerne Renne](/stempelstelle-28-gasthaus-steinerne-renne) | |
-| HWN 29 | | [Elversstein](/stempelstelle-29-elversstein) | |
-| HWN 30 | | [Ilsestein](/stempelstelle-30-ilsestein) | |
-| HWN 31 | | [Agnesberg](/stempelstelle-31-agnesberg) | |
-| HWN 32 | | [Gasthaus Christianental](/stempelstelle-32-gasthaus-christianental) | |
-| HWN 33 | | [Stapenberg](/stempelstelle-33-stapenberg) | |
-| HWN 34 | | [Scharfenstein](/stempelstelle-34-scharfenstein) | |
-| HWN 35 | | [Gasthaus Armeleuteberg](/stempelstelle-35-gasthaus-armeleuteberg) | |
-| HWN 36 | | [Peterstein](/stempelstelle-36-peterstein) | |
-| HWN 37 | | [Büchenberg](/stempelstelle-37-buechenberg) | |
-| HWN 38 | | [Galgenberg](/stempelstelle-38-galgenberg) | |
-| HWN 39 | | [Tagebau Felswerke](/stempelstelle-39-tagebau-felswerke) | |
-| HWN 40 | | [Königshütter Wasserfall](/stempelstelle-40-koenigshuetter-wasserfall) | |
-| HWN 41 | | [Ruine Königsburg](/stempelstelle-41-ruine-koenigsburg) | |
-| HWN 42 | | [Trogfurther Brücke](/stempelstelle-42-trogfurther-bruecke) | |
-| HWN 43 | | [Wasserscheide Weser-Elbe Hohe Tür](/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer) | |
-| HWN 44 | | [Kapitelsberg](/stempelstelle-44-kapitelsberg) | |
-| HWN 45 | | [Dicke Tannen](/stempelstelle-45-dicke-tannen) | |
-| HWN 46 | | [Grenzmuseum am Ring der Erinnerung](/stempelstelle-46-grenzmuseum-am-ring-der-erinnerung) | |
-| HWN 47 | | [Oberharzblick am Buchberg](/stempelstelle-47-oberharzblick-am-buchberg) | |
-| HWN 48 | | [Stierbergsteich](/stempelstelle-48-stierbergsteich) | |
-| HWN 49 | | [Grüntal](/stempelstelle-49-gruental) | |
-| HWN 50 | | [Walzenhütte](/stempelstelle-50-walzenhuette) | |
-| HWN 51 | | [Carlsturm](/stempelstelle-51-carlsturm) | |
-| HWN 52 | | [Trageburg am Hexenstieg](/stempelstelle-52-trageburg-am-hexenstieg) | |
-| HWN 53 | | [Hassel Vorsperre](/stempelstelle-53-hassel-vorsperre) | |
-| HWN 54 | | [Rotestein](/stempelstelle-54-rotestein) | |
-| HWN 55 | | [Wüstung Selkefeldekirche](/stempelstelle-55-wuestung-selkefeldekirche) | |
-| HWN 56 | | [Rappbodeblick Trautenstein](/stempelstelle-56-rappbodeblick-trautenstein) | |
-| HWN 57 | | [Echoblick Allrode](/stempelstelle-57-echoblick-allrode) | |
-| HWN 58 | | [Pferdchen](/stempelstelle-58-pferdchen) | |
-| HWN 59 | | [Klostergrund Michaelstein](/stempelstelle-59-klostergrund-michaelstein) | |
-| HWN 60 | | [Stemberghaus Köhlerei](/stempelstelle-60-stemberghaus-koehlerei) | |
-| HWN 61 | | [Harzer Grauwacke Rieder](/stempelstelle-61-harzer-grauwacke-rieder) | |
-| HWN 62 | | [Talsperre Wendefurth Talsperrenblick](/stempelstelle-62-talsperre-wendefurth-talsperrenblick) | |
-| HWN 63 | | [Schöneburg Aussichtspunkt](/stempelstelle-63-schoeneburg-aussichtspunkt) | |
-| HWN 64 | | [Böser Kleef Aussichtspunkt](/stempelstelle-64-boeser-kleef-aussichtspunkt) | |
-| HWN 65 | | [Gasthaus Todtenrode](/stempelstelle-65-gasthaus-todtenrode) | |
-| HWN 66 | | [Wilhelmsblick Aussichtspunkt](/stempelstelle-66-wilhelmsblick-aussichtspunkt) | |
+| HWN 1 | | [Eckertalsperre Staumauer](/stempelstelle-001-eckertalsperre-staumauer) | |
+| HWN 2 | | [Scharfenstein Rangerstation](/stempelstelle-002-scharfenstein-rangerstation) | |
+| HWN 3 | | [Am Kruzifix](/stempelstelle-003-am-kruzifix) | |
+| HWN 4 | | [Taubenklippe](/stempelstelle-004-taubenklippe) | |
+| HWN 5 | | [Froschfelsen](/stempelstelle-005-froschfelsen) | |
+| HWN 6 | | [Bremer Hütte Obere Ilsefälle](/stempelstelle-006-bremer-huette-obere-ilsefaelle) | |
+| HWN 7 | | [Gasthaus Plessenburg](/stempelstelle-007-gasthaus-plessenburg) | |
+| HWN 8 | | [Stempelsbuche](/stempelstelle-008-stempelsbuche) | |
+| HWN 9 | | [Brockenhaus](/stempelstelle-009-brockenhaus) | |
+| HWN 10 | | [Große Zeterklippe](/stempelstelle-010-grosse-zeterklippe) | |
+| HWN 11 | | [Eckerloch](/stempelstelle-011-eckerloch) | |
+| HWN 12 | | [Achtermannshöhe](/stempelstelle-012-achtermannshoehe) | |
+| HWN 13 | | [Ahrensklint](/stempelstelle-013-ahrensklint) | |
+| HWN 14 | | [Schnarcherklippe Schutzhütte](/stempelstelle-014-schnarcherklippe-schutzhuette) | |
+| HWN 15 | | [Leistenklippe](/stempelstelle-015-leistenklippe) | |
+| HWN 16 | | [Ferdinandsstein](/stempelstelle-016-ferdinandsstein) | |
+| HWN 17 | | [Trudenstein](/stempelstelle-017-trudenstein) | |
+| HWN 18 | | [Grenzweg am Kaffeehorst](/stempelstelle-018-grenzweg-am-kaffeehorst) | |
+| HWN 19 | | [Skidenkmal Nähe Eckerstausee](/stempelstelle-019-skidenkmal-naehe-eckerstausee) | |
+| HWN 20 | | [Bärenberg Aussichtspunkt](/stempelstelle-020-barenberg-aussichtspunkt) | |
+| HWN 21 | | [Helenenruh](/stempelstelle-021-helenenruh) | |
+| HWN 22 | | [Gelber Brink](/stempelstelle-022-gelber-brink) | |
+| HWN 23 | | [Molkenhausstern](/stempelstelle-023-molkenhausstern) | |
+| HWN 24 | | [Wolfsklippe](/stempelstelle-024-wolfsklippe) | |
+| HWN 25 | | [Oberförster Koch Denkmal](/stempelstelle-025-oberfoerster-koch-denkmal) | |
+| HWN 26 | | [Mönchsbuche](/stempelstelle-026-moenchsbuche) | |
+| HWN 27 | | [Ottofelsen](/stempelstelle-027-ottofelsen) | |
+| HWN 28 | | [Gasthaus Steinerne Renne](/stempelstelle-028-gasthaus-steinerne-renne) | |
+| HWN 29 | | [Elversstein](/stempelstelle-029-elversstein) | |
+| HWN 30 | | [Ilsestein](/stempelstelle-030-ilsestein) | |
+| HWN 31 | | [Agnesberg](/stempelstelle-031-agnesberg) | |
+| HWN 32 | | [Gasthaus Christianental](/stempelstelle-032-gasthaus-christianental) | |
+| HWN 33 | | [Stapenberg](/stempelstelle-033-stapenberg) | |
+| HWN 34 | | [Scharfenstein](/stempelstelle-034-scharfenstein) | |
+| HWN 35 | | [Gasthaus Armeleuteberg](/stempelstelle-035-gasthaus-armeleuteberg) | |
+| HWN 36 | | [Peterstein](/stempelstelle-036-peterstein) | |
+| HWN 37 | | [Büchenberg](/stempelstelle-037-buechenberg) | |
+| HWN 38 | | [Galgenberg](/stempelstelle-038-galgenberg) | |
+| HWN 39 | | [Tagebau Felswerke](/stempelstelle-039-tagebau-felswerke) | |
+| HWN 40 | | [Königshütter Wasserfall](/stempelstelle-040-koenigshuetter-wasserfall) | |
+| HWN 41 | | [Ruine Königsburg](/stempelstelle-041-ruine-koenigsburg) | |
+| HWN 42 | | [Trogfurther Brücke](/stempelstelle-042-trogfurther-bruecke) | |
+| HWN 43 | | [Wasserscheide Weser-Elbe Hohe Tür](/stempelstelle-043-wasserscheide-weser-elbe-hohe-tuer) | |
+| HWN 44 | | [Kapitelsberg](/stempelstelle-044-kapitelsberg) | |
+| HWN 45 | | [Dicke Tannen](/stempelstelle-045-dicke-tannen) | |
+| HWN 46 | | [Grenzmuseum am Ring der Erinnerung](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung) | |
+| HWN 47 | | [Oberharzblick am Buchberg](/stempelstelle-047-oberharzblick-am-buchberg) | |
+| HWN 48 | | [Stierbergsteich](/stempelstelle-048-stierbergsteich) | |
+| HWN 49 | | [Grüntal](/stempelstelle-049-gruental) | |
+| HWN 50 | | [Walzenhütte](/stempelstelle-050-walzenhuette) | |
+| HWN 51 | | [Carlsturm](/stempelstelle-051-carlsturm) | |
+| HWN 52 | | [Trageburg am Hexenstieg](/stempelstelle-052-trageburg-am-hexenstieg) | |
+| HWN 53 | | [Hassel Vorsperre](/stempelstelle-053-hassel-vorsperre) | |
+| HWN 54 | | [Rotestein](/stempelstelle-054-rotestein) | |
+| HWN 55 | | [Wüstung Selkefeldekirche](/stempelstelle-055-wuestung-selkefeldekirche) | |
+| HWN 56 | | [Rappbodeblick Trautenstein](/stempelstelle-056-rappbodeblick-trautenstein) | |
+| HWN 57 | | [Echoblick Allrode](/stempelstelle-057-echoblick-allrode) | |
+| HWN 58 | | [Pferdchen](/stempelstelle-058-pferdchen) | |
+| HWN 59 | | [Klostergrund Michaelstein](/stempelstelle-059-klostergrund-michaelstein) | |
+| HWN 60 | | [Stemberghaus Köhlerei](/stempelstelle-060-stemberghaus-koehlerei) | |
+| HWN 61 | | [Harzer Grauwacke Rieder](/stempelstelle-061-harzer-grauwacke-rieder) | |
+| HWN 62 | | [Talsperre Wendefurth Talsperrenblick](/stempelstelle-062-talsperre-wendefurth-talsperrenblick) | |
+| HWN 63 | | [Schöneburg Aussichtspunkt](/stempelstelle-063-schoeneburg-aussichtspunkt) | |
+| HWN 64 | | [Böser Kleef Aussichtspunkt](/stempelstelle-064-boeser-kleef-aussichtspunkt) | |
+| HWN 65 | | [Gasthaus Todtenrode](/stempelstelle-065-gasthaus-todtenrode) | |
+| HWN 66 | | [Wilhelmsblick Aussichtspunkt](/stempelstelle-066-wilhelmsblick-aussichtspunkt) | |
 | HWN 67 | | [Hexentanzplatz Ellricher Blick](/stempelstelle-167-hexentanzplatz-ellricher-blick) | |
-| HWN 68 | | [Pfeil Denkmal](/stempelstelle-68-pfeil-denkmal) | |
-| HWN 69 | | [Sonnenklippe Bodetal](/stempelstelle-69-sonnenklippe-bodetal) | |
-| HWN 70 | | [Prinzensicht Aussichtsturm](/stempelstelle-70-prinzensicht-aussichtsturm) | |
-| HWN 71 | | [Rosstrappe Abzweig Schurre](/stempelstelle-71-rosstrappe-abzweig-schurre) | |
-| HWN 72 | | [La Viershöhe](/stempelstelle-72-la-viershoehe) | |
-| HWN 73 | | [Glockenstein](/stempelstelle-73-glockenstein) | |
-| HWN 74 | | [Hamburger Wappen Teufelsmauer](/stempelstelle-74-hamburger-wappen-teufelsmauer) | |
-| HWN 75 | | [Hahnenkleeklippen](/stempelstelle-75-hahnenkleeklippen) | |
-| HWN 76 | | [Großvaterfelsen](/stempelstelle-76-grossvaterfelsen) | |
-| HWN 77 | | [Ruine Luisenburg](/stempelstelle-77-ruine-luisenburg) | |
-| HWN 78 | | [Barocke Gärten](/stempelstelle-78-barocke-gaerten) | |
-| HWN 79 | | [Otto Ebert Brücke am Herzogsweg](/stempelstelle-79-otto-ebert-bruecke-am-herzogsweg) | |
-| HWN 80 | | [Burgruine Regenstein](/stempelstelle-80-burgruine-regenstein) | |
-| HWN 81 | | [Sandhöhlen im Heers](/stempelstelle-81-sandhoehlen-im-heers) | |
-| HWN 82 | | [Regenstein Mühle](/stempelstelle-82-regenstein-muehle) | |
-| HWN 83 | | [Austbergturm](/stempelstelle-83-austbergturm) | |
-| HWN 84 | | [Altenburg bei Heimburg](/stempelstelle-84-altenburg-bei-heimburg) | |
-| HWN 85 | | [Wasserkunst Thumkuhlental](/stempelstelle-85-wasserkunst-thumkuhlental) | |
-| HWN 86 | | [Bisongehege](/stempelstelle-86-bisongehege) | |
-| HWN 87 | | [Volkmarskeller](/stempelstelle-87-volkmarskeller) | |
-| HWN 88 | | [Aussichtspavillon Hoher Kleef](/stempelstelle-88-aussichtspavillon-hoher-kleef) | |
-| HWN 89 | | [Schornsteinberg](/stempelstelle-89-schornsteinberg) | |
-| HWN 90 | | [Roter Schuss](/stempelstelle-90-roter-schuss) | |
-| HWN 91 | | [Weltkulturerbe Rammelsberg](/stempelstelle-91-weltkulturerbe-rammelsberg) | |
-| HWN 92 | | [Poppenberg mit Aussichtsturm](/stempelstelle-92-poppenberg-mit-aussichtsturm) | |
-| HWN 93 | | [Dreitälerblick](/stempelstelle-93-dreitaelerblick) | |
-| HWN 94 | | [Dreiherrenstein am Brandhai](/stempelstelle-94-dreiherrenstein-am-brandhai-am-48a) | |
-| HWN 95 | | [Ilfelder Wetterfahne](/stempelstelle-95-ilfelder-wetterfahne) | |
-| HWN 96 | | [Ehemalige Steinmühle](/stempelstelle-96-ehemalige-steinmuehle) | |
-| HWN 97 | | [Ziegenalm Sophienhof](/stempelstelle-97-ziegenalm-sophienhof) | |
-| HWN 98 | | [Ruine Hohnstein](/stempelstelle-98-ruine-hohnstein) | |
-| HWN 99 | | [Harzer Holzdampflok](/stempelstelle-99-harzer-holzdampflok) | |
+| HWN 68 | | [Pfeil Denkmal](/stempelstelle-068-pfeil-denkmal) | |
+| HWN 69 | | [Sonnenklippe Bodetal](/stempelstelle-069-sonnenklippe-bodetal) | |
+| HWN 70 | | [Prinzensicht Aussichtsturm](/stempelstelle-070-prinzensicht-aussichtsturm) | |
+| HWN 71 | | [Rosstrappe Abzweig Schurre](/stempelstelle-071-rosstrappe-abzweig-schurre) | |
+| HWN 72 | | [La Viershöhe](/stempelstelle-072-la-viershoehe) | |
+| HWN 73 | | [Glockenstein](/stempelstelle-073-glockenstein) | |
+| HWN 74 | | [Hamburger Wappen Teufelsmauer](/stempelstelle-074-hamburger-wappen-teufelsmauer) | |
+| HWN 75 | | [Hahnenkleeklippen](/stempelstelle-075-hahnenkleeklippen) | |
+| HWN 76 | | [Großvaterfelsen](/stempelstelle-076-grossvaterfelsen) | |
+| HWN 77 | | [Ruine Luisenburg](/stempelstelle-077-ruine-luisenburg) | |
+| HWN 78 | | [Barocke Gärten](/stempelstelle-078-barocke-gaerten) | |
+| HWN 79 | | [Otto Ebert Brücke am Herzogsweg](/stempelstelle-079-otto-ebert-bruecke-am-herzogsweg) | |
+| HWN 80 | | [Burgruine Regenstein](/stempelstelle-080-burgruine-regenstein) | |
+| HWN 81 | | [Sandhöhlen im Heers](/stempelstelle-081-sandhoehlen-im-heers) | |
+| HWN 82 | | [Regenstein Mühle](/stempelstelle-082-regenstein-muehle) | |
+| HWN 83 | | [Austbergturm](/stempelstelle-083-austbergturm) | |
+| HWN 84 | | [Altenburg bei Heimburg](/stempelstelle-084-altenburg-bei-heimburg) | |
+| HWN 85 | | [Wasserkunst Thumkuhlental](/stempelstelle-085-wasserkunst-thumkuhlental) | |
+| HWN 86 | | [Bisongehege](/stempelstelle-086-bisongehege) | |
+| HWN 87 | | [Volkmarskeller](/stempelstelle-087-volkmarskeller) | |
+| HWN 88 | | [Aussichtspavillon Hoher Kleef](/stempelstelle-088-aussichtspavillon-hoher-kleef) | |
+| HWN 89 | | [Schornsteinberg](/stempelstelle-089-schornsteinberg) | |
+| HWN 90 | | [Roter Schuss](/stempelstelle-090-roter-schuss) | |
+| HWN 91 | | [Weltkulturerbe Rammelsberg](/stempelstelle-091-weltkulturerbe-rammelsberg) | |
+| HWN 92 | | [Poppenberg mit Aussichtsturm](/stempelstelle-092-poppenberg-mit-aussichtsturm) | |
+| HWN 93 | | [Dreitälerblick](/stempelstelle-093-dreitaelerblick) | |
+| HWN 94 | | [Dreiherrenstein am Brandhai](/stempelstelle-094-dreiherrenstein-am-brandhai-am-48a) | |
+| HWN 95 | | [Ilfelder Wetterfahne](/stempelstelle-095-ilfelder-wetterfahne) | |
+| HWN 96 | | [Ehemalige Steinmühle](/stempelstelle-096-ehemalige-steinmuehle) | |
+| HWN 97 | | [Ziegenalm Sophienhof](/stempelstelle-097-ziegenalm-sophienhof) | |
+| HWN 98 | | [Ruine Hohnstein](/stempelstelle-098-ruine-hohnstein) | |
+| HWN 99 | | [Harzer Holzdampflok](/stempelstelle-099-harzer-holzdampflok) | |
 | HWN 100 | | [Ebersburg](/stempelstelle-100-ebersburg) | |
 | HWN 101 | | [Einhornhöhle](/stempelstelle-101-einhornhoehle) | |
 | HWN 102 | | [Lageswarte](/stempelstelle-102-lageswarte) | |

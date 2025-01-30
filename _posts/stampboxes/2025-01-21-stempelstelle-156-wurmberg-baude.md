@@ -45,13 +45,13 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
-- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
-- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
-- [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-18-grenzweg-am-kaffeehorst)
-- [**„Barenberg“ (HWN 20)**](/stempelstelle-20-barenberg-aussichtspunkt)
-- [**„Helenenruh“ (HWN 21)**](/stempelstelle-21-helenenruh)
-- [**„Hahnenkleeklippen“ (HWN 75)**](/stempelstelle-75-hahnenkleeklippen)
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-011-eckerloch)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette)
+- [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-018-grenzweg-am-kaffeehorst)
+- [**„Barenberg“ (HWN 20)**](/stempelstelle-020-barenberg-aussichtspunkt)
+- [**„Helenenruh“ (HWN 21)**](/stempelstelle-021-helenenruh)
+- [**„Hahnenkleeklippen“ (HWN 75)**](/stempelstelle-075-hahnenkleeklippen)
 - [**„Gaststätte Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
 - [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)
 - [**„Naturmythenpfad“ (HWN 148)**](/stempelstelle-148-naturmythenpfad-nph)

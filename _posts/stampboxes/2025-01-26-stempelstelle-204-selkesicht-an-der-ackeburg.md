@@ -59,3 +59,4 @@ Bei unserem Besuch im Herbst haben wir vielen Zecken aus dem Fell unseres Beglei
 - [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
 - [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
 - [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm)
+- 

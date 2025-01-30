@@ -40,7 +40,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Glockenstein“ (HWN 073)**](/stempelstelle-73-glockenstein)
+- [**„Glockenstein“ (HWN 073)**](/stempelstelle-073-glockenstein)
 - [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode)
 - [**„Anhaltinischer Salstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein)
 - [**„Teufelsmauer Weddersleben“ (HWN 188)**](/stempelstelle-188-teufelsmauer-weddersleben)

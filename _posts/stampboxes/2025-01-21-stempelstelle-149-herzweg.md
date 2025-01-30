@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hahnenkleeklippen“ (HWN 75)**](/stempelstelle-75-hahnenkleeklippen)
-- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
+- [**„Hahnenkleeklippen“ (HWN 75)**](/stempelstelle-075-hahnenkleeklippen)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe)
