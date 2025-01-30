@@ -28,6 +28,7 @@ const aRegexToIgnoreInSubLinks = [
     /categories#Stempelstelle/,
     /wikimedia/,
     /wikipedia/,
+    /license/
 ];
 
 const verifyLinkIntegrity = (sitemapPath) => {
@@ -84,17 +85,15 @@ const extractLinksFromResponse = (response) => {
     return response.match(/<a.*?href="(.*?)"/g).map((link) => link.replace(/<a.*?href="|"/g, ''));
 }
 
-const testLink = "https://www.harzer-wander-buddy.de/"
-verifyLink(testLink, true).then((result) => console.log(result));
-
-
 // const testLink = "https://www.harzer-wander-buddy.de/"
 // verifyLink(testLink, true).then((result) => console.log(result));
 
 
+console.time("all");
 const aResult = verifyLinkIntegrity('../sitemap.xml');
 
 Promise.all(aResult).then((result) => {
+    console.timeEnd("all");
     fs.writeFileSync('result.json', JSON.stringify(result, null, 4));
     // console.log(result);
  });
