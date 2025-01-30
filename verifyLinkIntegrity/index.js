@@ -1,4 +1,5 @@
 import extractLinksFromSitemap from "./extractLinksFromSitemap.js";
+import fs from 'fs';
 
 const hostSitemap = 'https://www.harzer-wander-buddy.de';
 const hostTest = 'http://localhost:4000';
@@ -73,9 +74,14 @@ const testLink = "https://www.harzer-wander-buddy.de/"
 verifyLink(testLink, true).then((result) => console.log(result));
 
 
-// const aResult = verifyLinkIntegrity('../sitemap.xml');
+// const testLink = "https://www.harzer-wander-buddy.de/"
+// verifyLink(testLink, true).then((result) => console.log(result));
 
-// Promise.all(aResult).then((result) => {
-//     console.log(result);
-// });
+
+const aResult = verifyLinkIntegrity('../sitemap.xml');
+
+Promise.all(aResult).then((result) => {
+    fs.writeFileSync('result.json', JSON.stringify(result, null, 4));
+    // console.log(result);
+ });
 
