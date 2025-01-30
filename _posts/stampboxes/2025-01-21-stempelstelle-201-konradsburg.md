@@ -1,48 +1,44 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-201-konradsburg/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 201: Konradsburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/201-konradsburg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 201: Konradsburg | Ermsleben"
 comments: false
 imageshadow: true
 imageSource: '📷 [Chor März 2004 - 02](https://commons.wikimedia.org/wiki/File:Chor_M%C3%A4rz_2004_-_02.jpg) von Die Autorenschaft wurde nicht in einer maschinell lesbaren Form angegeben. Es wird <a href="//commons.wikimedia.org/w/index.php?title=User:Burgwaechter1021~commonswiki&amp;action=edit&amp;redlink=1" class="new" title="User:Burgwaechter1021~commonswiki (page does not exist)">Burgwaechter1021~commonswiki</a> als Autor angenommen (basierend auf den Rechteinhaber-Angaben). unter Lizenz Public domain'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Konradsburg liegt etwa 3 km südlich von Ermsleben auf dem Burgberg (236 m ü. NN). Sie wurde zum Schutz des Reichsgutes Harz gegründet. :contentReference[oaicite:0]{index=0}
 
+Nach 1120 verließen die Konradsburger den Bergsporn und errichteten im Selketal die Burg Falkenstein. :contentReference[oaicite:1]{index=1}
 
+Auf der Konradsburg wurde ein Benediktinerkloster gegründet. Sie war für Jahrhunderte das kulturelle und wirtschaftliche Zentrum am östlichen Harzrand. :contentReference[oaicite:2]{index=2}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Historische Bedeutung
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+1712 wurde die Konradsburg landwirtschaftlich genutzt. Im ehemaligen Kreuzgang steht ein zweigeschossiges Brunnenhaus mit einem über 45 m tiefen Brunnen und einem Eselstretrad. :contentReference[oaicite:3]{index=3}
 
-#### Wanderwege zur / zum <namen>
+Dank einer Bürgerbewegung ab 1982, aus der 1990 der Förderkreis Konradsburg e.V. entstand, konnte die Bausubstanz der Burganlage gesichert werden. :contentReference[oaicite:4]{index=4}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+#### Wanderwege zur Konradsburg
+
+- **Siedlung Burgrund**: Von hier führt ein beschilderter Wanderweg hinauf zur Burg. :contentReference[oaicite:5]{index=5}
+- **Holländermühle bei Endorf**: Beschilderte Feldwege leiten von der Mühle zur Burg. :contentReference[oaicite:6]{index=6}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71400%2C%2011.34800) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71400,11.34800">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
+- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum)

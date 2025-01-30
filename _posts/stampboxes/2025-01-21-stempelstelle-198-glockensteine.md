@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-198-glockensteine/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 198: Glockensteine"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/198-glockensteine.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 198: Glockensteine | Steigerthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Glockensteine Steigerthal](https://commons.wikimedia.org/wiki/File:Glockensteine_Steigerthal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Glockensteine liegen südwestlich von Steigerthal an einer Kreuzung des Karstwanderwegs und des Pfads nach Himmelgarten. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Im Spätmittelalter wurden Steinkreuze für Menschen errichtet, die plötzlich und unvorbereitet starben. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zu den Glockensteinen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt Steigerthal**: Folgen Sie dem mit einem blauen Kreuz markierten "Schwarzen Weg" zu den Glockensteinen. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Weiter zum Helmetalblick**: Setzen Sie die Wanderung fort zum Aussichtspunkt Helmetalblick für einen Panoramablick auf Nordhausen und die südlichen Harzberge. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.51768%2C%2010.85805) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.51768,10.85805">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
+- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)

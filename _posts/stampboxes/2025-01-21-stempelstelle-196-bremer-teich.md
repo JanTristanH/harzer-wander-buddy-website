@@ -1,48 +1,49 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-196-bremer-teich/
-https://www.harzer-wander-gui.de/harzer-wandernadel/196-bremer-teich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 196: Bremer Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/196-bremer-teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 196: Bremer Teich | Gernrode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bremer Teich](https://commons.wikimedia.org/wiki/File:Bremer_Teich.jpg) von User <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> at <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Bremer Teich liegt südwestlich von Gernrode, zwischen dem Sternhaus und der Viktorshöhe. :contentReference[oaicite:0]{index=0}
 
+Er wurde 1796 von den anhaltinischen Grafen als "Hirschteich" für die Jagd angelegt. Später erfolgte die Umbenennung in "Bremer Teich" zu Ehren des Ingenieurs Bremer. :contentReference[oaicite:1]{index=1}
 
+#### Historische Bedeutung
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+Der Teich diente ursprünglich der Hirschjagd. Heute ist er ein beliebtes Naherholungsgebiet mit Campingplatz und Bademöglichkeiten. :contentReference[oaicite:2]{index=2}
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bremer Teich
 
-#### Wanderwege zur / zum <namen>
+- **Gasthaus Sternhaus Ramberg**: 2 km
+- **Mägdesprung, HSB-Haltestelle Drahtzug**: 3,6 km
+- **Haferfeld, Wanderparkplatz**: 3,9 km
+- **Friedrichsbrunn, Parkplatz Am Ramberg**: 4,8 km
+- **Bad Suderode, Parkplatz L239 Sportplatz / Felsenkeller**: 6,3 km
+- **Gernrode, Parkplatz Osterteich**: 6,5 km
+- **Alexisbad, Parkplatz B185**: 5,5 km
+- **Harzgerode, Parkplatz am Schloss**: 7,7 km
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+:contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68493%2C%2011.11232) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.68493,11.11232">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
+- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich)
+- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle)

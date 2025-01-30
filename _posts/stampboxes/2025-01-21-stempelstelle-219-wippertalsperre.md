@@ -1,49 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-219-wippertalsperre/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 219: Wippertalsperre"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/219-wippertalsperre.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 219: Wippertalsperre | Wippra"
 comments: false
 imageshadow: true
-imageSource: '📷 [Talsperre Wippra - Flickr - tm-md (36)](https://commons.wikimedia.org/wiki/File:Talsperre_Wippra_-_Flickr_-_tm-md_(36).jpg) von <bdi><a href="https://www.wikidata.org/wiki/Q65534171" class="extiw" title="d:Q65534171"><span title="photographer">Torsten Maue</span></a>
-</bdi> unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
+imageSource: '📷 [Talsperre Wippra - Flickr - tm-md (36)](https://commons.wikimedia.org/wiki/File:Talsperre_Wippra_-_Flickr_-_tm-md_(36).jpg) von <bdi><a href="https://www.wikidata.org/wiki/Q65534171" class="extiw" title="d:Q65534171"><span title="photographer">Torsten Maue</span></a></bdi> unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Wippertalsperre liegt zwischen Wippra, Königerode und Dankerode. Sie wurde 1951/52 als Vorsperre gebaut und diente der Wasserversorgung für den Kupferschieferbergbau. Heute ist sie ein beliebtes Naherholungsgebiet. Ein 5,8 km langer Rundweg führt um die Talsperre und bietet Naturerlebnisse pur. Die Stempelstelle 219 der Harzer Wandernadel befindet sich an diesem Weg. :contentReference[oaicite:0]{index=0}
 
+#### Harzer Naturistenstieg
 
+In der Nähe der Wippertalsperre befindet sich der Harzer Naturistenstieg, der erste offizielle Nacktwanderweg Deutschlands. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Wippertalsperre
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt Wippra**: Von Wippra führt ein 7 km langer Weg über die "Eckardtstraße" oder den Wald- und Gesteinslehrpfad "Knüppeldamm" zur Talsperre. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Königerode**: Über das Forsthaus Schiefergraben und nahegelegene Waldparkplätze erreicht man den Rundweg um die Talsperre. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.56956%2C%2011.19266) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.56956,11.19266">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Josephshöhe (Auerberg)“ (HWN 215)**](/stempelstelle-215-josephshoehe-auerberg)
+- [**„Hunrodeiche“ (HWN 216)**](/stempelstelle-216-hunrodeiche)
+- [**„Dicke Buche“ (HWN 217)**](/stempelstelle-217-dicke-buche)

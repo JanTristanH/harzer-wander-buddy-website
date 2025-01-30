@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-166-sachsensteinhuette/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 166: Sachsensteinhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/166-sachsensteinhuette.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 166: Sachsensteinhütte | Bad Sachsa"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sachsensteinhütte](https://commons.wikimedia.org/wiki/File:Sachsensteinh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Sachsensteinhütte (Stempelstelle 166) liegt auf dem markanten Gipsmassiv des Sachsensteins zwischen Neuhof und Bad Sachsa. Von hier bietet sich ein beeindruckender Blick auf Bad Sachsa und das umliegende Karstgebiet. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung des Sachsensteins
 
+Der Sachsenstein war Schauplatz von Auseinandersetzungen zwischen Franken und Sachsen im 6. Jahrhundert. Die siegreichen Sachsen errichteten hier eine Wallburg. Im Jahr 1065 ließ König Heinrich IV. eine Burg errichten, die jedoch 1074 zerstört wurde. Reste dieser Anlagen sind noch vorhanden. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Sachsensteinhütte
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt Neuhof**: Gut ausgeschilderter Weg führt zum Sachsenstein und weiter zum historischen Gipsbrennofen (Stempelstelle 192). :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Rundweg ab Branderode**: Wanderung zur Burgruine Sachsenstein und zur Sachsensteinhütte. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58073%2C%2010.58385) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.58073,10.58385">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Historischer Gipsbrennofen“ (HWN 192)**](/stempelstelle-192-historischer-gipsbrennofen)

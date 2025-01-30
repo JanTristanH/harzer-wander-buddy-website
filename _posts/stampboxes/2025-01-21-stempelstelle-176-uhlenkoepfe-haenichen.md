@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-176-uhlenkoepfe-haenichen/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 176: Uhlenköpfe Hänichen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/176-uhlenkoepfe-haenichen.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 176: Uhlenköpfe Hänichen | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Brockenblick bei Silberhütte](https://commons.wikimedia.org/wiki/File:Brockenblick_bei_Silberh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Uhlenköpfe (380 m ü. NN) liegen oberhalb des Uhlenbachtals bei Silberhütte. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+1693 wurde hier die Silberhütte gegründet. 1825 wurde dort das einzige im Harz gefundene Gold verhüttet. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zu den Uhlenköpfen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt Silberhütte**: Vom Parkplatz dem Selketalstieg bergauf folgen. Über einen Forstweg erreicht man die Stempelstelle mit Brockenblick. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt Straßberg**: Über den Bergbaupfad gelangt man zur Stempelstelle. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63218%2C%2011.08296) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.63218,11.08296">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Schaubergwerk Glasebach“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach)
+- [**„Waldwiese Hirschbüchenkopf“ (HWN 173)**](/stempelstelle-173-waldwiese-hirschbuechenkopf)
+- [**„Hellergrund“ (HWN 194)**](/stempelstelle-194-hellergrund)

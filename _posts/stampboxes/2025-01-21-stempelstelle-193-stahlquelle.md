@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-193-stahlquelle/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 193: Stahlquelle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/193-stahlquelle.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 193: Stahlquelle | Neudorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rastplatz Stahlquelle](https://commons.wikimedia.org/wiki/File:Rastplatz_Stahlquelle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stahlquelle liegt oberhalb des Tals der Schmalen Wipper auf dem Wipperberg bei Neudorf. Sie wurde 1926 entdeckt und 1931 für Besucher erschlossen. Seitdem trägt sie zum Ruf Neudorfs als Erholungsort bei. :contentReference[oaicite:0]{index=0}
 
+#### Historischer Hintergrund
 
+Die Quelle wurde 1926 von Obersteiger W. Bock entdeckt. 1931 wurde sie für den Fremdenverkehr erschlossen und stärkte Neudorfs Ruf als Erholungsort. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Stahlquelle
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Neudorfer Bergbaurundwanderweg**: Ein 15 km langer Weg, der die über 600-jährige Bergbaugeschichte des Neudorfer Reviers präsentiert. Über die "Menschentrappe", einen steilen Hohlweg, gelangt man zur Stahlquelle. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Kurze Route**: Vom kleinen Parkplatz an der Straße von Neudorf nach Dankerode führt ein kurzer Weg direkt zur Stahlquelle. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60795%2C%2011.13672) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.60795,11.13672">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Wasserkunstanlage Hellergrund“ (HWN 194)**](/stempelstelle-194-wasserkunstanlage-hellergrund)
+- [**„Schaubergwerk Glasebach“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach)

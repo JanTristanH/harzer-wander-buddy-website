@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-220-schutzhuette-phillippsgruss/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 220: Schutzhütte Phillippsgruß"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/220-schutzhuette-phillippsgruss.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 220: Schutzhütte Phillippsgruß | Bad Sachsa"
 comments: false
 imageshadow: true
 imageSource: '📷 [Philippsgruß](https://commons.wikimedia.org/wiki/File:Philippsgru%C3%9F.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Schutzhütte "Philippsgruß" liegt nordwestlich von Bad Sachsa auf dem Katzenstein, nahe dem Ravensberg (660 m ü. NN). Ein Stammgast des Kurortes ließ den Pavillon errichten, um den weiten Ausblick bis zum Kyffhäuser zu genießen. :contentReference[oaicite:0]{index=0}
 
+#### Märchengrund und Harzfalkenhof
 
+Unterhalb des Phillippsgruß befindet sich der älteste Märchenpark Deutschlands, der seit 1910 besteht. Hier werden Märchenszenen mit Naturmaterialien dargestellt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+In der Nähe liegt der 1964 gegründete Harzfalkenhof Bad Sachsa. Er widmet sich dem Greifvogelschutz und beherbergt etwa 80 Greifvögel wie Adler, Geier, Falken und Eulen. Die Flugvorführungen sind beeindruckend. :contentReference[oaicite:2]{index=2}
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Schutzhütte Phillippsgruß
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Bad Sachsa**: Vom Vitalpark über den Ede-Baller-Weg zur Schutzhütte. :contentReference[oaicite:3]{index=3}
+- **Ravensberg**: Vom Gipfel über die Käthe-Schulken-Hütte und den Ede-Baller-Weg zum Phillippsgruß. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60973%2C%2010.53118) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.60973,10.53118">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Wasserscheide Weser-Elbe ‚Hohe Tür‘“ (HWN 43)**](/stempelstelle-43-wasserscheide-weser-elbe-hohe-tuer)
+- [**„Pferdchen“ (HWN 58)**](/stempelstelle-58-pferdchen)
+- [**„Kapitelsberg“ (HWN 44)**](/stempelstelle-44-kapitelsberg)

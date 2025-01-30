@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-154-dreibrodestein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/154-dreibrodestein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 154: Dreibrodestein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/154-dreibrodestein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 154: Dreibrodestein | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Dreibrodesteine bei Sankt Andreasberg](https://commons.wikimedia.org/wiki/File:Dreibrodesteine_bei_Sankt_Andreasberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Ogmios" title="User:Ogmios">Ogmios</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Dreibrodesteine sind drei große Granitblöcke zwischen Sankt Andreasberg und Sonnenberg. Sie entstanden durch Wollsackverwitterung. :contentReference[oaicite:0]{index=0}
 
+#### Sage der Dreibrodesteine
 
+Einer Legende nach verwandelten sich drei Brote einer hartherzigen Frau in diese Steine, weil sie einem hungrigen Bergmann nicht helfen wollte. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Dreibrodestein
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Dreibrodesteine**: Nur 1 km Fußweg zum Naturdenkmal. :contentReference[oaicite:2]{index=2}
+- **Oderteich, Wanderparkplatz**: Etwa 6,4 km entfernt.
+- **Sonnenberg, Parkplatz B242**: Ungefähr 6,5 km entfernt. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73224%2C%2010.51136) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.73224,10.51136">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Gaststätte Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
+- [**„Rehberger Grabenhaus“ (HWN 155)**](/stempelstelle-155-rehberger-grabenhaus)
+- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz)

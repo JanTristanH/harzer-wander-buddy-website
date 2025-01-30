@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-214-reesbergdoline/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 214: Reesbergdoline"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/214-reesbergdoline.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 214: Reesbergdoline | Uftrungen"
 comments: false
 imageshadow: true
 imageSource: '📷 [HWN214 Reesbergdoline](https://commons.wikimedia.org/wiki/File:HWN214_Reesbergdoline.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Miebner" class="extiw" title="w:de:User:Miebner">w:de:User:Miebner</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Reesbergdoline liegt zwischen der Karsthöhle Heimkehle bei Uftrungen und dem Reesberg (325 m ü. NN) im Alten Stolberg. Sie ist eine beeindruckende 22 Meter tiefe Doline, entstanden durch die Auflösung von Gips im Untergrund. :contentReference[oaicite:0]{index=0}
 
+#### Karsthöhle Heimkehle
 
+In der Nähe befindet sich die Schauhöhle Heimkehle. Sie wurde erstmals 1357 erwähnt und erstreckt sich über die Grenze von Sachsen-Anhalt und Thüringen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Reesbergdoline
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Heimkehle**: Vom Parkplatz an der Heimkehle führt der Karstwanderweg direkt zur Doline. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49778%2C%2010.94777) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.49778,10.94777">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine)
+- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
+- [**„Queste“ (HWN 212)**](/stempelstelle-212-queste)

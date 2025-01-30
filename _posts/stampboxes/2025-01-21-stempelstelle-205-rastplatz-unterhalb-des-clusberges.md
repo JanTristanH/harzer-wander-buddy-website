@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-205-rastplatz-unterhalb-des-clusberges/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 205: Rastplatz unterhalb des Clusberges"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/205-rastplatz-unterhalb-des-clusberges.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 205: Rastplatz unterhalb des Clusberges | Pansfelde"
 comments: false
 imageshadow: true
 imageSource: '📷 [Am Clusberg](https://commons.wikimedia.org/wiki/File:Am_Clusberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 205 der Harzer Wandernadel liegt am Rastplatz unterhalb des Clusberges, zwischen Pansfelde und Stangerode. :contentReference[oaicite:0]{index=0}
 
+#### Naturschutzgebiet Clusberg
 
+Seit 1994 steht der Clusberg unter Naturschutz. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Rastplatz unterhalb des Clusberges
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Von Pansfelde**: Gut ausgeschilderter Wanderweg führt direkt zur Stempelstelle.
+- **Vom Bisongehege in Stangerode**: Beschilderte Route entlang der Schwennecke nach Stangerode. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66342%2C%2011.30631) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.66342,11.30631">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Bisongehege Stangerode“ (HWN 86)**](/stempelstelle-86-bisongehege-stangerode)
+- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum)
+- [**„Landschaftspark Degenershausen“ (HWN 202)**](/stempelstelle-202-landschaftspark-degenershausen)

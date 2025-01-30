@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-215-josephshoehe-auerberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/215-josephshoehe/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 215: Josephshöhe (Auerberg)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/215-josephshoehe-auerberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 215: Josephshöhe (Auerberg) | Stolberg (Harz)"
 comments: false
 imageshadow: true
 imageSource: '📷 [Josephskreuz 20210914 HOF06021 RAW-Export 20220427002395](https://commons.wikimedia.org/wiki/File:Josephskreuz_20210914_HOF06021_RAW-Export_20220427002395.jpg) von <a href="//commons.wikimedia.org/wiki/User:PantheraLeo1359531" title="User:PantheraLeo1359531">PantheraLeo1359531</a> unter Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Josephshöhe ist der Südgipfel des Großen Auerbergs (580 m ü. NN) bei Stolberg im Harz. Hier steht das 38 Meter hohe Josephskreuz, ein beeindruckendes Doppelkreuz aus Stahlfachwerk. :contentReference[oaicite:0]{index=0}
 
+#### Josephskreuz: Historisches Wahrzeichen
 
+Bereits im 17. Jahrhundert gab es hier einen hölzernen Aussichtsturm. 1896 wurde das heutige Josephskreuz errichtet. Es gilt als das größte eiserne Doppelkreuz der Welt und bietet eine herrliche Aussicht über den Harz und bis zum Kyffhäuser. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Josephskreuz
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz Auerberg**: Vom Parkplatz am Fuße des Auerbergs führen beschilderte Wanderwege hinauf zum Josephskreuz. :contentReference[oaicite:2]{index=2}
+- **Naturresort Schindelbruch**: Von hier führt die "Straße der Lieder" mit 16 Texttafeln deutscher Volkslieder zur Josephshöhe. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58061%2C%2011.00553) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.58061,11.00553">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kiliansteiche“ (HWN 211)**](/stempelstelle-211-kiliansteiche)
+- [**„Lutherbuche“ (HWN 216)**](/stempelstelle-216-lutherbuche)
+- [**„Schaubergwerk Glasbach Stollen“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasbach-stollen)

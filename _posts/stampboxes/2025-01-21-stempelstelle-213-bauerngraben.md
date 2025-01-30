@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-213-bauerngraben/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 213: Bauerngraben"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/213-bauerngraben.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 213: Bauerngraben | Breitungen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bauerngraben im gefüllten Zustand](https://commons.wikimedia.org/wiki/File:Bauerngraben_im_gef%C3%BCllten_Zustand.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Bauerngraben liegt zwischen Questenberg und Breitungen. Er ist ein episodischer See, der sich füllt und entleert, je nach Zustand der unterirdischen Schlucklöcher. :contentReference[oaicite:0]{index=0}
 
+#### Geologische Besonderheit
 
+Der See entsteht durch eine Bachschwinde des Glasebachs im Gipskarst. Durch Auslaugung hat sich eine markante weiße Steilwand gebildet. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bauerngraben
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz an der Straße Roßla–Agnesdorf**: Ein beschilderter Weg führt direkt zum See. :contentReference[oaicite:2]{index=2}
+- **Rundweg ab Dittichenrode**: Über den Karstwanderweg mit schönen Ausblicken. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.48897%2C%2011.07794) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.48897,11.07794">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
+- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste)

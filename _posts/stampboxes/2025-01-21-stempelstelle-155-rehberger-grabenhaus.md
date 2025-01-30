@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-155-rehberger-grabenhaus/
-https://www.harzer-wander-gui.de/harzer-wandernadel/155-rehberger-grabenhaus/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 155: Rehberger Grabenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/155-rehberger-grabenhaus.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 155: Rehberger Grabenhaus | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rehberger Grabenhaus](https://commons.wikimedia.org/wiki/File:Rehberger_Grabenhaus.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Rehberger Grabenhaus liegt etwa 2 km nördlich von Sankt Andreasberg am Südhang des Rehbergs. Es befindet sich auf rund 680 m Höhe und ist ein historisches Ausflugslokal. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Rehberger Graben ist Teil des Oberharzer Wasserregals. Er leitet Wasser vom Oderteich nach Sankt Andreasberg und war für den Bergbau lebenswichtig. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Rehberger Grabenhaus
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz Dreibrode**: Ein barrierefreier Weg führt in etwa 1 km zum Grabenhaus. :contentReference[oaicite:2]{index=2}
+- **Über den Rehberger Grabenweg**: Ein nahezu steigungsfreier Pfad entlang des Grabens. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72925%2C%2010.53807) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.72925,10.53807">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Dreibrodesteine“ (HWN 154)**](/stempelstelle-154-dreibrodesteine)
+- [**„Rinderstall“ (HWN 123)**](/stempelstelle-123-rinderstall)

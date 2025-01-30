@@ -1,48 +1,34 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-152-knollenkreuz/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 152: Knollenkreuz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/152-knollenkreuz.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 152: Knollenkreuz | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Knollenkreuz](https://commons.wikimedia.org/wiki/File:Knollenkreuz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Knollenkreuz (480 m ü. NN) ist eine Wegkreuzung zwischen Bad Lauterberg und dem Großen Knollen (HWN 150). Der Stempelkasten befindet sich vor der harztypischen Hütte „Hentschelköte“. Ein guter Ausgangspunkt ist der Wanderparkplatz in der Lutterstraße am Ortsrand von Bad Lauterberg. :contentReference[oaicite:0]{index=0}
 
+#### Wanderwege zum Knollenkreuz
 
-
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
-
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt:** Wanderparkplatz Lutterstraße, Bad Lauterberg
+  - **Route:** Durch das Kleine Scheffeltal zum Knollenkreuz, weiter über die Scheffeltalsköpfe, Großentalsköpfe, Bärentalsköpfe und Hübichentalsköpfe zum Großen Knollen (HWN 150). Rückweg durch das Knollental und das Tal der Geraden Lutter. :contentReference[oaicite:1]{index=1}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64342%2C%2010.44260) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.64342,10.44260">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
+- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz)

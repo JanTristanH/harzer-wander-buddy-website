@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-217-sonnenkappe-oderteich-nph/
-https://www.harzer-wander-gui.de/harzer-wandernadel/217-sonnenkappe-oderteich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 217: Sonnenkappe Oderteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/217-sonnenkappe-oderteich-nph.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 217: Sonnenkappe Oderteich | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sonnenkappe Oderteich](https://commons.wikimedia.org/wiki/File:Sonnenkappe_Oderteich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 217 der Harzer Wandernadel befindet sich am Nordufer des Oderteichs, etwa sieben Kilometer nordöstlich von Sankt Andreasberg an der B 242. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung des Oderteichs
 
+Der Oderteich wurde zwischen 1715 und 1722 von Bergleuten aus Sankt Andreasberg erbaut. Bis zum Ende des 19. Jahrhunderts war er die größte Talsperre Deutschlands. Ursprünglich diente er dazu, über den Rehberger Graben die Wasserräder der Bergwerke mit Wasser zu versorgen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Sonnenkappe Oderteich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz B 242**: Direkt am Oderteich gelegen, idealer Startpunkt für eine Rundwanderung.
+- **Torfhaus**: Etwa 3 Kilometer entfernt; der Weg führt durch malerische Waldlandschaften.
+- **Sonnenberg**: Rund 3,2 Kilometer entfernt; bietet eine abwechslungsreiche Route durch den Nationalpark Harz. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77944%2C%2010.53248) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.77944,10.53248">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
+- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)

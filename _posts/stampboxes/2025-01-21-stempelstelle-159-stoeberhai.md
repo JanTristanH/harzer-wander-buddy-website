@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-159-stoeberhai/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 159: Stöberhai"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/159-stoeberhai.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 159: Stöberhai | Wieda"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stöberhai](https://commons.wikimedia.org/wiki/File:St%C3%B6berhai.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der **Stöberhai** ist mit 720 m der höchste Berg im Südharz. Er liegt zwischen Wieda und der Odertalsperre. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+1872 entstand auf dem Gipfel das erste Wirtshaus. 1889 folgte das "Berghotel Stöberhai" mit Aussichtsturm. Von dort reichte der Blick bis zum Kyffhäuser und Thüringer Wald. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Stöberhai
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Wieda**: Eine asphaltierte, für den öffentlichen Verkehr gesperrte Straße führt direkt zum Gipfel. :contentReference[oaicite:2]{index=2}
+- **Bad Lauterberg**: Wanderwege führen über die Odertalsperre zum Stöberhai. :contentReference[oaicite:3]{index=3}
+- **Odertalsperre**: Ein 8 km langer Weg mit etwa 300 Höhenmetern führt von der Talsperre zum Gipfel. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65653%2C%2010.55408) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.65653,10.55408">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
+- [**„Alte Wache“ (HWN 162)**](/stempelstelle-162-alte-wache)

@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-163-gipfelblick-am-kaiserweg/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 163: Gipfelblick am Kaiserweg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/163-gipfelblick-am-kaiserweg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 163: Gipfelblick am Kaiserweg | Wieda"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipfelblick am Kaiserweg](https://commons.wikimedia.org/wiki/File:Gipfelblick_am_Kaiserweg.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 163 "Gipfelblick am Kaiserweg" liegt zwischen Wieda, Zorge und Hohegeiß, nahe dem 633 m hohen Wagnerskopf. Von hier bietet sich ein beeindruckender Blick auf mehrere Harzgipfel, darunter Wurmberg und Brocken. 🌄
 
+#### Historischer Ort: Kapellenfleck
 
+In der Nähe befindet sich der Kapellenfleck (Stempelstelle 157). Hier stand vermutlich eine Kapelle aus dem Jahr 1297, die Reisenden als Raststätte diente. Heute sind noch Reste der Anlage erkennbar. :contentReference[oaicite:0]{index=0}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Gipfelblick am Kaiserweg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Vom Parkplatz "Kaiserweg"** an der L601 zwischen Wieda und Braunlage führt ein stetiger Anstieg auf dem Kaiserweg über den Steigerkopf zur Stempelstelle. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur / zum <namen>
+- **Ab Zorge**: Parken Sie an der Touristinfo und folgen Sie dem Hüttenweg bis zur Stempelstelle 160 "Helenenruh". Von dort weiter auf dem Kaiserweg zur Stempelstelle 163. :contentReference[oaicite:2]{index=2}
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Vom Parkplatz "Lausebuche"** zwischen Braunlage und Oderhaus wandern Sie zunächst zur Stempelstelle 157 "Kapellenfleck". Danach weiter entlang des Kaiserwegs Richtung Wieda zur Stempelstelle 163. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.653267%2C%2010.600883) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.653267,10.600883">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kapellenfleck)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh)
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendeleiche)

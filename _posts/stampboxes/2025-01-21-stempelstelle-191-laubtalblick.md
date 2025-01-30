@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-191-laubtalblick/
-https://www.harzer-wander-gui.de/harzer-wandernadel/191-laubtalblick/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 191: Laubtalblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/191-laubtalblick.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 191: Laubtalblick | Friedrichsbrunn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Laubtalblick](https://commons.wikimedia.org/wiki/File:Laubtalblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Laubtalblick ist ein idyllischer Rastplatz nahe Friedrichsbrunn im Landkreis Harz, Sachsen-Anhalt. Von hier aus bietet sich ein schöner Blick ins Laubtal und auf die Seewiese. Hohe Tannen spenden Schatten und laden zum Verweilen ein. 🌲
 
+#### Historischer Hintergrund
 
+Das Laubtal, durch das der Große Uhlenbach fließt, liegt zwischen Friedrichsbrunn und dem Forsthaus Uhlenstein. Der heutige Friedrichsbrunnen war einst ein beliebter Rastplatz an der alten Reichsstraße Quedlinburg–Nordhausen. 1754 pausierte hier König Friedrich II. auf einer Inspektionsreise. Später entstand der Ort Friedrichsbrunn, benannt nach dem König. :contentReference[oaicite:0]{index=0}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Laubtalblick
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Ab Friedrichsbrunn**: Vom Wanderparkplatz am Ortsausgang Richtung Güntersberge führt ein beschilderter Weg über die Trollblumenwiese entlang des Großen Uhlenbachs zur Stempelstelle. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ab Bad Suderode**: Vom großen Parkplatz am Ortsausgang führt der Weg Richtung Zentrum zur Kirche. Von dort den Schildern zum Gondelteich folgen und über die Uhleneiche zum Laubtalblick wandern. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67238%2C%2011.03650) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.67238,11.03650">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich)
+- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
+- [**„Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg)

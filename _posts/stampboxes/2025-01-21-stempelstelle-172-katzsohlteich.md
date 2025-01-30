@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-172-katzsohlteich/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 172: Katzsohlteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/172-katzsohlteich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 172: Katzsohlteich | Güntersberge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Katzsohlteich](https://commons.wikimedia.org/wiki/File:Katzsohlteich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Katzsohlteich ist ein Stauteich am Ortsrand von Güntersberge, oberhalb des Bergsees. Er dient als Vorfluter und Fischgewässer. Ein schöner Rastplatz lädt zum Verweilen ein. :contentReference[oaicite:0]{index=0}
 
+#### Ehemalige Marmormühle
 
+Früher stand hier eine Marmormühle, die Marmor aus einem nahegelegenen Steinbruch verarbeitete. Heute existiert sie nicht mehr. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Katzsohlteich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt:** Parkplatz am Bergsee in Güntersberge
+  - **Route:** Vom Parkplatz dem ausgeschilderten Rundweg folgen und zum Katzsohlteich abbiegen. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63703%2C%2010.96838) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.63703,10.96838">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Bergsee Güntersberge“ (HWN 171)**](/stempelstelle-171-bergsee-guentersberge)
+- [**„Selkemühle“ (HWN 180)**](/stempelstelle-180-selkemuehle)
+- [**„Ruine Güntersburg“ (HWN 990807)**](/stempelstelle-990807-ruine-guentersburg)

@@ -1,48 +1,42 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-197-burgruine-anhalt/
-https://www.harzer-wander-gui.de/harzer-wandernadel/197-burgruine-anhalt/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 197: Burgruine Anhalt"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/197-burgruine-anhalt.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 197: Burgruine Anhalt | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergfried anhalt](https://commons.wikimedia.org/wiki/File:Bergfried_anhalt.jpg) von Torsten Friebe unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Burgruine Anhalt liegt auf dem Großen Hausberg (397 m ü. NN) über dem Selketal, zwischen Mägdesprung und der Burg Falkenstein. Sie gehört zur Stadt Harzgerode im Unterharz.
 
+#### Historische Bedeutung
 
+Erbaut um 1123 von Otto dem Reichen, wurde die Burg 1140 zerstört und später von Albrecht dem Bären wiederaufgebaut. Sie war eine der größten Befestigungsanlagen im Harz. Heute sind noch Reste des Bergfrieds und der Burgkapelle erhalten. Ein Modell der Burg steht am Ballenstedter Schlossplatz. :contentReference[oaicite:0]{index=0}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Burgruine Anhalt
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Selkemühle**: Nur 1 km Fußweg. Parken an der Selkemühle, dann überquert man die Selke und folgt dem beschilderten Hohlweg bergauf zur Ruine. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur / zum <namen>
+- **Mägdesprung**: Ca. 6,2 km Wanderung. Start am Carlswerk, entlang der Selke zur Selkemühle und weiter zur Burgruine.
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Harzgerode**: Etwa 7,1 km. Vom Schlossparkplatz über Wanderwege zur Ruine.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66807%2C%2011.19318) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.66807,11.19318">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„IV. Friedrichshammer“ (HWN 179)**](/stempelstelle-179-iv-friedrichshammer)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
+- [**„Schutzhütte am Mettenberg“ (HWN 203)**](/stempelstelle-203-schutzhutte-am-mettenberg)

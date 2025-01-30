@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-158-hassenstein/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 158: Hassenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/158-hassenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 158: Hassenstein | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Aussicht Hassenstein](https://commons.wikimedia.org/wiki/File:Aussicht_Hassenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Hassenstein (560 m ü. NN) liegt oberhalb der Odertalsperre bei Bad Lauterberg. Hier befindet sich eine Schutzhütte mit Aussichtspunkt. :contentReference[oaicite:0]{index=0}
 
+#### Wanderwege zum Hassenstein
 
+- **Startpunkt:** Parkplatz „Meilerplatz“ am Ortsrand von Bad Lauterberg unterhalb des Panoramic Hotels.
+  - **Route:** Über die Straße Dietrichstal zum Waldrand, dann den beschilderten Wegen stetig bergauf zur Hassensteinhütte folgen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
-
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Alternative Route:** Vom Parkplatz der Odertalsperre entlang des Campingplatzes und des Sees in den Wald hinauf zum Jagdkopf.
+  - **Route:** Gut befestigte oder gepflasterte Waldwege führen zum Hassenstein. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63829%2C%2010.52495) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.63829,10.52495">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
+- [**„Stöberhai“ (HWN 159)**](/stempelstelle-159-stoeberhai)
+- [**„Hohe Tür“ (HWN 43)**](/stempelstelle-43-hohe-tuer)

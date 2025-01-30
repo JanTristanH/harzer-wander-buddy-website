@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-190-bergrat-mueller-teich/
-https://www.harzer-wander-gui.de/harzer-wandernadel/190-bergrat-mueller-teich/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 190: Bergrat-Müller-Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/190-bergrat-mueller-teich.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 190: Bergrat-Müller-Teich | Friedrichsbrunn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergrat-Müller-Teich](https://commons.wikimedia.org/wiki/File:Bergrat-M%C3%BCller-Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">B.Thomas95</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Bergrat-Müller-Teich liegt nordwestlich von Friedrichsbrunn, nahe dem Ferienpark Merkelbach. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Teich wurde 1737 bis 1738 von Bergrat Müller für den Bergbau angelegt. Das aufgestaute Wasser trieb Wasserräder an, die über ein Pumpengestänge die Grube Fürst Karl Wilhelm entwässerten. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bergrat-Müller-Teich
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Friedrichsbrunn**: Kurzer Weg von etwa 2,2 km.
+- **Alexisbad**: Rund 6,6 km lange Strecke.
+- **Güntersberge**: Etwa 8,8 km Wanderung.
+- **Gasthaus Sternhaus Ramberg**: Ungefähr 5,5 km entfernt. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67948%2C%2011.06500) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.67948,11.06500">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)

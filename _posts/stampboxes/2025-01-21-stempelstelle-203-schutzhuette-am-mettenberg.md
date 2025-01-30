@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-203-schutzhuette-am-mettenberg/
-https://www.harzer-wander-gui.de/harzer-wandernadel/203-schutzhuette-am-mettenberg/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 203: Schutzhütte am Mettenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/203-schutzhuette-am-mettenberg.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 203: Schutzhütte am Mettenberg | Meisdorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte am Mettenberg](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_am_Mettenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Schutzhütte am Mettenberg liegt im idyllischen Selketal zwischen Selkemühle und Thalmühle. Dieser 8 km lange Abschnitt ist autofrei und ideal zum Wandern und Radfahren. Hier leben baumbrütende Mauersegler, Wildkatzen, Wasseramseln und Eisvögel. :contentReference[oaicite:0]{index=0}
 
+#### Burg Falkenstein
 
+In der Nähe befindet sich die historische Burg Falkenstein, die einen Besuch wert ist. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Schutzhütte am Mettenberg
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Meisdorf**: Vom Parkplatz an der Allee entlang der Selke zur Schutzhütte (ca. 6,1 km). :contentReference[oaicite:2]{index=2}
+- **Selkemühle**: Direkt an der Selke entlang (ca. 3,3 km). :contentReference[oaicite:3]{index=3}
+- **Hotel Thalmühle**: Etwa 3 km Fußweg. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67912%2C%2011.23257) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.67912,11.23257">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
+- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)

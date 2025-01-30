@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-178-hirschgrund-am-gasthaus-koenigskrug/
-https://www.harzer-wander-gui.de/harzer-wandernadel/178-hirschgrund/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 178: Hirschgrund (am Gasthaus Königsruhe)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/178-hirschgrund-am-gasthaus-koenigskrug.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 178: Hirschgrund (am Gasthaus Königsruhe) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Königsruhe Gut](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsruhe_Gut.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Stempelstelle 178 der Harzer Wandernadel befindet sich am Gasthaus Königsruhe im Bodetal zwischen Thale und Treseburg. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Das Bodetal gilt als bedeutendstes Felsental nördlich der Alpen und inspirierte Dichter wie Goethe und Heine. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Hirschgrund
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Von Thale**: Start am Parkplatz der Seilbahnen, entlang des Harzer-Hexen-Stiegs an der Bode entlang zum Gasthaus Königsruhe (ca. 2,1 km). :contentReference[oaicite:2]{index=2}
+- **Von Treseburg**: Beginn am Parkplatz am Kreisel, entlang der Bode zum Gasthaus (ca. 5,8 km). :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73363%2C%2011.01775) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.73363,11.01775">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Roßtrappe“ (HWN 071)**](/stempelstelle-071-rosstrappe)
+- [**„La Viershöhe“ (HWN 072)**](/stempelstelle-072-la-viershoehe)
+- [**„Prinzensicht“ (HWN 070)**](/stempelstelle-070-prinzensicht)

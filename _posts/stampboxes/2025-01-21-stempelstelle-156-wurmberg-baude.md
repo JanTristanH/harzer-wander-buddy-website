@@ -1,48 +1,58 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-156-wurmberg-baude/
-https://www.harzer-wander-gui.de/harzer-wandernadel/156-wurmberg-baude/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 156: Wurmberg-Baude"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/156-wurmberg-baude.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 156: Wurmberg-Baude | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wurmbergbaude](https://commons.wikimedia.org/wiki/File:Wurmbergbaude.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Wurmberg-Baude liegt auf dem 971 m hohen Wurmberg, dem höchsten Berg Niedersachsens und zweithöchsten im Harz. Sie befindet sich etwa 3 km nördlich von Braunlage. Der Stempelkasten der Harzer Wandernadel ist direkt an der Wurmbergalm auf dem Gipfel angebracht. :contentReference[oaicite:0]{index=0}
 
+#### Geschichte der Wurmberg-Baude
 
+1950 wurde neben der Wurmbergschanze eine Baude errichtet, die heutige Wurmbergalm. Die Skisprungschanze wurde 2014 wegen Bauschäden abgerissen. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Wurmberg-Baude
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Mögliche Startpunkte und Routen:
 
-#### Wanderwege zur / zum <namen>
+- **Braunlage, Großparkplatz**: 4,0 km
+- **Braunlage, Parkplatz Hexenritt**: 2,2 km
+- **Elend, Parkplatz am Kreisel**: 5,6 km
+- **Königskrug**: 6,3 km
+- **Oderbrück, Wanderparkplatz**: 7,0 km
+- **Oderteich, Wanderparkplatz**: 10,0 km
+- **Schierke, Parkhaus Am Winterbergtor**: 4,6 km
+- **Torfhaus, Parkplatz Brockenblick**: 8,9 km
+- **Wanderparkplatz B27 Gedenkstein Grenzöffnung**: 3,5 km
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+*Hinweis: Parkplätze mit \* sind kostenpflichtig.* :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75643%2C%2010.61868) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.75643,10.61868">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippen)
+- [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-18-grenzweg-am-kaffeehorst)
+- [**„Barenberg“ (HWN 20)**](/stempelstelle-20-barenberg)
+- [**„Helenenruh“ (HWN 21)**](/stempelstelle-21-helenenruh)
+- [**„Hahnenkleeklippen“ (HWN 75)**](/stempelstelle-75-hahnenkleeklippen)
+- [**„Gaststätte Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
+- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)
+- [**„Naturmythenpfad“ (HWN 148)**](/stempelstelle-148-naturmythenpfad)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)

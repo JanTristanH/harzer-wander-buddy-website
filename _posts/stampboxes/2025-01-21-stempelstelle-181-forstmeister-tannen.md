@@ -1,49 +1,37 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-181-forstmeister-tannen/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 181: Forstmeister Tannen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/181-forstmeister-tannen.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 181: Forstmeister Tannen | Ballenstedt"
 comments: false
 imageshadow: true
-imageSource: '📷 [HWN181 Forstmeister Tannen in Ballenstedt](https://de.wikipedia.org/wiki/Datei:HWN181_Forstmeister_Tannen_in_Ballenstedt.jpg) von <p><a href="//de.wikipedia.org/wiki/Benutzer:Miebner" title="Benutzer:Miebner">Benutzer:Miebner</a>
-</p> unter Lizenz [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+imageSource: '📷 [HWN181 Forstmeister Tannen in Ballenstedt](https://de.wikipedia.org/wiki/Datei:HWN181_Forstmeister_Tannen_in_Ballenstedt.jpg) von <p><a href="//de.wikipedia.org/wiki/Benutzer:Miebner" title="Benutzer:Miebner">Benutzer:Miebner</a></p> unter Lizenz [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Arboretum "Forstmeister Tannen" liegt am Rand des Ballenstedter Schlossparks, oberhalb des Glockenteichs. 🌲 Es wurde 1766 als Forstplantage mit exotischen Gehölzen angelegt. Die beeindruckenden Weymouthskiefern stammen aus nordamerikanischem Saatgut von 1767 und gehören zu den ältesten ihrer Art in Deutschland. :contentReference[oaicite:0]{index=0}
 
+#### Grablege von Oberforstrat Sachtler
 
+Anfang des 20. Jahrhunderts wurde hier Oberforstrat Franz-Wilhelm Sachtler (1865–1924) beigesetzt. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Forstmeister Tannen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz unterhalb des Schlosses**: Über den Amtmannsweg im Schlosspark, vorbei am Schloss- und Glockenteich, führt ein beschilderter Pfad rechts zum Ziel. :contentReference[oaicite:2]{index=2}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71611%2C%2011.21000) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71611,11.21000">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Grauwacke Rieder“ (HWN 61)**](/stempelstelle-61-grauwacke-rieder)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)

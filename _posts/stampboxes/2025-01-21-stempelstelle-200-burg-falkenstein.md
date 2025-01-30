@@ -1,48 +1,43 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-200-burg-falkenstein/
-https://www.harzer-wander-gui.de/harzer-wandernadel/200-burg-falkenstein/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 200: Burg Falkenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/200-burg-falkenstein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 200: Burg Falkenstein | Meisdorf"
 comments: false
 imageshadow: true
-imageSource: '📷 [Burg Falkenstein im Harz (April 2009)](https://commons.wikimedia.org/wiki/File:Burg_Falkenstein_im_Harz_(April_2009).jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Brunswyk" class="extiw" title="de:Benutzer:Brunswyk">Benutzer:Brunswyk</a>. unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
+imageSource: '📷 [Burg Falkenstein (Harz)](https://commons.wikimedia.org/wiki/File:Burg_Falkenstein_(Harz).JPG) von Joachim Schneeleopard unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+
+::contentReference[oaicite:0]{index=0}
 
 
+Die Burg Falkenstein thront auf einem Felsvorsprung über dem Selketal im Harz. Sie gilt als eine der ältesten und am besten erhaltenen mittelalterlichen Burgen der Region. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Historische Bedeutung
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+Im 12. Jahrhundert von den Edelfreien der Konradsburg erbaut, wurde die Burg im 13. Jahrhundert unter Graf Hoyer II. von Falkenstein erweitert. Der "Sachsenspiegel", das bedeutendste mittelalterliche Rechtsbuch, soll hier von Eike von Repgow verfasst worden sein. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+#### Wanderwege zur Burg Falkenstein
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Parkplatz "Gartenhaus"**: Von der Landstraße zwischen Meisdorf und Pansfelde führt ein ausgeschilderter Weg zur Burg. :contentReference[oaicite:3]{index=3}
+
+- **Selketal-Stieg**: Der Wanderweg führt durch das malerische Selketal und bietet unterwegs beeindruckende Ausblicke auf die Burg. :contentReference[oaicite:4]{index=4}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6818%2C%2011.26595) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.6818,11.26595">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Konradsburg“ (HWN 201)**](/stempelstelle-201-konradsburg)
+- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)

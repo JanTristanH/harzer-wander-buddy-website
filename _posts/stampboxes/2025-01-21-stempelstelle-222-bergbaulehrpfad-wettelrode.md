@@ -1,48 +1,38 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-222-bergbaulehrpfad-wettelrode/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 222: Bergbaulehrpfad Wettelrode"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/222-bergbaulehrpfad-wettelrode.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 222: Bergbaulehrpfad Wettelrode | Sangerhausen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergbaulehrpfad Wettelrode](https://commons.wikimedia.org/wiki/File:Bergbaulehrpfad_Wettelrode.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Bergbaulehrpfad Wettelrode liegt nahe Sangerhausen im südöstlichen Harzvorland. Er beginnt am Freigelände des Schaubergwerks Röhrigschacht und führt als 4 km langer Rundweg durch die historische Bergbaulandschaft. :contentReference[oaicite:0]{index=0}
 
+#### Schaubergwerk Röhrigschacht
 
+Im Röhrigschacht können Besucher mit einer originalen Schachtförderanlage 283 Meter in die Tiefe fahren. Eine Grubenbahn bringt sie zu einem Abbaufeld des 19. Jahrhunderts, wo die Entwicklung des Kupferschieferbergbaus anschaulich dargestellt wird. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Bergbaulehrpfad
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt:** Parkplatz am Röhrigschacht
+  - **Route:** Vom Parkplatz dem beschilderten Bergbaulehrpfad folgen. Der Weg ist gut markiert und führt durch die historische Bergbaulandschaft.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.52038%2C%2011.27694) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.52038,11.27694">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Büchenberg“ (HWN 37)**](/stempelstelle-37-buechenberg)
+- [**„Stahlquelle“ (HWN 193)**](/stempelstelle-193-stahlquelle)

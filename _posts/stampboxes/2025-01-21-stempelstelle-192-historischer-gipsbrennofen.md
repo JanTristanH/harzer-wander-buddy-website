@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-192-historischer-gipsbrennofen/
-
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 192: Historischer Gipsbrennofen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/192-historischer-gipsbrennofen.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 192: Historischer Gipsbrennofen | Neuhof"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipsbrennofen Neuhof](https://commons.wikimedia.org/wiki/File:Gipsbrennofen_Neuhof.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der historische Gipsbrennofen liegt westlich von Neuhof am Lehrpfad um die Kranichteiche. Er wurde am 21. Oktober 2006 erstmals in Betrieb genommen. Die Mönche des Klosters Walkenried legten hier im 13. Jahrhundert Teiche zur Fischzucht an. Heute führt ein 3 km langer Lehrpfad vom Dorfgemeinschaftshaus um die drei miteinander verbundenen Teiche. Der Gipsbrennofen ist eine Station auf diesem Weg. :contentReference[oaicite:0]{index=0}
 
+#### Kloster Walkenried
 
+Das nahegelegene Kloster Walkenried wurde 1127 gegründet und war eines der bedeutendsten Zisterzienserklöster Deutschlands. Die Mönche prägten die Region durch ihre wirtschaftlichen Aktivitäten, darunter Fischzucht und Landwirtschaft. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Historischen Gipsbrennofen
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Startpunkt: Dorfgemeinschaftshaus Neuhof**  
+  Folgen Sie dem Kranichteich-Lehrpfad für eine leichte 3 km lange Rundwanderung um die Teiche. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Startpunkt: Bad Sachsa**  
+  Eine ca. 7 km lange Route führt vorbei an der Ruine Sachsenburg und der Sachsensteinhütte (Stempelstelle 166) zum Gipsbrennofen. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.57689%2C%2010.57524) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.57689,10.57524">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Sachsensteinhütte“ (HWN 166)**](/stempelstelle-166-sachsensteinhütte)

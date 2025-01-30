@@ -1,48 +1,40 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-169-molkenhaus/
-https://www.harzer-wander-gui.de/harzer-wandernadel/169-molkenhaus/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 169: Molkenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/169-molkenhaus.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 169: Molkenhaus | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Molkenhaus](https://commons.wikimedia.org/wiki/File:Molkenhaus.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Das Molkenhaus liegt auf 528 m Höhe im Nationalpark Harz, südlich von Bad Harzburg. Es befindet sich an einer Waldlichtung am Hasselteich, zwischen Bad Harzburg und der Eckertalsperre. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Erbaut wurde das erste Molkenhaus 1665 als Nachtlager für Kuhhirten. 1883 übernahm Otto Reuß das Anwesen, verlegte es an den Hasselbach und bewirtete Wanderer mit dicker Milch, Zucker, Zimt und trockenem Brot. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Molkenhaus
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Bad Harzburg**: Vom Großparkplatz an der B4 führt ein Weg über den Burgberg zum Molkenhaus. Die 150 Höhenmeter können mit der Seilbahn überwunden werden. :contentReference[oaicite:2]{index=2}
+- **Radau-Wasserfall**: Ein kürzerer, aber steilerer Pfad führt vom Parkplatz oberhalb des Radau-Wasserfalls über die Rudolfklippe zum Ziel. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.85568%2C%2010.57310) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.85568,10.57310">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Eckertalsperre“ (HWN 001)**](/stempelstelle-001-eckertalsperre)
+- [**„Rabenklippe“ (HWN 170)**](/stempelstelle-170-rabenklippe)
+- [**„Aussichtsreich Burgberg“ (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg)
+- [**„Kreuz des Deutschen Ostens“ (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens)

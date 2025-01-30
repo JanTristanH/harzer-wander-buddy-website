@@ -1,48 +1,41 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-171-altarklippen-oberhalb-d-granestausees/
-https://www.harzer-wander-gui.de/harzer-wandernadel/171-altarklippe/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 171: Altarklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/171-altarklippen-oberhalb-d-granestausees.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 171: Altarklippe | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Altarklippe](https://commons.wikimedia.org/wiki/File:Altarklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Die Altarklippe (516 m ü. NN) liegt zwischen Hahnenklee und Wolfshagen, oberhalb des Granestausees. Von hier bietet sich ein einzigartiger Blick über die Granetalsperre. :contentReference[oaicite:0]{index=0}
 
+#### Historische Bedeutung
 
+Der Name der Altarklippe ist nicht eindeutig geklärt. Es wird vermutet, dass der Hildesheimer Bischof Altfrid (ca. 800–874) hier Gottesdienste abhielt, um die heidnische Bevölkerung des Harzes zum christlichen Glauben zu bekehren. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zur Altarklippe
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+- **Hahnenklee**: Vom Parkplatz am Hotel Harzhöhe (Triftstraße) führt ein etwa 5,3 km langer Weg ohne große Höhenunterschiede zur Altarklippe. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Wolfshagen**: Start am Campingplatz, dann steiler Anstieg über den Mauserücken zu den Altarklippen. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88803%2C%2010.33153) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.88803,10.33153">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Schöne Aussicht Bielstein“ (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
+- [**„Heimberg“ (HWN 109)**](/stempelstelle-109-heimberg)
+- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank)

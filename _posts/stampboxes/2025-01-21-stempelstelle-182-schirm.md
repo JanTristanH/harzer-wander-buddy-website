@@ -1,48 +1,46 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-182-schirm/
-https://www.harzer-wander-gui.de/harzer-wandernadel/182-schirm-ballenstedt/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 182: Schirm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/182-schirm.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 182: Schirm | Ballenstedt"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schirm im Selketal](https://commons.wikimedia.org/wiki/File:Schirm_im_Selketal.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+
+::contentReference[oaicite:0]{index=0}
 
 
+Der "Schirm" ist ein Rastplatz im Naturschutzgebiet Burgesroth-Bruchholz, zwischen Ballenstedt und dem Selketal bei Mägdesprung. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Historische Bedeutung
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
+1728 ließ Fürst Victor Friedrich von Anhalt-Bernburg eine Jagdbahn für die Parforcejagd anlegen. An bestimmten Punkten entstanden "Schirme" – überdachte Jagdansitze. :contentReference[oaicite:2]{index=2}
 
-#### Wanderwege zur / zum <namen>
+#### Wanderwege zum Schirm
 
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Ballenstedt, Parkplatz am Schloss**: 4,4 km
+- **Selkemühle**: 2,4 km
+- **Sternhaus**: 3,4 km
+
+:contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.69141%2C%2011.18253) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.69141,11.18253">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
+- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode)

@@ -1,48 +1,39 @@
-Vormuliere einen Neuen Text aus den beiden Links. 
-Halte dich kurz und nutze kurze verständliche Sätze. Verwende Emojis wenn angemessen.
-SEO optimiert für die Harzer Wandernadel.
-Ausgabe als markdown. Gib Nur den code aus.
-
-http://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-183-foersterblick-gernrode/
-https://www.harzer-wander-gui.de/harzer-wandernadel/183-foersterblick-gernrode/
-
-Nutze folgendes layout als Grundlage:
-
 ---
 layout: post
-title:  "Stempelstelle <nummer>: <name>"
+title:  "Stempelstelle 183: Försterblick Gernrode"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/183-foersterblick-gernrode.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "Stempelstelle 183: Försterblick Gernrode | Gernrode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Försterblick Gernrode2](https://commons.wikimedia.org/wiki/File:F%C3%B6rsterblick_Gernrode2.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-<kruze_beschreibung_lage_und_ort, wenige adjektive>
+Der Försterblick ist ein Aussichtspunkt oberhalb von Gernrode im Harz. Von hier genießt man einen herrlichen Blick über den Ort und das Harzvorland. :contentReference[oaicite:0]{index=0}
 
+#### Stiftskirche St. Cyriakus
 
+In Gernrode steht die über 1.000 Jahre alte Stiftskirche St. Cyriakus. Sie gilt als eine der ältesten Kirchen Nordeuropas und beeindruckt mit nahezu unverändertem Bauwerk aus ottonischer Zeit. :contentReference[oaicite:1]{index=1}
 
-#### <Geschichtlich_oder_anderweitig_relevanter_ort>
+#### Wanderwege zum Försterblick
 
-<Beschreibung_Geschichtlich_oder_anderweitig_relevanter_ort>
-
-#### Wanderwege zur / zum <namen>
-
-<auflistung möglicher startpunkte und kruze beschreibung route>
+- **Gernrode, Stiftskirche**: Start an der Stiftskirche, über den Selketalstieg durch das Hagental, dann den beschilderten Weg über den Stubenberg zum Försterblick. :contentReference[oaicite:2]{index=2}
+- **Wanderparkplatz Haferfeld**: Von der L243 Richtung Mägdesprung (Abzweig Bremer Teich) sind es etwa 1 km auf bequemen Wegen. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
-
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71769%2C%2011.13090) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:<Latitude>,<Longitude>">🗺️ Link</a> 
+  <a href="geo:51.71769,11.13090">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
-<auflistung stempel in der nähe in stiel [**„<name_andere_stempelstelle>“ (HWN <)**](/stempelstelle-<nummer>-<name_snail_case>)
+
+- [**„Harzer Grauwacke“ (HWN 61)**](/stempelstelle-61-harzer-grauwacke)
+- [**„Preußenturm“ (HWN 185)**](/stempelstelle-185-preussenturm)
+- [**„Anhaltinischer Salstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein)
