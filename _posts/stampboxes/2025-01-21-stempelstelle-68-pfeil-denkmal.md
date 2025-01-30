@@ -4,7 +4,7 @@ title:  "Stempelstelle 68: Pfeil-Denkmal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/68-pfeil-denkmal.jpg
-description: "Stempelstelle 68: Pfeil-Denkmal | Thale"
+description: "HWN 68: Pfeil-Denkmal | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Thale Pfeildenkmal 18](https://commons.wikimedia.org/wiki/File:Thale_Pfeildenkmal_18.jpg) von <bdi><a href="https://www.wikidata.org/wiki/Q61974823" class="extiw" title="d:Q61974823"><span title="deutscher Journalist und Amateurfotograf">Jan-Herm Janßen</span></a></bdi> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Friedrich Wilhelm Leopold Pfeil war ein bedeutender Forstwissenschaftler und Sch
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71732%2C%2011.00223) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71732%2C%2011.00223) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

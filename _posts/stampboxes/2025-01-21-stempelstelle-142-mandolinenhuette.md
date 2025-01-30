@@ -4,7 +4,7 @@ title:  "Stempelstelle 142: Mandolinenhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/142-mandolinenhuette.jpg
-description: "Stempelstelle 142: Mandolinenhütte | Lautenthal"
+description: "HWN 142: Mandolinenhütte | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Aussichtspunkt Mandolinenhütte](https://commons.wikimedia.org/wiki/File:Aussichtspunkt_Mandolinenh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Mandolinenhütte liegt am Steinway Trail, der von Wolfshagen nach Seesen fü
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.89504%2C%2010.27904) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.89504%2C%2010.27904) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 59: Klostergrund Michaelstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/59-klostergrund-michaelstein.webp
-description: "Stempelstelle 59: Klostergrund Michaelstein | Blankenburg"
+description: "HWN 59: Klostergrund Michaelstein | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
@@ -25,7 +25,7 @@ Das Kloster Michaelstein wurde 1146 von Zisterziensermönchen gegründet. Heute 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80498%2C%2010.90977) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80498%2C%2010.90977) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

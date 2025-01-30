@@ -4,7 +4,7 @@ title:  "Stempelstelle 132: Schwarzenberg, Köte Brockenblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/132-schwarzenberg-koete-brockenblick.jpg
-description: "Stempelstelle 132: Schwarzenberg, Köte Brockenblick | Altenau"
+description: "HWN 132: Schwarzenberg, Köte Brockenblick | Altenau"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schwarzenberg Altenau](https://commons.wikimedia.org/wiki/File:Schwarzenberg_Altenau.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -20,7 +20,7 @@ Die **Stempelstelle 132** der Harzer Wandernadel befindet sich auf dem 540 Mete
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80594%2C%2010.44558) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80594%2C%2010.44558) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

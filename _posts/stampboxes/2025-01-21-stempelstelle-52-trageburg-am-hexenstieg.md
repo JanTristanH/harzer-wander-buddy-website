@@ -4,7 +4,7 @@ title:  "Stempelstelle 52: Trageburg am Hexenstieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/52-trageburg-am-hexenstieg.jpg
-description: "Stempelstelle 52: Trageburg am Hexenstieg | Trautenstein"
+description: "HWN 52: Trageburg am Hexenstieg | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [RappbodevorsperreFelsverzierung](https://commons.wikimedia.org/wiki/File:RappbodevorsperreFelsverzierung.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Die Trageburg diente einst als Schutz für eine Furt durch die Rappbode und wurd
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70275%2C%2010.79121) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70275%2C%2010.79121) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 51: Carlsturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/51-carlsturm.jpg
-description: "Stempelstelle 51: Carlsturm | Trautenstein"
+description: "HWN 51: Carlsturm | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Karlshaus](https://commons.wikimedia.org/wiki/File:Karlshaus.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Bastindh" class="extiw" title="w:de:User:Bastindh">Bastindh</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Der Turm wurde 1998 von der Harzer Schmalspurbahn GmbH als Funkturm mit Besucher
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65641%2C%2010.79706) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65641%2C%2010.79706) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

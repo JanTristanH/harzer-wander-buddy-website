@@ -4,7 +4,7 @@ title:  "Stempelstelle 186: Anhaltinischer Saalstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/186-anhaltinischer-salstein.jpg
-description: "Stempelstelle 186: Anhaltinischer Saalstein | Bad Suderode"
+description: "HWN 186: Anhaltinischer Saalstein | Bad Suderode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Anhaltinischer Saalstein](https://commons.wikimedia.org/wiki/File:Anhaltinischer_Saalstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Bis 1918 markierte der Saalstein die Grenze zwischen dem Herzogtum Anhalt und de
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71634%2C%2011.10558) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71634%2C%2011.10558) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

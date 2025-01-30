@@ -4,7 +4,7 @@ title:  "Stempelstelle 70: Prinzensicht"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/70-prinzensicht-aussichtsturm.jpg
-description: "Stempelstelle 70: Prinzensicht | Thale"
+description: "HWN 70: Prinzensicht | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bodetal Prinzensicht](https://commons.wikimedia.org/wiki/File:Bodetal_Prinzensicht.jpg) von <a href="//commons.wikimedia.org/wiki/User:AxelHH" title="User:AxelHH">Axel Hindemith</a> unter Lizenz Public domain'
@@ -24,7 +24,7 @@ Auf der gegenüberliegenden Talseite steht ein Kreuz, das zu Ehren des im Ersten
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73372%2C%2011.00740) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73372%2C%2011.00740) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

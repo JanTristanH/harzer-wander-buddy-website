@@ -4,7 +4,7 @@ title:  "Stempelstelle 114: Ramseck"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/114-ramseck.jpg
-description: "Stempelstelle 114: Ramseck | Goslar"
+description: "HWN 114: Ramseck | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ramseck Goslar](https://commons.wikimedia.org/wiki/File:Ramseck_Goslar.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Das Besucherbergwerk Rammelsberg (HWN 91) ist ein UNESCO-Weltkulturerbe und zeig
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88848%2C%2010.42668) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88848%2C%2010.42668) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

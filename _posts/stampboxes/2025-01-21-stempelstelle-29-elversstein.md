@@ -4,7 +4,7 @@ title:  "Stempelstelle 29: Elversstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/29-elversstein.jpg
-description: "Stempelstelle 29: Elversstein | Wernigerode"
+description: "HWN 29: Elversstein | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Elversstein](https://commons.wikimedia.org/wiki/File:Elversstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Elversstein ist nach Dr. Johann Friedrich Rudolph Elvers (1825–1891) benan
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80444%2C%2010.73472) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80444%2C%2010.73472) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

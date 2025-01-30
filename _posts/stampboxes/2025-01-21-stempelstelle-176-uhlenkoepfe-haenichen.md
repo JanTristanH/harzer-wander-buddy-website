@@ -4,7 +4,7 @@ title:  "Stempelstelle 176: Uhlenköpfe Hänichen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/176-uhlenkoepfe-haenichen.jpg
-description: "Stempelstelle 176: Uhlenköpfe Hänichen | Harzgerode"
+description: "HWN 176: Uhlenköpfe Hänichen | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Brockenblick bei Silberhütte](https://commons.wikimedia.org/wiki/File:Brockenblick_bei_Silberh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Uhlenköpfe (380 m ü. NN) liegen oberhalb des Uhlenbachtals bei Silberhütt
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63218%2C%2011.08296) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63218%2C%2011.08296) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 13: Ahrensklint"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/13-ahrensklint.jpg
-description: "Stempelstelle 13: Ahrensklint | Schierke"
+description: "HWN 13: Ahrensklint | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ahrensklint](https://commons.wikimedia.org/wiki/File:Ahrensklint.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Name **Ahrensklint** leitet sich vermutlich vom althochdeutschen Wort für �
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75548%2C%2010.67512) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75548%2C%2010.67512) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

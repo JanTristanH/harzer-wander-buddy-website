@@ -4,7 +4,7 @@ title:  "Stempelstelle 190: Bergrat-Müller-Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/190-bergrat-mueller-teich.jpg
-description: "Stempelstelle 190: Bergrat-Müller-Teich | Friedrichsbrunn"
+description: "HWN 190: Bergrat-Müller-Teich | Friedrichsbrunn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergrat-Müller-Teich](https://commons.wikimedia.org/wiki/File:Bergrat-M%C3%BCller-Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">B.Thomas95</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -25,7 +25,7 @@ Der Teich wurde 1737 bis 1738 von Bergrat Müller für den Bergbau angelegt. Das
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67948%2C%2011.06500) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67948%2C%2011.06500) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

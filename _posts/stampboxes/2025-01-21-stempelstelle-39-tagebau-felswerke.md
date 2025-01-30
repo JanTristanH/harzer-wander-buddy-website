@@ -4,7 +4,7 @@ title:  "Stempelstelle 39: Tagebau Felswerke"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/39-tagebau-felswerke.jpg
-description: "Stempelstelle 39: Tagebau Felswerke | Elbingerode"
+description: "HWN 39: Tagebau Felswerke | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Tagebau Felswerke](https://commons.wikimedia.org/wiki/File:Tagebau_Felswerke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Seit über 100 Jahren wird in der Region Elbingerode/Rübeland hochwertiger Kalk
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75997%2C%2010.80184) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75997%2C%2010.80184) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

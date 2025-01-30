@@ -4,7 +4,7 @@ title:  "Stempelstelle 58: Pferdchen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/58-pferdchen.jpg
-description: "Stempelstelle 58: Pferdchen | Zorge"
+description: "HWN 58: Pferdchen | Zorge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Pferdchen Zorge](https://commons.wikimedia.org/wiki/File:Pferdchen_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -20,7 +20,7 @@ Das „Pferdchen“ ist ein Aussichtspunkt auf etwa 430 m Höhe über der Südh
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63841%2C%2010.63053) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63841%2C%2010.63053) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

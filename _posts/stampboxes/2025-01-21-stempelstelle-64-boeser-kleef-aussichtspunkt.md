@@ -4,7 +4,7 @@ title:  "Stempelstelle 64: Böser Kleef"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/64-boeser-kleef-aussichtspunkt.jpg
-description: "Stempelstelle 64: Böser Kleef | Altenbrak"
+description: "HWN 64: Böser Kleef | Altenbrak"
 comments: false
 imageshadow: true
 imageSource: '📷 [Blick auf Altenbrak](https://commons.wikimedia.org/wiki/File:Blick_auf_Altenbrak.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -24,7 +24,7 @@ Der Böse Kleef ist eine Granit-Felsformation im Bodetal. In der zweiten Hälfte
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73003%2C%2010.94957) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73003%2C%2010.94957) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

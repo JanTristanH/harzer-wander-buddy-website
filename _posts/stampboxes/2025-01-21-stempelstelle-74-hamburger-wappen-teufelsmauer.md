@@ -4,7 +4,7 @@ title:  "Stempelstelle 74: Hamburger Wappen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/74-hamburger-wappen-teufelsmauer.jpg
-description: "Stempelstelle 74: Hamburger Wappen | Timmenrode"
+description: "HWN 74: Hamburger Wappen | Timmenrode"
 comments: false
 imageshadow: true
 imageSource: '📷 [TeufelsmauerTimmenrode2](https://commons.wikimedia.org/wiki/File:TeufelsmauerTimmenrode2.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:JurecGermany" class="extiw" title="w:de:User:JurecGermany">JurecGermany</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Die Felsgruppe besteht aus Sandstein und ist etwa 252 Meter über Normalnull hoc
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7769%2C%2011.00113) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7769%2C%2011.00113) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

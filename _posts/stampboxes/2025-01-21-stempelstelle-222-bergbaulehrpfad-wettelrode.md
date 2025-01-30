@@ -4,7 +4,7 @@ title:  "Stempelstelle 222: Bergbaulehrpfad Wettelrode"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/222-bergbaulehrpfad-wettelrode.jpg
-description: "Stempelstelle 222: Bergbaulehrpfad Wettelrode | Sangerhausen"
+description: "HWN 222: Bergbaulehrpfad Wettelrode | Sangerhausen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergbaulehrpfad Wettelrode](https://commons.wikimedia.org/wiki/File:Bergbaulehrpfad_Wettelrode.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Im Röhrigschacht können Besucher mit einer originalen Schachtförderanlage 283
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.52038%2C%2011.27694) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.52038%2C%2011.27694) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

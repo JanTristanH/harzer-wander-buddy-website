@@ -4,7 +4,7 @@ title:  "Stempelstelle 138: Braunseck"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/138-braunseck.jpg
-description: "Stempelstelle 138: Braunseck | Buntenbock"
+description: "HWN 138: Braunseck | Buntenbock"
 comments: false
 imageshadow: true
 imageSource: '📷 [Braunseck](https://commons.wikimedia.org/wiki/File:Braunseck.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +28,7 @@ Zu Beginn des 20. Jahrhunderts gab es Pläne, eine Eisenbahnstrecke von Claustha
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.76677%2C%2010.35523) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.76677%2C%2010.35523) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

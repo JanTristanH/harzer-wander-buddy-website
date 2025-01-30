@@ -4,7 +4,7 @@ title:  "Stempelstelle 167: Hexentanzplatz (Ellricher Blick)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/167-hexentanzplatz-ellricher-blick.jpg
-description: "Stempelstelle 167: Hexentanzplatz (Ellricher Blick) | Walkenried"
+description: "HWN 167: Hexentanzplatz (Ellricher Blick) | Walkenried"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hexentanzplatz Walkenried](https://commons.wikimedia.org/wiki/File:Hexentanzplatz_Walkenried.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Oberhalb des Eisenbahntunnels befindet sich der Hexentanzplatz, eine ehemalige K
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58104%2C%2010.64591) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58104%2C%2010.64591) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

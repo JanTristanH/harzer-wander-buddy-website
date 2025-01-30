@@ -4,7 +4,7 @@ title:  "Stempelstelle 120: Elfenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/120-elfenstein.jpg
-description: "Stempelstelle 120: Elfenstein | Bad Harzburg"
+description: "HWN 120: Elfenstein | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [ElfensteinHarz](https://commons.wikimedia.org/wiki/File:ElfensteinHarz.jpg) von <a href="//commons.wikimedia.org/wiki/User:BRFBlake" title="User:BRFBlake">BRFBlake</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -23,7 +23,7 @@ Im Mittelalter galt der Elfenstein als Wohnstätte von Elfen oder anderen Lichtw
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87910%2C%2010.52723) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87910%2C%2010.52723) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

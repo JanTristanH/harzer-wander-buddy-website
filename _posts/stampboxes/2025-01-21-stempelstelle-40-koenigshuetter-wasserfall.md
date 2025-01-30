@@ -4,7 +4,7 @@ title:  "Stempelstelle 40: Königshütter Wasserfall"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/40-koenigshuetter-wasserfall.jpg
-description: "Stempelstelle 40: Königshütter Wasserfall | Königshütte"
+description: "HWN 40: Königshütter Wasserfall | Königshütte"
 comments: false
 imageshadow: true
 imageSource: '📷 [WasserfallKoenigshuette](https://commons.wikimedia.org/wiki/File:WasserfallKoenigshuette.jpg) von <a href="https://de.wikipedia.org/wiki/User:JurecGermany" class="extiw" title="de:User:JurecGermany">JurecGermany</a> unter Lizenz Public domain'
@@ -26,7 +26,7 @@ Der Wasserfall wurde in einem ehemaligen Steinbruch künstlich geschaffen.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75110%2C%2010.75307) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75110%2C%2010.75307) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

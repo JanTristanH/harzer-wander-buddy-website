@@ -4,7 +4,7 @@ title:  "Stempelstelle 60: Stemberghaus Köhlerei"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/60-stemberghaus-koehlerei.jpg
-description: "Stempelstelle 60: Stemberghaus Köhlerei | Hasselfelde"
+description: "HWN 60: Stemberghaus Köhlerei | Hasselfelde"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harzköhlerei Stemberghaus](https://commons.wikimedia.org/wiki/File:Hasselfelde_K%C3%B6hlerei.JPG) von <a href="//commons.wikimedia.org/wiki/User:Corradox" title="User:Corradox">Corradox</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -30,7 +30,7 @@ Die Köhlerei produziert jährlich rund 50 Tonnen Holzkohle aus Buchenholz und b
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72195%2C%2010.89618) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72195%2C%2010.89618) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

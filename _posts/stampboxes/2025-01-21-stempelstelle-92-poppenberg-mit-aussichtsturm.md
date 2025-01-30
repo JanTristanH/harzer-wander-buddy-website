@@ -4,7 +4,7 @@ title:  "Stempelstelle 92: Poppenberg mit Aussichtsturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/92-poppenberg-mit-aussichtsturm.jpg
-description: "Stempelstelle 92: Poppenberg mit Aussichtsturm | Ilfeld"
+description: "HWN 92: Poppenberg mit Aussichtsturm | Ilfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Poppenbergturm](https://commons.wikimedia.org/wiki/File:Poppenbergturm.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der Turm wurde vom Harzklub errichtet und bietet nach 177 Stufen einen weiten Bl
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58811%2C%2010.82696) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58811%2C%2010.82696) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

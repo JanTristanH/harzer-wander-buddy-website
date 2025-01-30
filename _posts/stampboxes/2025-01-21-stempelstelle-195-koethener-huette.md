@@ -4,7 +4,7 @@ title:  "Stempelstelle 195: Köthener Hütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/195-koethener-huette.jpg
-description: "Stempelstelle 195: Köthener Hütte | Harzgerode"
+description: "HWN 195: Köthener Hütte | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Köthener Hütte](https://commons.wikimedia.org/wiki/File:K%C3%B6thener_H%C3%BCtte.JPG) von F. Hoffmann unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Die Hütte wurde vom Harzklub Zweigverein Köthen errichtet und dient seitdem Wa
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6609%2C%2011.12627) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6609%2C%2011.12627) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

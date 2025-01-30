@@ -4,7 +4,7 @@ title:  "Stempelstelle 164: Stiefmutter"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/164-stiefmutter.jpg
-description: "Stempelstelle 164: Stiefmutter | Zorge"
+description: "HWN 164: Stiefmutter | Zorge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stiefmutter Zorge](https://commons.wikimedia.org/wiki/File:Stiefmutter_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Harzer Bergwiesen sind für ihre einzigartige Pflanzenvielfalt bekannt und g
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62310%2C%2010.64326) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62310%2C%2010.64326) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

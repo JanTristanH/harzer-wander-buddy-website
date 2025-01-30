@@ -4,7 +4,7 @@ title:  "Stempelstelle 135: Wolfswarte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/135-wolfswarte.jpg
-description: "Stempelstelle 135: Wolfswarte | Altenau"
+description: "HWN 135: Wolfswarte | Altenau"
 comments: false
 imageshadow: true
 imageSource: '📷 [BruchbergWolfswarte](https://commons.wikimedia.org/wiki/File:BruchbergWolfswarte.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz Public domain'
@@ -26,7 +26,7 @@ Die Wolfswarte gehört zum Bruchbergmassiv, dessen höchster Punkt (927 m ü.�
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78933%2C%2010.50037) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78933%2C%2010.50037) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

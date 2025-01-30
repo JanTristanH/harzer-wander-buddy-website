@@ -4,7 +4,7 @@ title:  "Stempelstelle 44: Kapitelsberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/44-kapitelsberg.jpg
-description: "Stempelstelle 44: Kapitelsberg | Tanne"
+description: "HWN 44: Kapitelsberg | Tanne"
 comments: false
 imageshadow: true
 imageSource: '📷 [TanneHarz](https://commons.wikimedia.org/wiki/File:TanneHarz.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Tanne85" class="extiw" title="de:Benutzer:Tanne85">Tanne85</a> unter Lizenz Public domain'
@@ -24,7 +24,7 @@ Vom Gipfel des Kapitelsbergs hat man einen wunderbaren Blick über das Tal der W
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70559%2C%2010.74089) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.70559%2C%2010.74089) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

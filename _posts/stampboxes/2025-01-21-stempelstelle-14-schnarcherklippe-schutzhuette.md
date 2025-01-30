@@ -4,7 +4,7 @@ title:  "Stempelstelle 14: Schnarcherklippen (Schutzhütte)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/14-schnarcherklippe-schutzhuette.jpg
-description: "Stempelstelle 14: Schnarcherklippen (Schutzhütte) | Schierke"
+description: "HWN 14: Schnarcherklippen (Schutzhütte) | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [SchnarcherklippenSüd](https://commons.wikimedia.org/wiki/File:SchnarcherklippenS%C3%BCd.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Der Name **Schnarcherklippen** stammt von den pfeifenden Windgeräuschen, die zw
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75510%2C%2010.66255) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75510%2C%2010.66255) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

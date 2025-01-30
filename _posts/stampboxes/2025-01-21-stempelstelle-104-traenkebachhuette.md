@@ -4,7 +4,7 @@ title:  "Stempelstelle 104: Tränkebachhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/104-traenkebachhuette.jpg
-description: "Stempelstelle 104: Tränkebachhütte | Seesen"
+description: "HWN 104: Tränkebachhütte | Seesen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Tränkebachhütte](https://commons.wikimedia.org/wiki/File:Tr%C3%A4nkebachh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Steinway Trail erinnert an Heinrich Engelhard Steinweg, den Gründer von Ste
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88490%2C%2010.23857) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88490%2C%2010.23857) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

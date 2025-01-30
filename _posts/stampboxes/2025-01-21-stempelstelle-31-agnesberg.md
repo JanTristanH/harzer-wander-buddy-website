@@ -4,7 +4,7 @@ title:  "Stempelstelle 31: Agnesberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/31-agnesberg.jpg
-description: "Stempelstelle 31: Agnesberg | Wernigerode"
+description: "HWN 31: Agnesberg | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Agnesberg](https://commons.wikimedia.org/wiki/File:Agnesberg.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Gute Wanderschuhe sind empfehlenswert, da einige Wege steil sind. 🥾
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83003%2C%2010.79796) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83003%2C%2010.79796) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

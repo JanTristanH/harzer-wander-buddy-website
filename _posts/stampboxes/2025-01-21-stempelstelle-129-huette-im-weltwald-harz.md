@@ -4,7 +4,7 @@ title:  "Stempelstelle 129: Hütte im WeltWald Harz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/129-huette-im-weltwald-harz.jpg
-description: "Stempelstelle 129: Hütte im WeltWald Harz | Bad Grund"
+description: "HWN 129: Hütte im WeltWald Harz | Bad Grund"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hütte am Arboretum](https://commons.wikimedia.org/wiki/File:H%C3%BCtte_am_Arboretum.JPG) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">JuTe CLZ</a> unter Lizenz Copyrighted free use'
@@ -23,7 +23,7 @@ In unmittelbarer Nähe liegt der markante Hübichenstein, ein beeindruckendes Na
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81926%2C%2010.22503) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81926%2C%2010.22503) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

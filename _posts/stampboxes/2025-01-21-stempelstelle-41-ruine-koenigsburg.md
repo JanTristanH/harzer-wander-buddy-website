@@ -4,7 +4,7 @@ title:  "Stempelstelle 41: Ruine Königsburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/41-ruine-koenigsburg.jpg
-description: "Stempelstelle 41: Ruine Königsburg | Königshütte"
+description: "HWN 41: Ruine Königsburg | Königshütte"
 comments: false
 imageshadow: true
 imageSource: '📷 [Königsburg](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsburg.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Burg diente vermutlich dem Schutz der Grenze des Bistums Halberstadt entlang
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73841%2C%2010.76719) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73841%2C%2010.76719) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

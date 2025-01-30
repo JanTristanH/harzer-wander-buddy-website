@@ -4,7 +4,7 @@ title:  "Stempelstelle 181: Forstmeister Tannen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/181-forstmeister-tannen.jpg
-description: "Stempelstelle 181: Forstmeister Tannen | Ballenstedt"
+description: "HWN 181: Forstmeister Tannen | Ballenstedt"
 comments: false
 imageshadow: true
 imageSource: '📷 [HWN181 Forstmeister Tannen in Ballenstedt](https://de.wikipedia.org/wiki/Datei:HWN181_Forstmeister_Tannen_in_Ballenstedt.jpg) von <p><a href="//de.wikipedia.org/wiki/Benutzer:Miebner" title="Benutzer:Miebner">Benutzer:Miebner</a></p> unter Lizenz [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
@@ -22,7 +22,7 @@ Anfang des 20. Jahrhunderts wurde hier Oberforstrat Franz-Wilhelm Sachtler (1865
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71611%2C%2011.21000) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71611%2C%2011.21000) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

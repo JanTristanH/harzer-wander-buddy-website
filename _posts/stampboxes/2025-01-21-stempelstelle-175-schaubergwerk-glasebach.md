@@ -4,7 +4,7 @@ title:  "Stempelstelle 175: Schaubergwerk Glasebach"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/175-schaubergwerk-glasebach.jpg
-description: "Stempelstelle 175: Schaubergwerk Glasebach | Straßberg"
+description: "HWN 175: Schaubergwerk Glasebach | Straßberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Grube Glasebach 2](https://commons.wikimedia.org/wiki/File:Grube_Glasebach_2.jpg) von <a href="//commons.wikimedia.org/wiki/User:Markscheider" title="User:Markscheider">Markscheider</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
@@ -24,7 +24,7 @@ Der Kalkofen steht direkt am Kalksteinbruch. Die Kalksteine wurden in den Ofen i
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61185%2C%2011.06510) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61185%2C%2011.06510) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

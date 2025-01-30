@@ -4,7 +4,7 @@ title:  "Stempelstelle 203: Schutzhütte am Mettenberg"
 author: buddy
 categories: [ Stempelstelle, Selketal ]
 image: assets/images/stampboxes/203-schutzhuette-am-mettenberg_dallE.jpg
-description: "Stempelstelle 203: Schutzhütte am Mettenberg | Ballenstedt"
+description: "HWN 203: Schutzhütte am Mettenberg | Ballenstedt"
 comments: false
 imageshadow: true
 imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
@@ -36,7 +36,7 @@ Ob für Naturliebhaber, Wanderer oder Radfahrer – das Selketal rund um die Sch
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67912%2C%2011.23257) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67912%2C%2011.23257) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

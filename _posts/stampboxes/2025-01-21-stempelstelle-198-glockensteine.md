@@ -4,7 +4,7 @@ title:  "Stempelstelle 198: Glockensteine"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/198-glockensteine.jpg
-description: "Stempelstelle 198: Glockensteine | Steigerthal"
+description: "HWN 198: Glockensteine | Steigerthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Glockensteine Steigerthal](https://commons.wikimedia.org/wiki/File:Glockensteine_Steigerthal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Im Spätmittelalter wurden Steinkreuze für Menschen errichtet, die plötzlich u
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.51768%2C%2010.85805) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.51768%2C%2010.85805) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

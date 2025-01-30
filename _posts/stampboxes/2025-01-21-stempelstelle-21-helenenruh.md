@@ -4,7 +4,7 @@ title:  "Stempelstelle 21: Helenenruh"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/21-helenenruh.jpg
-description: "Stempelstelle 21: Helenenruh | Elend"
+description: "HWN 21: Helenenruh | Elend"
 comments: false
 imageshadow: true
 imageSource: '📷 [Helenenruh Schierke](https://commons.wikimedia.org/wiki/File:Helenenruh_Schierke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Mögliche Startpunkte zur Stempelstelle 21:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75407%2C%2010.68091) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75407%2C%2010.68091) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

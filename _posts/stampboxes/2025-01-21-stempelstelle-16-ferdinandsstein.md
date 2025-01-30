@@ -4,7 +4,7 @@ title:  "Stempelstelle 16: Ferdinandsstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/16-ferdinandsstein.jpg
-description: "Stempelstelle 16: Ferdinandsstein | Schierke"
+description: "HWN 16: Ferdinandsstein | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ferdinandsstein](https://commons.wikimedia.org/wiki/File:Ferdinandsstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Felsen wurde nach **Prinz Ferdinand von Preußen** benannt. Er diente frühe
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77115%2C%2010.61378) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77115%2C%2010.61378) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

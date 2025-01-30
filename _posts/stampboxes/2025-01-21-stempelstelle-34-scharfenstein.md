@@ -4,7 +4,7 @@ title:  "Stempelstelle 34: Scharfenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/34-scharfenstein.jpg
-description: "Stempelstelle 34: Scharfenstein | Wernigerode"
+description: "HWN 34: Scharfenstein | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Scharfenstein Wernigerode](https://commons.wikimedia.org/wiki/File:Scharfenstein_Wernigerode.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Beide Routen sind leicht begehbar und gut ausgeschildert.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81002%2C%2010.79840) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81002%2C%2010.79840) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

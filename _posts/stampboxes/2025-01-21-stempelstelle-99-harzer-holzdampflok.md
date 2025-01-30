@@ -4,7 +4,7 @@ title:  "Stempelstelle 99: Harzer Holzdampflok"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/99-harzer-holzdampflok.jpg
-description: "Stempelstelle 99: Harzer Holzdampflok | Neustadt/Harz"
+description: "HWN 99: Harzer Holzdampflok | Neustadt/Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harzer Holzdampflok](https://commons.wikimedia.org/wiki/File:Harzer_Holzdampflok.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:M.J.&amp;action=edit&amp;redlink=1" class="new" title="User:M.J. (page does not exist)">M.J.</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
@@ -28,7 +28,7 @@ Mögliche Startpunkte zur Stempelstelle 99:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.556583%2C%2010.825472) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.556583%2C%2010.825472) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

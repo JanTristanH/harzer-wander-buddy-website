@@ -4,7 +4,7 @@ title:  "Stempelstelle 90: Roter Schuss"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/90-roter-schuss.jpg
-description: "Stempelstelle 90: Roter Schuss | Ellrich"
+description: "HWN 90: Roter Schuss | Ellrich"
 comments: false
 imageshadow: true
 imageSource: '📷 [Roter Schuss](https://commons.wikimedia.org/wiki/File:Roter_Schuss.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Einer Legende nach lebte vor Jahrhunderten ein Wilderer in Ellrich. Ein junger J
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61714%2C%2010.65168) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61714%2C%2010.65168) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 93: Dreitälerblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/93-dreitaelerblick.jpg
-description: "Stempelstelle 93: Dreitälerblick | Netzkater"
+description: "HWN 93: Dreitälerblick | Netzkater"
 comments: false
 imageshadow: true
 imageSource: '📷 [Dreitälerblick](https://commons.wikimedia.org/wiki/File:Dreit%C3%A4lerblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Direkt unterhalb des Aussichtspunkts befindet sich das Schaubergwerk Rabensteine
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60127%2C%2010.79257) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60127%2C%2010.79257) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

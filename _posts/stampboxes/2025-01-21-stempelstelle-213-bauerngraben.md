@@ -4,7 +4,7 @@ title:  "Stempelstelle 213: Bauerngraben"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/213-bauerngraben.jpg
-description: "Stempelstelle 213: Bauerngraben | Breitungen"
+description: "HWN 213: Bauerngraben | Breitungen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bauerngraben im gefüllten Zustand](https://commons.wikimedia.org/wiki/File:Bauerngraben_im_gef%C3%BCllten_Zustand.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der See entsteht durch eine Bachschwinde des Glasebachs im Gipskarst. Durch Ausl
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.48897%2C%2011.07794) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.48897%2C%2011.07794) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

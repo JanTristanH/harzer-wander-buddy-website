@@ -4,7 +4,7 @@ title:  "Stempelstelle 71: Rosstrappe (Abzweig Schurre)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/71-rosstrappe-abzweig-schurre.jpg
-description: "Stempelstelle 71: Rosstrappe (Abzweig Schurre) | Thale"
+description: "HWN 71: Rosstrappe (Abzweig Schurre) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Roßtrappe](https://commons.wikimedia.org/wiki/File:Ro%C3%9Ftrappe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Legende nach sprang die Königstochter Brunhilde mit ihrem Pferd vom Hexenta
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73724%2C%2011.01865) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73724%2C%2011.01865) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

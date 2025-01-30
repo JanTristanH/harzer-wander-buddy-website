@@ -4,7 +4,7 @@ title:  "Stempelstelle 15: Leistenklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/15-leistenklippe.jpg
-description: "Stempelstelle 15: Leistenklippe | Schierke"
+description: "HWN 15: Leistenklippe | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Auf der Leistenklippe](https://commons.wikimedia.org/wiki/File:Auf_der_Leistenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:FrankBothe" title="User:FrankBothe">FrankBothe</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Leistenklippe war früher ein **beliebter Aussichtspunkt** für Förster und
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77010%2C%2010.61715) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77010%2C%2010.61715) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

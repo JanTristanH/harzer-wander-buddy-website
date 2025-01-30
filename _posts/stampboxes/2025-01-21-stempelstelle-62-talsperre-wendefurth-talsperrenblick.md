@@ -4,7 +4,7 @@ title:  "Stempelstelle 62: Talsperre Wendefurth (Talsperrenblick)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/62-talsperre-wendefurth-talsperrenblick.jpg
-description: "Stempelstelle 62: Talsperre Wendefurth (Talsperrenblick) | Thale"
+description: "HWN 62: Talsperre Wendefurth (Talsperrenblick) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wendefurther Becken](https://commons.wikimedia.org/wiki/File:Wendefurther_Becken.JPG) von <a href="//commons.wikimedia.org/wiki/User:Corradox" title="User:Corradox">Corradox</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Die Talsperre bietet zahlreiche Freizeitaktivitäten. Die schwimmende Gaststätt
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74322%2C%2010.91930) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74322%2C%2010.91930) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

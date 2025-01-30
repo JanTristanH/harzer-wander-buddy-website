@@ -4,7 +4,7 @@ title:  "Stempelstelle 45: Dicke Tannen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/45-dicke-tannen.jpg
-description: "Stempelstelle 45: Dicke Tannen | Hohegeiß"
+description: "HWN 45: Dicke Tannen | Hohegeiß"
 comments: false
 imageshadow: true
 imageSource: '📷 [Dicke Tannen](https://commons.wikimedia.org/wiki/File:Dicke_Tannen.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die „Dicken Tannen“ sind beeindruckende Fichten, die seit über drei Jahrhun
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65725%2C%2010.64807) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65725%2C%2010.64807) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

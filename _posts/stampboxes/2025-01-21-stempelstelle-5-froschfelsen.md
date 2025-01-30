@@ -4,7 +4,7 @@ title:  "Stempelstelle 5: Froschfelsen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/5-froschfelsen.jpg
-description: "Stempelstelle 5: Froschfelsen | Ilsenburg"
+description: "HWN 5: Froschfelsen | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Froschfelsen](https://commons.wikimedia.org/wiki/File:Froschfelsen.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -24,7 +24,7 @@ Einer Legende nach soll ein verzauberter Frosch im Felsen wohnen. Wer genau hinh
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81186%2C%2010.62598) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81186%2C%2010.62598) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 #### Stempel in der Nähe
 

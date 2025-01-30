@@ -4,7 +4,7 @@ title:  "Stempelstelle 11: Eckerloch"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/11-eckerloch.jpg
-description: "Stempelstelle 11: Eckerloch | Schierke"
+description: "HWN 11: Eckerloch | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harz Eckerlochstieg](https://commons.wikimedia.org/wiki/File:Harz_Eckerlochstieg.jpg) von <a href="//commons.wikimedia.org/wiki/User:DorisAntony" title="User:DorisAntony">Doris Antony</a>, Berlin unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Der **Eckerlochstieg** gehört zu den ältesten Wegen auf den Brocken. Er wurde 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77661%2C%2010.64183) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77661%2C%2010.64183) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

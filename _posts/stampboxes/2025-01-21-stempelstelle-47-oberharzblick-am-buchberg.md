@@ -4,7 +4,7 @@ title:  "Stempelstelle 47: Oberharzblick am Buchenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/47-oberharzblick-am-buchberg.jpg
-description: "Stempelstelle 47: Oberharzblick am Buchenberg | Benneckenstein"
+description: "HWN 47: Oberharzblick am Buchenberg | Benneckenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Oberharzblick am Buchenberg](https://commons.wikimedia.org/wiki/File:Oberharzblick_am_Buchenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -20,7 +20,7 @@ Der **Oberharzblick am Buchenberg** (Stempelstelle 47) liegt zwischen Benneckens
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65288%2C%2010.74871) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65288%2C%2010.74871) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

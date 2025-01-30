@@ -4,7 +4,7 @@ title:  "Stempelstelle 203: Schutzhütte am Mettenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/203-schutzhuette-am-mettenberg.jpg
-description: "Stempelstelle 203: Schutzhütte am Mettenberg | Meisdorf"
+description: "HWN 203: Schutzhütte am Mettenberg | Meisdorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte am Mettenberg](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_am_Mettenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'

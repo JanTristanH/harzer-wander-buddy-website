@@ -4,7 +4,7 @@ title:  "Stempelstelle 155: Rehberger Grabenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/155-rehberger-grabenhaus.jpg
-description: "Stempelstelle 155: Rehberger Grabenhaus | Sankt Andreasberg"
+description: "HWN 155: Rehberger Grabenhaus | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rehberger Grabenhaus](https://commons.wikimedia.org/wiki/File:Rehberger_Grabenhaus.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der Rehberger Graben ist Teil des Oberharzer Wasserregals. Er leitet Wasser vom 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72925%2C%2010.53807) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72925%2C%2010.53807) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

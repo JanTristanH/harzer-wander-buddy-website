@@ -4,7 +4,7 @@ title:  "Stempelstelle 165: Wendeleiche"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/165-wendel-eiche.jpg
-description: "Stempelstelle 165: Wendeleiche | Zorge"
+description: "HWN 165: Wendeleiche | Zorge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wendeleiche](https://commons.wikimedia.org/wiki/File:Wendeleiche.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Während der deutschen Teilung stand die Eiche direkt an der innerdeutschen Gren
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62454%2C%2010.65709) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62454%2C%2010.65709) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

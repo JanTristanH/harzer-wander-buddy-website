@@ -4,7 +4,7 @@ title:  "Stempelstelle 46: Grenzmuseum am Ring der Erinnerung"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/46-grenzmuseum-am-ring-der-erinnerung.jpg
-description: "Stempelstelle 46: Grenzmuseum am Ring der Erinnerung | Sorge"
+description: "HWN 46: Grenzmuseum am Ring der Erinnerung | Sorge"
 comments: false
 imageshadow: true
 imageSource: '📷 [B-Turm Sorge](https://commons.wikimedia.org/wiki/File:B-Turm_Sorge.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der Künstler Hermann Prigann schuf hier den "Ring der Erinnerung" aus Totholz. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.69360%2C%2010.66670) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.69360%2C%2010.66670) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

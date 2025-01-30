@@ -4,7 +4,7 @@ title:  "Stempelstelle 18: Grenzweg am Kaffeehorst"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/18-grenzweg-am-kaffeehorst.jpg
-description: "Stempelstelle 18: Grenzweg am Kaffeehorst | Braunlage"
+description: "HWN 18: Grenzweg am Kaffeehorst | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte Kaffeehorst](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_Kaffeehorst.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Kaffeehorst lag direkt an der **ehemaligen DDR-Grenze**. Heute erinnert der 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74983%2C%2010.60074) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74983%2C%2010.60074) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

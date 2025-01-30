@@ -4,7 +4,7 @@ title:  "Stempelstelle 172: Katzsohlteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/172-katzsohlteich.jpg
-description: "Stempelstelle 172: Katzsohlteich | Güntersberge"
+description: "HWN 172: Katzsohlteich | Güntersberge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Katzsohlteich](https://commons.wikimedia.org/wiki/File:Katzsohlteich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Früher stand hier eine Marmormühle, die Marmor aus einem nahegelegenen Steinbr
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63703%2C%2010.96838) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63703%2C%2010.96838) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

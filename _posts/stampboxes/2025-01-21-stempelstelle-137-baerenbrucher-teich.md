@@ -4,7 +4,7 @@ title:  "Stempelstelle 137: Bärenbrucher Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/137-baerenbrucher-teich.jpg
-description: "Stempelstelle 137: Bärenbrucher Teich | Clausthal-Zellerfeld"
+description: "HWN 137: Bärenbrucher Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bärenbrucher Teich](https://commons.wikimedia.org/wiki/File:B%C3%A4renbrucher_Teich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">Benutzer:JuTe CLZ</a> unter Lizenz Public domain'
@@ -22,7 +22,7 @@ Ursprünglich diente der Teich der Energieversorgung der Oberharzer Bergwerke.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.777546%2C%2010.351589) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.777546%2C%2010.351589) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

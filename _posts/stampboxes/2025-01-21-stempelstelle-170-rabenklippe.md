@@ -4,7 +4,7 @@ title:  "Stempelstelle 170: Rabenklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/170-rabenklippe.jpg
-description: "Stempelstelle 170: Rabenklippe | Bad Harzburg"
+description: "HWN 170: Rabenklippe | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [GasthausRabenklippe](https://commons.wikimedia.org/wiki/File:GasthausRabenklippe.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Die Rabenklippe liegt südöstlich von Bad Harzburg, hoch über dem idyllischen 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86502%2C%2010.60532) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86502%2C%2010.60532) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

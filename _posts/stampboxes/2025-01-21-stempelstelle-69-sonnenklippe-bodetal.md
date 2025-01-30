@@ -4,7 +4,7 @@ title:  "Stempelstelle 69: Sonnenklippe (Bodetal)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/69-sonnenklippe-bodetal.jpg
-description: "Stempelstelle 69: Sonnenklippe (Bodetal) | Thale"
+description: "HWN 69: Sonnenklippe (Bodetal) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sonnenklippe](https://commons.wikimedia.org/wiki/File:Sonnenklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +28,7 @@ Bis Anfang des 19. Jahrhunderts war das Bodetal nahezu unzugänglich. Erst um 18
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.722%2C%2010.97013) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.722%2C%2010.97013) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 217: Sonnenkappe Oderteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/217-sonnenkappe-oderteich-nph.jpg
-description: "Stempelstelle 217: Sonnenkappe Oderteich | Sankt Andreasberg"
+description: "HWN 217: Sonnenkappe Oderteich | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sonnenkappe Oderteich](https://commons.wikimedia.org/wiki/File:Sonnenkappe_Oderteich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Oderteich wurde zwischen 1715 und 1722 von Bergleuten aus Sankt Andreasberg 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77944%2C%2010.53248) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77944%2C%2010.53248) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

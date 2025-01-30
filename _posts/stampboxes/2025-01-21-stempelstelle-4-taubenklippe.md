@@ -4,7 +4,7 @@ title:  "Stempelstelle 4: Taubenklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/4-taubenklippe.jpg
-description: "Stempelstelle 4: Taubenklippe | Ilsenburg"
+description: "HWN 4: Taubenklippe | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Taubenklippe](https://commons.wikimedia.org/wiki/File:Taubenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Taubenklippe war früher ein Aussichtspunkt für Jäger und Förster. Der Na
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81462%2C%2010.62301) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81462%2C%2010.62301) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

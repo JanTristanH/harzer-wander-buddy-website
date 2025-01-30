@@ -4,7 +4,7 @@ title:  "Stempelstelle 101: Einhornhöhle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/101-einhornhoehle.jpg
-description: "Stempelstelle 101: Einhornhöhle | Scharzfeld"
+description: "HWN 101: Einhornhöhle | Scharzfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Scharzfeld (Herzberg) - Einhornhöhle (01-2)](https://commons.wikimedia.org/wiki/File:Scharzfeld_(Herzberg)_-_Einhornh%C3%B6hle_(01-2).jpg) von <a href="//commons.wikimedia.org/wiki/User:Norbert_Kaiser" title="User:Norbert Kaiser">Norbert Kaiser</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Im 17. Jahrhundert rekonstruierte Otto von Guericke aus den Knochen ein Einhorn.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63502%2C%2010.40440) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63502%2C%2010.40440) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 133: Förster-Ludewig-Platz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/133-foerster-ludewig-platz.jpg
-description: "Stempelstelle 133: Förster-Ludewig-Platz | Altenau"
+description: "HWN 133: Förster-Ludewig-Platz | Altenau"
 comments: false
 imageshadow: true
 imageSource: '📷 [Förster-Ludewig-Platz](https://commons.wikimedia.org/wiki/File:F%C3%B6rster-Ludewig-Platz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Hier steht ein Denkmal für die im Ersten Weltkrieg gefallenen Waldarbeiter und 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80347%2C%2010.48783) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80347%2C%2010.48783) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

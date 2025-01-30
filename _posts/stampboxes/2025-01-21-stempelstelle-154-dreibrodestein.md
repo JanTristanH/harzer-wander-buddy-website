@@ -4,7 +4,7 @@ title:  "Stempelstelle 154: Dreibrodestein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/154-dreibrodestein.jpg
-description: "Stempelstelle 154: Dreibrodestein | Sankt Andreasberg"
+description: "HWN 154: Dreibrodestein | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Dreibrodesteine bei Sankt Andreasberg](https://commons.wikimedia.org/wiki/File:Dreibrodesteine_bei_Sankt_Andreasberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Ogmios" title="User:Ogmios">Ogmios</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
@@ -24,7 +24,7 @@ Einer Legende nach verwandelten sich drei Brote einer hartherzigen Frau in diese
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73224%2C%2010.51136) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73224%2C%2010.51136) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

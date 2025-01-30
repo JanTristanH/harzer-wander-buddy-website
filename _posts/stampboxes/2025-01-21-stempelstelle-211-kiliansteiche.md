@@ -4,7 +4,7 @@ title:  "Stempelstelle 211: Kiliansteiche"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/211-kiliansteiche.jpg
-description: "Stempelstelle 211: Kiliansteiche | Straßberg"
+description: "HWN 211: Kiliansteiche | Straßberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kiliansteich 162154](https://commons.wikimedia.org/wiki/File:Kiliansteich_162154.jpg) von Sarkana unter Lizenz [FAL](http://artlibre.org/licence/lal/en)'
@@ -24,7 +24,7 @@ Ursprünglich gab es hier eine Staukaskade mit vier Teichen, von denen einer ber
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60758%2C%2011.01495) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60758%2C%2011.01495) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

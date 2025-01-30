@@ -4,7 +4,7 @@ title:  "Stempelstelle 35: Gasthaus Armeleuteberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/35-gasthaus-armeleuteberg.jpg
-description: "Stempelstelle 35: Gasthaus Armeleuteberg | Wernigerode"
+description: "HWN 35: Gasthaus Armeleuteberg | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Armeleuteberg](https://commons.wikimedia.org/wiki/File:Armeleuteberg.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der Armeleuteberg erhielt seinen Namen im 15. Jahrhundert, als der Petersberg de
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81545%2C%2010.77663) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81545%2C%2010.77663) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 180: Alter Kohlenschacht"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/180-alter-kohlenschacht.jpg
-description: "Stempelstelle 180: Alter Kohlenschacht | Ballenstedt"
+description: "HWN 180: Alter Kohlenschacht | Ballenstedt"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stempelstelle 180 HWN](https://commons.wikimedia.org/wiki/File:Stempelstelle_180_HWN.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Bereits 1557 wurde im Amt Ballenstedt ein Steinkohlebergwerk betrieben. 1584 erh
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.707222%2C%2011.255278) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.707222%2C%2011.255278) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 8: Stempelsbuche"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/8-stempelsbuche.jpg
-description: "Stempelstelle 8: Stempelsbuche | Ilsenburg"
+description: "HWN 8: Stempelsbuche | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stempelsbuche](https://commons.wikimedia.org/wiki/File:Stempelsbuche.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Name **Stempelsbuche** stammt von einer einst mächtigen Buche, die hier sta
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79465%2C%2010.66388) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79465%2C%2010.66388) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

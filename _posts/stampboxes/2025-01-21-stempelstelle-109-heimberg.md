@@ -4,7 +4,7 @@ title:  "Stempelstelle 109: Heimberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/109-heimberg.jpg
-description: "Stempelstelle 109: Heimberg | Wolfshagen"
+description: "HWN 109: Heimberg | Wolfshagen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Heimberg Wolfshagen](https://commons.wikimedia.org/wiki/File:Heimberg_Wolfshagen.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Jsteinbeisser&amp;action=edit&amp;redlink=1" class="new" title="User:Jsteinbeisser (page does not exist)">Jsteinbeisser</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ Der Diabas-Steinbruch war über ein Jahrhundert in Betrieb und wurde 1987 stillg
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.912806%2C%2010.330167) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.912806%2C%2010.330167) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

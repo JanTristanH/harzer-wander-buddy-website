@@ -4,7 +4,7 @@ title: "Stempelstelle 1: Eckertalsperre Staumauer"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/1-eckertalsperre-staumauer.jpg
-description: "Stempelstelle 1: Eckertalsperre Staumauer | Bad Harzburg"
+description: "HWN 1: Eckertalsperre Staumauer | Bad Harzburg"
 comments: false
 imageshadow: true
 ---
@@ -23,7 +23,7 @@ Die Eckertalsperre wurde 1943 erbaut und diente der Trinkwasserversorgung. Währ
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7962%2C%2010.5971) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7962%2C%2010.5971) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 207: Mausoleum"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/207-mausoleum.jpg
-description: "Stempelstelle 207: Mausoleum | Meisdorf"
+description: "HWN 207: Mausoleum | Meisdorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Mausoleum der Asseburg](https://commons.wikimedia.org/wiki/File:Mausoleum_der_Asseburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Im 18. Jahrhundert besaß Achatz Ferdinand von der Asseburg sowohl Schloss Meisd
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7007%2C%2011.28338) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7007%2C%2011.28338) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

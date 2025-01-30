@@ -4,7 +4,7 @@ title:  "Stempelstelle 23: Molkenhausstern"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/23-molkenhausstern.jpg
-description: "Stempelstelle 23: Molkenhausstern | Wernigerode"
+description: "HWN 23: Molkenhausstern | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Molkenhausstern](https://commons.wikimedia.org/wiki/File:Molkenhausstern.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Etwa 550 Meter vom Molkenhausstern entfernt befindet sich das historische Molke
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80771%2C%2010.65779) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80771%2C%2010.65779) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

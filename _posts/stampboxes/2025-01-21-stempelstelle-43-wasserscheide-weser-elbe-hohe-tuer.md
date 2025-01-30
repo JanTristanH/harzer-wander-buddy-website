@@ -4,7 +4,7 @@ title:  "Stempelstelle 43: Wasserscheide Weser-Elbe 'Hohe Tür'"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/43-wasserscheide-weser-elbe-hohe-tuer.jpg
-description: "Stempelstelle 43: Wasserscheide Weser-Elbe 'Hohe Tür' | Bad Lauterberg"
+description: "HWN 43: Wasserscheide Weser-Elbe 'Hohe Tür' | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [TalsperreKönigshütteStaumauer](https://commons.wikimedia.org/wiki/File:TalsperreK%C3%B6nigsh%C3%BCtteStaumauer.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz Public domain'
@@ -23,7 +23,7 @@ Etwa 1,5 km entfernt befindet sich der Wiesenbeker Teich. Dieser 1715 angelegte 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61864%2C%2010.50431) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61864%2C%2010.50431) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

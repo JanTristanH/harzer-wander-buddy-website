@@ -4,7 +4,7 @@ title:  "Stempelstelle 88: Aussichtspavillon Hoher Kleef"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/88-aussichtspavillon-hoher-kleef.jpg
-description: "Stempelstelle 88: Aussichtspavillon Hoher Kleef | Rübeland"
+description: "HWN 88: Aussichtspavillon Hoher Kleef | Rübeland"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hoher Kleef](https://commons.wikimedia.org/wiki/File:Hoher_Kleef.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Der Pavillon wurde Anfang des 20. Jahrhunderts erbaut und bietet einen weiten Bl
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75370%2C%2010.84622) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75370%2C%2010.84622) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

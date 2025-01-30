@@ -4,7 +4,7 @@ title:  "Stempelstelle 110: Granestausee"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/110-granestausee.jpg
-description: "Stempelstelle 110: Granestausee | Goslar"
+description: "HWN 110: Granestausee | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Granestausee](https://commons.wikimedia.org/wiki/File:Granestausee.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Granestausee wurde 1969 fertiggestellt und dient der Trinkwasserversorgung. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.90058%2C%2010.38222) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.90058%2C%2010.38222) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

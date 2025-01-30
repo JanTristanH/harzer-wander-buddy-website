@@ -4,7 +4,7 @@ title:  "Stempelstelle 119: Hallesche Hütte an den Ahrendsberger Klippen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/119-hallesche-huette-an-den-ahrendsberger-klippen.jpg
-description: "Stempelstelle 119: Hallesche Hütte an den Ahrendsberger Klippen | Goslar"
+description: "HWN 119: Hallesche Hütte an den Ahrendsberger Klippen | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ahrendsberger Klippen](https://commons.wikimedia.org/wiki/File:Ahrendsberger_Klippen.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Die Hütte wurde vom Harzklub-Zweigverein Halle an der Saale gestiftet, der als 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.85412%2C%2010.46787) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.85412%2C%2010.46787) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

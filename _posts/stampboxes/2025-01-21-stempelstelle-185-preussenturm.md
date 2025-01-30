@@ -4,7 +4,7 @@ title:  "Stempelstelle 185: Preußenturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/185-preussenturm.jpg
-description: "Stempelstelle 185: Preußenturm | Bad Suderode"
+description: "HWN 185: Preußenturm | Bad Suderode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Preußenturm Bad Suderode](https://commons.wikimedia.org/wiki/File:Preu%C3%9Fenturm_Bad_Suderode.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Preußenturm steht auf dem Schwedderberg, südlich von Bad Suderode. Er biet
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72378%2C%2011.11917) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72378%2C%2011.11917) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

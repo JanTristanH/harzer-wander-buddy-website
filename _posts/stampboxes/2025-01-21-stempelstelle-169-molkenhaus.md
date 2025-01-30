@@ -4,7 +4,7 @@ title:  "Stempelstelle 169: Molkenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/169-molkenhaus.jpg
-description: "Stempelstelle 169: Molkenhaus | Bad Harzburg"
+description: "HWN 169: Molkenhaus | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Molkenhaus](https://commons.wikimedia.org/wiki/File:Molkenhaus.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Erbaut wurde das erste Molkenhaus 1665 als Nachtlager für Kuhhirten. 1883 über
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.85568%2C%2010.57310) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.85568%2C%2010.57310) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

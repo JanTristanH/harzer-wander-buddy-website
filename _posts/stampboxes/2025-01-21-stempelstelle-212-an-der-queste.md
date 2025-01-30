@@ -4,7 +4,7 @@ title:  "Stempelstelle 212: An der Queste"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/212-an-der-queste.jpg
-description: "Stempelstelle 212: An der Queste | Questenberg"
+description: "HWN 212: An der Queste | Questenberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Questenberg2008](https://commons.wikimedia.org/wiki/File:Questenberg2008.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -22,7 +22,7 @@ Ein guter Startpunkt ist der Parkplatz am "Gasthaus zur Queste". Von dort folgt 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49327%2C%2011.11720) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49327%2C%2011.11720) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

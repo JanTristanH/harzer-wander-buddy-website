@@ -4,7 +4,7 @@ title:  "Stempelstelle 171: Altarklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/171-altarklippen-oberhalb-d-granestausees.jpg
-description: "Stempelstelle 171: Altarklippe | Goslar"
+description: "HWN 171: Altarklippe | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Altarklippe](https://commons.wikimedia.org/wiki/File:Altarklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Name der Altarklippe ist nicht eindeutig geklärt. Es wird vermutet, dass de
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88803%2C%2010.33153) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88803%2C%2010.33153) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

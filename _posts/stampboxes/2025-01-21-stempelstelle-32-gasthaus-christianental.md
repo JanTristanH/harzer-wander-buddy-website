@@ -4,7 +4,7 @@ title:  "Stempelstelle 32: Gasthaus Christianental"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/32-gasthaus-christianental.jpg
-description: "Stempelstelle 32: Gasthaus Christianental | Wernigerode"
+description: "HWN 32: Gasthaus Christianental | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Whs. Christianental](https://commons.wikimedia.org/wiki/File:Whs._Christianental.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ In unmittelbarer Nähe zum Gasthaus erstreckt sich der Wildpark Christianental. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82772%2C%2010.81290) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82772%2C%2010.81290) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

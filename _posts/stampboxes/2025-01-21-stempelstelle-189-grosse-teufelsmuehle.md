@@ -4,7 +4,7 @@ title:  "Stempelstelle 189: Große Teufelsmühle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/189-grosse-teufelsmuehle.jpg
-description: "Stempelstelle 189: Große Teufelsmühle | Friedrichsbrunn"
+description: "HWN 189: Große Teufelsmühle | Friedrichsbrunn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Große Teufelsmühle](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Teufelsm%C3%BChle.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -24,7 +24,7 @@ Einer Legende zufolge schloss ein Müller einen Pakt mit dem Teufel, der ihm in 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68488%2C%2011.07928) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68488%2C%2011.07928) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

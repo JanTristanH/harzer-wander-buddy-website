@@ -4,7 +4,7 @@ title:  "Stempelstelle 9: Brockenhaus"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/9-brockenhaus.jpg
-description: "Stempelstelle 9: Brockenhaus | Wernigerode"
+description: "HWN 9: Brockenhaus | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [BrockenWinter](https://commons.wikimedia.org/wiki/File:BrockenWinter.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Der Brocken war lange ein Ort der **Mythen und Sagen**. Während der DDR-Zeit di
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79996%2C%2010.61531) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79996%2C%2010.61531) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

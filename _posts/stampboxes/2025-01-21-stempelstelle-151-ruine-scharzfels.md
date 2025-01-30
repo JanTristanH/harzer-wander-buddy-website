@@ -4,7 +4,7 @@ title:  "Stempelstelle 151: Ruine Scharzfels"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/151-ruine-scharzfels.jpg
-description: "Stempelstelle 151: Ruine Scharzfels | Barbis"
+description: "HWN 151: Ruine Scharzfels | Barbis"
 comments: false
 imageshadow: true
 imageSource: '📷 [ScharzfelsBarbis](https://commons.wikimedia.org/wiki/File:ScharzfelsBarbis.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -23,7 +23,7 @@ Die Burg diente dem Schutz des Klosters Pöhlde und wichtiger Handelswege.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62885%2C%2010.40893) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62885%2C%2010.40893) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

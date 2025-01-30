@@ -4,7 +4,7 @@ title:  "Stempelstelle 124: Köte am Heidenstieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/124-koete-am-heidenstieg.jpg
-description: "Stempelstelle 124: Köte am Heidenstieg | Schulenberg im Oberharz"
+description: "HWN 124: Köte am Heidenstieg | Schulenberg im Oberharz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Köte am Heidenstieg](https://commons.wikimedia.org/wiki/File:K%C3%B6te_am_Heidensteig.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Das ursprüngliche Schulenberg war eine Bergbau- und Hüttensiedlung. 1954 wurde
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84091%2C%2010.42347) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84091%2C%2010.42347) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

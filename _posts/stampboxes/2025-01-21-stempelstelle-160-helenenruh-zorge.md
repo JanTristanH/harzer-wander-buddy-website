@@ -4,7 +4,7 @@ title:  "Stempelstelle 160: Helenenruh"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/160-helenenruh-zorge.jpg
-description: "Stempelstelle 160: Helenenruh | Zorge"
+description: "HWN 160: Helenenruh | Zorge"
 comments: false
 imageshadow: true
 imageSource: '📷 [Helenenruh](https://commons.wikimedia.org/wiki/File:Helenenruh.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Früher transportierten Pferdegespanne auf diesem Weg Roteisenstein aus den umli
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64226%2C%2010.61077) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64226%2C%2010.61077) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

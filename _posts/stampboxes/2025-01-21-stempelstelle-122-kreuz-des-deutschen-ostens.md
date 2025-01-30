@@ -4,7 +4,7 @@ title:  "Stempelstelle 122: Kreuz des deutschen Ostens"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/122-kreuz-des-deutschen-ostens.jpg
-description: "Stempelstelle 122: Kreuz des deutschen Ostens | Bad Harzburg"
+description: "HWN 122: Kreuz des deutschen Ostens | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [OstkreuzHarzburg](https://commons.wikimedia.org/wiki/File:OstkreuzHarzburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -25,7 +25,7 @@ Das Kreuz des deutschen Ostens steht auf den Uhlenklippen südöstlich von Bad H
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87532%2C%2010.59258) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87532%2C%2010.59258) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

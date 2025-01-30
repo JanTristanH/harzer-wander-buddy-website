@@ -4,7 +4,7 @@ title:  "Stempelstelle 102: Lageswarte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/102-lageswarte.jpg
-description: "Stempelstelle 102: Lageswarte | Lautenthal"
+description: "HWN 102: Lageswarte | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Lageswarte](https://commons.wikimedia.org/wiki/File:Lageswarte.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ Jungsteinzeitliche und bronzezeitliche Funde belegen, dass der Rennstieg seit Ja
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.25144) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.25144) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

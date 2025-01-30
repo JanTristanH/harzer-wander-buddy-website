@@ -4,7 +4,7 @@ title:  "Stempelstelle 100: Ebersburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/100-ebersburg.jpg
-description: "Stempelstelle 100: Ebersburg | Hermannsacker"
+description: "HWN 100: Ebersburg | Hermannsacker"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ebersburg 02](https://commons.wikimedia.org/wiki/File:Ebersburg_02.jpg) von <a href="https://de.wikipedia.org/wiki/User:MacElch" class="extiw" title="de:User:MacElch">MacElch (Rainer Kunze)</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -27,7 +27,7 @@ Mögliche Startpunkte zur Ebersburg sind:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.55437%2C%2010.8803) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.55437%2C%2010.8803) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

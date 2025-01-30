@@ -4,7 +4,7 @@ title:  "Stempelstelle 84: Altenburg bei Heimburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/84-altenburg-bei-heimburg.jpg
-description: "Stempelstelle 84: Altenburg bei Heimburg | Heimburg"
+description: "HWN 84: Altenburg bei Heimburg | Heimburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Altenburg Heimburg](https://commons.wikimedia.org/wiki/File:Altenburg_Heimburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Erstmals 1073 erwähnt, diente die Burg dem Schutz von Handelswegen. Nach Zerst�
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82693%2C%2010.9113) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82693%2C%2010.9113) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 150: Großer Knollen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/150-grosser-knollen.jpg
-description: "Stempelstelle 150: Großer Knollen | Herzberg am Harz"
+description: "HWN 150: Großer Knollen | Herzberg am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [GrosserKnollenGipfel](https://commons.wikimedia.org/wiki/File:GrosserKnollenGipfel.jpg) von User <a href="https://de.wikipedia.org/wiki/User:Kassandro" class="extiw" title="de:User:Kassandro">Kassandro</a> on <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Bereits 1890 wurde auf dem Gipfel ein etwa 8 Meter hoher hölzerner Aussichtstu
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6667%2C%2010.4167) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6667%2C%2010.4167) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

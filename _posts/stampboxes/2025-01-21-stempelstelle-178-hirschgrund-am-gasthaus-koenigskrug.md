@@ -4,7 +4,7 @@ title:  "Stempelstelle 178: Hirschgrund (am Gasthaus Königsruhe)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/178-hirschgrund-am-gasthaus-koenigskrug.jpg
-description: "Stempelstelle 178: Hirschgrund (am Gasthaus Königsruhe) | Thale"
+description: "HWN 178: Hirschgrund (am Gasthaus Königsruhe) | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Königsruhe Gut](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsruhe_Gut.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -23,7 +23,7 @@ Das Bodetal gilt als bedeutendstes Felsental nördlich der Alpen und inspirierte
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73363%2C%2011.01775) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73363%2C%2011.01775) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

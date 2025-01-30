@@ -4,7 +4,7 @@ title:  "Stempelstelle 173: Waldwiese Hirschbüchenkopf"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/173-waldwiese-hirschbuechenkopf.jpg
-description: "Stempelstelle 173: Waldwiese Hirschbüchenkopf | Harzgerode"
+description: "HWN 173: Waldwiese Hirschbüchenkopf | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hirschbüchenkopf](https://commons.wikimedia.org/wiki/File:Hirschb%C3%BCchenkopf.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Bis Anfang der 1990er Jahre stand auf dem Gelände der Pension ein Förderturm a
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63769%2C%2011.02274) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63769%2C%2011.02274) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

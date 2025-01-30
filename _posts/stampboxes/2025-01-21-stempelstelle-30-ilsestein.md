@@ -18,7 +18,7 @@ title:  "Stempelstelle 30: Ilsestein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/30-ilsestein.jpg
-description: "Stempelstelle 30: Ilsestein | Ilsenburg"
+description: "HWN 30: Ilsestein | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/File:Kreuz_auf_dem_Ilsestein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -40,7 +40,7 @@ Graf Anton zu Stolberg-Wernigerode ließ auf dem Gipfel ein eisernes Kreuz erric
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84634%2C%2010.66313) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84634%2C%2010.66313) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
@@ -56,7 +56,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Oberförster-Koch-Denkmal“ (HWN 8)**](/stempelstelle-8-stempelsbuche)
 ies: [ Stempelstelle ]
 image: assets/images/stampboxes/30-ilsestein.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "HWN <nummer>: <name> | <stadt_in_der_nähe>"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/File:Kreuz_auf_dem_Ilsestein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -76,7 +76,7 @@ imageSource: '📷 [Kreuz auf dem Ilsestein](https://commons.wikimedia.org/wiki/
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 
 <div class="android-only">

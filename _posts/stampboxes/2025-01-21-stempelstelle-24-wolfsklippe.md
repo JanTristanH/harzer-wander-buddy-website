@@ -4,7 +4,7 @@ title:  "Stempelstelle 24: Wolfsklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/24-wolfsklippe.jpg
-description: "Stempelstelle 24: Wolfsklippe | Ilsenburg"
+description: "HWN 24: Wolfsklippe | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Wolfsklippen](https://commons.wikimedia.org/wiki/File:Wolfsklippen.jpg) von Hejkal unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -31,7 +31,7 @@ Das letzte Stück führt über den Alexanderstieg und erfordert Trittsicherheit.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81947%2C%2010.67052) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81947%2C%2010.67052) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

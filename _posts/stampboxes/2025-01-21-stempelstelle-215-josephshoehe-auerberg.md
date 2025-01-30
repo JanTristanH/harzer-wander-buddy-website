@@ -4,7 +4,7 @@ title:  "Stempelstelle 215: Josephshöhe (Auerberg)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/215-josephshoehe-auerberg.jpg
-description: "Stempelstelle 215: Josephshöhe (Auerberg) | Stolberg (Harz)"
+description: "HWN 215: Josephshöhe (Auerberg) | Stolberg (Harz)"
 comments: false
 imageshadow: true
 imageSource: '📷 [Josephskreuz 20210914 HOF06021 RAW-Export 20220427002395](https://commons.wikimedia.org/wiki/File:Josephskreuz_20210914_HOF06021_RAW-Export_20220427002395.jpg) von <a href="//commons.wikimedia.org/wiki/User:PantheraLeo1359531" title="User:PantheraLeo1359531">PantheraLeo1359531</a> unter Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)'
@@ -23,7 +23,7 @@ Bereits im 17. Jahrhundert gab es hier einen hölzernen Aussichtsturm. 1896 wurd
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58061%2C%2011.00553) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58061%2C%2011.00553) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

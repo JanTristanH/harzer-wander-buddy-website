@@ -4,7 +4,7 @@ title:  "Stempelstelle 95: Ilfelder Wetterfahne"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/95-ilfelder-wetterfahne.jpg
-description: "Stempelstelle 95: Ilfelder Wetterfahne | Ilfeld"
+description: "HWN 95: Ilfelder Wetterfahne | Ilfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Blick Ilfelder Wetterfahne](https://commons.wikimedia.org/wiki/File:Blick_Ilfelder_Wetterfahne.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Die erste Wetterfahne wurde 1870/71 als hölzernes Monument errichtet.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58742%2C%2010.79158) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58742%2C%2010.79158) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

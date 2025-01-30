@@ -4,7 +4,7 @@ title:  "Stempelstelle 48: Stierbergsteich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/48-stierbergsteich.jpg
-description: "Stempelstelle 48: Stierbergsteich | Benneckenstein"
+description: "HWN 48: Stierbergsteich | Benneckenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stierbergsteich](https://commons.wikimedia.org/wiki/File:Stierbergsteich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ In der Region um Benneckenstein wurde hauptsächlich Roteisenerz abgebaut. Der S
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64111%2C%2010.75639) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.64111%2C%2010.75639) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

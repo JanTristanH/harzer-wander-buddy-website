@@ -4,7 +4,7 @@ title:  "Stempelstelle 112: Liebesbank"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/112-liebesbank.jpg
-description: "Stempelstelle 112: Liebesbank | Hahnenklee-Bockswiese"
+description: "HWN 112: Liebesbank | Hahnenklee-Bockswiese"
 comments: false
 imageshadow: true
 imageSource: '📷 [Liebesbank bei Hahnenklee](https://commons.wikimedia.org/wiki/File:Liebesbank_bei_Hahnenklee.JPG) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">JuTe CLZ</a> unter Lizenz Copyrighted free use'
@@ -23,7 +23,7 @@ Die Liebesbank ist ein Highlight des Liebesbankwegs und steht symbolisch für di
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86065%2C%2010.35732) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86065%2C%2010.35732) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

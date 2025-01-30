@@ -4,7 +4,7 @@ title:  "Stempelstelle 107: Maaßener Gaipel"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/107-maassener-gaipel.jpg
-description: "Stempelstelle 107: Maaßener Gaipel | Lautenthal"
+description: "HWN 107: Maaßener Gaipel | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Maaßener Gaipel](https://commons.wikimedia.org/wiki/File:Maassener_Gaipel_01.JPG) von <a href="https://de.wikipedia.org/wiki/User:Matthias_Becker" class="extiw" title="de:User:Matthias Becker">Matthias Becker</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Der Begriff "Gaipel" stammt von den früheren Göpelrädern, mit denen Pferde si
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86360%2C%2010.29024) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.86360%2C%2010.29024) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 86: Bisongehege"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/86-bisongehege.jpg
-description: "Stempelstelle 86: Bisongehege | Stangerode"
+description: "HWN 86: Bisongehege | Stangerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bisongehege](https://commons.wikimedia.org/wiki/File:Bisongehege.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der Wisent steht auf der Roten Liste der bedrohten Tierarten. Der Wildpark Nordm
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66015%2C%2011.34486) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66015%2C%2011.34486) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

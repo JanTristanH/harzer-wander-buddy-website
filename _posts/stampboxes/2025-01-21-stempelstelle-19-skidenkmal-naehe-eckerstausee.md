@@ -4,7 +4,7 @@ title:  "Stempelstelle 19: Skidenkmal (Nähe Eckerstausee)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/19-skidenkmal-naehe-eckerstausee.jpg
-description: "Stempelstelle 19: Skidenkmal (Nähe Eckerstausee) | Bad Harzburg"
+description: "HWN 19: Skidenkmal (Nähe Eckerstausee) | Bad Harzburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harz Skidenkmal](https://commons.wikimedia.org/wiki/File:Harz_Skidenkmal.JPG) von <a href="//commons.wikimedia.org/wiki/User:Enter" title="User:Enter">Enter</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Das Denkmal wurde zur **Ehrung der ersten Skiläufer** im Harz errichtet. Bereit
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79321%2C%2010.57438) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79321%2C%2010.57438) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

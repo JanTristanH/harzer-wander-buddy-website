@@ -4,7 +4,7 @@ title:  "Stempelstelle 214: Reesbergdoline"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/214-reesbergdoline.jpg
-description: "Stempelstelle 214: Reesbergdoline | Uftrungen"
+description: "HWN 214: Reesbergdoline | Uftrungen"
 comments: false
 imageshadow: true
 imageSource: '📷 [HWN214 Reesbergdoline](https://commons.wikimedia.org/wiki/File:HWN214_Reesbergdoline.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Miebner" class="extiw" title="w:de:User:Miebner">w:de:User:Miebner</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ In der Nähe befindet sich die Schauhöhle Heimkehle. Sie wurde erstmals 1357 er
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49778%2C%2010.94777) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49778%2C%2010.94777) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

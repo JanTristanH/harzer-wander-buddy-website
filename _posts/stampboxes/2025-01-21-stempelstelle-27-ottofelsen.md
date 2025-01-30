@@ -4,7 +4,7 @@ title:  "Stempelstelle 27: Ottofelsen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/27-ottofelsen.jpg
-description: "Stempelstelle 27: Ottofelsen | Wernigerode"
+description: "HWN 27: Ottofelsen | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ottofelsen6](https://commons.wikimedia.org/wiki/File:Ottofelsen6.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Dennis_Siebert" class="extiw" title="de:Benutzer:Dennis Siebert">Dennis Siebert</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Der Felsen wurde nach Graf Otto zu Stolberg-Wernigerode benannt und ist seit 196
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79669%2C%2010.71195) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79669%2C%2010.71195) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

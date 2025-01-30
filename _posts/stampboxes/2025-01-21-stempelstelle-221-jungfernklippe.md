@@ -4,7 +4,7 @@ title:  "Stempelstelle 221: Jungfernklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/221-jungfernklippe.jpg
-description: "Stempelstelle 221: Jungfernklippe | Torfhaus"
+description: "HWN 221: Jungfernklippe | Torfhaus"
 comments: false
 imageshadow: true
 imageSource: '📷 [Jungfernklippe](https://commons.wikimedia.org/wiki/File:Jungfernklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ In der Nähe beginnt der Dammgraben, ein wichtiges Wasserleitsystem aus dem 17. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80420%2C%2010.51382) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80420%2C%2010.51382) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

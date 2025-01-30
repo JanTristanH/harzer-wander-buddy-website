@@ -4,7 +4,7 @@ title:  "Stempelstelle 85: Wasserkunst Thumkuhlental"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/85-wasserkunst-thumkuhlental.jpg
-description: "Stempelstelle 85: Wasserkunst Thumkuhlental | Wernigerode"
+description: "HWN 85: Wasserkunst Thumkuhlental | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Thumkuhlental](https://commons.wikimedia.org/wiki/File:Thumkuhlental.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Im Thumkuhlental wurde bis ins 18. Jahrhundert Bergbau betrieben. Es wurden Koba
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80824%2C%2010.72697) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80824%2C%2010.72697) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

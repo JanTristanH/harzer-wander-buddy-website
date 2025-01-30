@@ -4,7 +4,7 @@ title:  "Stempelstelle 200: Burg Falkenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/200-burg-falkenstein.jpg
-description: "Stempelstelle 200: Burg Falkenstein | Meisdorf"
+description: "HWN 200: Burg Falkenstein | Meisdorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Burg Falkenstein (Harz)](https://commons.wikimedia.org/wiki/File:Burg_Falkenstein_(Harz).JPG) von Joachim Schneeleopard unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -28,7 +28,7 @@ Im 12. Jahrhundert von den Edelfreien der Konradsburg erbaut, wurde die Burg im 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6818%2C%2011.26595) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6818%2C%2011.26595) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 140: Eselsplatz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/140-eselsplatz.jpg
-description: "Stempelstelle 140: Eselsplatz | Osterode am Harz"
+description: "HWN 140: Eselsplatz | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Eselsplatz](https://commons.wikimedia.org/wiki/File:Eselsplatz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Im 13. Jahrhundert entstand der "Hundscher Weg" als "Hauserweg". Er verband Oste
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74620%2C%2010.30148) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.74620%2C%2010.30148) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

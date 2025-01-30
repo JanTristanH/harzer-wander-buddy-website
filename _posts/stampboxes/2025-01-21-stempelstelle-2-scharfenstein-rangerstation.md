@@ -4,7 +4,7 @@ title:  "Stempelstelle 2: Scharfenstein (Rangerstation)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/2-scharfenstein-rangerstation.jpg
-description: "Stempelstelle 2: Scharfenstein (Rangerstation) | Ilsenburg"
+description: "HWN 2: Scharfenstein (Rangerstation) | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rangerstation Scharfenstein](https://commons.wikimedia.org/wiki/File:RangerstatationScharfenstein.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -24,7 +24,7 @@ Um 1875 ließ Graf Otto zu Stolberg-Wernigerode hier ein Forsthaus errichten. Di
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83017%2C%2010.60277) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.83017%2C%2010.60277) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

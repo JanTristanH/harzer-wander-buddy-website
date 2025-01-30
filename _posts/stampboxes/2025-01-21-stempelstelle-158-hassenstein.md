@@ -4,7 +4,7 @@ title:  "Stempelstelle 158: Hassenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/158-hassenstein.jpg
-description: "Stempelstelle 158: Hassenstein | Bad Lauterberg"
+description: "HWN 158: Hassenstein | Bad Lauterberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Aussicht Hassenstein](https://commons.wikimedia.org/wiki/File:Aussicht_Hassenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ Der Hassenstein (560 m ü. NN) liegt oberhalb der Odertalsperre bei Bad Lauterbe
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63829%2C%2010.52495) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63829%2C%2010.52495) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

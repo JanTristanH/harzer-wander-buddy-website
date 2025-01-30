@@ -4,7 +4,7 @@ title:  "Stempelstelle 37: Büchenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/37-buechenberg.jpg
-description: "Stempelstelle 37: Büchenberg | Elbingerode"
+description: "HWN 37: Büchenberg | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Büchenberg](https://commons.wikimedia.org/wiki/File:B%C3%BCchenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -30,7 +30,7 @@ Der kürzeste Weg führt vom Parkplatz Büchenberg (ca. 0,6 km).
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79104%2C%2010.81842) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79104%2C%2010.81842) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

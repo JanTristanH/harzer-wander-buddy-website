@@ -4,7 +4,7 @@ title:  "Stempelstelle 218: Neustädter Talsperre"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/218-neustaedter-talsperre.jpg
-description: "Stempelstelle 218: Neustädter Talsperre | Neustadt/Harz"
+description: "HWN 218: Neustädter Talsperre | Neustadt/Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Talsperre Neustadt](https://commons.wikimedia.org/wiki/File:Talsperre_Neustadt.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Xxschneider&amp;action=edit&amp;redlink=1" class="new" title="User:Xxschneider (page does not exist)">Xxschneider</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
@@ -25,7 +25,7 @@ Im 19. Jahrhundert litt Nordhausen unter Trinkwasserknappheit. Ein Gutachten emp
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.57888%2C%2010.86333) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.57888%2C%2010.86333) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

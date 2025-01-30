@@ -4,7 +4,7 @@ title:  "Stempelstelle 130: Iberger Albertturm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/130-iberger-albertturm.jpg
-description: "Stempelstelle 130: Iberger Albertturm | Bad Grund"
+description: "HWN 130: Iberger Albertturm | Bad Grund"
 comments: false
 imageshadow: true
 imageSource: '📷 [Iberger Albertturm](https://commons.wikimedia.org/wiki/File:Iberger_Albertturm.jpg) von Hejkal unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der erste Turm wurde 1886 als 20 m hoher Holzturm errichtet.  Aufgrund von Wit
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81987%2C%2010.24520) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81987%2C%2010.24520) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

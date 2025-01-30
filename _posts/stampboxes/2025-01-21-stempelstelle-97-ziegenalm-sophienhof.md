@@ -4,7 +4,7 @@ title:  "Stempelstelle 97: Ziegenalm Sophienhof"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/97-ziegenalm-sophienhof.webp
-description: "Stempelstelle 97: Ziegenalm Sophienhof | Harztor"
+description: "HWN 97: Ziegenalm Sophienhof | Harztor"
 comments: false
 imageshadow: true
 imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
@@ -24,7 +24,7 @@ Gegenüber der Ziegenalm befindet sich der Braugasthof "Brauner Hirsch". Seit 20
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63259%2C%2010.79096) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63259%2C%2010.79096) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

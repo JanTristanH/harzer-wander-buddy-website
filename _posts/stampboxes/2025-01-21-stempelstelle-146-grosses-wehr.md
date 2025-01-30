@@ -4,7 +4,7 @@ title:  "Stempelstelle 146: Großes Wehr"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/146-grosses-wehr.jpg
-description: "Stempelstelle 146: Großes Wehr | Osterode am Harz"
+description: "HWN 146: Großes Wehr | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Morgenbrodtshütte](https://commons.wikimedia.org/wiki/File:Morgenbrodtsh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Morgenbrodtsthaler Graben wurde 1715 erschlossen. Mit dem Bau des Sperberhai
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.76260%2C%2010.44573) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.76260%2C%2010.44573) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

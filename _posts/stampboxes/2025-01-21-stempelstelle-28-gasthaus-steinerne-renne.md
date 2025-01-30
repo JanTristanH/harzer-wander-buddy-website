@@ -4,7 +4,7 @@ title:  "Stempelstelle 28: Gasthaus Steinerne Renne"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/28-gasthaus-steinerne-renne.jpg
-description: "Stempelstelle 28: Gasthaus Steinerne Renne | Wernigerode"
+description: "HWN 28: Gasthaus Steinerne Renne | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Steinerne Renne2](https://commons.wikimedia.org/wiki/File:Steinerne_Renne2.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Das Gasthaus wurde 1869 erstmals als Blockhaus erbaut und diente später als Fer
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80494%2C%2010.69977) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80494%2C%2010.69977) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

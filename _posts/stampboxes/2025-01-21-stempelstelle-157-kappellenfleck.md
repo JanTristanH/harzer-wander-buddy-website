@@ -4,7 +4,7 @@ title:  "Stempelstelle 157: Kapellenfleck"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/157-kappellenfleck.jpg
-description: "Stempelstelle 157: Kapellenfleck | Braunlage"
+description: "HWN 157: Kapellenfleck | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kapellenfleck](https://commons.wikimedia.org/wiki/File:Kapellenfleck.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ Der Kapellenfleck liegt zwischen Braunlage und Wieda am Kaiserweg.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.69071%2C%2010.59574) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.69071%2C%2010.59574) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

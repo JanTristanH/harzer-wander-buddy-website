@@ -4,7 +4,7 @@ title:  "Stempelstelle 187: Lauenburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/187-lauenburg.jpg
-description: "Stempelstelle 187: Lauenburg | Stecklenberg"
+description: "HWN 187: Lauenburg | Stecklenberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Lauenburg (kleine) 02](https://commons.wikimedia.org/wiki/File:Lauenburg_(kleine)_02.jpg) von MacElch (Rainer Kunze) unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -29,7 +29,7 @@ Die Wege sind gut ausgeschildert und führen durch abwechslungsreiche Landschaft
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72632%2C%2011.08071) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72632%2C%2011.08071) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

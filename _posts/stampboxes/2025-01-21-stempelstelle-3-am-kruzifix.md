@@ -4,7 +4,7 @@ title:  "Stempelstelle 3: Am Kruzifix"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/3-am-kruzifix.jpg
-description: "Stempelstelle 3: Am Kruzifix | Ilsenburg"
+description: "HWN 3: Am Kruzifix | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Am Kruzifix](https://commons.wikimedia.org/wiki/File:Am_Kruzifix.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Das **Kruzifix** markiert eine alte Pilger- und Handelsroute. Es wurde als Orien
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82731%2C%2010.62244) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82731%2C%2010.62244) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

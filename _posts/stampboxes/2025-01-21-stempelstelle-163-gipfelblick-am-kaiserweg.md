@@ -4,7 +4,7 @@ title:  "Stempelstelle 163: Gipfelblick am Kaiserweg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/163-gipfelblick-am-kaiserweg.jpg
-description: "Stempelstelle 163: Gipfelblick am Kaiserweg | Wieda"
+description: "HWN 163: Gipfelblick am Kaiserweg | Wieda"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipfelblick am Kaiserweg](https://commons.wikimedia.org/wiki/File:Gipfelblick_am_Kaiserweg.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ In der Nähe befindet sich der Kapellenfleck (Stempelstelle 157). Hier stand ver
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.653267%2C%2010.600883) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.653267%2C%2010.600883) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

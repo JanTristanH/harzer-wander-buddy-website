@@ -6,7 +6,7 @@ title:  "Stempelstelle 108: Sudmerberger Warte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/108-sudmerberger-warte.jpg
-description: "Stempelstelle 108: Sudmerberger Warte | Goslar"
+description: "HWN 108: Sudmerberger Warte | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [SudmerbergTurm](https://commons.wikimedia.org/wiki/File:SudmerbergTurm.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -28,7 +28,7 @@ Ursprünglich stand hier ein hölzerner Turm, der später durch einen steinernen
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.46775) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.91484%2C%2010.46775) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
@@ -55,7 +55,7 @@ title:  "Stempelstelle <nummer>: <name>"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/108-sudmerberger-warte.jpg
-description: "Stempelstelle <nummer>: <name> | <stadt_in_der_nähe>"
+description: "HWN <nummer>: <name> | <stadt_in_der_nähe>"
 comments: false
 imageshadow: true
 imageSource: '📷 [SudmerbergTurm](https://commons.wikimedia.org/wiki/File:SudmerbergTurm.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -75,7 +75,7 @@ imageSource: '📷 [SudmerbergTurm](https://commons.wikimedia.org/wiki/File:Sudm
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=<Latitude>%2C%20<Longitude>) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 
 <div class="android-only">

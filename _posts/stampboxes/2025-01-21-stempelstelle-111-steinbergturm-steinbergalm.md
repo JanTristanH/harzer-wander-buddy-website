@@ -4,7 +4,7 @@ title:  "Stempelstelle 111: Steinbergturm / Steinbergalm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/111-steinbergturm-steinbergalm.jpg
-description: "Stempelstelle 111: Steinbergturm / Steinbergalm | Goslar"
+description: "HWN 111: Steinbergturm / Steinbergalm | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Steinberg 02](https://commons.wikimedia.org/wiki/File:Steinberg_02.jpg) von <a href="//commons.wikimedia.org/wiki/User:Rabanus_Flavus" title="User:Rabanus Flavus">Rabanus Flavus</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
@@ -23,7 +23,7 @@ Die Steinbergalm liegt in unmittelbarer Nähe des Steinbergturms und bietet Wand
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.90652%2C%2010.40525) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.90652%2C%2010.40525) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 131: Kaysereiche (Schutzhütte)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/131-kaysereiche-schutzhuette.jpg
-description: "Stempelstelle 131: Kaysereiche (Schutzhütte) | Bad Grund"
+description: "HWN 131: Kaysereiche (Schutzhütte) | Bad Grund"
 comments: false
 imageshadow: true
 imageSource: '📷 [Kaysereiche Bad Grund](https://commons.wikimedia.org/wiki/File:Kaysereiche_Bad_Grund.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die ursprüngliche Eiche wuchs nach mehreren Versuchen in 570 m Höhe. In den 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79208%2C%2010.27573) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79208%2C%2010.27573) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

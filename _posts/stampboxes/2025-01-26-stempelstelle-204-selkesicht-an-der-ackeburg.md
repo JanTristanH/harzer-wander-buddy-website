@@ -4,7 +4,7 @@ title:  "Stempelstelle 204: Selkesicht an der Ackeburg"
 author: buddy
 categories: [ Stempelstelle, Stempelstelle des Jahres, Selketal ]
 image: assets/images/stampboxes/204-Selkesicht_an_der_Ackeburg_overview.jpg
-description: "Stempelstelle 204: Selkesicht an der Ackeburg | Schönste Stempelstelle des Jahres 2021 | Ballenstedt"
+description: "HWN 204: Selkesicht an der Ackeburg | Schönste Stempelstelle des Jahres 2021 | Ballenstedt"
 comments: false
 imageshadow: true
 ---

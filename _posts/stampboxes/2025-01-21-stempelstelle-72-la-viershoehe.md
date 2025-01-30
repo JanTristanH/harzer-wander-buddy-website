@@ -4,7 +4,7 @@ title:  "Stempelstelle 72: La Viershöhe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/72-la-viershoehe.jpg
-description: "Stempelstelle 72: La Viershöhe | Thale"
+description: "HWN 72: La Viershöhe | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [La Viershöhe](https://commons.wikimedia.org/wiki/File:La_Viers-H%C3%B6he.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -23,7 +23,7 @@ Benannt ist die Höhe nach Oberförster La Viers, der im 19. Jahrhundert als ran
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73058%2C%2011.01683) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73058%2C%2011.01683) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

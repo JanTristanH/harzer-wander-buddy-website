@@ -4,7 +4,7 @@ title:  "Stempelstelle 80: Burgruine Regenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/80-burgruine-regenstein.jpg
-description: "Stempelstelle 80: Burgruine Regenstein | Blankenburg"
+description: "HWN 80: Burgruine Regenstein | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Burgruine Regenstein](https://commons.wikimedia.org/wiki/File:Burgruine_Regenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Erstmals 1162 erwähnt, war die Burg Sitz der Grafen von Regenstein. Im 17. Jahr
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81386%2C%2010.95836) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81386%2C%2010.95836) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 116: Verlobungsinsel in der Oker"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/116-verlobungsinsel-in-der-oker.jpg
-description: "Stempelstelle 116: Verlobungsinsel in der Oker | Goslar"
+description: "HWN 116: Verlobungsinsel in der Oker | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [OkerVerlobungsinsel](https://commons.wikimedia.org/wiki/File:OkerVerlobungsinsel.JPG) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -26,7 +26,7 @@ Oberhalb der Verlobungsinsel liegt der Romkerhaller Wasserfall. Über den künst
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.8506%2C%2010.4711) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.8506%2C%2010.4711) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

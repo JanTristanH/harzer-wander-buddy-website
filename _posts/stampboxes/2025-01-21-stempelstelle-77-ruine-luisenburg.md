@@ -4,7 +4,7 @@ title:  "Stempelstelle 77: Ruine Luisenburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/77-ruine-luisenburg.jpg
-description: "Stempelstelle 77: Ruine Luisenburg | Blankenburg"
+description: "HWN 77: Ruine Luisenburg | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Luisenburg 5](https://commons.wikimedia.org/wiki/File:Luisenburg_5.jpg) von <a href="//commons.wikimedia.org/wiki/User:Ordercrazy" title="User:Ordercrazy">Ordercrazy</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
@@ -23,7 +23,7 @@ Das einstige Lustschloss war ein eingeschossiger Fachwerkbau mit achteckigem Saa
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78275%2C%2010.95420) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78275%2C%2010.95420) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

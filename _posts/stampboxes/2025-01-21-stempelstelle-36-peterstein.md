@@ -4,7 +4,7 @@ title:  "Stempelstelle 36: Peterstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/36-peterstein.jpg
-description: "Stempelstelle 36: Peterstein | Wernigerode"
+description: "HWN 36: Peterstein | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [ZillierbachtalsperrePeterstein](https://commons.wikimedia.org/wiki/File:ZillierbachtalsperrePeterstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Kassandro" class="extiw" title="de:Benutzer:Kassandro">Kassandro</a> unter Lizenz Public domain'
@@ -24,7 +24,7 @@ Der Name "Peterstein" leitet sich vom angrenzenden Waldgebiet "Peterholz" ab, da
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79222%2C%2010.78028) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79222%2C%2010.78028) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

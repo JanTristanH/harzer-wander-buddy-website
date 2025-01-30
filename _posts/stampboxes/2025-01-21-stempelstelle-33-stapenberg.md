@@ -4,7 +4,7 @@ title:  "Stempelstelle 33: Stapenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/33-stapenberg.jpg
-description: "Stempelstelle 33: Stapenberg | Benzingerode"
+description: "HWN 33: Stapenberg | Benzingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stapenberg](https://commons.wikimedia.org/wiki/File:Stapenberg.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Oben angekommen, bietet sich ein herrlicher Blick über das Harzvorland bis zum 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82613%2C%2010.84825) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.82613%2C%2010.84825) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

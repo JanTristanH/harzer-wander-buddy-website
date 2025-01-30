@@ -4,7 +4,7 @@ title:  "Stempelstelle 96: Ehemalige Steinmühle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/96-ehemalige-steinmuehle.jpg
-description: "Stempelstelle 96: Ehemalige Steinmühle | Sülzhayn"
+description: "HWN 96: Ehemalige Steinmühle | Sülzhayn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ehem. Steinmühle](https://commons.wikimedia.org/wiki/File:Ehem._Steinm%C3%BChle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Im Tal gibt es markante Felsen mit Namen wie „Eulenkopf“, „Pferd“ und �
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6077%2C%2010.72845) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.6077%2C%2010.72845) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 38: Galgenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/38-galgenberg.jpg
-description: "Stempelstelle 38: Galgenberg | Elbingerode"
+description: "HWN 38: Galgenberg | Elbingerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Galgenberg Elbingerode](https://commons.wikimedia.org/wiki/File:Galgenberg_Elbingerode.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -28,7 +28,7 @@ Weitere Startpunkte:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7738%2C%2010.81677) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7738%2C%2010.81677) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 94: Dreiherrenstein am Brandhai"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/94-dreiherrenstein-am-brandhai-am-48a.jpg
-description: "Stempelstelle 94: Dreiherrenstein am Brandhai | Neustadt/Harz"
+description: "HWN 94: Dreiherrenstein am Brandhai | Neustadt/Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Drei-Herren-Steine](https://commons.wikimedia.org/wiki/File:Drei-Herren-Steine.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Wappengrenzsteine aus dem Jahr 1735 markieren die ehemaligen Territorien der
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60638%2C%2010.89193) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60638%2C%2010.89193) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

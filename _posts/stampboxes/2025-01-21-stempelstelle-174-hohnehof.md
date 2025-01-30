@@ -4,7 +4,7 @@ title:  "Stempelstelle 174: Hohnehof"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/174-hohnehof.jpg
-description: "Stempelstelle 174: Hohnehof | Wernigerode"
+description: "HWN 174: Hohnehof | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hohnehof](https://commons.wikimedia.org/wiki/File:Hohnehof.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,7 +22,7 @@ Im 17. Jahrhundert wurden die Lichtungen des Hohnegebiets als Weide genutzt. 166
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77536%2C%2010.7192) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77536%2C%2010.7192) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

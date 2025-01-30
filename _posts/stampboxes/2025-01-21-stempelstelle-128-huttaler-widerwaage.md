@@ -4,7 +4,7 @@ title:  "Stempelstelle 128: Huttaler Widerwaage"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/128-huttaler-widerwaage.jpg
-description: "Stempelstelle 128: Huttaler Widerwaage | Clausthal-Zellerfeld"
+description: "HWN 128: Huttaler Widerwaage | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stempelstelle 128 klein](https://commons.wikimedia.org/wiki/File:Stempelsstelle_128_klein.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Frank_Hebestreit&amp;action=edit&amp;redlink=1" class="new" title="User:Frank Hebestreit (page does not exist)">Frank Hebestreit</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Als Widerwaage bezeichnet man ein kleines angestautes Becken. Hier wird Wasser d
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78573%2C%2010.37743) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78573%2C%2010.37743) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

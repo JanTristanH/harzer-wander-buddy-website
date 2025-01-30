@@ -4,7 +4,7 @@ title:  "Stempelstelle 79: Otto-Ebert-Brücke"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/79-otto-ebert-bruecke-am-herzogsweg.jpg
-description: "Stempelstelle 79: Otto-Ebert-Brücke | Blankenburg (Harz)"
+description: "HWN 79: Otto-Ebert-Brücke | Blankenburg (Harz)"
 comments: false
 imageshadow: true
 imageSource: '📷 [Otto-Ebert-Brücke](https://commons.wikimedia.org/wiki/File:Otto-Ebert-Br%C3%BCcke.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ In den 1960er Jahren wurde die Rübelandbahn elektrifiziert. Dabei wurde der Her
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78495%2C%2010.92302) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78495%2C%2010.92302) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

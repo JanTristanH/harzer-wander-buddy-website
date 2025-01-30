@@ -4,7 +4,7 @@ title:  "Stempelstelle 192: Historischer Gipsbrennofen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/192-historischer-gipsbrennofen.jpg
-description: "Stempelstelle 192: Historischer Gipsbrennofen | Neuhof"
+description: "HWN 192: Historischer Gipsbrennofen | Neuhof"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipsbrennofen Neuhof](https://commons.wikimedia.org/wiki/File:Gipsbrennofen_Neuhof.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,7 +26,7 @@ Das nahegelegene Kloster Walkenried wurde 1127 gegründet und war eines der bede
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.57689%2C%2010.57524) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.57689%2C%2010.57524) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

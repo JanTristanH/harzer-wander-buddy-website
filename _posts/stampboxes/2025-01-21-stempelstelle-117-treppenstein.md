@@ -4,7 +4,7 @@ title:  "Stempelstelle 117: Treppenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/117-treppenstein.jpg
-description: "Stempelstelle 117: Treppenstein | Goslar"
+description: "HWN 117: Treppenstein | Goslar"
 comments: false
 imageshadow: true
 imageSource: '📷 [Blick vom Treppenstein](https://commons.wikimedia.org/wiki/File:Blick_vom_Treppenstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -23,7 +23,7 @@ Am Fuß des Treppensteins wurden 1989 Reste einer Befestigungsanlage entdeckt, d
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87183%2C%2010.48139) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.87183%2C%2010.48139) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

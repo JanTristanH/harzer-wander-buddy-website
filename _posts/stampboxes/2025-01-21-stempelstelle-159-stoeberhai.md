@@ -4,7 +4,7 @@ title:  "Stempelstelle 159: Stöberhai"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/159-stoeberhai.jpg
-description: "Stempelstelle 159: Stöberhai | Wieda"
+description: "HWN 159: Stöberhai | Wieda"
 comments: false
 imageshadow: true
 imageSource: '📷 [Stöberhai](https://commons.wikimedia.org/wiki/File:St%C3%B6berhai.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der **Stöberhai** ist mit 720 m der höchste Berg im Südharz. Er liegt zwisc
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65653%2C%2010.55408) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.65653%2C%2010.55408) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

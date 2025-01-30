@@ -4,7 +4,7 @@ title:  "Stempelstelle 6: Bremer Hütte – Obere Ilsefälle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/6-bremer-huette-obere-ilsefaelle.jpg
-description: "Stempelstelle 6: Bremer Hütte – Obere Ilsefälle | Ilsenburg"
+description: "HWN 6: Bremer Hütte – Obere Ilsefälle | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bremer Hütte am Brocken](https://commons.wikimedia.org/wiki/File:Bremer_H%C3%BCtte_am_Brocken.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -24,7 +24,7 @@ Die Bremer Hütte wurde ursprünglich als Schutz- und Rastplatz für Wanderer er
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80542%2C%2010.62783) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80542%2C%2010.62783) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

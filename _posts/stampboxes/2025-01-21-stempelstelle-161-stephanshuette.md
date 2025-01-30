@@ -4,7 +4,7 @@ title:  "Stempelstelle 161: Stephanshütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/161-stephanshuette.webp
-description: "Stempelstelle 161: Stephanshütte | Bad Sachsa"
+description: "HWN 161: Stephanshütte | Bad Sachsa"
 comments: false
 imageshadow: true
 imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
@@ -24,7 +24,7 @@ Die Hütte ist nach Heinrich von Stephan (1831–1897) benannt, dem Generalpostm
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63092%2C%2010.54271) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63092%2C%2010.54271) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

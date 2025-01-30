@@ -4,7 +4,7 @@ title:  "Stempelstelle 7: Gasthaus Plessenburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/7-gasthaus-plessenburg.jpg
-description: "Stempelstelle 7: Gasthaus Plessenburg | Ilsenburg"
+description: "HWN 7: Gasthaus Plessenburg | Ilsenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Plessenburg](https://commons.wikimedia.org/wiki/File:Plessenburg.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Die Plessenburg wurde ursprünglich als **Jagdhaus** für den Herzog von Braunsc
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80192%2C%2010.66347) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.80192%2C%2010.66347) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

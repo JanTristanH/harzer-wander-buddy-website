@@ -4,7 +4,7 @@ title:  "Stempelstelle 50: Walzenhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/50-walzenhuette.jpg
-description: "Stempelstelle 50: Walzenhütte | Trautenstein"
+description: "HWN 50: Walzenhütte | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Walzenhütte Trautenstein](https://commons.wikimedia.org/wiki/File:Walzenh%C3%BCtte_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ In der Nähe der Walzenhütte befindet sich eine Brücke über die Gleise der Ha
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66103%2C%2010.76721) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66103%2C%2010.76721) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

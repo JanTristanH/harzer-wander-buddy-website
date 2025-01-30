@@ -4,7 +4,7 @@ title:  "Stempelstelle 49: Grüntal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/49-gruental.jpg
-description: "Stempelstelle 49: Grüntal | Benneckenstein"
+description: "HWN 49: Grüntal | Benneckenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Forstort Grüntal](https://commons.wikimedia.org/wiki/File:Forstort_Gr%C3%BCntal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Die Stempelstelle 49 der Harzer Wandernadel befindet sich im malerischen Grünta
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67660%2C%2010.75533) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67660%2C%2010.75533) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

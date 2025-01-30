@@ -4,7 +4,7 @@ title:  "Stempelstelle 125: Schalker Turm"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/125-schalker-turm.jpg
-description: "Stempelstelle 125: Schalker Turm | Clausthal-Zellerfeld"
+description: "HWN 125: Schalker Turm | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [SchalkeGipfel](https://commons.wikimedia.org/wiki/File:SchalkeGipfel.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Der Schalker Turm liegt auf dem 762 Meter hohen Berg Schalke bei Clausthal-Zelle
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.830292%2C%2010.398714) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.830292%2C%2010.398714) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 168: Dreieckiger Pfahl"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/168-dreieckiger-pfahl.jpg
-description: "Stempelstelle 168: Dreieckiger Pfahl | Nationalpark Harz"
+description: "HWN 168: Dreieckiger Pfahl | Nationalpark Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte Dreieckiger Pfahl](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_Dreieckiger_Pfahl.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Frank_Hebestreit&amp;action=edit&amp;redlink=1" class="new" title="User:Frank Hebestreit (page does not exist)">Frank Hebestreit</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Der 1,35 Meter hohe Stein aus dem Jahr 1698 diente als Grenzmarkierung zwischen 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78133%2C%2010.58055) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78133%2C%2010.58055) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

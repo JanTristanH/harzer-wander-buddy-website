@@ -4,7 +4,7 @@ title:  "Stempelstelle 113: Grumbacher Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/113-grumbacher-teich.jpg
-description: "Stempelstelle 113: Grumbacher Teich | Hahnenklee-Bockswiese"
+description: "HWN 113: Grumbacher Teich | Hahnenklee-Bockswiese"
 comments: false
 imageshadow: true
 imageSource: '📷 [Unterer Grumbacher Teich](https://commons.wikimedia.org/wiki/File:Unterer_Grumbacher_Teich.JPG) von <a href="//commons.wikimedia.org/wiki/User:BRFBlake" title="User:BRFBlake">BRFBlake</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -27,7 +27,7 @@ Der Teich diente nicht nur der Energiegewinnung, sondern auch dem Holzflößen. 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84918%2C%2010.29940) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84918%2C%2010.29940) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

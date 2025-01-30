@@ -4,7 +4,7 @@ title:  "Stempelstelle 136: Eckersprung"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/136-eckersprung.jpg
-description: "Stempelstelle 136: Eckersprung | Nationalpark Harz"
+description: "HWN 136: Eckersprung | Nationalpark Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schutzhütte Eckersprung](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_Eckersprung.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Frank_Hebestreit&amp;action=edit&amp;redlink=1" class="new" title="User:Frank Hebestreit (page does not exist)">Frank Hebestreit</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Die Ecker markiert die Grenze zwischen Niedersachsen und Sachsen-Anhalt. Früher
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78772%2C%2010.58642) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78772%2C%2010.58642) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

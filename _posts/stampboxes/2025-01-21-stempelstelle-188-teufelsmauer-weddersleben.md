@@ -4,7 +4,7 @@ title:  "Stempelstelle 188: Teufelsmauer Weddersleben"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/188-teufelsmauer-weddersleben.jpg
-description: "Stempelstelle 188: Teufelsmauer Weddersleben | Thale"
+description: "HWN 188: Teufelsmauer Weddersleben | Thale"
 comments: false
 imageshadow: true
 imageSource: '📷 [Fotothek df ld 0003066 001 Landschaften ^ Hügellandschaften - Gebirgslandschaften](https://commons.wikimedia.org/wiki/File:Fotothek_df_ld_0003066_001_Landschaften_%5E_H%C3%BCgellandschaften_-_Gebirgslandschafte.jpg) von <bdi><a href="https://en.wikipedia.org/wiki/de:Richard_Peter" class="extiw" title="w:de:Richard Peter"><span title="deutscher Fotojournalist">Richard Peter</span></a></bdi> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -24,7 +24,7 @@ Die Teufelsmauer besteht aus harten Sandsteinen der oberen Kreidezeit. Ihre unge
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75603%2C%2011.08734) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75603%2C%2011.08734) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

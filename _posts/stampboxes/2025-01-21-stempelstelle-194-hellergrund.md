@@ -4,7 +4,7 @@ title:  "Stempelstelle 194: Hellergrund"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/194-hellergrund.jpg
-description: "Stempelstelle 194: Hellergrund | Neudorf"
+description: "HWN 194: Hellergrund | Neudorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hellergrund Teich](https://commons.wikimedia.org/wiki/File:Hellergrund_Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -23,7 +23,7 @@ Früher stand hier die Heller Wasserkunst mit drei Radkammern, mehreren Kunstgr�
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61791%2C%2011.08133) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.61791%2C%2011.08133) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

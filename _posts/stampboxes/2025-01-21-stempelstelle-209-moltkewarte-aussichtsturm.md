@@ -4,7 +4,7 @@ title:  "Stempelstelle 209: Moltkewarte (Aussichtsturm)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/209-moltkewarte-aussichtsturm.jpg
-description: "Stempelstelle 209: Moltkewarte (Aussichtsturm) | Sangerhausen"
+description: "HWN 209: Moltkewarte (Aussichtsturm) | Sangerhausen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Moltkewarte](https://commons.wikimedia.org/wiki/File:Moltkewarte.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> at <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -25,7 +25,7 @@ Erbaut wurde der Turm 1903 vom Harzklub-Zweigverein Sangerhausen zu Ehren von He
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49308%2C%2011.27100) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.49308%2C%2011.27100) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

@@ -4,7 +4,7 @@ title:  "Stempelstelle 193: Stahlquelle"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/193-stahlquelle.jpg
-description: "Stempelstelle 193: Stahlquelle | Neudorf"
+description: "HWN 193: Stahlquelle | Neudorf"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rastplatz Stahlquelle](https://commons.wikimedia.org/wiki/File:Rastplatz_Stahlquelle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Die Quelle wurde 1926 von Obersteiger W. Bock entdeckt. 1931 wurde sie für den 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60795%2C%2011.13672) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60795%2C%2011.13672) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

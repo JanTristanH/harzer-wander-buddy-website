@@ -4,7 +4,7 @@ title:  "Stempelstelle 127: Weppner Hütte, Jägersbleeker Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/127-weppner-huette-jaegersbleeker-teich.jpg
-description: "Stempelstelle 127: Weppner Hütte, Jägersbleeker Teich | Clausthal-Zellerfeld"
+description: "HWN 127: Weppner Hütte, Jägersbleeker Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Jaegersbleeker Teich 030](https://commons.wikimedia.org/wiki/File:Jaegersbleeker_Teich_030.jpg) von Sarkana unter Lizenz [FAL](http://artlibre.org/licence/lal/en)'
@@ -24,7 +24,7 @@ Das Oberharzer Wasserregal ist ein historisches System von Teichen, Gräben und 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79791%2C%2010.38888) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.79791%2C%2010.38888) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

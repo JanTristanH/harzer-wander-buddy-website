@@ -4,7 +4,7 @@ title:  "Stempelstelle 166: Sachsensteinhütte"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/166-sachsensteinhuette.jpg
-description: "Stempelstelle 166: Sachsensteinhütte | Bad Sachsa"
+description: "HWN 166: Sachsensteinhütte | Bad Sachsa"
 comments: false
 imageshadow: true
 imageSource: '📷 [Sachsensteinhütte](https://commons.wikimedia.org/wiki/File:Sachsensteinh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Sachsenstein war Schauplatz von Auseinandersetzungen zwischen Franken und Sa
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58073%2C%2010.58385) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.58073%2C%2010.58385) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

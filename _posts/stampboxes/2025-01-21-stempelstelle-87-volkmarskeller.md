@@ -4,7 +4,7 @@ title:  "Stempelstelle 87: Volkmarskeller"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/87-volkmarskeller.jpg
-description: "Stempelstelle 87: Volkmarskeller | Blankenburg"
+description: "HWN 87: Volkmarskeller | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Volkmarskeller Cave 2](https://commons.wikimedia.org/wiki/File:Volkmarskeller_Cave_2.jpg) von <a href="//commons.wikimedia.org/wiki/User:Bermicourt" title="User:Bermicourt">Bermicourt</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Im 12. Jahrhundert errichteten Zisterziensermönche über der Höhle ein kleines
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78734%2C%2010.87332) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78734%2C%2010.87332) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

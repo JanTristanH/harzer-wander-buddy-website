@@ -4,7 +4,7 @@ title:  "Stempelstelle 98: Ruine Hohnstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/98-ruine-hohnstein.jpg
-description: "Stempelstelle 98: Ruine Hohnstein | Neustadt/Harz"
+description: "HWN 98: Ruine Hohnstein | Neustadt/Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Ruine Hohnstein](https://www.flickr.com/photos/184958786@N04/49212569986/) von Carola Ballat unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)'
@@ -23,7 +23,7 @@ Erbaut um 1200, diente die Burg als Stammsitz der Grafen von Hohnstein. Nach Zer
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.5698%2C%2010.83748) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.5698%2C%2010.83748) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

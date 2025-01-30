@@ -4,7 +4,7 @@ title:  "Stempelstelle 143: Köte Schindelkopf"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/143-koete-schindelkopf.jpg
-description: "Stempelstelle 143: Köte Schindelkopf | Osterode am Harz"
+description: "HWN 143: Köte Schindelkopf | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [Köte Schindelkopf](https://commons.wikimedia.org/wiki/File:K%C3%B6te_Schindelkopf.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Im Jahr 2002 wurde hier eine Schutzhütte im Stil der traditionellen Köten erri
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72322%2C%2010.33626) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72322%2C%2010.33626) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

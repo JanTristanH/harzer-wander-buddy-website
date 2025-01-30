@@ -4,7 +4,7 @@ title:  "Stempelstelle 219: Wippertalsperre"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/219-wippertalsperre.jpg
-description: "Stempelstelle 219: Wippertalsperre | Wippra"
+description: "HWN 219: Wippertalsperre | Wippra"
 comments: false
 imageshadow: true
 imageSource: '📷 [Talsperre Wippra - Flickr - tm-md (36)](https://commons.wikimedia.org/wiki/File:Talsperre_Wippra_-_Flickr_-_tm-md_(36).jpg) von <bdi><a href="https://www.wikidata.org/wiki/Q65534171" class="extiw" title="d:Q65534171"><span title="photographer">Torsten Maue</span></a></bdi> unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
@@ -23,7 +23,7 @@ In der Nähe der Wippertalsperre befindet sich der Harzer Naturistenstieg, der e
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.56956%2C%2011.19266) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.56956%2C%2011.19266) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

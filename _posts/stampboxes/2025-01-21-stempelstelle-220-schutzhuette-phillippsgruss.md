@@ -4,7 +4,7 @@ title:  "Stempelstelle 220: Schutzhütte Phillippsgruß"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/220-schutzhuette-phillippsgruss.jpg
-description: "Stempelstelle 220: Schutzhütte Phillippsgruß | Bad Sachsa"
+description: "HWN 220: Schutzhütte Phillippsgruß | Bad Sachsa"
 comments: false
 imageshadow: true
 imageSource: '📷 [Philippsgruß](https://commons.wikimedia.org/wiki/File:Philippsgru%C3%9F.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ In der Nähe liegt der 1964 gegründete Harzfalkenhof Bad Sachsa. Er widmet sich
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60973%2C%2010.53118) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.60973%2C%2010.53118) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

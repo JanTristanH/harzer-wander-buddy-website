@@ -4,7 +4,7 @@ title:  "Stempelstelle 197: Burgruine Anhalt"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/197-burgruine-anhalt.jpg
-description: "Stempelstelle 197: Burgruine Anhalt | Harzgerode"
+description: "HWN 197: Burgruine Anhalt | Harzgerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bergfried anhalt](https://commons.wikimedia.org/wiki/File:Bergfried_anhalt.jpg) von Torsten Friebe unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -26,7 +26,7 @@ Erbaut um 1123 von Otto dem Reichen, wurde die Burg 1140 zerstört und später v
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66807%2C%2011.19318) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66807%2C%2011.19318) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

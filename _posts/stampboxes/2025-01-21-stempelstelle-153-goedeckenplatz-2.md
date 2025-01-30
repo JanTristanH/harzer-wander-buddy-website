@@ -4,7 +4,7 @@ title:  "Stempelstelle 153: Goedeckenplatz"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/153-goedeckenplatz-2.jpg
-description: "Stempelstelle 153: Goedeckenplatz | Sankt Andreasberg"
+description: "HWN 153: Goedeckenplatz | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schadenbeeksköpfe](https://commons.wikimedia.org/wiki/File:Schadenbeeksk%C3%B6pfe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -20,7 +20,7 @@ Der Goedeckenplatz ist eine Wegkreuzung zwischen Sankt Andreasberg und dem Groß
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68840%2C%2010.47205) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68840%2C%2010.47205) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

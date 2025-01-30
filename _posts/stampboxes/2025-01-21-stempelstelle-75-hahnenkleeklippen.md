@@ -4,7 +4,7 @@ title:  "Stempelstelle 75: Hahnenkleeklippen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/75-hahnenkleeklippen.jpg
-description: "Stempelstelle 75: Hahnenkleeklippen | Braunlage"
+description: "HWN 75: Hahnenkleeklippen | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [Hahnenkleeklippe](https://commons.wikimedia.org/wiki/File:Hahnenkleeklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -24,7 +24,7 @@ Vor etwa 250 Millionen Jahren entstanden durch tektonische Aktivitäten die mark
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73739%2C%2010.56589) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.73739%2C%2010.56589) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

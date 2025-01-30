@@ -4,7 +4,7 @@ title:  "Stempelstelle 144: Hanskühnenburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/144-hanskuehnenburg.jpg
-description: "Stempelstelle 144: Hanskühnenburg | Osterode am Harz"
+description: "HWN 144: Hanskühnenburg | Osterode am Harz"
 comments: false
 imageshadow: true
 imageSource: '📷 [HanskünenburgTurm](https://commons.wikimedia.org/wiki/File:HanskuehnenburgTurm.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Bereits 1889 wurde hier der erste hölzerne Aussichtsturm errichtet. 1914 folgte
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7506%2C10.4111) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.7506%2C10.4111) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

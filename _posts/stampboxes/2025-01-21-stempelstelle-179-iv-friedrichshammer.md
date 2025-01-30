@@ -4,7 +4,7 @@ title:  "Stempelstelle 179: IV. Friedrichshammer"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/179-iv-friedrichshammer.jpg
-description: "Stempelstelle 179: IV. Friedrichshammer | Mägdesprung"
+description: "HWN 179: IV. Friedrichshammer | Mägdesprung"
 comments: false
 imageshadow: true
 imageSource: '📷 [IV Hammer](https://commons.wikimedia.org/wiki/File:IV_Hammer.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -33,7 +33,7 @@ Mögliche Startpunkte:
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66857%2C%2011.16581) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66857%2C%2011.16581) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

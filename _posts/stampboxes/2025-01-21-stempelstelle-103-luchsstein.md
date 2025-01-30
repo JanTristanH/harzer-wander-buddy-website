@@ -4,7 +4,7 @@ title:  "Stempelstelle 103: Luchsstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/103-luchsstein.jpg
-description: "Stempelstelle 103: Luchsstein | Lautenthal"
+description: "HWN 103: Luchsstein | Lautenthal"
 comments: false
 imageshadow: true
 imageSource: '📷 [Luchsstein](https://commons.wikimedia.org/wiki/File:Luchsstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
@@ -23,7 +23,7 @@ Am 17. März 1818 erlegte der Reitende Förster Spellerberg nach einer elftägig
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88032%2C%2010.25558) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.88032%2C%2010.25558) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

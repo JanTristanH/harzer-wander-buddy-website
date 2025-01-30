@@ -4,7 +4,7 @@ title:  "Stempelstelle 54: Rotestein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/54-rotestein.jpg
-description: "Stempelstelle 54: Rotestein | Hasselfelde"
+description: "HWN 54: Rotestein | Hasselfelde"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rote-Stein-Blick1](https://commons.wikimedia.org/wiki/File:Rote-Stein-Blick1.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -23,7 +23,7 @@ Der **Rotestein** (503 m ü. NN) liegt nahe der Köhlerei Stemberghaus bei Hasse
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2010.88091) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2010.88091) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

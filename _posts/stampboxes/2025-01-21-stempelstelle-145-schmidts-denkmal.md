@@ -4,7 +4,7 @@ title:  "Stempelstelle 145: Schmidts-Denkmal"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/145-schmidts-denkmal.jpg
-description: "Stempelstelle 145: Schmidts-Denkmal | Clausthal-Zellerfeld"
+description: "HWN 145: Schmidts-Denkmal | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
 imageSource: '📷 [Schmidts-Denkmal](https://commons.wikimedia.org/wiki/File:Schmidts-Denkmal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ August Schmidt wurde während einer Patrouille hinterrücks mit einer Axt nieder
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77710%2C%2010.38783) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.77710%2C%2010.38783) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

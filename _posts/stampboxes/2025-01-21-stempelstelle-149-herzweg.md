@@ -4,7 +4,7 @@ title:  "Stempelstelle 148: Naturmythenpfad"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/148-naturmythenpfad-nph.jpg
-description: "Stempelstelle 148: Naturmythenpfad | Braunlage"
+description: "HWN 148: Naturmythenpfad | Braunlage"
 comments: false
 imageshadow: true
 imageSource: '📷 [SilberteichAndreasbergerSteg](https://commons.wikimedia.org/wiki/File:SilberteichAndreasbergerSteg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
@@ -23,7 +23,7 @@ Der Silberteich ist ein idyllischer Waldsee am Naturmythenpfad. Hier können Bes
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72311%2C%2010.58188) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72311%2C%2010.58188) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

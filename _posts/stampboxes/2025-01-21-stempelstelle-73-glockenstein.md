@@ -4,7 +4,7 @@ title:  "Stempelstelle 73: Glockenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/73-glockenstein.jpg
-description: "Stempelstelle 73: Glockenstein | Stecklenberg"
+description: "HWN 73: Glockenstein | Stecklenberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Glockenstein Stecklenberg](https://commons.wikimedia.org/wiki/File:Glockenstein_Stecklenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Der Legende nach ertönt der Stein in der Walpurgisnacht wie eine Glocke und wei
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2011.05713) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.72912%2C%2011.05713) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

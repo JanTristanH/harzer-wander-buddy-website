@@ -4,7 +4,7 @@ title:  "Stempelstelle 56: Rappbodeblick Trautenstein"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/56-rappbodeblick-trautenstein.jpg
-description: "Stempelstelle 56: Rappbodeblick Trautenstein | Trautenstein"
+description: "HWN 56: Rappbodeblick Trautenstein | Trautenstein"
 comments: false
 imageshadow: true
 imageSource: '📷 [Rappbodeblick Trautenstein](https://commons.wikimedia.org/wiki/File:Rappbodeblick_Trautenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +28,7 @@ Die Rappbode-Vorsperre dient der Vorreinigung des Wassers von Geröll und Trübs
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71153%2C%2010.80097) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71153%2C%2010.80097) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

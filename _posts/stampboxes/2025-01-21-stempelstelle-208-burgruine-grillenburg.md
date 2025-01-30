@@ -4,7 +4,7 @@ title:  "Stempelstelle 208: Burgruine Grillenburg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/208-burgruine-grillenburg.jpg
-description: "Stempelstelle 208: Burgruine Grillenburg | Sangerhausen"
+description: "HWN 208: Burgruine Grillenburg | Sangerhausen"
 comments: false
 imageshadow: true
 imageSource: '📷 [Grillenburg 5](https://commons.wikimedia.org/wiki/File:Grillenburg_5.jpg) von <p><a href="https://en.wikipedia.org/wiki/de:User:Mewes" class="extiw" title="w:de:User:Mewes">Mewes</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a><br>
@@ -25,7 +25,7 @@ Erstmals 1217 erwähnt, diente die Burg zum Schutz der Sangerhäuser Mulde.  Im 
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.53450%2C%2011.31443) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.53450%2C%2011.31443) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

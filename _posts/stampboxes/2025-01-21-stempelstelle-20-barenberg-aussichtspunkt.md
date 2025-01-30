@@ -4,7 +4,7 @@ title:  "Stempelstelle 20: Barenberg (Aussichtspunkt)"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/20-barenberg-aussichtspunkt.jpg
-description: "Stempelstelle 20: Barenberg (Aussichtspunkt) | Elend"
+description: "HWN 20: Barenberg (Aussichtspunkt) | Elend"
 comments: false
 imageshadow: true
 imageSource: '📷 [Blick auf Elend](https://commons.wikimedia.org/wiki/File:Blick_auf_Elend.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -26,7 +26,7 @@ Bitte beachten: Zwischen Barenberg und Schnarcherklippen ist der Weg durch Sturm
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75032%2C%2010.67505) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.75032%2C%2010.67505) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

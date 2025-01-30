@@ -4,7 +4,7 @@ title:  "Stempelstelle 10: Große Zeterklippe"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/10-grosse-zeterklippe.jpg
-description: "Stempelstelle 10: Große Zeterklippe | Schierke"
+description: "HWN 10: Große Zeterklippe | Schierke"
 comments: false
 imageshadow: true
 imageSource: '📷 [ZeterklippenOst](https://commons.wikimedia.org/wiki/File:ZeterklippenOst.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:kassandro" class="extiw" title="de:Benutzer:kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
@@ -24,7 +24,7 @@ Die Zeterklippen sind von alten **Legenden und Sagen** umgeben. Der Name soll vo
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78152%2C%2010.64492) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78152%2C%2010.64492) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

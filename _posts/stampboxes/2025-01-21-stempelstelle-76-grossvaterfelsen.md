@@ -4,7 +4,7 @@ title:  "Stempelstelle 76: Großvaterfelsen"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/76-grossvaterfelsen.jpg
-description: "Stempelstelle 76: Großvaterfelsen | Blankenburg"
+description: "HWN 76: Großvaterfelsen | Blankenburg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Großvater Teufelsmauer](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fvater_Teufelsmauer.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Es wird vermutet, dass der Name „Großvaterfelsen“ aus der Zeit der Germanen
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78598%2C%2010.96717) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.78598%2C%2010.96717) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

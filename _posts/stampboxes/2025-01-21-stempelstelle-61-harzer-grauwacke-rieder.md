@@ -4,7 +4,7 @@ title:  "Stempelstelle 61: Harzer Grauwacke Rieder"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/61-harzer-grauwacke-rieder.jpg
-description: "Stempelstelle 61: Harzer Grauwacke Rieder | Rieder"
+description: "HWN 61: Harzer Grauwacke Rieder | Rieder"
 comments: false
 imageshadow: true
 imageSource: '📷 [Harzer Grauwacke Rieder](https://commons.wikimedia.org/wiki/File:Harzer_Grauwacke_Rieder.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -29,7 +29,7 @@ Seit 1935 wird im Eulenbachtal Grauwacke abgebaut.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.713333%2C%2011.179444) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.713333%2C%2011.179444) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

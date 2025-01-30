@@ -4,7 +4,7 @@ title:  "Stempelstelle 191: Laubtalblick"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/191-laubtalblick.jpg
-description: "Stempelstelle 191: Laubtalblick | Friedrichsbrunn"
+description: "HWN 191: Laubtalblick | Friedrichsbrunn"
 comments: false
 imageshadow: true
 imageSource: '📷 [Laubtalblick](https://commons.wikimedia.org/wiki/File:Laubtalblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -24,7 +24,7 @@ Das Laubtal, durch das der Große Uhlenbach fließt, liegt zwischen Friedrichsbr
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67238%2C%2011.03650) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67238%2C%2011.03650) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

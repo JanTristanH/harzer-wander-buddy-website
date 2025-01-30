@@ -4,7 +4,7 @@ title:  "Stempelstelle 196: Bremer Teich"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/196-bremer-teich.jpg
-description: "Stempelstelle 196: Bremer Teich | Gernrode"
+description: "HWN 196: Bremer Teich | Gernrode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Bremer Teich](https://commons.wikimedia.org/wiki/File:Bremer_Teich.jpg) von User <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> at <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
@@ -33,7 +33,7 @@ Der Teich diente ursprünglich der Hirschjagd. Heute ist er ein beliebtes Naherh
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68493%2C%2011.11232) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.68493%2C%2011.11232) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

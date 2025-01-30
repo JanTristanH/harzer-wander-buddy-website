@@ -4,7 +4,7 @@ title:  "Stempelstelle 123: Gaststätte Rinderstall"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/123-gaststaette-rinderstall.jpg
-description: "Stempelstelle 123: Gaststätte Rinderstall | Sankt Andreasberg"
+description: "HWN 123: Gaststätte Rinderstall | Sankt Andreasberg"
 comments: false
 imageshadow: true
 imageSource: '📷 [Gaststätte Rinderstall](https://commons.wikimedia.org/wiki/File:Gastst%C3%A4tte_Rinderstall.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -25,7 +25,7 @@ Seit 1870 diente das Odertal als Sommerweide für die braunen Harzrinder. Der Ri
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71541%2C%2010.56131) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.71541%2C%2010.56131) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 

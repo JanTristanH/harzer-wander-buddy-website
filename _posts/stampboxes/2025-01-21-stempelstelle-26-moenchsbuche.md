@@ -4,7 +4,7 @@ title:  "Stempelstelle 26: Mönchsbuche"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/26-moenchsbuche.jpg
-description: "Stempelstelle 26: Mönchsbuche | Wernigerode"
+description: "HWN 26: Mönchsbuche | Wernigerode"
 comments: false
 imageshadow: true
 imageSource: '📷 [Mönchsbuche](https://commons.wikimedia.org/wiki/File:M%C3%B6nchsbuche.JPG) von Florian Hoffmann unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -24,7 +24,7 @@ Der Mönchsstieg diente als Verbindung zwischen den Klöstern Himmelpforte und I
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81783%2C%2010.70789) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.81783%2C%2010.70789) ist der Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
