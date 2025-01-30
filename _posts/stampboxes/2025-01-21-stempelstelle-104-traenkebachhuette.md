@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Tränkebachhütte](https://commons.wikimedia.org/wiki/File:Tr%C3%A4nkebachh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Tränkebachhütte liegt auf 560 m Höhe oberhalb von Seesen. Sie ist eine gepflegte Schutzhütte des Harzklub ZV Seesen. Bei klarem Wetter reicht der Blick bis ins Weserbergland. Neben der Hütte entspringt der Tränkebach. Die Hütte befindet sich am Steinway Trail, der von Wolfshagen nach Seesen führt. :contentReference[oaicite:0]{index=0}
+Die Tränkebachhütte liegt auf 560 m Höhe oberhalb von Seesen. Sie ist eine gepflegte Schutzhütte des Harzklub ZV Seesen. Bei klarem Wetter reicht der Blick bis ins Weserbergland. Neben der Hütte entspringt der Tränkebach. Die Hütte befindet sich am Steinway Trail, der von Wolfshagen nach Seesen führt. 
 
 #### Steinway Trail
 
-Der Steinway Trail erinnert an Heinrich Engelhard Steinweg, den Gründer von Steinway & Sons. Er wurde 1797 in Wolfshagen geboren und zog 1825 nach Seesen. Dort baute er Klaviere, bevor er 1850 nach New York auswanderte und die weltbekannte Firma gründete. :contentReference[oaicite:1]{index=1}
+Der Steinway Trail erinnert an Heinrich Engelhard Steinweg, den Gründer von Steinway & Sons. Er wurde 1797 in Wolfshagen geboren und zog 1825 nach Seesen. Dort baute er Klaviere, bevor er 1850 nach New York auswanderte und die weltbekannte Firma gründete. 
 
 #### Wanderwege zur Tränkebachhütte
 
-- **Parkplatz Sternplatz**: An der Straße von Lautenthal nach Seesen gelegen. Von hier führt ein beschilderter Forstweg zur Hütte. :contentReference[oaicite:2]{index=2}
-- **Parkplatz Neckelnberg**: Ebenfalls an der Straße von Lautenthal nach Seesen. Ein weiterer Ausgangspunkt für die Wanderung. :contentReference[oaicite:3]{index=3}
+- **Parkplatz Sternplatz**: An der Straße von Lautenthal nach Seesen gelegen. Von hier führt ein beschilderter Forstweg zur Hütte. 
+- **Parkplatz Neckelnberg**: Ebenfalls an der Straße von Lautenthal nach Seesen. Ein weiterer Ausgangspunkt für die Wanderung. 
 
 #### Anfahrt
 

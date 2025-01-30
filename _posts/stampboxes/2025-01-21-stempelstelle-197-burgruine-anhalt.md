@@ -14,11 +14,11 @@ Die Burgruine Anhalt liegt auf dem Großen Hausberg (397 m ü. NN) über dem Sel
 
 #### Historische Bedeutung
 
-Erbaut um 1123 von Otto dem Reichen, wurde die Burg 1140 zerstört und später von Albrecht dem Bären wiederaufgebaut. Sie war eine der größten Befestigungsanlagen im Harz. Heute sind noch Reste des Bergfrieds und der Burgkapelle erhalten. Ein Modell der Burg steht am Ballenstedter Schlossplatz. :contentReference[oaicite:0]{index=0}
+Erbaut um 1123 von Otto dem Reichen, wurde die Burg 1140 zerstört und später von Albrecht dem Bären wiederaufgebaut. Sie war eine der größten Befestigungsanlagen im Harz. Heute sind noch Reste des Bergfrieds und der Burgkapelle erhalten. Ein Modell der Burg steht am Ballenstedter Schlossplatz. 
 
 #### Wanderwege zur Burgruine Anhalt
 
-- **Selkemühle**: Nur 1 km Fußweg. Parken an der Selkemühle, dann überquert man die Selke und folgt dem beschilderten Hohlweg bergauf zur Ruine. :contentReference[oaicite:1]{index=1}
+- **Selkemühle**: Nur 1 km Fußweg. Parken an der Selkemühle, dann überquert man die Selke und folgt dem beschilderten Hohlweg bergauf zur Ruine. 
 
 - **Mägdesprung**: Ca. 6,2 km Wanderung. Start am Carlswerk, entlang der Selke zur Selkemühle und weiter zur Burgruine.
 

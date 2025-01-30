@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Kiliansteich 162154](https://commons.wikimedia.org/wiki/File:Kiliansteich_162154.jpg) von Sarkana unter Lizenz [FAL](http://artlibre.org/licence/lal/en)'
 ---
 
-Die Stempelstelle 211 der Harzer Wandernadel befindet sich am Erddamm der Vorsperre Kiliansteich bei Straßberg. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 211 der Harzer Wandernadel befindet sich am Erddamm der Vorsperre Kiliansteich bei Straßberg. 
 
 #### Historische Bedeutung
 
-Ursprünglich gab es hier eine Staukaskade mit vier Teichen, von denen einer bereits 1610 erwähnt wurde. Ab 1703 wurden weitere Teiche für den Bergbau angelegt. :contentReference[oaicite:1]{index=1}
+Ursprünglich gab es hier eine Staukaskade mit vier Teichen, von denen einer bereits 1610 erwähnt wurde. Ab 1703 wurden weitere Teiche für den Bergbau angelegt. 
 
 #### Wanderwege zu den Kiliansteichen
 
 - **Naturresort Schindelbruch**: Wanderweg vorbei am Frankenteich.
 - **Feriendorf Auerberg**: Route führt ebenfalls am Frankenteich entlang.
-- **Straßberg**: Durch das Rödelbachtal, vorbei am Maliniusteich, zu den Talsperren. :contentReference[oaicite:2]{index=2}
+- **Straßberg**: Durch das Rödelbachtal, vorbei am Maliniusteich, zu den Talsperren. 
 
 #### Anfahrt
 

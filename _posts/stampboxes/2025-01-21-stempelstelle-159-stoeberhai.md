@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Stöberhai](https://commons.wikimedia.org/wiki/File:St%C3%B6berhai.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der **Stöberhai** ist mit 720 m der höchste Berg im Südharz. Er liegt zwischen Wieda und der Odertalsperre. :contentReference[oaicite:0]{index=0}
+Der **Stöberhai** ist mit 720 m der höchste Berg im Südharz. Er liegt zwischen Wieda und der Odertalsperre. 
 
 #### Historische Bedeutung
 
-1872 entstand auf dem Gipfel das erste Wirtshaus. 1889 folgte das "Berghotel Stöberhai" mit Aussichtsturm. Von dort reichte der Blick bis zum Kyffhäuser und Thüringer Wald. :contentReference[oaicite:1]{index=1}
+1872 entstand auf dem Gipfel das erste Wirtshaus. 1889 folgte das "Berghotel Stöberhai" mit Aussichtsturm. Von dort reichte der Blick bis zum Kyffhäuser und Thüringer Wald. 
 
 #### Wanderwege zum Stöberhai
 
-- **Wieda**: Eine asphaltierte, für den öffentlichen Verkehr gesperrte Straße führt direkt zum Gipfel. :contentReference[oaicite:2]{index=2}
-- **Bad Lauterberg**: Wanderwege führen über die Odertalsperre zum Stöberhai. :contentReference[oaicite:3]{index=3}
-- **Odertalsperre**: Ein 8 km langer Weg mit etwa 300 Höhenmetern führt von der Talsperre zum Gipfel. :contentReference[oaicite:4]{index=4}
+- **Wieda**: Eine asphaltierte, für den öffentlichen Verkehr gesperrte Straße führt direkt zum Gipfel. 
+- **Bad Lauterberg**: Wanderwege führen über die Odertalsperre zum Stöberhai. 
+- **Odertalsperre**: Ein 8 km langer Weg mit etwa 300 Höhenmetern führt von der Talsperre zum Gipfel. 
 
 #### Anfahrt
 

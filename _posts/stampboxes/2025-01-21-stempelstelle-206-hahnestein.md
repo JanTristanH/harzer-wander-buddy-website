@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Hahnestein](https://commons.wikimedia.org/wiki/File:Hahnestein.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Hahnestein liegt bei Hohegeiß zwischen dem Wanderparkplatz „Bechlerstein“ und dem Hinteren Ebersberg (686 m ü. NN). :contentReference[oaicite:0]{index=0}
+Der Hahnestein liegt bei Hohegeiß zwischen dem Wanderparkplatz „Bechlerstein“ und dem Hinteren Ebersberg (686 m ü. NN). 
 
 #### Gedenkstein für Wilhelm Hahne
 
-Der Stein erinnert an Wilhelm Hahne (1865–1952), der 70 Jahre als Waldarbeiter tätig war. :contentReference[oaicite:1]{index=1}
+Der Stein erinnert an Wilhelm Hahne (1865–1952), der 70 Jahre als Waldarbeiter tätig war. 
 
 #### Wanderwege zum Hahnestein
 
 - **Startpunkt:** Waldparkplatz „Bechlerstein“
-  - **Route:** Über die Wolfsbachstraße, die Willibald-Ihmann-Köte und den Horizontalweg zum Hahnestein. :contentReference[oaicite:2]{index=2}
+  - **Route:** Über die Wolfsbachstraße, die Willibald-Ihmann-Köte und den Horizontalweg zum Hahnestein. 
 
-- **Alternative Route:** Vom Bechlerstein über die Wolfsbachstraße zu den Dicken Tannen (HWN 45). :contentReference[oaicite:3]{index=3}
+- **Alternative Route:** Vom Bechlerstein über die Wolfsbachstraße zu den Dicken Tannen (HWN 45). 
 
 #### Anfahrt
 

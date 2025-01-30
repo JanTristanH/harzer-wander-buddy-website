@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Kapellenfleck](https://commons.wikimedia.org/wiki/File:Kapellenfleck.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Kapellenfleck liegt zwischen Braunlage und Wieda am Kaiserweg. :contentReference[oaicite:0]{index=0}
+Der Kapellenfleck liegt zwischen Braunlage und Wieda am Kaiserweg. 
 
 #### Historischer Hintergrund
 
-1297 schenkte der Graf von Scharzfeld dem Kloster Walkenried eine Kapelle im Harzwald. :contentReference[oaicite:1]{index=1} Im 19. Jahrhundert wurden dort kirchenartige Grundrisse entdeckt, vermutlich Überreste dieser Kapelle. :contentReference[oaicite:2]{index=2}
+1297 schenkte der Graf von Scharzfeld dem Kloster Walkenried eine Kapelle im Harzwald.  Im 19. Jahrhundert wurden dort kirchenartige Grundrisse entdeckt, vermutlich Überreste dieser Kapelle. 
 
 #### Wanderwege zum Kapellenfleck
 
-- **Waldparkplatz "Lausebuche"**: Von der B27 unterhalb von Braunlage führt der Kaiserweg direkt zum Kapellenfleck und weiter nach Wieda. :contentReference[oaicite:3]{index=3}
+- **Waldparkplatz "Lausebuche"**: Von der B27 unterhalb von Braunlage führt der Kaiserweg direkt zum Kapellenfleck und weiter nach Wieda. 
 
 #### Anfahrt
 

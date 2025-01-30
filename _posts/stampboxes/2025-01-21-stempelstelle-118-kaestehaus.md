@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Kästehaus](https://commons.wikimedia.org/wiki/File:Kaestehaus.JPG) von <a href="https://de.wikipedia.org/wiki/Benutzer:kassandro" class="extiw" title="de:Benutzer:kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die Stempelstelle 118 der Harzer Wandernadel befindet sich am Kästehaus, nördlich von Goslar. Die Kästeklippe bietet einen fantastischen Blick über das Okertal. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 118 der Harzer Wandernadel befindet sich am Kästehaus, nördlich von Goslar. Die Kästeklippe bietet einen fantastischen Blick über das Okertal. 
 
 #### Der Alte vom Berge
 
-Eine markante Felsformation in der Nähe ist der "Alte vom Berge". Diese Granitformation ist ein Beispiel für die typische Wollsackverwitterung im Harz. :contentReference[oaicite:1]{index=1}
+Eine markante Felsformation in der Nähe ist der "Alte vom Berge". Diese Granitformation ist ein Beispiel für die typische Wollsackverwitterung im Harz. 
 
 #### Wanderwege zum Kästehaus
 
 - **Startpunkt:** Parkplatz Romkerhalle unterhalb der Okertalsperre.
-  - **Route:** Vom Romkerhaller Wasserfall über Feigenbaumklippe, Mausefalle und Hexenküche zum Kästehaus. Weiter zum Treppenstein (HWN 117). :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Romkerhaller Wasserfall über Feigenbaumklippe, Mausefalle und Hexenküche zum Kästehaus. Weiter zum Treppenstein (HWN 117). 
 
 #### Anfahrt
 

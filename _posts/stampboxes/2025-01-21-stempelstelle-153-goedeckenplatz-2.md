@@ -10,13 +10,13 @@ imageshadow: true
 imageSource: '📷 [Schadenbeeksköpfe](https://commons.wikimedia.org/wiki/File:Schadenbeeksk%C3%B6pfe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Goedeckenplatz ist eine Wegkreuzung zwischen Sankt Andreasberg und dem Großen Knollen. Er liegt unterhalb der Koboldstaler Köpfe auf 591 m ü. NN. Von hier bietet sich ein hervorragender Ausblick auf Sankt Andreasberg und das Siebertal. :contentReference[oaicite:0]{index=0}
+Der Goedeckenplatz ist eine Wegkreuzung zwischen Sankt Andreasberg und dem Großen Knollen. Er liegt unterhalb der Koboldstaler Köpfe auf 591 m ü. NN. Von hier bietet sich ein hervorragender Ausblick auf Sankt Andreasberg und das Siebertal. 
 
 #### Wanderwege zum Goedeckenplatz
 
 - **Bad Lauterberg**: Über das Luttertal zum Goedeckenplatz.
 - **Sieber**: Über den Gropenbornskopf.
-- **Sankt Andreasberg**: Über Silberhütte und Sieberberg. :contentReference[oaicite:1]{index=1}
+- **Sankt Andreasberg**: Über Silberhütte und Sieberberg. 
 
 #### Anfahrt
 

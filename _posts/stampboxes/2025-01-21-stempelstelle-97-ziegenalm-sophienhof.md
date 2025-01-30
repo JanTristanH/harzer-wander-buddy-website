@@ -3,11 +3,11 @@ layout: post
 title:  "Stempelstelle 97: Ziegenalm Sophienhof"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/97-ziegenalm-sophienhof.jpg
+image: assets/images/stampboxes/97-ziegenalm-sophienhof.webp
 description: "Stempelstelle 97: Ziegenalm Sophienhof | Harztor"
 comments: false
 imageshadow: true
-imageSource: '📷 [Ziegenalm](https://commons.wikimedia.org/wiki/File:Ziegenalm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
+imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 Die Ziegenalm Sophienhof liegt im idyllischen Ortsteil Sophienhof der Gemeinde Harztor im Südharz. Umgeben von Wäldern bietet der Hof artgerechte Tierhaltung mit Ziegen, Schafen, Schweinen und Rindern. Besucher können die Tiere beobachten und im Hofladen regionale Produkte erwerben. Die Almstube lädt zur Einkehr ein.

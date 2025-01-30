@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Bauerngraben im gefüllten Zustand](https://commons.wikimedia.org/wiki/File:Bauerngraben_im_gef%C3%BCllten_Zustand.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Bauerngraben liegt zwischen Questenberg und Breitungen. Er ist ein episodischer See, der sich füllt und entleert, je nach Zustand der unterirdischen Schlucklöcher. :contentReference[oaicite:0]{index=0}
+Der Bauerngraben liegt zwischen Questenberg und Breitungen. Er ist ein episodischer See, der sich füllt und entleert, je nach Zustand der unterirdischen Schlucklöcher. 
 
 #### Geologische Besonderheit
 
-Der See entsteht durch eine Bachschwinde des Glasebachs im Gipskarst. Durch Auslaugung hat sich eine markante weiße Steilwand gebildet. :contentReference[oaicite:1]{index=1}
+Der See entsteht durch eine Bachschwinde des Glasebachs im Gipskarst. Durch Auslaugung hat sich eine markante weiße Steilwand gebildet. 
 
 #### Wanderwege zum Bauerngraben
 
-- **Vom Parkplatz an der Straße Roßla–Agnesdorf**: Ein beschilderter Weg führt direkt zum See. :contentReference[oaicite:2]{index=2}
-- **Rundweg ab Dittichenrode**: Über den Karstwanderweg mit schönen Ausblicken. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz an der Straße Roßla–Agnesdorf**: Ein beschilderter Weg führt direkt zum See. 
+- **Rundweg ab Dittichenrode**: Über den Karstwanderweg mit schönen Ausblicken. 
 
 #### Anfahrt
 

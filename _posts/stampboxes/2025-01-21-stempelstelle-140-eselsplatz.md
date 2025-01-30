@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Eselsplatz](https://commons.wikimedia.org/wiki/File:Eselsplatz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Eselsplatz liegt am Harzer Hexenstieg auf dem "Hundscher Weg" zwischen Lerbach und der Sösetalsperre. :contentReference[oaicite:0]{index=0}
+Der Eselsplatz liegt am Harzer Hexenstieg auf dem "Hundscher Weg" zwischen Lerbach und der Sösetalsperre. 
 
 #### Historische Bedeutung
 
-Im 13. Jahrhundert entstand der "Hundscher Weg" als "Hauserweg". Er verband Osterode und Harzburg und diente als Heerstraße sowie als Versorgungs- und Erztransportweg. :contentReference[oaicite:1]{index=1}
+Im 13. Jahrhundert entstand der "Hundscher Weg" als "Hauserweg". Er verband Osterode und Harzburg und diente als Heerstraße sowie als Versorgungs- und Erztransportweg. 
 
 #### Wanderwege zum Eselsplatz
 
-- **Von Osterode**: Start an der "Bleichestelle", dem offiziellen Beginn des Harzer Hexenstiegs. Nach einem steilen Anstieg erreicht man nach ca. 3,5 km den Eselsplatz. :contentReference[oaicite:2]{index=2}
+- **Von Osterode**: Start an der "Bleichestelle", dem offiziellen Beginn des Harzer Hexenstiegs. Nach einem steilen Anstieg erreicht man nach ca. 3,5 km den Eselsplatz. 
 
-- **Vom Sösestaudamm**: Der kürzeste Weg führt steil durch den Wald entlang des Harzer Baudensteigs zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Vom Sösestaudamm**: Der kürzeste Weg führt steil durch den Wald entlang des Harzer Baudensteigs zur Stempelstelle. 
 
 #### Anfahrt
 

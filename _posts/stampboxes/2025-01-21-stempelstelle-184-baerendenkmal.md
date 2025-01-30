@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Bärendenkmal b. Bremer Teich](https://commons.wikimedia.org/wiki/File:B%C3%A4rendenkmal_b._Bremer_Teich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Das Bärendenkmal liegt auf dem Rambergmassiv zwischen Mägdesprung und Friedrichsbrunn, oberhalb des Krebsbachtals. Es markiert die Stelle, an der 1696 der letzte Bär in den anhaltischen Forsten erlegt wurde. :contentReference[oaicite:0]{index=0}
+Das Bärendenkmal liegt auf dem Rambergmassiv zwischen Mägdesprung und Friedrichsbrunn, oberhalb des Krebsbachtals. Es markiert die Stelle, an der 1696 der letzte Bär in den anhaltischen Forsten erlegt wurde. 
 
 #### Historische Bedeutung
 
-Der Gedenkstein besteht aus einem Findling mit einer gusseisernen Platte. Die Inschrift lautet: „Der letzte Bär in den Anhaltischen Forsten wurde hier Ende des siebzehnten Jahrhunderts erlegt.“ :contentReference[oaicite:1]{index=1}
+Der Gedenkstein besteht aus einem Findling mit einer gusseisernen Platte. Die Inschrift lautet: „Der letzte Bär in den Anhaltischen Forsten wurde hier Ende des siebzehnten Jahrhunderts erlegt.“ 
 
 #### Wanderwege zum Bärendenkmal
 
@@ -30,7 +30,7 @@ Mögliche Startpunkte und Entfernungen:
 - **Gernrode, Parkplatz Osterteich**: ca. 7,5 km
 - **Harzgerode, Parkplatz am Schloss**: ca. 8,3 km
 
-:contentReference[oaicite:2]{index=2}
+
 
 #### Anfahrt
 

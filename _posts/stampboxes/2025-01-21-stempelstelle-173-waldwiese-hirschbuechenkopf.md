@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Hirschbüchenkopf](https://commons.wikimedia.org/wiki/File:Hirschb%C3%BCchenkopf.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 173, **Waldwiese Hirschbüchenkopf**, liegt zwischen Güntersberge und Siptenfelde, unterhalb der Pension Waldoase und oberhalb des Selketalstiegs. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 173, **Waldwiese Hirschbüchenkopf**, liegt zwischen Güntersberge und Siptenfelde, unterhalb der Pension Waldoase und oberhalb des Selketalstiegs. 
 
 #### Historischer Hintergrund
 
-Bis Anfang der 1990er Jahre stand auf dem Gelände der Pension ein Förderturm als Versorgungsschacht für die Grube Straßberg. Die Verschlussplatte des ehemaligen Schachtes ist noch heute sichtbar. :contentReference[oaicite:1]{index=1}
+Bis Anfang der 1990er Jahre stand auf dem Gelände der Pension ein Förderturm als Versorgungsschacht für die Grube Straßberg. Die Verschlussplatte des ehemaligen Schachtes ist noch heute sichtbar. 
 
 #### Wanderwege zur Waldwiese Hirschbüchenkopf
 
-- **Von Siptenfelde**: Folge der Beschilderung „Wege deutscher Kaiser und Könige des Mittelalters im Harz“. Gehe am Zaun der Pension Waldoase vorbei zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Von Siptenfelde**: Folge der Beschilderung „Wege deutscher Kaiser und Könige des Mittelalters im Harz“. Gehe am Zaun der Pension Waldoase vorbei zur Stempelstelle. 
 
-- **Selketal-Stieg**: Die Stempelstelle liegt oberhalb dieses beliebten Wanderwegs. :contentReference[oaicite:3]{index=3}
+- **Selketal-Stieg**: Die Stempelstelle liegt oberhalb dieses beliebten Wanderwegs. 
 
 #### Anfahrt
 

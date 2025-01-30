@@ -10,13 +10,13 @@ imageshadow: true
 imageSource: '📷 [Bremer Teich](https://commons.wikimedia.org/wiki/File:Bremer_Teich.jpg) von User <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> at <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Bremer Teich liegt südwestlich von Gernrode, zwischen dem Sternhaus und der Viktorshöhe. :contentReference[oaicite:0]{index=0}
+Der Bremer Teich liegt südwestlich von Gernrode, zwischen dem Sternhaus und der Viktorshöhe. 
 
-Er wurde 1796 von den anhaltinischen Grafen als "Hirschteich" für die Jagd angelegt. Später erfolgte die Umbenennung in "Bremer Teich" zu Ehren des Ingenieurs Bremer. :contentReference[oaicite:1]{index=1}
+Er wurde 1796 von den anhaltinischen Grafen als "Hirschteich" für die Jagd angelegt. Später erfolgte die Umbenennung in "Bremer Teich" zu Ehren des Ingenieurs Bremer. 
 
 #### Historische Bedeutung
 
-Der Teich diente ursprünglich der Hirschjagd. Heute ist er ein beliebtes Naherholungsgebiet mit Campingplatz und Bademöglichkeiten. :contentReference[oaicite:2]{index=2}
+Der Teich diente ursprünglich der Hirschjagd. Heute ist er ein beliebtes Naherholungsgebiet mit Campingplatz und Bademöglichkeiten. 
 
 #### Wanderwege zum Bremer Teich
 
@@ -29,7 +29,7 @@ Der Teich diente ursprünglich der Hirschjagd. Heute ist er ein beliebtes Naherh
 - **Alexisbad, Parkplatz B185**: 5,5 km
 - **Harzgerode, Parkplatz am Schloss**: 7,7 km
 
-:contentReference[oaicite:3]{index=3}
+
 
 #### Anfahrt
 

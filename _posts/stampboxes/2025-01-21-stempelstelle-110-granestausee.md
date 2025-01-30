@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Granestausee](https://commons.wikimedia.org/wiki/File:Granestausee.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 110 der Harzer Wandernadel liegt am Granestausee, östlich von Goslar. Sie ist vom Parkplatz „Unter den Eichen“ im Stadtteil Steinberg gut erreichbar. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 110 der Harzer Wandernadel liegt am Granestausee, östlich von Goslar. Sie ist vom Parkplatz „Unter den Eichen“ im Stadtteil Steinberg gut erreichbar. 
 
 #### Granestausee
 
-Der Granestausee wurde 1969 fertiggestellt und dient der Trinkwasserversorgung. Er ist ein beliebtes Ziel für Wanderer und Naturliebhaber. :contentReference[oaicite:1]{index=1}
+Der Granestausee wurde 1969 fertiggestellt und dient der Trinkwasserversorgung. Er ist ein beliebtes Ziel für Wanderer und Naturliebhaber. 
 
 #### Wanderwege zum Granestausee
 
-- **Vom Parkplatz „Unter den Eichen“**: Kurzer Weg zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Kombination mit Stempelstelle 111**: Wanderung zum Steinbergturm und Einkehr in der Steinbergalm. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz „Unter den Eichen“**: Kurzer Weg zur Stempelstelle. 
+- **Kombination mit Stempelstelle 111**: Wanderung zum Steinbergturm und Einkehr in der Steinbergalm. 
 
 #### Anfahrt
 

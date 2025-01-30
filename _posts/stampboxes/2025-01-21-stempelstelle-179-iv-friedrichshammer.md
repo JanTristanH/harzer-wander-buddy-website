@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [IV Hammer](https://commons.wikimedia.org/wiki/File:IV_Hammer.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der IV. Friedrichshammer liegt im malerischen Selketal zwischen Mägdesprung und dem Pfadfinderzentrum. :contentReference[oaicite:0]{index=0}
+Der IV. Friedrichshammer liegt im malerischen Selketal zwischen Mägdesprung und dem Pfadfinderzentrum. 
 
 #### Historische Bedeutung
 
-1646 gründete Fürst Friedrich von Anhalt-Harzgerode eine Eisenhütte und errichtete entlang der Selke vier Hammerwerke: Friedrichshammer I bis IV. :contentReference[oaicite:1]{index=1}
+1646 gründete Fürst Friedrich von Anhalt-Harzgerode eine Eisenhütte und errichtete entlang der Selke vier Hammerwerke: Friedrichshammer I bis IV. 
 
 #### Wanderwege zum IV. Friedrichshammer
 
@@ -29,7 +29,7 @@ Mögliche Startpunkte:
 - **Sternhaus**: (ca. 5,6 km)
 - **Harzgerode**: Wanderparkplatz L235 (ca. 3,3 km)
 
-:contentReference[oaicite:2]{index=2}
+
 
 #### Anfahrt
 
@@ -51,4 +51,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Bremer Teich“ (HWN 196)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-196-bremer-teich/)
 - [**„Burgruine Anhalt“ (HWN 197)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-197-burgruine-anhalt/)
 
-:contentReference[oaicite:3]{index=3}
+

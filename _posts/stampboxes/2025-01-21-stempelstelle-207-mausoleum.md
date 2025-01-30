@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Mausoleum der Asseburg](https://commons.wikimedia.org/wiki/File:Mausoleum_der_Asseburg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Mausoleum der Grafen von Asseburg-Falkenstein liegt am Ortsrand von Meisdorf, nahe dem Schloss. Es ist eine neugotische Begräbnisstätte aus dem 19. Jahrhundert. :contentReference[oaicite:0]{index=0}
+Das Mausoleum der Grafen von Asseburg-Falkenstein liegt am Ortsrand von Meisdorf, nahe dem Schloss. Es ist eine neugotische Begräbnisstätte aus dem 19. Jahrhundert. 
 
 #### Historische Bedeutung
 
-Im 18. Jahrhundert besaß Achatz Ferdinand von der Asseburg sowohl Schloss Meisdorf als auch die nahegelegene Burg Falkenstein und ließ das Mausoleum erbauen. :contentReference[oaicite:1]{index=1}
+Im 18. Jahrhundert besaß Achatz Ferdinand von der Asseburg sowohl Schloss Meisdorf als auch die nahegelegene Burg Falkenstein und ließ das Mausoleum erbauen. 
 
 #### Wanderwege zum Mausoleum
 

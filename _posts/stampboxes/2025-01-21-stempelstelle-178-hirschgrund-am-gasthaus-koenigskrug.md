@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Königsruhe Gut](https://commons.wikimedia.org/wiki/File:K%C3%B6nigsruhe_Gut.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Stempelstelle 178 der Harzer Wandernadel befindet sich am Gasthaus Königsruhe im Bodetal zwischen Thale und Treseburg. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 178 der Harzer Wandernadel befindet sich am Gasthaus Königsruhe im Bodetal zwischen Thale und Treseburg. 
 
 #### Historische Bedeutung
 
-Das Bodetal gilt als bedeutendstes Felsental nördlich der Alpen und inspirierte Dichter wie Goethe und Heine. :contentReference[oaicite:1]{index=1}
+Das Bodetal gilt als bedeutendstes Felsental nördlich der Alpen und inspirierte Dichter wie Goethe und Heine. 
 
 #### Wanderwege zum Hirschgrund
 
-- **Von Thale**: Start am Parkplatz der Seilbahnen, entlang des Harzer-Hexen-Stiegs an der Bode entlang zum Gasthaus Königsruhe (ca. 2,1 km). :contentReference[oaicite:2]{index=2}
-- **Von Treseburg**: Beginn am Parkplatz am Kreisel, entlang der Bode zum Gasthaus (ca. 5,8 km). :contentReference[oaicite:3]{index=3}
+- **Von Thale**: Start am Parkplatz der Seilbahnen, entlang des Harzer-Hexen-Stiegs an der Bode entlang zum Gasthaus Königsruhe (ca. 2,1 km). 
+- **Von Treseburg**: Beginn am Parkplatz am Kreisel, entlang der Bode zum Gasthaus (ca. 5,8 km). 
 
 #### Anfahrt
 

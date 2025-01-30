@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [BismarckturmBallenstedt](https://commons.wikimedia.org/wiki/File:BismarckturmBallenstedt.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Bismarckturm steht südlich des Ballenstedter Ortsteils Opperode auf dem bewaldeten Stahlsberg (270,6 m ü. NN). Er bietet eine hervorragende Aussicht auf den nördlichen Vorharz. :contentReference[oaicite:0]{index=0}
+Der Bismarckturm steht südlich des Ballenstedter Ortsteils Opperode auf dem bewaldeten Stahlsberg (270,6 m ü. NN). Er bietet eine hervorragende Aussicht auf den nördlichen Vorharz. 
 
 #### Historische Bedeutung
 
-Die Grundsteinlegung erfolgte am 14. Juni 1914. Wegen des Ersten Weltkriegs wurden die Bauarbeiten unterbrochen und erst 1930–1931 abgeschlossen. Nach Verfall in der DDR-Zeit wurde der Turm 1994/1995 saniert und ist seitdem wieder zugänglich. :contentReference[oaicite:1]{index=1}
+Die Grundsteinlegung erfolgte am 14. Juni 1914. Wegen des Ersten Weltkriegs wurden die Bauarbeiten unterbrochen und erst 1930–1931 abgeschlossen. Nach Verfall in der DDR-Zeit wurde der Turm 1994/1995 saniert und ist seitdem wieder zugänglich. 
 
 #### Wanderwege zum Bismarckturm
 
@@ -22,7 +22,7 @@ Die Grundsteinlegung erfolgte am 14. Juni 1914. Wegen des Ersten Weltkriegs wurd
 - **Ballenstedt, Parkplatz Schloss**: Rundweg von 4,3 km.
 - **Ballenstedt, Wanderparkplatz Am Kohlenschacht**: Strecke von 1,5 km.
 - **Meisdorf, Parkplatz an der Allee**: Wanderung über 4,0 km.
-- **Selkemühle**: Längere Route von 8,3 km. :contentReference[oaicite:2]{index=2}
+- **Selkemühle**: Längere Route von 8,3 km. 
 
 #### Anfahrt
 

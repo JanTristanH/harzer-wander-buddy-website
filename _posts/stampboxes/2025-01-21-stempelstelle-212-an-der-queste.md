@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Questenberg2008](https://commons.wikimedia.org/wiki/File:Questenberg2008.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die Stempelstelle 212 der Harzer Wandernadel befindet sich an der "Queste" bei Questenberg. Die Queste ist ein altes Sonnensymbol auf einem Bergrücken südwestlich des Dorfes. Von hier bietet sich ein fantastischer Blick auf Questenberg und die umliegenden Täler. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 212 der Harzer Wandernadel befindet sich an der "Queste" bei Questenberg. Die Queste ist ein altes Sonnensymbol auf einem Bergrücken südwestlich des Dorfes. Von hier bietet sich ein fantastischer Blick auf Questenberg und die umliegenden Täler. 
 
 #### Die Queste
 
-Auf der Bergspitze steht ein Stamm mit einem eigentümlich gearbeiteten Kranz. Jährlich zu Pfingsten feiert der Ort hier das Questenfest, ein traditionelles Volksfest mit vermutlich heidnischen Wurzeln. :contentReference[oaicite:1]{index=1}
+Auf der Bergspitze steht ein Stamm mit einem eigentümlich gearbeiteten Kranz. Jährlich zu Pfingsten feiert der Ort hier das Questenfest, ein traditionelles Volksfest mit vermutlich heidnischen Wurzeln. 
 
 #### Wanderwege zur Queste
 
-Ein guter Startpunkt ist der Parkplatz am "Gasthaus zur Queste". Von dort folgt man dem Questensymbol. Am Aufstieg liegen die sogenannten "Gletschertöpfe", ehemalige Flussbetten der Nasse. :contentReference[oaicite:2]{index=2}
+Ein guter Startpunkt ist der Parkplatz am "Gasthaus zur Queste". Von dort folgt man dem Questensymbol. Am Aufstieg liegen die sogenannten "Gletschertöpfe", ehemalige Flussbetten der Nasse. 
 
 #### Anfahrt
 

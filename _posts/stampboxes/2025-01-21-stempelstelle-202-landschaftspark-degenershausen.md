@@ -14,7 +14,7 @@ Der Landschaftspark Degenershausen liegt bei Wieserode, einem Ortsteil von Falke
 
 #### Historischer Hintergrund
 
-1834 schenkte Amtsrat Johann Christian Degener das Gebiet seiner Tochter zur Hochzeit. Ein Jahr später entstanden das Herrenhaus und die Parkanlage. 1993 wurde der ursprüngliche Obelisk nach umfassender Sanierung wiedererrichtet. :contentReference[oaicite:0]{index=0}
+1834 schenkte Amtsrat Johann Christian Degener das Gebiet seiner Tochter zur Hochzeit. Ein Jahr später entstanden das Herrenhaus und die Parkanlage. 1993 wurde der ursprüngliche Obelisk nach umfassender Sanierung wiedererrichtet. 
 
 #### Wanderwege zum Landschaftspark Degenershausen
 

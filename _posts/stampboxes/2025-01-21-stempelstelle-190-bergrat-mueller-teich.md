@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Bergrat-Müller-Teich](https://commons.wikimedia.org/wiki/File:Bergrat-M%C3%BCller-Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">B.Thomas95</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Der Bergrat-Müller-Teich liegt nordwestlich von Friedrichsbrunn, nahe dem Ferienpark Merkelbach. :contentReference[oaicite:0]{index=0}
+Der Bergrat-Müller-Teich liegt nordwestlich von Friedrichsbrunn, nahe dem Ferienpark Merkelbach. 
 
 #### Historische Bedeutung
 
-Der Teich wurde 1737 bis 1738 von Bergrat Müller für den Bergbau angelegt. Das aufgestaute Wasser trieb Wasserräder an, die über ein Pumpengestänge die Grube Fürst Karl Wilhelm entwässerten. :contentReference[oaicite:1]{index=1}
+Der Teich wurde 1737 bis 1738 von Bergrat Müller für den Bergbau angelegt. Das aufgestaute Wasser trieb Wasserräder an, die über ein Pumpengestänge die Grube Fürst Karl Wilhelm entwässerten. 
 
 #### Wanderwege zum Bergrat-Müller-Teich
 
 - **Friedrichsbrunn**: Kurzer Weg von etwa 2,2 km.
 - **Alexisbad**: Rund 6,6 km lange Strecke.
 - **Güntersberge**: Etwa 8,8 km Wanderung.
-- **Gasthaus Sternhaus Ramberg**: Ungefähr 5,5 km entfernt. :contentReference[oaicite:2]{index=2}
+- **Gasthaus Sternhaus Ramberg**: Ungefähr 5,5 km entfernt. 
 
 #### Anfahrt
 

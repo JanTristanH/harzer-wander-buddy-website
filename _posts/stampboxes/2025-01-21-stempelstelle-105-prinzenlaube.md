@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [Prinzenlaube](https://commons.wikimedia.org/wiki/File:Prinzenlaube.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Prinzenlaube steht auf der Ernst-August-Höhe bei Wildemann im Harz. Sie liegt auf 558 Metern Höhe und bietet einen herrlichen Blick auf die Bergstadt Wildemann. Heute befindet sich dort eine Wanderhütte des Harzklub-Zweigvereins Wildemann, die einer Köhlerhütte nachempfunden ist. :contentReference[oaicite:0]{index=0}
+Die Prinzenlaube steht auf der Ernst-August-Höhe bei Wildemann im Harz. Sie liegt auf 558 Metern Höhe und bietet einen herrlichen Blick auf die Bergstadt Wildemann. Heute befindet sich dort eine Wanderhütte des Harzklub-Zweigvereins Wildemann, die einer Köhlerhütte nachempfunden ist. 
 
 #### Historische Bedeutung
 
-Im November 1814 besuchte Prinz Adolph von Hannover die Stelle, genoss die Aussicht und wurde in einer Laube bewirtet. 1839 erhielt das Gebäude anlässlich des Besuchs von König Ernst-August II. das Aussehen einer "Jägerei". Zu Ehren des Königs wurde der Berg in "Ernst-August-Höhe" umbenannt. :contentReference[oaicite:1]{index=1}
+Im November 1814 besuchte Prinz Adolph von Hannover die Stelle, genoss die Aussicht und wurde in einer Laube bewirtet. 1839 erhielt das Gebäude anlässlich des Besuchs von König Ernst-August II. das Aussehen einer "Jägerei". Zu Ehren des Königs wurde der Berg in "Ernst-August-Höhe" umbenannt. 
 
 #### Wanderwege zur Prinzenlaube
 
-- **Ernst-August-Stieg**: Von Wildemann führt der ausgeschilderte "Ernst-August-Stieg" direkt zur Prinzenlaube. :contentReference[oaicite:2]{index=2}
+- **Ernst-August-Stieg**: Von Wildemann führt der ausgeschilderte "Ernst-August-Stieg" direkt zur Prinzenlaube. 
 
-- **Spiegeltal-Weg**: Ein Wanderweg durch das Spiegeltal mit Anschluss nach Clausthal-Zellerfeld. :contentReference[oaicite:3]{index=3}
+- **Spiegeltal-Weg**: Ein Wanderweg durch das Spiegeltal mit Anschluss nach Clausthal-Zellerfeld. 
 
-- **Adlersberg-Route**: Ein Weg am westlichen Adlersberg entlang bis nach Lautenthal. :contentReference[oaicite:4]{index=4}
+- **Adlersberg-Route**: Ein Weg am westlichen Adlersberg entlang bis nach Lautenthal. 
 
 #### Anfahrt
 

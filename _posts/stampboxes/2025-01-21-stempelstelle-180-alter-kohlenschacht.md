@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Stempelstelle 180 HWN](https://commons.wikimedia.org/wiki/File:Stempelstelle_180_HWN.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der **Alte Kohlenschacht** liegt etwa 1 km südlich von Opperode, einem Ortsteil von Ballenstedt in Sachsen-Anhalt. Heute befindet sich hier die Stempelstelle 180 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Der **Alte Kohlenschacht** liegt etwa 1 km südlich von Opperode, einem Ortsteil von Ballenstedt in Sachsen-Anhalt. Heute befindet sich hier die Stempelstelle 180 der Harzer Wandernadel. 
 
 #### Historischer Hintergrund
 
-Bereits 1557 wurde im Amt Ballenstedt ein Steinkohlebergwerk betrieben. 1584 erhielt der Münzmeister Daniel Stumpfeld ein Privileg zur Veredelung von Steinkohle – eines der ersten Patente dieser Art. :contentReference[oaicite:1]{index=1}
+Bereits 1557 wurde im Amt Ballenstedt ein Steinkohlebergwerk betrieben. 1584 erhielt der Münzmeister Daniel Stumpfeld ein Privileg zur Veredelung von Steinkohle – eines der ersten Patente dieser Art. 
 
 #### Wanderwege zum Alten Kohlenschacht
 
@@ -22,7 +22,7 @@ Bereits 1557 wurde im Amt Ballenstedt ein Steinkohlebergwerk betrieben. 1584 erh
 - **Parkplatz Schloss Ballenstedt**: Etwa 3,4 km entfernt.
 - **Opperode, Stahlsberg**: Rund 1 km Entfernung.
 - **Meisdorf, Parkplatz an der Allee**: Ungefähr 3,1 km entfernt.
-- **Selkemühle**: Ca. 7,3 km Entfernung. :contentReference[oaicite:2]{index=2}
+- **Selkemühle**: Ca. 7,3 km Entfernung. 
 
 #### Anfahrt
 

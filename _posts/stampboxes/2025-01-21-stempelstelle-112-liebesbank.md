@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Liebesbank bei Hahnenklee](https://commons.wikimedia.org/wiki/File:Liebesbank_bei_Hahnenklee.JPG) von <a href="https://de.wikipedia.org/wiki/Benutzer:JuTe_CLZ" class="extiw" title="de:Benutzer:JuTe CLZ">JuTe CLZ</a> unter Lizenz Copyrighted free use'
 ---
 
-Die Stempelstelle 112, bekannt als die Liebesbank, liegt am malerischen Liebesbankweg in Hahnenklee-Bockswiese. Auf dem sieben Kilometer langen Rundweg begegnen Wanderer zahlreichen kunstvoll gestalteten Bänken und Skulpturen, die verschiedene Phasen des Lebens symbolisieren. Vom Parkplatz an der Stabkirche in Hahnenklee erreicht man den Stempelkasten am Weg unterhalb der Liebesbank. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 112, bekannt als die Liebesbank, liegt am malerischen Liebesbankweg in Hahnenklee-Bockswiese. Auf dem sieben Kilometer langen Rundweg begegnen Wanderer zahlreichen kunstvoll gestalteten Bänken und Skulpturen, die verschiedene Phasen des Lebens symbolisieren. Vom Parkplatz an der Stabkirche in Hahnenklee erreicht man den Stempelkasten am Weg unterhalb der Liebesbank. 
 
 #### Historische Bedeutung der Liebesbank
 
-Die Liebesbank ist ein Highlight des Liebesbankwegs und steht symbolisch für die verschiedenen Phasen des Lebens und der Liebe. Entlang des Weges finden sich zahlreiche thematisch gestaltete Bänke und Kunstwerke, die die Besucher auf eine Reise durch die Stadien des Lebens mitnehmen. :contentReference[oaicite:1]{index=1}
+Die Liebesbank ist ein Highlight des Liebesbankwegs und steht symbolisch für die verschiedenen Phasen des Lebens und der Liebe. Entlang des Weges finden sich zahlreiche thematisch gestaltete Bänke und Kunstwerke, die die Besucher auf eine Reise durch die Stadien des Lebens mitnehmen. 
 
 #### Wanderwege zur Liebesbank
 
 - **Startpunkt:** Parkplatz an der Stabkirche in Hahnenklee
-  - **Route:** Vom Parkplatz führt der Weg direkt zum Liebesbankweg. Der Rundweg ist etwa sieben Kilometer lang und führt an der Stempelstelle 112 vorbei. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Parkplatz führt der Weg direkt zum Liebesbankweg. Der Rundweg ist etwa sieben Kilometer lang und führt an der Stempelstelle 112 vorbei. 
 
 #### Anfahrt
 

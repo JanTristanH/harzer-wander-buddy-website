@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [ElfensteinHarz](https://commons.wikimedia.org/wiki/File:ElfensteinHarz.jpg) von <a href="//commons.wikimedia.org/wiki/User:BRFBlake" title="User:BRFBlake">BRFBlake</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Der Elfenstein ist eine markante Felsformation am Stadtrand von Bad Harzburg, in der sogenannten Elfenecke. Über in den Fels gehauene Stufen kann man den Gipfel erklimmen und einen schönen Blick auf Bad Harzburg und das Harzvorland genießen. :contentReference[oaicite:0]{index=0}
+Der Elfenstein ist eine markante Felsformation am Stadtrand von Bad Harzburg, in der sogenannten Elfenecke. Über in den Fels gehauene Stufen kann man den Gipfel erklimmen und einen schönen Blick auf Bad Harzburg und das Harzvorland genießen. 
 
 #### Historische Bedeutung
 
-Im Mittelalter galt der Elfenstein als Wohnstätte von Elfen oder anderen Lichtwesen. :contentReference[oaicite:1]{index=1}
+Im Mittelalter galt der Elfenstein als Wohnstätte von Elfen oder anderen Lichtwesen. 
 
 #### Wanderwege zum Elfenstein
 
 - **Startpunkt:** Café Winuwuk
-  - **Route:** Vom Café auf die Waldstraße, dann über die Straße "Am Elfenstein" auf den Wanderweg 50C, der steil zum Elfenstein führt. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Café auf die Waldstraße, dann über die Straße "Am Elfenstein" auf den Wanderweg 50C, der steil zum Elfenstein führt. 
 
 #### Anfahrt
 

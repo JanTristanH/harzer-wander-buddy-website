@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Philippsgruß](https://commons.wikimedia.org/wiki/File:Philippsgru%C3%9F.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Schutzhütte "Philippsgruß" liegt nordwestlich von Bad Sachsa auf dem Katzenstein, nahe dem Ravensberg (660 m ü. NN). Ein Stammgast des Kurortes ließ den Pavillon errichten, um den weiten Ausblick bis zum Kyffhäuser zu genießen. :contentReference[oaicite:0]{index=0}
+Die Schutzhütte "Philippsgruß" liegt nordwestlich von Bad Sachsa auf dem Katzenstein, nahe dem Ravensberg (660 m ü. NN). Ein Stammgast des Kurortes ließ den Pavillon errichten, um den weiten Ausblick bis zum Kyffhäuser zu genießen. 
 
 #### Märchengrund und Harzfalkenhof
 
-Unterhalb des Phillippsgruß befindet sich der älteste Märchenpark Deutschlands, der seit 1910 besteht. Hier werden Märchenszenen mit Naturmaterialien dargestellt. :contentReference[oaicite:1]{index=1}
+Unterhalb des Phillippsgruß befindet sich der älteste Märchenpark Deutschlands, der seit 1910 besteht. Hier werden Märchenszenen mit Naturmaterialien dargestellt. 
 
-In der Nähe liegt der 1964 gegründete Harzfalkenhof Bad Sachsa. Er widmet sich dem Greifvogelschutz und beherbergt etwa 80 Greifvögel wie Adler, Geier, Falken und Eulen. Die Flugvorführungen sind beeindruckend. :contentReference[oaicite:2]{index=2}
+In der Nähe liegt der 1964 gegründete Harzfalkenhof Bad Sachsa. Er widmet sich dem Greifvogelschutz und beherbergt etwa 80 Greifvögel wie Adler, Geier, Falken und Eulen. Die Flugvorführungen sind beeindruckend. 
 
 #### Wanderwege zur Schutzhütte Phillippsgruß
 
-- **Bad Sachsa**: Vom Vitalpark über den Ede-Baller-Weg zur Schutzhütte. :contentReference[oaicite:3]{index=3}
-- **Ravensberg**: Vom Gipfel über die Käthe-Schulken-Hütte und den Ede-Baller-Weg zum Phillippsgruß. :contentReference[oaicite:4]{index=4}
+- **Bad Sachsa**: Vom Vitalpark über den Ede-Baller-Weg zur Schutzhütte. 
+- **Ravensberg**: Vom Gipfel über die Käthe-Schulken-Hütte und den Ede-Baller-Weg zum Phillippsgruß. 
 
 #### Anfahrt
 

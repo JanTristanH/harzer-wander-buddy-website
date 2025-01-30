@@ -10,13 +10,13 @@ imageshadow: true
 imageSource: '📷 [Eleonorenblick](https://commons.wikimedia.org/wiki/File:Eleonorenblick.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Eleonorenblick (Stempelstelle 147) ist ein malerischer Rastplatz mit Schutzhütte und bietet eine herrliche Aussicht auf Riefensbeek, Kamschlacken und den Sösestausee. :contentReference[oaicite:0]{index=0}
+Der Eleonorenblick (Stempelstelle 147) ist ein malerischer Rastplatz mit Schutzhütte und bietet eine herrliche Aussicht auf Riefensbeek, Kamschlacken und den Sösestausee. 
 
 #### Wanderwege zum Eleonorenblick
 
-- **Vom Parkplatz Kohlungsplatz in Riefensbeek**: Über den Eleonorenweg erreicht man den Aussichtspunkt schnell. :contentReference[oaicite:1]{index=1}
+- **Vom Parkplatz Kohlungsplatz in Riefensbeek**: Über den Eleonorenweg erreicht man den Aussichtspunkt schnell. 
 
-- **BaudenSteig Rundweg Nr. 3**: Eine Tageswanderung führt von Riefensbeek zur Hanskühnenburg und zurück entlang des Morgenbrodstaler Grabens. :contentReference[oaicite:2]{index=2}
+- **BaudenSteig Rundweg Nr. 3**: Eine Tageswanderung führt von Riefensbeek zur Hanskühnenburg und zurück entlang des Morgenbrodstaler Grabens. 
 
 #### Anfahrt
 

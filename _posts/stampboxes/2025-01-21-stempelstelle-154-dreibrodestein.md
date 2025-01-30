@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Dreibrodesteine bei Sankt Andreasberg](https://commons.wikimedia.org/wiki/File:Dreibrodesteine_bei_Sankt_Andreasberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:Ogmios" title="User:Ogmios">Ogmios</a> unter Lizenz [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)'
 ---
 
-Die Dreibrodesteine sind drei große Granitblöcke zwischen Sankt Andreasberg und Sonnenberg. Sie entstanden durch Wollsackverwitterung. :contentReference[oaicite:0]{index=0}
+Die Dreibrodesteine sind drei große Granitblöcke zwischen Sankt Andreasberg und Sonnenberg. Sie entstanden durch Wollsackverwitterung. 
 
 #### Sage der Dreibrodesteine
 
-Einer Legende nach verwandelten sich drei Brote einer hartherzigen Frau in diese Steine, weil sie einem hungrigen Bergmann nicht helfen wollte. :contentReference[oaicite:1]{index=1}
+Einer Legende nach verwandelten sich drei Brote einer hartherzigen Frau in diese Steine, weil sie einem hungrigen Bergmann nicht helfen wollte. 
 
 #### Wanderwege zum Dreibrodestein
 
-- **Parkplatz Dreibrodesteine**: Nur 1 km Fußweg zum Naturdenkmal. :contentReference[oaicite:2]{index=2}
+- **Parkplatz Dreibrodesteine**: Nur 1 km Fußweg zum Naturdenkmal. 
 - **Oderteich, Wanderparkplatz**: Etwa 6,4 km entfernt.
-- **Sonnenberg, Parkplatz B242**: Ungefähr 6,5 km entfernt. :contentReference[oaicite:3]{index=3}
+- **Sonnenberg, Parkplatz B242**: Ungefähr 6,5 km entfernt. 
 
 #### Anfahrt
 

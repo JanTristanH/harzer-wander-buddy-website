@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Stempelstelle 128 klein](https://commons.wikimedia.org/wiki/File:Stempelsstelle_128_klein.jpg) von <a href="//commons.wikimedia.org/w/index.php?title=User:Frank_Hebestreit&amp;action=edit&amp;redlink=1" class="new" title="User:Frank Hebestreit (page does not exist)">Frank Hebestreit</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Huttaler Widerwaage liegt im Huttal, östlich von Clausthal-Zellerfeld. Sie ist Teil des Oberharzer Wasserregals und wurde zwischen 1763 und 1776 erbaut. Das Bauwerk reguliert den Wasserfluss zwischen dem Huttal und dem Hirschler Teich. :contentReference[oaicite:0]{index=0}
+Die Huttaler Widerwaage liegt im Huttal, östlich von Clausthal-Zellerfeld. Sie ist Teil des Oberharzer Wasserregals und wurde zwischen 1763 und 1776 erbaut. Das Bauwerk reguliert den Wasserfluss zwischen dem Huttal und dem Hirschler Teich. 
 
 #### Historische Bedeutung
 
-Als Widerwaage bezeichnet man ein kleines angestautes Becken. Hier wird Wasser durch ein hölzernes Wehr, den sogenannten Fehlschlag, gestaut. Bei Niedrigwasser leitet die Anlage Wasser zum Hirschler Teich. Bei Hochwasser kann das Wehr geöffnet werden, sodass Wasser zurück ins Huttal fließt. :contentReference[oaicite:1]{index=1}
+Als Widerwaage bezeichnet man ein kleines angestautes Becken. Hier wird Wasser durch ein hölzernes Wehr, den sogenannten Fehlschlag, gestaut. Bei Niedrigwasser leitet die Anlage Wasser zum Hirschler Teich. Bei Hochwasser kann das Wehr geöffnet werden, sodass Wasser zurück ins Huttal fließt. 
 
 #### Wanderwege zur Huttaler Widerwaage
 
-- **Parkplatz Entensumpf**: Von hier führt ein gut ausgeschilderter Weg direkt zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Wanderung vom Hirschler Teich**: Entlang der Pfauenteiche erreicht man die Huttaler Widerwaage. :contentReference[oaicite:3]{index=3}
+- **Parkplatz Entensumpf**: Von hier führt ein gut ausgeschilderter Weg direkt zur Stempelstelle. 
+- **Wanderung vom Hirschler Teich**: Entlang der Pfauenteiche erreicht man die Huttaler Widerwaage. 
 
 #### Anfahrt
 

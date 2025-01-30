@@ -14,14 +14,14 @@ Das Kreuz des deutschen Ostens steht auf den Uhlenklippen südöstlich von Bad H
 
 #### Historische Bedeutung
 
-1950 wurde das erste Kreuz auf Initiative von Franz Kettmann errichtet. Es diente als Mahnmal für die verlorenen Ostgebiete und wurde zum Wahrzeichen von Bad Harzburg. 1998 zerstörte ein Orkan das Kreuz. Zwei Jahre später wurde es neu aufgebaut und am 30. September 2000 eingeweiht. :contentReference[oaicite:0]{index=0}
+1950 wurde das erste Kreuz auf Initiative von Franz Kettmann errichtet. Es diente als Mahnmal für die verlorenen Ostgebiete und wurde zum Wahrzeichen von Bad Harzburg. 1998 zerstörte ein Orkan das Kreuz. Zwei Jahre später wurde es neu aufgebaut und am 30. September 2000 eingeweiht. 
 
 #### Wanderwege zum Kreuz des deutschen Ostens
 
 - **Startpunkt:** Großparkplatz Bad Harzburg an der B4 Richtung Torfhaus.
-  - **Route:** Vom Parkplatz führt ein beschilderter Weg zum Burgberg. Von dort gelangt man über den mittleren Weg, markiert mit rotem Dreieck und einer 2 im weißen Kreis, zum Kreuz. :contentReference[oaicite:1]{index=1}
+  - **Route:** Vom Parkplatz führt ein beschilderter Weg zum Burgberg. Von dort gelangt man über den mittleren Weg, markiert mit rotem Dreieck und einer 2 im weißen Kreis, zum Kreuz. 
 
-- **Alternative Route:** Mit der Seilbahn auf den Burgberg und von der Bergstation über breite Wanderwege zum Kreuz. :contentReference[oaicite:2]{index=2}
+- **Alternative Route:** Mit der Seilbahn auf den Burgberg und von der Bergstation über breite Wanderwege zum Kreuz. 
 
 #### Anfahrt
 

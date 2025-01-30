@@ -14,13 +14,13 @@ Der Laubtalblick ist ein idyllischer Rastplatz nahe Friedrichsbrunn im Landkreis
 
 #### Historischer Hintergrund
 
-Das Laubtal, durch das der Große Uhlenbach fließt, liegt zwischen Friedrichsbrunn und dem Forsthaus Uhlenstein. Der heutige Friedrichsbrunnen war einst ein beliebter Rastplatz an der alten Reichsstraße Quedlinburg–Nordhausen. 1754 pausierte hier König Friedrich II. auf einer Inspektionsreise. Später entstand der Ort Friedrichsbrunn, benannt nach dem König. :contentReference[oaicite:0]{index=0}
+Das Laubtal, durch das der Große Uhlenbach fließt, liegt zwischen Friedrichsbrunn und dem Forsthaus Uhlenstein. Der heutige Friedrichsbrunnen war einst ein beliebter Rastplatz an der alten Reichsstraße Quedlinburg–Nordhausen. 1754 pausierte hier König Friedrich II. auf einer Inspektionsreise. Später entstand der Ort Friedrichsbrunn, benannt nach dem König. 
 
 #### Wanderwege zum Laubtalblick
 
-- **Ab Friedrichsbrunn**: Vom Wanderparkplatz am Ortsausgang Richtung Güntersberge führt ein beschilderter Weg über die Trollblumenwiese entlang des Großen Uhlenbachs zur Stempelstelle. :contentReference[oaicite:1]{index=1}
+- **Ab Friedrichsbrunn**: Vom Wanderparkplatz am Ortsausgang Richtung Güntersberge führt ein beschilderter Weg über die Trollblumenwiese entlang des Großen Uhlenbachs zur Stempelstelle. 
 
-- **Ab Bad Suderode**: Vom großen Parkplatz am Ortsausgang führt der Weg Richtung Zentrum zur Kirche. Von dort den Schildern zum Gondelteich folgen und über die Uhleneiche zum Laubtalblick wandern. :contentReference[oaicite:2]{index=2}
+- **Ab Bad Suderode**: Vom großen Parkplatz am Ortsausgang führt der Weg Richtung Zentrum zur Kirche. Von dort den Schildern zum Gondelteich folgen und über die Uhleneiche zum Laubtalblick wandern. 
 
 #### Anfahrt
 

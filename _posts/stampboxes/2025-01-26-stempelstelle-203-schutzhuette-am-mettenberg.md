@@ -31,7 +31,22 @@ Die Schutzhütte selbst bietet eine einfache, aber zweckmäßige Rastmöglichkei
 
 Ob für Naturliebhaber, Wanderer oder Radfahrer – das Selketal rund um die Schutzhütte am Mettenberg bietet Erholung in einer beeindruckenden Landschaft, fernab vom Straßenverkehr.
 
+![Schutzhütte am Mettenberg](/assets/images/stampboxes/203-schutzhuette-am-mettenberg.jpg "HWN 203 - Schutzhütte am Mettenberg")
+>📷 [Schutzhütte am Mettenberg](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_am_Mettenberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
 #### Anfahrt
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.67912%2C%2011.23257) ist der Stempel in Google Maps zu finden.
 
+<div class="android-only">
+  Auf einem Handy kannst du auch diesen 
+  <a href="geo:51.67912,11.23257">🗺️ Link</a> 
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
+</div>
+
+#### Stempel in der Nähe
+
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
+- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)

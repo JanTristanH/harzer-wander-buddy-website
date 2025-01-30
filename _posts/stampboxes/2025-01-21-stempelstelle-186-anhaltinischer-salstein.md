@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Anhaltinischer Saalstein](https://commons.wikimedia.org/wiki/File:Anhaltinischer_Saalstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Anhaltinische Saalstein ist eine markante Felsklippe im Naturschutzgebiet, etwa 3 km südlich von Bad Suderode. :contentReference[oaicite:0]{index=0}
+Der Anhaltinische Saalstein ist eine markante Felsklippe im Naturschutzgebiet, etwa 3 km südlich von Bad Suderode. 
 
 #### Historische Bedeutung
 
-Bis 1918 markierte der Saalstein die Grenze zwischen dem Herzogtum Anhalt und dem Königreich Preußen. :contentReference[oaicite:1]{index=1}
+Bis 1918 markierte der Saalstein die Grenze zwischen dem Herzogtum Anhalt und dem Königreich Preußen. 
 
 #### Wanderwege zum Anhaltinischen Saalstein
 
-- **Bad Suderode**: Vom Parkplatz unterhalb des Sportplatzes führt der Weg vorbei am Felsenkeller und der Lessinghöhle zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Gernrode**: Start am Osterteich-Parkplatz, etwa 4,7 km zur Stempelstelle. :contentReference[oaicite:3]{index=3}
-- **Friedrichsbrunn**: Vom Parkplatz "Am Ramberg" ca. 6 km Wanderung. :contentReference[oaicite:4]{index=4}
+- **Bad Suderode**: Vom Parkplatz unterhalb des Sportplatzes führt der Weg vorbei am Felsenkeller und der Lessinghöhle zur Stempelstelle. 
+- **Gernrode**: Start am Osterteich-Parkplatz, etwa 4,7 km zur Stempelstelle. 
+- **Friedrichsbrunn**: Vom Parkplatz "Am Ramberg" ca. 6 km Wanderung. 
 
 #### Anfahrt
 

@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Fotothek df ld 0003066 001 Landschaften ^ Hügellandschaften - Gebirgslandschaften](https://commons.wikimedia.org/wiki/File:Fotothek_df_ld_0003066_001_Landschaften_%5E_H%C3%BCgellandschaften_-_Gebirgslandschafte.jpg) von <bdi><a href="https://en.wikipedia.org/wiki/de:Richard_Peter" class="extiw" title="w:de:Richard Peter"><span title="deutscher Fotojournalist">Richard Peter</span></a></bdi> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
 ---
 
-Die Teufelsmauer bei Weddersleben ist eine beeindruckende Felsformation im nördlichen Harzvorland. Sie erstreckt sich über zwei Kilometer von Weddersleben bis Warnstedt. Markante Abschnitte sind der Königstein, die Mittelsteine und die Papensteine. Die Stempelstelle 188 der Harzer Wandernadel befindet sich hier. :contentReference[oaicite:0]{index=0}
+Die Teufelsmauer bei Weddersleben ist eine beeindruckende Felsformation im nördlichen Harzvorland. Sie erstreckt sich über zwei Kilometer von Weddersleben bis Warnstedt. Markante Abschnitte sind der Königstein, die Mittelsteine und die Papensteine. Die Stempelstelle 188 der Harzer Wandernadel befindet sich hier. 
 
 #### Geologie und Geschichte
 
-Die Teufelsmauer besteht aus harten Sandsteinen der oberen Kreidezeit. Ihre ungewöhnlichen Formen haben zahlreiche Sagen inspiriert. Bereits Johann Wolfgang von Goethe besuchte 1784 diese beeindruckende Felsformation. :contentReference[oaicite:1]{index=1}
+Die Teufelsmauer besteht aus harten Sandsteinen der oberen Kreidezeit. Ihre ungewöhnlichen Formen haben zahlreiche Sagen inspiriert. Bereits Johann Wolfgang von Goethe besuchte 1784 diese beeindruckende Felsformation. 
 
 #### Wanderwege zur Teufelsmauer Weddersleben
 
-- **Startpunkt Weddersleben**: Vom Parkplatz "Teufelsmauer" führt ein beschilderter Pfad entlang der Bode direkt zur Stempelstelle. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Weddersleben**: Vom Parkplatz "Teufelsmauer" führt ein beschilderter Pfad entlang der Bode direkt zur Stempelstelle. 
 
-- **Startpunkt Neinstedt**: Über die barrierefreie Marienbrücke gelangt man zum Marienhof mit Hofladen und Hofcafé. :contentReference[oaicite:3]{index=3}
+- **Startpunkt Neinstedt**: Über die barrierefreie Marienbrücke gelangt man zum Marienhof mit Hofladen und Hofcafé. 
 
 #### Anfahrt
 

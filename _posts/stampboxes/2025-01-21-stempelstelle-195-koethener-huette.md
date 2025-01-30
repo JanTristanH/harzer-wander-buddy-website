@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Köthener Hütte](https://commons.wikimedia.org/wiki/File:K%C3%B6thener_H%C3%BCtte.JPG) von F. Hoffmann unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Köthener Hütte liegt zwischen Alexisbad und Mägdesprung auf dem Kapellenfelsen (385 m ü. NN) direkt am Selketalstieg. Sie wurde 1897 vom Harzklub Zweigverein Köthen erbaut und erinnert mit ihrem weißen Anstrich und dem kleinen Glockenturm an eine Kapelle. Von hier bietet sich ein schöner Blick ins Selketal und auf das Rambergmassiv. :contentReference[oaicite:0]{index=0}
+Die Köthener Hütte liegt zwischen Alexisbad und Mägdesprung auf dem Kapellenfelsen (385 m ü. NN) direkt am Selketalstieg. Sie wurde 1897 vom Harzklub Zweigverein Köthen erbaut und erinnert mit ihrem weißen Anstrich und dem kleinen Glockenturm an eine Kapelle. Von hier bietet sich ein schöner Blick ins Selketal und auf das Rambergmassiv. 
 
 #### Historische Bedeutung
 
-Die Hütte wurde vom Harzklub Zweigverein Köthen errichtet und dient seitdem Wanderern als Schutzhütte. :contentReference[oaicite:1]{index=1}
+Die Hütte wurde vom Harzklub Zweigverein Köthen errichtet und dient seitdem Wanderern als Schutzhütte. 
 
 #### Wanderwege zur Köthener Hütte
 
 - **Alexisbad**: Start am Parkplatz an der B185, etwa 1,9 km zur Hütte.
 - **Mägdesprung**: Vom Carlswerk ca. 1,6 km entlang des Klippenwegs.
-- **Harzgerode**: Beginn am Schlossparkplatz, rund 3,3 km Wanderung. :contentReference[oaicite:2]{index=2}
+- **Harzgerode**: Beginn am Schlossparkplatz, rund 3,3 km Wanderung. 
 
 #### Anfahrt
 

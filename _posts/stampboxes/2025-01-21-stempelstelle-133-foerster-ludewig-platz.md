@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Förster-Ludewig-Platz](https://commons.wikimedia.org/wiki/File:F%C3%B6rster-Ludewig-Platz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Förster-Ludewig-Platz liegt idyllisch am Dammgraben zwischen Altenau und Torfhaus. :contentReference[oaicite:0]{index=0}
+Der Förster-Ludewig-Platz liegt idyllisch am Dammgraben zwischen Altenau und Torfhaus. 
 
 #### Historischer Hintergrund
 
-Hier steht ein Denkmal für die im Ersten Weltkrieg gefallenen Waldarbeiter und Förster Meyer. :contentReference[oaicite:1]{index=1}
+Hier steht ein Denkmal für die im Ersten Weltkrieg gefallenen Waldarbeiter und Förster Meyer. 
 
 #### Wanderwege zum Förster-Ludewig-Platz
 
-- **Vom Parkplatz an der Straße Torfhaus–Altenau**: Ein kurzer Weg entlang des Dammgrabens führt direkt zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Über den Harzer Hexenstieg**: Der Weg führt über den Nabentaler Wasserfall und die Skiwiese am Rinderkopf zum Torfhaus. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz an der Straße Torfhaus–Altenau**: Ein kurzer Weg entlang des Dammgrabens führt direkt zur Stempelstelle. 
+- **Über den Harzer Hexenstieg**: Der Weg führt über den Nabentaler Wasserfall und die Skiwiese am Rinderkopf zum Torfhaus. 
 
 #### Anfahrt
 

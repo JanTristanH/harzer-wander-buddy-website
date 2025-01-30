@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Wendeleiche](https://commons.wikimedia.org/wiki/File:Wendeleiche.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Wendeleiche liegt zwischen Zorge und Sülzhayn im Südharz. Sie markiert die Grenze zwischen Niedersachsen und Thüringen. Ihren Namen verdankt sie einer Wendeltreppe, die Anfang des 20. Jahrhunderts in ihre Krone führte. Heute erinnern nur noch rostige Eisenreste daran. :contentReference[oaicite:0]{index=0}
+Die Wendeleiche liegt zwischen Zorge und Sülzhayn im Südharz. Sie markiert die Grenze zwischen Niedersachsen und Thüringen. Ihren Namen verdankt sie einer Wendeltreppe, die Anfang des 20. Jahrhunderts in ihre Krone führte. Heute erinnern nur noch rostige Eisenreste daran. 
 
 #### Historische Bedeutung
 
-Während der deutschen Teilung stand die Eiche direkt an der innerdeutschen Grenze. Die DDR-Grenztruppen entfernten die Treppe, um Fluchtversuche zu verhindern. :contentReference[oaicite:1]{index=1}
+Während der deutschen Teilung stand die Eiche direkt an der innerdeutschen Grenze. Die DDR-Grenztruppen entfernten die Treppe, um Fluchtversuche zu verhindern. 
 
 #### Wanderwege zur Wendeleiche
 
 - **Startpunkt:** Parkplatz am Kurhaus in Zorge
-  - **Route:** Beschilderter Bergwiesenweg über die Wendeleiche zur Stiefmutter (HWN 164). Von dort kann man die Stempelstelle "Roter Schuss" (HWN 90) einbinden. :contentReference[oaicite:2]{index=2}
+  - **Route:** Beschilderter Bergwiesenweg über die Wendeleiche zur Stiefmutter (HWN 164). Von dort kann man die Stempelstelle "Roter Schuss" (HWN 90) einbinden. 
 
 #### Anfahrt
 

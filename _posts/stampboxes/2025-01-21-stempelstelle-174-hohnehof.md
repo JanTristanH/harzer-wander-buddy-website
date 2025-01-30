@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Hohnehof](https://commons.wikimedia.org/wiki/File:Hohnehof.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Hohnehof ist ein Natur-Erlebniszentrum nahe Drei Annen Hohne, etwa 1 km vom Bahnhof entfernt. Er liegt oberhalb großer Waldwiesen am Rande des Nationalparks Harz. :contentReference[oaicite:0]{index=0}
+Der Hohnehof ist ein Natur-Erlebniszentrum nahe Drei Annen Hohne, etwa 1 km vom Bahnhof entfernt. Er liegt oberhalb großer Waldwiesen am Rande des Nationalparks Harz. 
 
 #### Historischer Hintergrund
 
-Im 17. Jahrhundert wurden die Lichtungen des Hohnegebiets als Weide genutzt. 1668 ließ Graf Heinrich Ernst zu Stolberg eine einfache Unterkunft für Hirten errichten. :contentReference[oaicite:1]{index=1}
+Im 17. Jahrhundert wurden die Lichtungen des Hohnegebiets als Weide genutzt. 1668 ließ Graf Heinrich Ernst zu Stolberg eine einfache Unterkunft für Hirten errichten. 
 
 #### Wanderwege zum Hohnehof
 
-- **Drei Annen Hohne**: Vom Parkplatz die Straße überqueren, dann dem Glashüttenweg folgen. Der Abzweig zum Hohnehof ist ausgeschildert. :contentReference[oaicite:2]{index=2}
+- **Drei Annen Hohne**: Vom Parkplatz die Straße überqueren, dann dem Glashüttenweg folgen. Der Abzweig zum Hohnehof ist ausgeschildert. 
 
 #### Anfahrt
 

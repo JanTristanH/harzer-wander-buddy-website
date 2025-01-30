@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Schmidts-Denkmal](https://commons.wikimedia.org/wiki/File:Schmidts-Denkmal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Schmidts-Denkmal liegt auf 607 m Höhe zwischen dem Parkplatz Polsterberg bei Clausthal-Zellerfeld und dem Ort Kammschlacken. Es erinnert an den königlichen Feldjäger August Schmidt, der am 2. Juni 1849 von zwei Wilddieben überfallen und tödlich verletzt wurde. Schwer verwundet schleppte er sich nach Kammschlacken, wo er acht Tage später verstarb. Seine Kollegen errichteten an der Stelle des Überfalls dieses Denkmal. :contentReference[oaicite:0]{index=0}
+Das Schmidts-Denkmal liegt auf 607 m Höhe zwischen dem Parkplatz Polsterberg bei Clausthal-Zellerfeld und dem Ort Kammschlacken. Es erinnert an den königlichen Feldjäger August Schmidt, der am 2. Juni 1849 von zwei Wilddieben überfallen und tödlich verletzt wurde. Schwer verwundet schleppte er sich nach Kammschlacken, wo er acht Tage später verstarb. Seine Kollegen errichteten an der Stelle des Überfalls dieses Denkmal. 
 
 #### Historischer Hintergrund
 
-August Schmidt wurde während einer Patrouille hinterrücks mit einer Axt niedergeschlagen. Trotz seiner Verletzungen konnte er einen der Täter identifizieren, was zur Verhaftung und Hinrichtung des „Gelben Wagener“ führte. :contentReference[oaicite:1]{index=1}
+August Schmidt wurde während einer Patrouille hinterrücks mit einer Axt niedergeschlagen. Trotz seiner Verletzungen konnte er einen der Täter identifizieren, was zur Verhaftung und Hinrichtung des „Gelben Wagener“ führte. 
 
 #### Wanderwege zum Schmidts-Denkmal
 
-- **Vom Parkplatz Polsterberg**: Ein breiter Forstweg führt direkt zum Denkmal. :contentReference[oaicite:2]{index=2}
+- **Vom Parkplatz Polsterberg**: Ein breiter Forstweg führt direkt zum Denkmal. 
 - **Ab Clausthal-Zellerfeld**: Verschiedene Routen durch den Wald bieten sich an.
 - **Von Kammschlacken**: Ein gut ausgeschilderter Weg führt zum Denkmal.
 

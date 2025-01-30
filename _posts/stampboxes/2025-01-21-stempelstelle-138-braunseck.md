@@ -11,20 +11,20 @@ imageSource: '📷 [Braunseck](https://commons.wikimedia.org/wiki/File:Braunseck
 ---
 
 
-::contentReference[oaicite:0]{index=0}
+:
 
 
-Das Braunseck, auch "Buntenbocker Bahnhof" genannt, ist eine Wegkreuzung zwischen Buntenbock und Riefensbeek. Hier sollte einst eine Eisenbahnlinie entstehen, die jedoch nie realisiert wurde. Heute befindet sich dort eine Schutzhütte mit dem Stempelkasten 138 der Harzer Wandernadel. :contentReference[oaicite:1]{index=1}
+Das Braunseck, auch "Buntenbocker Bahnhof" genannt, ist eine Wegkreuzung zwischen Buntenbock und Riefensbeek. Hier sollte einst eine Eisenbahnlinie entstehen, die jedoch nie realisiert wurde. Heute befindet sich dort eine Schutzhütte mit dem Stempelkasten 138 der Harzer Wandernadel. 
 
 #### Geplante Eisenbahnstrecke
 
-Zu Beginn des 20. Jahrhunderts gab es Pläne, eine Eisenbahnstrecke von Clausthal über Buntenbock nach Osterode zu bauen. Diese sollte die wirtschaftliche Lage der Bergstädte verbessern. Der Erste Weltkrieg verhinderte jedoch die Umsetzung. :contentReference[oaicite:2]{index=2}
+Zu Beginn des 20. Jahrhunderts gab es Pläne, eine Eisenbahnstrecke von Clausthal über Buntenbock nach Osterode zu bauen. Diese sollte die wirtschaftliche Lage der Bergstädte verbessern. Der Erste Weltkrieg verhinderte jedoch die Umsetzung. 
 
 #### Wanderwege zum Braunseck
 
-- **Startpunkt:** Wanderparkplatz "An der Trift" in Buntenbock. Von dort dem Harzer Försterstieg folgen. Die Route führt durch malerische Waldlandschaften und ist gut ausgeschildert. :contentReference[oaicite:3]{index=3}
+- **Startpunkt:** Wanderparkplatz "An der Trift" in Buntenbock. Von dort dem Harzer Försterstieg folgen. Die Route führt durch malerische Waldlandschaften und ist gut ausgeschildert. 
 
-- **Weiterer Weg:** Vom Braunseck kann die Wanderung zur Kuckholzklippe (HWN 139) fortgesetzt werden. Dieser Abschnitt bietet weitere landschaftliche Highlights. :contentReference[oaicite:4]{index=4}
+- **Weiterer Weg:** Vom Braunseck kann die Wanderung zur Kuckholzklippe (HWN 139) fortgesetzt werden. Dieser Abschnitt bietet weitere landschaftliche Highlights. 
 
 #### Anfahrt
 

@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Bergbaulehrpfad Wettelrode](https://commons.wikimedia.org/wiki/File:Bergbaulehrpfad_Wettelrode.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Bergbaulehrpfad Wettelrode liegt nahe Sangerhausen im südöstlichen Harzvorland. Er beginnt am Freigelände des Schaubergwerks Röhrigschacht und führt als 4 km langer Rundweg durch die historische Bergbaulandschaft. :contentReference[oaicite:0]{index=0}
+Der Bergbaulehrpfad Wettelrode liegt nahe Sangerhausen im südöstlichen Harzvorland. Er beginnt am Freigelände des Schaubergwerks Röhrigschacht und führt als 4 km langer Rundweg durch die historische Bergbaulandschaft. 
 
 #### Schaubergwerk Röhrigschacht
 
-Im Röhrigschacht können Besucher mit einer originalen Schachtförderanlage 283 Meter in die Tiefe fahren. Eine Grubenbahn bringt sie zu einem Abbaufeld des 19. Jahrhunderts, wo die Entwicklung des Kupferschieferbergbaus anschaulich dargestellt wird. :contentReference[oaicite:1]{index=1}
+Im Röhrigschacht können Besucher mit einer originalen Schachtförderanlage 283 Meter in die Tiefe fahren. Eine Grubenbahn bringt sie zu einem Abbaufeld des 19. Jahrhunderts, wo die Entwicklung des Kupferschieferbergbaus anschaulich dargestellt wird. 
 
 #### Wanderwege zum Bergbaulehrpfad
 

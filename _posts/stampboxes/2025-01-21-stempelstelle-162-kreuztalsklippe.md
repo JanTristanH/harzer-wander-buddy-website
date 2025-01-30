@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Kreuztalsklippe](https://commons.wikimedia.org/wiki/File:Kreuztalsklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Kreuztalsklippe ist eine Felsformation mit Aussichtspunkt nordöstlich des Luftkurortes Wieda im Harz. Vom Aussichtspunkt bietet sich ein malerischer Blick auf Oberwieda, den Käseberg mit dem Glockenturm, den Knicking und den Zachariaskopf. :contentReference[oaicite:0]{index=0}
+Die Kreuztalsklippe ist eine Felsformation mit Aussichtspunkt nordöstlich des Luftkurortes Wieda im Harz. Vom Aussichtspunkt bietet sich ein malerischer Blick auf Oberwieda, den Käseberg mit dem Glockenturm, den Knicking und den Zachariaskopf. 
 
 #### Historische Bedeutung
 
-1127 wurde Wieda erstmals als Schmelzhütte des Klosters Walkenried erwähnt. 1562 ist eine Eisenschmelzhütte in Wieda bezeugt, die eng mit der Gewinnung des Eisenerzes aus dem Kirchberggang im Kastental verbunden war. :contentReference[oaicite:1]{index=1}
+1127 wurde Wieda erstmals als Schmelzhütte des Klosters Walkenried erwähnt. 1562 ist eine Eisenschmelzhütte in Wieda bezeugt, die eng mit der Gewinnung des Eisenerzes aus dem Kirchberggang im Kastental verbunden war. 
 
 #### Wanderwege zur Kreuztalsklippe
 
-- **Startpunkt Mittelwieda**: Von der Bushaltestelle führt ein beschilderter Wanderweg zur Kreuztalsklippe. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Mittelwieda**: Von der Bushaltestelle führt ein beschilderter Wanderweg zur Kreuztalsklippe. 
 
-- **Rundweg von Wieda**: Eine mittelschwere Wanderung führt von Wieda zur Kreuztalsklippe (HWN 162) und zurück. :contentReference[oaicite:3]{index=3}
+- **Rundweg von Wieda**: Eine mittelschwere Wanderung führt von Wieda zur Kreuztalsklippe (HWN 162) und zurück. 
 
 #### Anfahrt
 

@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Am Clusberg](https://commons.wikimedia.org/wiki/File:Am_Clusberg.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 205 der Harzer Wandernadel liegt am Rastplatz unterhalb des Clusberges, zwischen Pansfelde und Stangerode. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 205 der Harzer Wandernadel liegt am Rastplatz unterhalb des Clusberges, zwischen Pansfelde und Stangerode. 
 
 #### Naturschutzgebiet Clusberg
 
-Seit 1994 steht der Clusberg unter Naturschutz. :contentReference[oaicite:1]{index=1}
+Seit 1994 steht der Clusberg unter Naturschutz. 
 
 #### Wanderwege zum Rastplatz unterhalb des Clusberges
 
 - **Von Pansfelde**: Gut ausgeschilderter Wanderweg führt direkt zur Stempelstelle.
-- **Vom Bisongehege in Stangerode**: Beschilderte Route entlang der Schwennecke nach Stangerode. :contentReference[oaicite:2]{index=2}
+- **Vom Bisongehege in Stangerode**: Beschilderte Route entlang der Schwennecke nach Stangerode. 
 
 #### Anfahrt
 

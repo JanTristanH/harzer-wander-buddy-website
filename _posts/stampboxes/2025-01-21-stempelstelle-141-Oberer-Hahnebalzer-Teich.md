@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Oberer Hahnebalzer Teich](https://commons.wikimedia.org/wiki/File:Oberer_Hahnebalzer_Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Obere Hahnebalzer Teich liegt nahe Clausthal-Zellerfeld im Harz. Er gehört zum UNESCO-Weltkulturerbe Oberharzer Wasserregal. :contentReference[oaicite:0]{index=0}
+Der Obere Hahnebalzer Teich liegt nahe Clausthal-Zellerfeld im Harz. Er gehört zum UNESCO-Weltkulturerbe Oberharzer Wasserregal. 
 
 #### Historische Bedeutung
 
-Der Teich wurde im 17. Jahrhundert durch einen 8 Meter hohen Damm aufgestaut. Er diente der Energieversorgung der Erzgruben nahe Bad Grund. :contentReference[oaicite:1]{index=1}
+Der Teich wurde im 17. Jahrhundert durch einen 8 Meter hohen Damm aufgestaut. Er diente der Energieversorgung der Erzgruben nahe Bad Grund. 
 
 #### Wanderwege zum Oberen Hahnebalzer Teich
 
-- **Prinzenteich**: Vom Parkplatz am Prinzenteich führt der Harzer Försterstieg direkt zum Teich. :contentReference[oaicite:2]{index=2}
+- **Prinzenteich**: Vom Parkplatz am Prinzenteich führt der Harzer Försterstieg direkt zum Teich. 
 
-- **Lasfelder Tränke**: Eine Route führt von der Lasfelder Tränke (Stempelstelle 131) zum Oberen Hahnebalzer Teich. :contentReference[oaicite:3]{index=3}
+- **Lasfelder Tränke**: Eine Route führt von der Lasfelder Tränke (Stempelstelle 131) zum Oberen Hahnebalzer Teich. 
 
 #### Anfahrt
 

@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [HanskünenburgTurm](https://commons.wikimedia.org/wiki/File:HanskuehnenburgTurm.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die Hanskühnenburg liegt auf 811 m Höhe im Nationalpark Harz, zwischen Osterode, Riefensbeek und Sieber. Sie ist eine bewirtschaftete Bergbaude mit Aussichtsturm und beherbergt die Stempelstelle 144 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Die Hanskühnenburg liegt auf 811 m Höhe im Nationalpark Harz, zwischen Osterode, Riefensbeek und Sieber. Sie ist eine bewirtschaftete Bergbaude mit Aussichtsturm und beherbergt die Stempelstelle 144 der Harzer Wandernadel. 
 
 #### Historischer Hintergrund
 
-Bereits 1889 wurde hier der erste hölzerne Aussichtsturm errichtet. 1914 folgte der heutige Steinturm. Schon Goethe besuchte 1784 den nahegelegenen Hanskühnenburgfelsen und genoss die beeindruckende Aussicht. :contentReference[oaicite:1]{index=1}
+Bereits 1889 wurde hier der erste hölzerne Aussichtsturm errichtet. 1914 folgte der heutige Steinturm. Schon Goethe besuchte 1784 den nahegelegenen Hanskühnenburgfelsen und genoss die beeindruckende Aussicht. 
 
 #### Wanderwege zur Hanskühnenburg
 
-- **Von Osterode (Bleichestelle):** Über die Schwarze Brücke entlang des Fischereilehrpfads Richtung Riefensbeek und ab der Vorsperre direkt zur Hanskühnenburg. :contentReference[oaicite:2]{index=2}
+- **Von Osterode (Bleichestelle):** Über die Schwarze Brücke entlang des Fischereilehrpfads Richtung Riefensbeek und ab der Vorsperre direkt zur Hanskühnenburg. 
 
-- **Von der B242 (Parkplatz Stieglitzeck):** Über den breiten Waldweg Ackerstraße oder den urwüchsigen Reitstieg mit herrlichem Fernblick. :contentReference[oaicite:3]{index=3}
+- **Von der B242 (Parkplatz Stieglitzeck):** Über den breiten Waldweg Ackerstraße oder den urwüchsigen Reitstieg mit herrlichem Fernblick. 
 
 #### Anfahrt
 

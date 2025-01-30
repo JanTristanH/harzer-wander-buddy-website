@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Helenenruh](https://commons.wikimedia.org/wiki/File:Helenenruh.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Helenenruh (550 m ü. NN) liegt am Wiedaer Hüttenweg zwischen Wieda und Zorge. :contentReference[oaicite:0]{index=0}
+Die Helenenruh (550 m ü. NN) liegt am Wiedaer Hüttenweg zwischen Wieda und Zorge. 
 
 #### Historischer Hintergrund
 
-Früher transportierten Pferdegespanne auf diesem Weg Roteisenstein aus den umliegenden Bergbaurevieren zu den Hochöfen im Tal. 1895 wurde der letzte Hochofen der „Zorger Hütte“ stillgelegt, da die Verhüttung mit Holzkohle nicht mehr konkurrenzfähig war. :contentReference[oaicite:1]{index=1}
+Früher transportierten Pferdegespanne auf diesem Weg Roteisenstein aus den umliegenden Bergbaurevieren zu den Hochöfen im Tal. 1895 wurde der letzte Hochofen der „Zorger Hütte“ stillgelegt, da die Verhüttung mit Holzkohle nicht mehr konkurrenzfähig war. 
 
 #### Wanderwege zur Helenenruh
 
-- **Vom Kurpark Wieda**: Durch das als Hüttenweg ausgeschilderte Kastental zur Schutzhütte Helenenruh. :contentReference[oaicite:2]{index=2}
-- **Harzer Baudensteig**: Von der Schutzhütte führt der Weg weiter zum Pferdchen (HWN 58) nach Zorge. :contentReference[oaicite:3]{index=3}
+- **Vom Kurpark Wieda**: Durch das als Hüttenweg ausgeschilderte Kastental zur Schutzhütte Helenenruh. 
+- **Harzer Baudensteig**: Von der Schutzhütte führt der Weg weiter zum Pferdchen (HWN 58) nach Zorge. 
 
 #### Anfahrt
 

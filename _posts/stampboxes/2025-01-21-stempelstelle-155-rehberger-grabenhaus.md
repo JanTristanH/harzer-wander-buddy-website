@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Rehberger Grabenhaus](https://commons.wikimedia.org/wiki/File:Rehberger_Grabenhaus.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Das Rehberger Grabenhaus liegt etwa 2 km nördlich von Sankt Andreasberg am Südhang des Rehbergs. Es befindet sich auf rund 680 m Höhe und ist ein historisches Ausflugslokal. :contentReference[oaicite:0]{index=0}
+Das Rehberger Grabenhaus liegt etwa 2 km nördlich von Sankt Andreasberg am Südhang des Rehbergs. Es befindet sich auf rund 680 m Höhe und ist ein historisches Ausflugslokal. 
 
 #### Historische Bedeutung
 
-Der Rehberger Graben ist Teil des Oberharzer Wasserregals. Er leitet Wasser vom Oderteich nach Sankt Andreasberg und war für den Bergbau lebenswichtig. :contentReference[oaicite:1]{index=1}
+Der Rehberger Graben ist Teil des Oberharzer Wasserregals. Er leitet Wasser vom Oderteich nach Sankt Andreasberg und war für den Bergbau lebenswichtig. 
 
 #### Wanderwege zum Rehberger Grabenhaus
 
-- **Vom Parkplatz Dreibrode**: Ein barrierefreier Weg führt in etwa 1 km zum Grabenhaus. :contentReference[oaicite:2]{index=2}
-- **Über den Rehberger Grabenweg**: Ein nahezu steigungsfreier Pfad entlang des Grabens. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz Dreibrode**: Ein barrierefreier Weg führt in etwa 1 km zum Grabenhaus. 
+- **Über den Rehberger Grabenweg**: Ein nahezu steigungsfreier Pfad entlang des Grabens. 
 
 #### Anfahrt
 

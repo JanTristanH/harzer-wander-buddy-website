@@ -18,9 +18,9 @@ Diese Stempelstelle ist einer der elf Glücksplätze der Harzer Wandernadel. Ein
 
 #### Wanderwege zur Schönen Aussicht Bielstein
 
-- **Lautenthal**: Start an der Tourist-Info, 2,5 km Aufstieg. :contentReference[oaicite:0]{index=0}
-- **Innerstetalsperre**: Wanderparkplatz an der L545, 4,3 km. :contentReference[oaicite:1]{index=1}
-- **Bockswiese**: Kuttelbacher Teich an der L516, 5,9 km. :contentReference[oaicite:2]{index=2}
+- **Lautenthal**: Start an der Tourist-Info, 2,5 km Aufstieg. 
+- **Innerstetalsperre**: Wanderparkplatz an der L545, 4,3 km. 
+- **Bockswiese**: Kuttelbacher Teich an der L516, 5,9 km. 
 
 #### Anfahrt
 

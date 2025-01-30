@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Hellergrund Teich](https://commons.wikimedia.org/wiki/File:Hellergrund_Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 194, bekannt als Hellergrund, liegt unterhalb des Birnbaumteichs zwischen Neudorf und der Grube Glasebach. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 194, bekannt als Hellergrund, liegt unterhalb des Birnbaumteichs zwischen Neudorf und der Grube Glasebach. 
 
 #### Historische Bedeutung
 
-Früher stand hier die Heller Wasserkunst mit drei Radkammern, mehreren Kunstgräben und einem kleinen Kunstteich. Die Wasserräder übertrugen die Kraft zu den Pumpanlagen der Birnbaumschächte. :contentReference[oaicite:1]{index=1}
+Früher stand hier die Heller Wasserkunst mit drei Radkammern, mehreren Kunstgräben und einem kleinen Kunstteich. Die Wasserräder übertrugen die Kraft zu den Pumpanlagen der Birnbaumschächte. 
 
 #### Wanderwege zum Hellergrund
 
-- **Startpunkt Neudorf**: Vom Ortskern führt der Bergbaurundwanderweg zur Stempelstelle. :contentReference[oaicite:2]{index=2}
-- **Vom Birnbaumteich**: Ein direkter Weg führt vom Teich zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Startpunkt Neudorf**: Vom Ortskern führt der Bergbaurundwanderweg zur Stempelstelle. 
+- **Vom Birnbaumteich**: Ein direkter Weg führt vom Teich zur Stempelstelle. 
 
 #### Anfahrt
 

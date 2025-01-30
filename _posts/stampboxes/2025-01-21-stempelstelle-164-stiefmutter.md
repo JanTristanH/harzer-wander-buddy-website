@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Stiefmutter Zorge](https://commons.wikimedia.org/wiki/File:Stiefmutter_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 164 „Stiefmutter“ liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 164 „Stiefmutter“ liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. 
 
 #### Harzer Bergwiesen
 
-Die Harzer Bergwiesen sind für ihre einzigartige Pflanzenvielfalt bekannt und gelten als botanische Schätze. Sie entstanden durch traditionelle Bewirtschaftung, bei der sie ab dem 24. Juni (Johanni) gemäht und zu Heu getrocknet wurden. :contentReference[oaicite:1]{index=1}
+Die Harzer Bergwiesen sind für ihre einzigartige Pflanzenvielfalt bekannt und gelten als botanische Schätze. Sie entstanden durch traditionelle Bewirtschaftung, bei der sie ab dem 24. Juni (Johanni) gemäht und zu Heu getrocknet wurden. 
 
 #### Wanderwege zur Stiefmutter
 
-- **Vom Kurhaus Zorge**: Ein beschilderter Bergwiesenweg führt vom Parkplatz am Kurhaus über die Wendeleiche (HWN 165) zur Stiefmutter. :contentReference[oaicite:2]{index=2}
+- **Vom Kurhaus Zorge**: Ein beschilderter Bergwiesenweg führt vom Parkplatz am Kurhaus über die Wendeleiche (HWN 165) zur Stiefmutter. 
 
-- **Kombinierte Route**: Von der Stiefmutter kann man weiter zur Stempelstelle „Roter Schuss“ (HWN 90) wandern. :contentReference[oaicite:3]{index=3}
+- **Kombinierte Route**: Von der Stiefmutter kann man weiter zur Stempelstelle „Roter Schuss“ (HWN 90) wandern. 
 
 #### Anfahrt
 

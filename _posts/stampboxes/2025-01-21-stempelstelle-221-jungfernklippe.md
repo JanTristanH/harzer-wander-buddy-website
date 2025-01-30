@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Jungfernklippe](https://commons.wikimedia.org/wiki/File:Jungfernklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Jungfernklippe liegt auf 660 m Höhe südwestlich des Dehnenkopfs und oberhalb des Kellwassertals. Sie befindet sich an einer Forststraße, die die Grenze des Nationalparks Harz markiert. :contentReference[oaicite:0]{index=0}
+Die Jungfernklippe liegt auf 660 m Höhe südwestlich des Dehnenkopfs und oberhalb des Kellwassertals. Sie befindet sich an einer Forststraße, die die Grenze des Nationalparks Harz markiert. 
 
 #### Historische Bedeutung
 
-In der Nähe beginnt der Dammgraben, ein wichtiges Wasserleitsystem aus dem 17. Jahrhundert. Es wurde gebaut, um Wasser für die Bergwerke bei Clausthal-Zellerfeld bereitzustellen. :contentReference[oaicite:1]{index=1}
+In der Nähe beginnt der Dammgraben, ein wichtiges Wasserleitsystem aus dem 17. Jahrhundert. Es wurde gebaut, um Wasser für die Bergwerke bei Clausthal-Zellerfeld bereitzustellen. 
 
 #### Wanderwege zur Jungfernklippe
 
-- **Parkplatz "Ulmer Weg"**: Direkt an der B4, etwa 1 km unterhalb des Großparkplatzes am Torfhaus. Von dort führt ein 2 km langer, leicht abfallender Schotterweg zur Klippe. :contentReference[oaicite:2]{index=2}
+- **Parkplatz "Ulmer Weg"**: Direkt an der B4, etwa 1 km unterhalb des Großparkplatzes am Torfhaus. Von dort führt ein 2 km langer, leicht abfallender Schotterweg zur Klippe. 
 
-- **Torfhaus**: Vom Parkplatz unterhalb der Lerchenköpfe die Straße überqueren und dem Kellwasser für 1,5 km um den Dehnenkopf folgen. :contentReference[oaicite:3]{index=3}
+- **Torfhaus**: Vom Parkplatz unterhalb der Lerchenköpfe die Straße überqueren und dem Kellwasser für 1,5 km um den Dehnenkopf folgen. 
 
 #### Anfahrt
 

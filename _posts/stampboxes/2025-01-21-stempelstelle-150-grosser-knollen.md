@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [GrosserKnollenGipfel](https://commons.wikimedia.org/wiki/File:GrosserKnollenGipfel.jpg) von User <a href="https://de.wikipedia.org/wiki/User:Kassandro" class="extiw" title="de:User:Kassandro">Kassandro</a> on <a class="external text" href="https://de.wikipedia.org">de.wikipedia</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Der Große Knollen ist ein 687 Meter hoher Berg im Südharz bei Herzberg am Harz. Er war einst ein Vulkan und zählt heute zu den höchsten Erhebungen der Region. Auf seinem Gipfel befindet sich die Stempelstelle 150 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Der Große Knollen ist ein 687 Meter hoher Berg im Südharz bei Herzberg am Harz. Er war einst ein Vulkan und zählt heute zu den höchsten Erhebungen der Region. Auf seinem Gipfel befindet sich die Stempelstelle 150 der Harzer Wandernadel. 
 
 #### Geschichte des Aussichtsturms
 
-Bereits 1890 wurde auf dem Gipfel ein etwa 8 Meter hoher hölzerner Aussichtsturm errichtet. Nach mehreren Unfällen und Blitzschäden entschied sich der Harzklub-Zweigverein Bad Lauterberg für einen Neubau aus Stein, der im August 1904 eingeweiht wurde. 1961 wurde der Turm auf 20 Meter erhöht. Bei gutem Wetter bietet er eine herrliche Aussicht bis zum Weserbergland und zum Thüringer Wald. :contentReference[oaicite:1]{index=1}
+Bereits 1890 wurde auf dem Gipfel ein etwa 8 Meter hoher hölzerner Aussichtsturm errichtet. Nach mehreren Unfällen und Blitzschäden entschied sich der Harzklub-Zweigverein Bad Lauterberg für einen Neubau aus Stein, der im August 1904 eingeweiht wurde. 1961 wurde der Turm auf 20 Meter erhöht. Bei gutem Wetter bietet er eine herrliche Aussicht bis zum Weserbergland und zum Thüringer Wald. 
 
 #### Wanderwege zum Großen Knollen
 
-- **Vom Parkplatz der Einhornhöhle**: Eine mittelschwere Route führt vom Parkplatz der Einhornhöhle zum Großen Knollen und zurück. Die Strecke ist familienfreundlich und auch für Hunde geeignet. :contentReference[oaicite:2]{index=2}
+- **Vom Parkplatz der Einhornhöhle**: Eine mittelschwere Route führt vom Parkplatz der Einhornhöhle zum Großen Knollen und zurück. Die Strecke ist familienfreundlich und auch für Hunde geeignet. 
 
-- **Ab Sieber**: Vom Parkplatz am Schützenhaus in Sieber führt ein schöner Pfad über den BaudenSteig sportlich nach oben zum Großen Knollen. :contentReference[oaicite:3]{index=3}
+- **Ab Sieber**: Vom Parkplatz am Schützenhaus in Sieber führt ein schöner Pfad über den BaudenSteig sportlich nach oben zum Großen Knollen. 
 
 #### Anfahrt
 

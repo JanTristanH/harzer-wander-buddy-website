@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [Gipsbrennofen Neuhof](https://commons.wikimedia.org/wiki/File:Gipsbrennofen_Neuhof.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der historische Gipsbrennofen liegt westlich von Neuhof am Lehrpfad um die Kranichteiche. Er wurde am 21. Oktober 2006 erstmals in Betrieb genommen. Die Mönche des Klosters Walkenried legten hier im 13. Jahrhundert Teiche zur Fischzucht an. Heute führt ein 3 km langer Lehrpfad vom Dorfgemeinschaftshaus um die drei miteinander verbundenen Teiche. Der Gipsbrennofen ist eine Station auf diesem Weg. :contentReference[oaicite:0]{index=0}
+Der historische Gipsbrennofen liegt westlich von Neuhof am Lehrpfad um die Kranichteiche. Er wurde am 21. Oktober 2006 erstmals in Betrieb genommen. Die Mönche des Klosters Walkenried legten hier im 13. Jahrhundert Teiche zur Fischzucht an. Heute führt ein 3 km langer Lehrpfad vom Dorfgemeinschaftshaus um die drei miteinander verbundenen Teiche. Der Gipsbrennofen ist eine Station auf diesem Weg. 
 
 #### Kloster Walkenried
 
-Das nahegelegene Kloster Walkenried wurde 1127 gegründet und war eines der bedeutendsten Zisterzienserklöster Deutschlands. Die Mönche prägten die Region durch ihre wirtschaftlichen Aktivitäten, darunter Fischzucht und Landwirtschaft. :contentReference[oaicite:1]{index=1}
+Das nahegelegene Kloster Walkenried wurde 1127 gegründet und war eines der bedeutendsten Zisterzienserklöster Deutschlands. Die Mönche prägten die Region durch ihre wirtschaftlichen Aktivitäten, darunter Fischzucht und Landwirtschaft. 
 
 #### Wanderwege zum Historischen Gipsbrennofen
 
 - **Startpunkt: Dorfgemeinschaftshaus Neuhof**  
-  Folgen Sie dem Kranichteich-Lehrpfad für eine leichte 3 km lange Rundwanderung um die Teiche. :contentReference[oaicite:2]{index=2}
+  Folgen Sie dem Kranichteich-Lehrpfad für eine leichte 3 km lange Rundwanderung um die Teiche. 
 
 - **Startpunkt: Bad Sachsa**  
-  Eine ca. 7 km lange Route führt vorbei an der Ruine Sachsenburg und der Sachsensteinhütte (Stempelstelle 166) zum Gipsbrennofen. :contentReference[oaicite:3]{index=3}
+  Eine ca. 7 km lange Route führt vorbei an der Ruine Sachsenburg und der Sachsensteinhütte (Stempelstelle 166) zum Gipsbrennofen. 
 
 #### Anfahrt
 

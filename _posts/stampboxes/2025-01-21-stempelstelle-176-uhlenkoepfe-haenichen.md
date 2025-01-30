@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Brockenblick bei Silberhütte](https://commons.wikimedia.org/wiki/File:Brockenblick_bei_Silberh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Uhlenköpfe (380 m ü. NN) liegen oberhalb des Uhlenbachtals bei Silberhütte. :contentReference[oaicite:0]{index=0}
+Die Uhlenköpfe (380 m ü. NN) liegen oberhalb des Uhlenbachtals bei Silberhütte. 
 
 #### Historische Bedeutung
 
-1693 wurde hier die Silberhütte gegründet. 1825 wurde dort das einzige im Harz gefundene Gold verhüttet. :contentReference[oaicite:1]{index=1}
+1693 wurde hier die Silberhütte gegründet. 1825 wurde dort das einzige im Harz gefundene Gold verhüttet. 
 
 #### Wanderwege zu den Uhlenköpfen
 
-- **Startpunkt Silberhütte**: Vom Parkplatz dem Selketalstieg bergauf folgen. Über einen Forstweg erreicht man die Stempelstelle mit Brockenblick. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Silberhütte**: Vom Parkplatz dem Selketalstieg bergauf folgen. Über einen Forstweg erreicht man die Stempelstelle mit Brockenblick. 
 
-- **Startpunkt Straßberg**: Über den Bergbaupfad gelangt man zur Stempelstelle. :contentReference[oaicite:3]{index=3}
+- **Startpunkt Straßberg**: Über den Bergbaupfad gelangt man zur Stempelstelle. 
 
 #### Anfahrt
 

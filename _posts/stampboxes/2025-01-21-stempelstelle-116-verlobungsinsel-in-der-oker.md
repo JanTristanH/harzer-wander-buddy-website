@@ -10,19 +10,19 @@ imageshadow: true
 imageSource: '📷 [OkerVerlobungsinsel](https://commons.wikimedia.org/wiki/File:OkerVerlobungsinsel.JPG) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Verlobungsinsel liegt im wildromantischen Okertal bei Goslar. Sie ist von mächtigen Granitblöcken umgeben und über eine kleine Holzbrücke erreichbar. Hier befindet sich die Stempelstelle 116 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Die Verlobungsinsel liegt im wildromantischen Okertal bei Goslar. Sie ist von mächtigen Granitblöcken umgeben und über eine kleine Holzbrücke erreichbar. Hier befindet sich die Stempelstelle 116 der Harzer Wandernadel. 
 
 #### Romkerhaller Wasserfall
 
-Oberhalb der Verlobungsinsel liegt der Romkerhaller Wasserfall. Über den künstlich angelegten, etwa 70 Meter tiefen Wasserfall stürzt das Wasser des Flusses Romke hinab und fließt dann in die Oker. Auf einer Aussichtsplattform können Sie dieses Schauspiel beobachten. :contentReference[oaicite:1]{index=1}
+Oberhalb der Verlobungsinsel liegt der Romkerhaller Wasserfall. Über den künstlich angelegten, etwa 70 Meter tiefen Wasserfall stürzt das Wasser des Flusses Romke hinab und fließt dann in die Oker. Auf einer Aussichtsplattform können Sie dieses Schauspiel beobachten. 
 
 #### Wanderwege zur Verlobungsinsel
 
 - **Startpunkt: Parkplatz Romkerhalle**  
-  Vom Parkplatz Romkerhalle unterhalb des Wasserkraftwerks gelangt man über den beschilderten, steinigen Weg flussabwärts und über eine Holzbrücke zur Verlobungsinsel. :contentReference[oaicite:2]{index=2}
+  Vom Parkplatz Romkerhalle unterhalb des Wasserkraftwerks gelangt man über den beschilderten, steinigen Weg flussabwärts und über eine Holzbrücke zur Verlobungsinsel. 
 
 - **Startpunkt: Parkplatz an der B498**  
-  Alternativ kann man vom Parkplatz an der B498 unweit der Staumauer des Ausgleichsbeckens starten und erreicht die Verlobungsinsel über einen teilweise recht beschwerlichen Wanderweg entlang des westlichen Ufers der Oker. :contentReference[oaicite:3]{index=3}
+  Alternativ kann man vom Parkplatz an der B498 unweit der Staumauer des Ausgleichsbeckens starten und erreicht die Verlobungsinsel über einen teilweise recht beschwerlichen Wanderweg entlang des westlichen Ufers der Oker. 
 
 #### Anfahrt
 

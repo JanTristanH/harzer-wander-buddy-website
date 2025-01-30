@@ -12,15 +12,15 @@ imageSource: '📷 [Grillenburg 5](https://commons.wikimedia.org/wiki/File:Grill
 (<span lang="de" dir="ltr">Originaltext: <i><bdi lang=""><a href="https://de.wikipedia.org/wiki/Benutzer:Mewes" class="extiw" title="de:Benutzer:Mewes">de:Benutzer:Mewes</a></bdi></i></span>) unter Lizenz Public domain'
 ---
 
-Die Burgruine Grillenburg liegt östlich des Sangerhäuser Ortsteils Grillenberg. Sie befindet sich auf einer Anhöhe im Biosphärenreservat Karstlandschaft Südharz. :contentReference[oaicite:0]{index=0}
+Die Burgruine Grillenburg liegt östlich des Sangerhäuser Ortsteils Grillenberg. Sie befindet sich auf einer Anhöhe im Biosphärenreservat Karstlandschaft Südharz. 
 
 #### Historische Bedeutung
 
-Erstmals 1217 erwähnt, diente die Burg zum Schutz der Sangerhäuser Mulde. :contentReference[oaicite:1]{index=1} Im Laufe der Jahrhunderte wechselte sie mehrfach den Besitzer und verfiel schließlich im 17. Jahrhundert. :contentReference[oaicite:2]{index=2}
+Erstmals 1217 erwähnt, diente die Burg zum Schutz der Sangerhäuser Mulde.  Im Laufe der Jahrhunderte wechselte sie mehrfach den Besitzer und verfiel schließlich im 17. Jahrhundert. 
 
 #### Wanderwege zur Burgruine Grillenburg
 
-- **Startpunkt:** Parkplatz am Waldbad in Grillenberg. :contentReference[oaicite:3]{index=3}
+- **Startpunkt:** Parkplatz am Waldbad in Grillenberg. 
 - **Route:** Von dort dem ausgeschilderten Wanderweg zur Burgruine folgen.
 
 #### Anfahrt

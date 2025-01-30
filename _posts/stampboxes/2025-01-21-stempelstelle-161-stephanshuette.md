@@ -3,24 +3,24 @@ layout: post
 title:  "Stempelstelle 161: Stephanshütte"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/161-stephanshuette.jpg
+image: assets/images/stampboxes/161-stephanshuette.webp
 description: "Stempelstelle 161: Stephanshütte | Bad Sachsa"
 comments: false
 imageshadow: true
-imageSource: '📷 [Stephanshütte](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-161-stephanshuette/) von Harzer Wandernadel'
+imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
-Die Stephanshütte liegt auf 620 m Höhe zwischen dem Ravensberg bei Bad Sachsa und dem Stöberhai oberhalb von Wieda. :contentReference[oaicite:0]{index=0}
+Die Stephanshütte liegt auf 620 m Höhe zwischen dem Ravensberg bei Bad Sachsa und dem Stöberhai oberhalb von Wieda. 
 
 #### Heinrich von Stephan
 
-Die Hütte ist nach Heinrich von Stephan (1831–1897) benannt, dem Generalpostmeister des Deutschen Reiches. Er erfand die Postkarte und gründete 1874 den Weltpostverein. :contentReference[oaicite:1]{index=1}
+Die Hütte ist nach Heinrich von Stephan (1831–1897) benannt, dem Generalpostmeister des Deutschen Reiches. Er erfand die Postkarte und gründete 1874 den Weltpostverein. 
 
 #### Wanderwege zur Stephanshütte
 
-- **Parkplatz Dreiherrenstein**: Vom Parkplatz an der Ravensbergstraße führt ein nahezu ebener Weg zur Stephanshütte. :contentReference[oaicite:2]{index=2}
+- **Parkplatz Dreiherrenstein**: Vom Parkplatz an der Ravensbergstraße führt ein nahezu ebener Weg zur Stephanshütte. 
 
-- **Bad Sachsa**: Eine Wanderung von Bad Sachsa über den Ravensberg zur Stephanshütte bietet schöne Ausblicke. :contentReference[oaicite:3]{index=3}
+- **Bad Sachsa**: Eine Wanderung von Bad Sachsa über den Ravensberg zur Stephanshütte bietet schöne Ausblicke. 
 
 #### Anfahrt
 

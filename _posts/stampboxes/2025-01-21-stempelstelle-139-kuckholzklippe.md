@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Kuckholzklippe Aussichtsturm](https://commons.wikimedia.org/wiki/File:Kuckholzklippe_Aussichtsturm.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">B.Thomas95</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Kuckholzklippe liegt zwischen Lerbach und Buntenbock. Auf ihr steht ein 15 m hoher Aussichtsturm aus Stahlfachwerk. Von der Plattform bietet sich ein weiter Blick über den Harz und das Vorland. :contentReference[oaicite:0]{index=0}
+Die Kuckholzklippe liegt zwischen Lerbach und Buntenbock. Auf ihr steht ein 15 m hoher Aussichtsturm aus Stahlfachwerk. Von der Plattform bietet sich ein weiter Blick über den Harz und das Vorland. 
 
 #### Historischer Aussichtsturm
 
-Der Turm wurde 1897 erbaut und 1994 zum Baudenkmal erklärt. Über 75 Stufen gelangt man zur Aussichtsplattform. :contentReference[oaicite:1]{index=1}
+Der Turm wurde 1897 erbaut und 1994 zum Baudenkmal erklärt. Über 75 Stufen gelangt man zur Aussichtsplattform. 
 
 #### Wanderwege zur Kuckholzklippe
 
-- **Von Buntenbock**: Start am Wanderparkplatz "An der Trift". :contentReference[oaicite:2]{index=2}
-- **Von Lerbach**: Über den Eisenstein-Lehrpfad, vorbei an Concordia-Klippe und Claras Höhe. :contentReference[oaicite:3]{index=3}
+- **Von Buntenbock**: Start am Wanderparkplatz "An der Trift". 
+- **Von Lerbach**: Über den Eisenstein-Lehrpfad, vorbei an Concordia-Klippe und Claras Höhe. 
 
 #### Anfahrt
 

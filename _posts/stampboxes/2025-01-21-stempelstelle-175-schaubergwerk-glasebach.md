@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Grube Glasebach 2](https://commons.wikimedia.org/wiki/File:Grube_Glasebach_2.jpg) von <a href="//commons.wikimedia.org/wiki/User:Markscheider" title="User:Markscheider">Markscheider</a> unter Lizenz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)'
 ---
 
-Das Schaubergwerk Glasebach liegt etwa 800 m von Straßberg entfernt im Tal des Glasebachs. Die Stempelstelle befindet sich am Eingang des alten Glasebacher Stollens, nahe eines historischen Kalkofens. :contentReference[oaicite:0]{index=0}
+Das Schaubergwerk Glasebach liegt etwa 800 m von Straßberg entfernt im Tal des Glasebachs. Die Stempelstelle befindet sich am Eingang des alten Glasebacher Stollens, nahe eines historischen Kalkofens. 
 
 #### Historischer Kalkofen
 
-Der Kalkofen steht direkt am Kalksteinbruch. Die Kalksteine wurden in den Ofen in Form eines Gewölbes eingesetzt und mit Lehm abgedeckt. Von unten wurde ein Holzfeuer entzündet, bis alle Steine durchgebrannt waren. :contentReference[oaicite:1]{index=1}
+Der Kalkofen steht direkt am Kalksteinbruch. Die Kalksteine wurden in den Ofen in Form eines Gewölbes eingesetzt und mit Lehm abgedeckt. Von unten wurde ein Holzfeuer entzündet, bis alle Steine durchgebrannt waren. 
 
 #### Wanderwege zum Schaubergwerk Glasebach
 
-- **Startpunkt Straßberg**: Vom Ortsausgang Straßberg führt ein Wiesenweg direkt zum Schaubergwerk. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Straßberg**: Vom Ortsausgang Straßberg führt ein Wiesenweg direkt zum Schaubergwerk. 
 
-- **Neudorfer historischer Bergbaurundwanderweg**: Eine abwechslungsreiche Runde rund um Neudorf mit drei Pflichtstempeln für den "Harzer Steiger", darunter das Schaubergwerk Glasebach. :contentReference[oaicite:3]{index=3}
+- **Neudorfer historischer Bergbaurundwanderweg**: Eine abwechslungsreiche Runde rund um Neudorf mit drei Pflichtstempeln für den "Harzer Steiger", darunter das Schaubergwerk Glasebach. 
 
 #### Anfahrt
 

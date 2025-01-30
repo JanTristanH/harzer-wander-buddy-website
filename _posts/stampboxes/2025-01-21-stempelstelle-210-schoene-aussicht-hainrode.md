@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Schöne Aussicht Hainrode](https://commons.wikimedia.org/wiki/File:Sch%C3%B6ne_Aussicht_Hainrode.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 210 „Schöne Aussicht Hainrode“ liegt zwischen Hainrode und Questenberg im Biosphärenreservat „Karstlandschaft Südharz“. Von hier bietet sich ein weiter Blick über den Südharz bis zum Kyffhäuser. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 210 „Schöne Aussicht Hainrode“ liegt zwischen Hainrode und Questenberg im Biosphärenreservat „Karstlandschaft Südharz“. Von hier bietet sich ein weiter Blick über den Südharz bis zum Kyffhäuser. 
 
 #### Biosphärenreservat Karstlandschaft Südharz
 
-Das rund 30.000 Hektar große Biosphärenreservat zeichnet sich durch einzigartige Karstlandschaften mit Dolinen, Erdfällen und Höhlen aus. Diese besondere Geologie bietet Lebensraum für eine artenreiche Flora und Fauna. :contentReference[oaicite:1]{index=1}
+Das rund 30.000 Hektar große Biosphärenreservat zeichnet sich durch einzigartige Karstlandschaften mit Dolinen, Erdfällen und Höhlen aus. Diese besondere Geologie bietet Lebensraum für eine artenreiche Flora und Fauna. 
 
 #### Wanderwege zur Schönen Aussicht
 
-- **Von Hainrode**: Start im Ort, dem Karstwanderweg folgen, der zur Schönen Aussicht führt. :contentReference[oaicite:2]{index=2}
-- **Von Questenberg**: Beginn in Questenberg, dem Karstwanderweg über die Hasselbornschwinde und Dinsterbachschwinde folgen, dann der Beschilderung zur Schönen Aussicht folgen. :contentReference[oaicite:3]{index=3}
+- **Von Hainrode**: Start im Ort, dem Karstwanderweg folgen, der zur Schönen Aussicht führt. 
+- **Von Questenberg**: Beginn in Questenberg, dem Karstwanderweg über die Hasselbornschwinde und Dinsterbachschwinde folgen, dann der Beschilderung zur Schönen Aussicht folgen. 
 
 #### Anfahrt
 

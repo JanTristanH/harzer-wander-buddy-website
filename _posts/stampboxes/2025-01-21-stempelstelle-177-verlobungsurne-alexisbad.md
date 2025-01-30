@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Schutzhütte Verlobungsurne Alexisbad](https://commons.wikimedia.org/wiki/File:Schutzh%C3%BCtte_Verlobungsurne_Alexisbad.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Verlobungsurne steht auf dem Habichtstein über Alexisbad, einem Ortsteil von Harzgerode im Landkreis Harz, Sachsen-Anhalt. Sie wurde 1845/1846 von württembergischen Adligen errichtet und erinnert an deren Kuraufenthalt im September 1845. :contentReference[oaicite:0]{index=0}
+Die Verlobungsurne steht auf dem Habichtstein über Alexisbad, einem Ortsteil von Harzgerode im Landkreis Harz, Sachsen-Anhalt. Sie wurde 1845/1846 von württembergischen Adligen errichtet und erinnert an deren Kuraufenthalt im September 1845. 
 
 #### Historische Bedeutung
 
-Die Urne wurde von sechs jungen adligen Paaren aus Württemberg gestiftet, die hier unbeschwerte Tage verbrachten. :contentReference[oaicite:1]{index=1}
+Die Urne wurde von sechs jungen adligen Paaren aus Württemberg gestiftet, die hier unbeschwerte Tage verbrachten. 
 
 #### Wanderwege zur Verlobungsurne
 
-- **Startpunkt Alexisbad**: Von der Ortsmitte führt ein beschilderter Wanderweg direkt zur Verlobungsurne. :contentReference[oaicite:2]{index=2}
-- **Klippenweg**: Die Tour kann über den Klippenweg zur Köthener Hütte (HWN 195) fortgesetzt werden. :contentReference[oaicite:3]{index=3}
+- **Startpunkt Alexisbad**: Von der Ortsmitte führt ein beschilderter Wanderweg direkt zur Verlobungsurne. 
+- **Klippenweg**: Die Tour kann über den Klippenweg zur Köthener Hütte (HWN 195) fortgesetzt werden. 
 
 #### Anfahrt
 

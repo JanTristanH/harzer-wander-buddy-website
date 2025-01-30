@@ -1,38 +1,39 @@
 ---
 layout: post
-title:  "Stempelstelle 124: Köte am Heidenstieg"
+title:  "Stempelstelle 125: Schalker Turm"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/124-koete-am-heidenstieg.jpg
-description: "Stempelstelle 124: Köte am Heidenstieg | Schulenberg im Oberharz"
+image: assets/images/stampboxes/125-schalker-turm.jpg
+description: "Stempelstelle 125: Schalker Turm | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
-imageSource: '📷 [Köte am Heidenstieg](https://commons.wikimedia.org/wiki/File:K%C3%B6te_am_Heidensteig.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
+imageSource: '📷 [SchalkeGipfel](https://commons.wikimedia.org/wiki/File:SchalkeGipfel.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die **Köte am Heidenstieg** liegt im Wald oberhalb von Schulenberg im Oberharz. :contentReference[oaicite:0]{index=0}
+Der Schalker Turm liegt auf dem 762 Meter hohen Berg Schalke bei Clausthal-Zellerfeld. Die Stempelstelle 125 befindet sich in einer Schutzhütte neben dem Turm. Aktuell ist der Turm bis voraussichtlich Sommer 2025 gesperrt, jedoch bleibt die Stempelstelle zugänglich. :contentReference[oaicite:0]{index=0}
 
-#### Historischer Hintergrund
+#### Historische Bedeutung
 
-Das ursprüngliche Schulenberg war eine Bergbau- und Hüttensiedlung. 1954 wurde es durch die Okertalsperre überflutet. Der Ort wurde danach auf einem Plateau des Wiesenbergs in 500 m Höhe neu errichtet. :contentReference[oaicite:1]{index=1}
+1892 errichtete der Harzklub-Zweigverein Zellerfeld den Schalker Aussichtsturm. Während des Kalten Krieges befand sich hier ab 1959 der "Schalker Horchposten", eine französische Abhörstation. Der dazugehörige 64 Meter hohe Turm wurde 2002 abgerissen. :contentReference[oaicite:1]{index=1}
 
-#### Wanderwege zur Köte am Heidenstieg
+#### Wanderwege zum Schalker Turm
 
-- **Startpunkt:** Parkplatz Tannenhöhe
-  - **Route:** Dem Trimm-Dich-Pfad folgen. Für den Rückweg bietet sich der Waldlehrpfad an, der mit Schautafeln und geschnitzten Tierfiguren über Flora und Fauna informiert. :contentReference[oaicite:2]{index=2}
+- **Festenburg**: Ein Weg führt über den Lochstein (Stempelstelle 126) am Oberen Schalker Graben mit einem Anstieg von 220 Höhenmetern zum Turm. :contentReference[oaicite:2]{index=2}
+
+- **Wanderparkplatz "Auerhahn"**: Der kürzeste Aufstieg verläuft über die ehemalige Zufahrtsstraße des Horchpostens direkt zum Gipfel. :contentReference[oaicite:3]{index=3}
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.84091%2C%2010.42347) ist der Stempel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.830292%2C%2010.398714) ist der Stempel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:51.84091,10.42347">🗺️ Link</a> 
+  <a href="geo:51.830292,10.398714">🗺️ Link</a> 
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
 
-- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)
 - [**„Lochstein, Oberer Schalker Graben“ (HWN 126)**](/stempelstelle-126-lochstein-oberer-schalker-graben)
+- [**„Köte am Heidenstieg“ (HWN 124)**](/stempelstelle-124-koete-am-heidenstieg)

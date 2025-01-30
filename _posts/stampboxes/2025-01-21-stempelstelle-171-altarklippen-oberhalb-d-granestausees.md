@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Altarklippe](https://commons.wikimedia.org/wiki/File:Altarklippe.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Altarklippe (516 m ü. NN) liegt zwischen Hahnenklee und Wolfshagen, oberhalb des Granestausees. Von hier bietet sich ein einzigartiger Blick über die Granetalsperre. :contentReference[oaicite:0]{index=0}
+Die Altarklippe (516 m ü. NN) liegt zwischen Hahnenklee und Wolfshagen, oberhalb des Granestausees. Von hier bietet sich ein einzigartiger Blick über die Granetalsperre. 
 
 #### Historische Bedeutung
 
-Der Name der Altarklippe ist nicht eindeutig geklärt. Es wird vermutet, dass der Hildesheimer Bischof Altfrid (ca. 800–874) hier Gottesdienste abhielt, um die heidnische Bevölkerung des Harzes zum christlichen Glauben zu bekehren. :contentReference[oaicite:1]{index=1}
+Der Name der Altarklippe ist nicht eindeutig geklärt. Es wird vermutet, dass der Hildesheimer Bischof Altfrid (ca. 800–874) hier Gottesdienste abhielt, um die heidnische Bevölkerung des Harzes zum christlichen Glauben zu bekehren. 
 
 #### Wanderwege zur Altarklippe
 
-- **Hahnenklee**: Vom Parkplatz am Hotel Harzhöhe (Triftstraße) führt ein etwa 5,3 km langer Weg ohne große Höhenunterschiede zur Altarklippe. :contentReference[oaicite:2]{index=2}
+- **Hahnenklee**: Vom Parkplatz am Hotel Harzhöhe (Triftstraße) führt ein etwa 5,3 km langer Weg ohne große Höhenunterschiede zur Altarklippe. 
 
-- **Wolfshagen**: Start am Campingplatz, dann steiler Anstieg über den Mauserücken zu den Altarklippen. :contentReference[oaicite:3]{index=3}
+- **Wolfshagen**: Start am Campingplatz, dann steiler Anstieg über den Mauserücken zu den Altarklippen. 
 
 #### Anfahrt
 

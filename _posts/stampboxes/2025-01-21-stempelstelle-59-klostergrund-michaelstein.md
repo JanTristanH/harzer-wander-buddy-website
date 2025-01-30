@@ -3,11 +3,11 @@ layout: post
 title:  "Stempelstelle 59: Klostergrund Michaelstein"
 author: buddy
 categories: [ Stempelstelle ]
-image: assets/images/stampboxes/59-klostergrund-michaelstein.jpg
+image: assets/images/stampboxes/59-klostergrund-michaelstein.webp
 description: "Stempelstelle 59: Klostergrund Michaelstein | Blankenburg"
 comments: false
 imageshadow: true
-imageSource: '📷 [Klostergrund Michaelstein – Stempelstelle 59](https://www.harzer-wander-gui.de/harzer-wandernadel/059-klostergrund-michaelstein/) von Harzer*Wander*GuiDE unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
+imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 

@@ -14,15 +14,15 @@ Die Stempelstelle 163 "Gipfelblick am Kaiserweg" liegt zwischen Wieda, Zorge und
 
 #### Historischer Ort: Kapellenfleck
 
-In der Nähe befindet sich der Kapellenfleck (Stempelstelle 157). Hier stand vermutlich eine Kapelle aus dem Jahr 1297, die Reisenden als Raststätte diente. Heute sind noch Reste der Anlage erkennbar. :contentReference[oaicite:0]{index=0}
+In der Nähe befindet sich der Kapellenfleck (Stempelstelle 157). Hier stand vermutlich eine Kapelle aus dem Jahr 1297, die Reisenden als Raststätte diente. Heute sind noch Reste der Anlage erkennbar. 
 
 #### Wanderwege zum Gipfelblick am Kaiserweg
 
-- **Vom Parkplatz "Kaiserweg"** an der L601 zwischen Wieda und Braunlage führt ein stetiger Anstieg auf dem Kaiserweg über den Steigerkopf zur Stempelstelle. :contentReference[oaicite:1]{index=1}
+- **Vom Parkplatz "Kaiserweg"** an der L601 zwischen Wieda und Braunlage führt ein stetiger Anstieg auf dem Kaiserweg über den Steigerkopf zur Stempelstelle. 
 
-- **Ab Zorge**: Parken Sie an der Touristinfo und folgen Sie dem Hüttenweg bis zur Stempelstelle 160 "Helenenruh". Von dort weiter auf dem Kaiserweg zur Stempelstelle 163. :contentReference[oaicite:2]{index=2}
+- **Ab Zorge**: Parken Sie an der Touristinfo und folgen Sie dem Hüttenweg bis zur Stempelstelle 160 "Helenenruh". Von dort weiter auf dem Kaiserweg zur Stempelstelle 163. 
 
-- **Vom Parkplatz "Lausebuche"** zwischen Braunlage und Oderhaus wandern Sie zunächst zur Stempelstelle 157 "Kapellenfleck". Danach weiter entlang des Kaiserwegs Richtung Wieda zur Stempelstelle 163. :contentReference[oaicite:3]{index=3}
+- **Vom Parkplatz "Lausebuche"** zwischen Braunlage und Oderhaus wandern Sie zunächst zur Stempelstelle 157 "Kapellenfleck". Danach weiter entlang des Kaiserwegs Richtung Wieda zur Stempelstelle 163. 
 
 #### Anfahrt
 

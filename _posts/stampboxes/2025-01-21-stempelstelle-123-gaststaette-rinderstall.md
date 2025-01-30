@@ -10,18 +10,18 @@ imageshadow: true
 imageSource: '📷 [Gaststätte Rinderstall](https://commons.wikimedia.org/wiki/File:Gastst%C3%A4tte_Rinderstall.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Gaststätte Rinderstall liegt zwischen Braunlage und Sankt Andreasberg im idyllischen Odertal. Sie ist Stempelstelle 123 der Harzer Wandernadel. :contentReference[oaicite:0]{index=0}
+Die Gaststätte Rinderstall liegt zwischen Braunlage und Sankt Andreasberg im idyllischen Odertal. Sie ist Stempelstelle 123 der Harzer Wandernadel. 
 
 #### Historische Bedeutung
 
-Seit 1870 diente das Odertal als Sommerweide für die braunen Harzrinder. Der Rinderstall bot Unterkunft für Hirten und Tiere. Später entwickelte er sich zur beliebten Waldgaststätte. :contentReference[oaicite:1]{index=1}
+Seit 1870 diente das Odertal als Sommerweide für die braunen Harzrinder. Der Rinderstall bot Unterkunft für Hirten und Tiere. Später entwickelte er sich zur beliebten Waldgaststätte. 
 
 #### Wanderwege zur Gaststätte Rinderstall
 
 - **Oderhaus**: Start am Parkplatz Oderhaus, ebener Weg zum Rinderstall.
 - **Oderteich**: Wanderung über das Oberharzer Wasserregal, ca. 6,7 km.
 - **Königskrug**: Route von Königskrug, ca. 5,3 km.
-- **St. Andreasberg**: Weg ab St. Andreasberg, ca. 3,7 km. :contentReference[oaicite:2]{index=2}
+- **St. Andreasberg**: Weg ab St. Andreasberg, ca. 3,7 km. 
 
 #### Anfahrt
 

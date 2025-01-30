@@ -18,9 +18,9 @@ Die Mandolinenhütte liegt am Steinway Trail, der von Wolfshagen nach Seesen fü
 
 #### Wanderwege zur Mandolinenhütte
 
-- **Sparrenbergsiedlung (Lautenthal):** An der Bushaltestelle beginnt der beschilderte Ochsentalweg, der nach ca. 1,5 km zur Mandolinenhütte führt. :contentReference[oaicite:0]{index=0}
+- **Sparrenbergsiedlung (Lautenthal):** An der Bushaltestelle beginnt der beschilderte Ochsentalweg, der nach ca. 1,5 km zur Mandolinenhütte führt. 
 
-- **Prinzenteich:** Parken Sie auf einem der ausgewiesenen Wanderparkplätze am Prinzenteich und wandern Sie über den Harzer Försterstieg direkt zur Stempelstelle. :contentReference[oaicite:1]{index=1}
+- **Prinzenteich:** Parken Sie auf einem der ausgewiesenen Wanderparkplätze am Prinzenteich und wandern Sie über den Harzer Försterstieg direkt zur Stempelstelle. 
 
 #### Anfahrt
 

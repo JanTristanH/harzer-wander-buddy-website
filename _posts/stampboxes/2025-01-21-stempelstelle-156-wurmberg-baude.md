@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Wurmbergbaude](https://commons.wikimedia.org/wiki/File:Wurmbergbaude.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Wurmberg-Baude liegt auf dem 971 m hohen Wurmberg, dem höchsten Berg Niedersachsens und zweithöchsten im Harz. Sie befindet sich etwa 3 km nördlich von Braunlage. Der Stempelkasten der Harzer Wandernadel ist direkt an der Wurmbergalm auf dem Gipfel angebracht. :contentReference[oaicite:0]{index=0}
+Die Wurmberg-Baude liegt auf dem 971 m hohen Wurmberg, dem höchsten Berg Niedersachsens und zweithöchsten im Harz. Sie befindet sich etwa 3 km nördlich von Braunlage. Der Stempelkasten der Harzer Wandernadel ist direkt an der Wurmbergalm auf dem Gipfel angebracht. 
 
 #### Geschichte der Wurmberg-Baude
 
-1950 wurde neben der Wurmbergschanze eine Baude errichtet, die heutige Wurmbergalm. Die Skisprungschanze wurde 2014 wegen Bauschäden abgerissen. :contentReference[oaicite:1]{index=1}
+1950 wurde neben der Wurmbergschanze eine Baude errichtet, die heutige Wurmbergalm. Die Skisprungschanze wurde 2014 wegen Bauschäden abgerissen. 
 
 #### Wanderwege zur Wurmberg-Baude
 
@@ -30,7 +30,7 @@ Mögliche Startpunkte und Routen:
 - **Torfhaus, Parkplatz Brockenblick**: 8,9 km
 - **Wanderparkplatz B27 Gedenkstein Grenzöffnung**: 3,5 km
 
-*Hinweis: Parkplätze mit \* sind kostenpflichtig.* :contentReference[oaicite:2]{index=2}
+*Hinweis: Parkplätze mit \* sind kostenpflichtig.* 
 
 #### Anfahrt
 

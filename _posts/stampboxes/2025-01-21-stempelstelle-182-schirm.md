@@ -11,14 +11,14 @@ imageSource: '📷 [Schirm im Selketal](https://commons.wikimedia.org/wiki/File:
 ---
 
 
-::contentReference[oaicite:0]{index=0}
+:
 
 
-Der "Schirm" ist ein Rastplatz im Naturschutzgebiet Burgesroth-Bruchholz, zwischen Ballenstedt und dem Selketal bei Mägdesprung. :contentReference[oaicite:1]{index=1}
+Der "Schirm" ist ein Rastplatz im Naturschutzgebiet Burgesroth-Bruchholz, zwischen Ballenstedt und dem Selketal bei Mägdesprung. 
 
 #### Historische Bedeutung
 
-1728 ließ Fürst Victor Friedrich von Anhalt-Bernburg eine Jagdbahn für die Parforcejagd anlegen. An bestimmten Punkten entstanden "Schirme" – überdachte Jagdansitze. :contentReference[oaicite:2]{index=2}
+1728 ließ Fürst Victor Friedrich von Anhalt-Bernburg eine Jagdbahn für die Parforcejagd anlegen. An bestimmten Punkten entstanden "Schirme" – überdachte Jagdansitze. 
 
 #### Wanderwege zum Schirm
 
@@ -26,7 +26,7 @@ Der "Schirm" ist ein Rastplatz im Naturschutzgebiet Burgesroth-Bruchholz, zwisch
 - **Selkemühle**: 2,4 km
 - **Sternhaus**: 3,4 km
 
-:contentReference[oaicite:3]{index=3}
+
 
 #### Anfahrt
 

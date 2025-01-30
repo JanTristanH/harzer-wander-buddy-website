@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Blick von der Lutherbuche auf Stolberg](https://commons.wikimedia.org/wiki/File:Blick_von_der_Lutherbuche_auf_Stolberg.JPG) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Lutherbuche liegt südwestlich von Stolberg, oberhalb der Stubengasse. Von hier bietet sich ein herrlicher Blick auf Schloss und Stadt. :contentReference[oaicite:0]{index=0}
+Die Lutherbuche liegt südwestlich von Stolberg, oberhalb der Stubengasse. Von hier bietet sich ein herrlicher Blick auf Schloss und Stadt. 
 
 #### Historischer Hintergrund
 
-Im Frühjahr 1525 besuchte Martin Luther Stolberg, um in der Sankt-Martini-Kirche zu predigen. Sein Ziel war es, die aufgebrachten Bauern und Bürger zu beruhigen, was ihm jedoch nicht gelang. Während seines Aufenthalts unternahm er mit seinem Freund Wilhelm Reiffenstein Spaziergänge auf den umliegenden Höhenzügen. Einer Legende zufolge verglich Luther dabei die Stadt mit einem Vogel: Das Schloss sei der Kopf, die beiden Gassen die Flügel, der Markt der Rumpf und die Niedergasse der Schwanz. :contentReference[oaicite:1]{index=1}
+Im Frühjahr 1525 besuchte Martin Luther Stolberg, um in der Sankt-Martini-Kirche zu predigen. Sein Ziel war es, die aufgebrachten Bauern und Bürger zu beruhigen, was ihm jedoch nicht gelang. Während seines Aufenthalts unternahm er mit seinem Freund Wilhelm Reiffenstein Spaziergänge auf den umliegenden Höhenzügen. Einer Legende zufolge verglich Luther dabei die Stadt mit einem Vogel: Das Schloss sei der Kopf, die beiden Gassen die Flügel, der Markt der Rumpf und die Niedergasse der Schwanz. 
 
 #### Wanderwege zur Lutherbuche
 
-- **Vom Marktplatz Stolberg**: Gehe durch das Saigertor und folge der Stubengasse zu den Bandwegen. Am höchsten Punkt des Oberen Bandweges erreichst du die Lutherbuche. :contentReference[oaicite:2]{index=2}
+- **Vom Marktplatz Stolberg**: Gehe durch das Saigertor und folge der Stubengasse zu den Bandwegen. Am höchsten Punkt des Oberen Bandweges erreichst du die Lutherbuche. 
 
-- **Oberer Bandweg**: Ein mittelschwerer Rundweg um Stolberg mit abwechslungsreichen Ausblicken auf die Stadt und die umliegenden Buchenwälder. Mehrere Ein- und Ausstiege ermöglichen eine flexible Tourenplanung. :contentReference[oaicite:3]{index=3}
+- **Oberer Bandweg**: Ein mittelschwerer Rundweg um Stolberg mit abwechslungsreichen Ausblicken auf die Stadt und die umliegenden Buchenwälder. Mehrere Ein- und Ausstiege ermöglichen eine flexible Tourenplanung. 
 
 #### Anfahrt
 

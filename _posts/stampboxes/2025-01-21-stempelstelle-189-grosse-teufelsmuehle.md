@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Große Teufelsmühle](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Teufelsm%C3%BChle.jpg) von <a href="https://de.wikipedia.org/wiki/User:Hejkal" class="extiw" title="de:User:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Die Große Teufelsmühle ist eine beeindruckende Granit-Felsformation auf der Viktorshöhe (581 m ü. NN) im Rambergmassiv bei Friedrichsbrunn. Sie zeigt typische Wollsackverwitterungen, bei denen kantige Gesteinsblöcke wie übereinander gestapelte Kissen erscheinen. :contentReference[oaicite:0]{index=0}
+Die Große Teufelsmühle ist eine beeindruckende Granit-Felsformation auf der Viktorshöhe (581 m ü. NN) im Rambergmassiv bei Friedrichsbrunn. Sie zeigt typische Wollsackverwitterungen, bei denen kantige Gesteinsblöcke wie übereinander gestapelte Kissen erscheinen. 
 
 #### Sage der Teufelsmühle
 
-Einer Legende zufolge schloss ein Müller einen Pakt mit dem Teufel, der ihm in einer Nacht eine Mühle bauen sollte. Aus Angst entfernte der Müller kurz vor Fertigstellung einen wichtigen Stein. Der Teufel wurde wütend, zerstörte die Mühle und erschlug den Müller mit einem Felsbrocken. :contentReference[oaicite:1]{index=1}
+Einer Legende zufolge schloss ein Müller einen Pakt mit dem Teufel, der ihm in einer Nacht eine Mühle bauen sollte. Aus Angst entfernte der Müller kurz vor Fertigstellung einen wichtigen Stein. Der Teufel wurde wütend, zerstörte die Mühle und erschlug den Müller mit einem Felsbrocken. 
 
 #### Wanderwege zur Großen Teufelsmühle
 
-- **Friedrichsbrunn**: Vom Wanderparkplatz nahe dem Kurpark führt der beschilderte Ramberger Höhenweg zur Viktorshöhe. Die Route kann über den Bergrat-Müller-Teich (HWN 190) als Rundweg gestaltet werden. :contentReference[oaicite:2]{index=2}
+- **Friedrichsbrunn**: Vom Wanderparkplatz nahe dem Kurpark führt der beschilderte Ramberger Höhenweg zur Viktorshöhe. Die Route kann über den Bergrat-Müller-Teich (HWN 190) als Rundweg gestaltet werden. 
 - **Alexisbad**: Ein etwa 7,1 km langer Weg führt zur Teufelsmühle.
 - **Mägdesprung**: Rund 5,1 km Wanderstrecke bis zum Ziel.
 

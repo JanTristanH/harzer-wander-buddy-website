@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Rastplatz Stahlquelle](https://commons.wikimedia.org/wiki/File:Rastplatz_Stahlquelle.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stahlquelle liegt oberhalb des Tals der Schmalen Wipper auf dem Wipperberg bei Neudorf. Sie wurde 1926 entdeckt und 1931 für Besucher erschlossen. Seitdem trägt sie zum Ruf Neudorfs als Erholungsort bei. :contentReference[oaicite:0]{index=0}
+Die Stahlquelle liegt oberhalb des Tals der Schmalen Wipper auf dem Wipperberg bei Neudorf. Sie wurde 1926 entdeckt und 1931 für Besucher erschlossen. Seitdem trägt sie zum Ruf Neudorfs als Erholungsort bei. 
 
 #### Historischer Hintergrund
 
-Die Quelle wurde 1926 von Obersteiger W. Bock entdeckt. 1931 wurde sie für den Fremdenverkehr erschlossen und stärkte Neudorfs Ruf als Erholungsort. :contentReference[oaicite:1]{index=1}
+Die Quelle wurde 1926 von Obersteiger W. Bock entdeckt. 1931 wurde sie für den Fremdenverkehr erschlossen und stärkte Neudorfs Ruf als Erholungsort. 
 
 #### Wanderwege zur Stahlquelle
 
-- **Neudorfer Bergbaurundwanderweg**: Ein 15 km langer Weg, der die über 600-jährige Bergbaugeschichte des Neudorfer Reviers präsentiert. Über die "Menschentrappe", einen steilen Hohlweg, gelangt man zur Stahlquelle. :contentReference[oaicite:2]{index=2}
+- **Neudorfer Bergbaurundwanderweg**: Ein 15 km langer Weg, der die über 600-jährige Bergbaugeschichte des Neudorfer Reviers präsentiert. Über die "Menschentrappe", einen steilen Hohlweg, gelangt man zur Stahlquelle. 
 
-- **Kurze Route**: Vom kleinen Parkplatz an der Straße von Neudorf nach Dankerode führt ein kurzer Weg direkt zur Stahlquelle. :contentReference[oaicite:3]{index=3}
+- **Kurze Route**: Vom kleinen Parkplatz an der Straße von Neudorf nach Dankerode führt ein kurzer Weg direkt zur Stahlquelle. 
 
 #### Anfahrt
 

@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Sachsensteinhütte](https://commons.wikimedia.org/wiki/File:Sachsensteinh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Sachsensteinhütte (Stempelstelle 166) liegt auf dem markanten Gipsmassiv des Sachsensteins zwischen Neuhof und Bad Sachsa. Von hier bietet sich ein beeindruckender Blick auf Bad Sachsa und das umliegende Karstgebiet. :contentReference[oaicite:0]{index=0}
+Die Sachsensteinhütte (Stempelstelle 166) liegt auf dem markanten Gipsmassiv des Sachsensteins zwischen Neuhof und Bad Sachsa. Von hier bietet sich ein beeindruckender Blick auf Bad Sachsa und das umliegende Karstgebiet. 
 
 #### Historische Bedeutung des Sachsensteins
 
-Der Sachsenstein war Schauplatz von Auseinandersetzungen zwischen Franken und Sachsen im 6. Jahrhundert. Die siegreichen Sachsen errichteten hier eine Wallburg. Im Jahr 1065 ließ König Heinrich IV. eine Burg errichten, die jedoch 1074 zerstört wurde. Reste dieser Anlagen sind noch vorhanden. :contentReference[oaicite:1]{index=1}
+Der Sachsenstein war Schauplatz von Auseinandersetzungen zwischen Franken und Sachsen im 6. Jahrhundert. Die siegreichen Sachsen errichteten hier eine Wallburg. Im Jahr 1065 ließ König Heinrich IV. eine Burg errichten, die jedoch 1074 zerstört wurde. Reste dieser Anlagen sind noch vorhanden. 
 
 #### Wanderwege zur Sachsensteinhütte
 
-- **Startpunkt Neuhof**: Gut ausgeschilderter Weg führt zum Sachsenstein und weiter zum historischen Gipsbrennofen (Stempelstelle 192). :contentReference[oaicite:2]{index=2}
+- **Startpunkt Neuhof**: Gut ausgeschilderter Weg führt zum Sachsenstein und weiter zum historischen Gipsbrennofen (Stempelstelle 192). 
 
-- **Rundweg ab Branderode**: Wanderung zur Burgruine Sachsenstein und zur Sachsensteinhütte. :contentReference[oaicite:3]{index=3}
+- **Rundweg ab Branderode**: Wanderung zur Burgruine Sachsenstein und zur Sachsensteinhütte. 
 
 #### Anfahrt
 

@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Josephskreuz 20210914 HOF06021 RAW-Export 20220427002395](https://commons.wikimedia.org/wiki/File:Josephskreuz_20210914_HOF06021_RAW-Export_20220427002395.jpg) von <a href="//commons.wikimedia.org/wiki/User:PantheraLeo1359531" title="User:PantheraLeo1359531">PantheraLeo1359531</a> unter Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)'
 ---
 
-Die Josephshöhe ist der Südgipfel des Großen Auerbergs (580 m ü. NN) bei Stolberg im Harz. Hier steht das 38 Meter hohe Josephskreuz, ein beeindruckendes Doppelkreuz aus Stahlfachwerk. :contentReference[oaicite:0]{index=0}
+Die Josephshöhe ist der Südgipfel des Großen Auerbergs (580 m ü. NN) bei Stolberg im Harz. Hier steht das 38 Meter hohe Josephskreuz, ein beeindruckendes Doppelkreuz aus Stahlfachwerk. 
 
 #### Josephskreuz: Historisches Wahrzeichen
 
-Bereits im 17. Jahrhundert gab es hier einen hölzernen Aussichtsturm. 1896 wurde das heutige Josephskreuz errichtet. Es gilt als das größte eiserne Doppelkreuz der Welt und bietet eine herrliche Aussicht über den Harz und bis zum Kyffhäuser. :contentReference[oaicite:1]{index=1}
+Bereits im 17. Jahrhundert gab es hier einen hölzernen Aussichtsturm. 1896 wurde das heutige Josephskreuz errichtet. Es gilt als das größte eiserne Doppelkreuz der Welt und bietet eine herrliche Aussicht über den Harz und bis zum Kyffhäuser. 
 
 #### Wanderwege zum Josephskreuz
 
-- **Parkplatz Auerberg**: Vom Parkplatz am Fuße des Auerbergs führen beschilderte Wanderwege hinauf zum Josephskreuz. :contentReference[oaicite:2]{index=2}
-- **Naturresort Schindelbruch**: Von hier führt die "Straße der Lieder" mit 16 Texttafeln deutscher Volkslieder zur Josephshöhe. :contentReference[oaicite:3]{index=3}
+- **Parkplatz Auerberg**: Vom Parkplatz am Fuße des Auerbergs führen beschilderte Wanderwege hinauf zum Josephskreuz. 
+- **Naturresort Schindelbruch**: Von hier führt die "Straße der Lieder" mit 16 Texttafeln deutscher Volkslieder zur Josephshöhe. 
 
 #### Anfahrt
 

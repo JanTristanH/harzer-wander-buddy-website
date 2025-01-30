@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [Aussicht Hassenstein](https://commons.wikimedia.org/wiki/File:Aussicht_Hassenstein.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Hassenstein (560 m ü. NN) liegt oberhalb der Odertalsperre bei Bad Lauterberg. Hier befindet sich eine Schutzhütte mit Aussichtspunkt. :contentReference[oaicite:0]{index=0}
+Der Hassenstein (560 m ü. NN) liegt oberhalb der Odertalsperre bei Bad Lauterberg. Hier befindet sich eine Schutzhütte mit Aussichtspunkt. 
 
 #### Wanderwege zum Hassenstein
 
 - **Startpunkt:** Parkplatz „Meilerplatz“ am Ortsrand von Bad Lauterberg unterhalb des Panoramic Hotels.
-  - **Route:** Über die Straße Dietrichstal zum Waldrand, dann den beschilderten Wegen stetig bergauf zur Hassensteinhütte folgen. :contentReference[oaicite:1]{index=1}
+  - **Route:** Über die Straße Dietrichstal zum Waldrand, dann den beschilderten Wegen stetig bergauf zur Hassensteinhütte folgen. 
 
 - **Alternative Route:** Vom Parkplatz der Odertalsperre entlang des Campingplatzes und des Sees in den Wald hinauf zum Jagdkopf.
-  - **Route:** Gut befestigte oder gepflasterte Waldwege führen zum Hassenstein. :contentReference[oaicite:2]{index=2}
+  - **Route:** Gut befestigte oder gepflasterte Waldwege führen zum Hassenstein. 
 
 #### Anfahrt
 

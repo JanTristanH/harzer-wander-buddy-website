@@ -10,7 +10,7 @@ imageshadow: true
 imageSource: '📷 [Jaegersbleeker Teich 030](https://commons.wikimedia.org/wiki/File:Jaegersbleeker_Teich_030.jpg) von Sarkana unter Lizenz [FAL](http://artlibre.org/licence/lal/en)'
 ---
 
-Der Jägersbleeker Teich liegt zwischen Clausthal-Zellerfeld und dem Sperberhaier Dammhaus. Er gehört zum Oberharzer Wasserregal, dient der Trinkwassergewinnung und steht unter Biotopschutz. Am Ende des Staudamms steht die nach Forstamtmann August Weppner benannte Schutzhütte mit der Stempelstelle 127. :contentReference[oaicite:0]{index=0}
+Der Jägersbleeker Teich liegt zwischen Clausthal-Zellerfeld und dem Sperberhaier Dammhaus. Er gehört zum Oberharzer Wasserregal, dient der Trinkwassergewinnung und steht unter Biotopschutz. Am Ende des Staudamms steht die nach Forstamtmann August Weppner benannte Schutzhütte mit der Stempelstelle 127. 
 
 #### Oberharzer Wasserregal
 
@@ -18,9 +18,9 @@ Das Oberharzer Wasserregal ist ein historisches System von Teichen, Gräben und 
 
 #### Wanderwege zur Weppner Hütte
 
-- **Polsterberger Hubhaus**: Von der Waldgaststätte führt ein Wanderweg oberhalb der Terrasse durch den Wald direkt zur Stempelstelle. :contentReference[oaicite:1]{index=1}
+- **Polsterberger Hubhaus**: Von der Waldgaststätte führt ein Wanderweg oberhalb der Terrasse durch den Wald direkt zur Stempelstelle. 
 
-- **Clausthal-Zellerfeld**: Ein Weg über den Damm des Jägersbleeker Teichs verbindet die Stadt mit der Weppner Hütte. :contentReference[oaicite:2]{index=2}
+- **Clausthal-Zellerfeld**: Ein Weg über den Damm des Jägersbleeker Teichs verbindet die Stadt mit der Weppner Hütte. 
 
 #### Anfahrt
 

@@ -10,15 +10,15 @@ imageshadow: true
 imageSource: '📷 [HWN214 Reesbergdoline](https://commons.wikimedia.org/wiki/File:HWN214_Reesbergdoline.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Miebner" class="extiw" title="w:de:User:Miebner">w:de:User:Miebner</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Reesbergdoline liegt zwischen der Karsthöhle Heimkehle bei Uftrungen und dem Reesberg (325 m ü. NN) im Alten Stolberg. Sie ist eine beeindruckende 22 Meter tiefe Doline, entstanden durch die Auflösung von Gips im Untergrund. :contentReference[oaicite:0]{index=0}
+Die Reesbergdoline liegt zwischen der Karsthöhle Heimkehle bei Uftrungen und dem Reesberg (325 m ü. NN) im Alten Stolberg. Sie ist eine beeindruckende 22 Meter tiefe Doline, entstanden durch die Auflösung von Gips im Untergrund. 
 
 #### Karsthöhle Heimkehle
 
-In der Nähe befindet sich die Schauhöhle Heimkehle. Sie wurde erstmals 1357 erwähnt und erstreckt sich über die Grenze von Sachsen-Anhalt und Thüringen. :contentReference[oaicite:1]{index=1}
+In der Nähe befindet sich die Schauhöhle Heimkehle. Sie wurde erstmals 1357 erwähnt und erstreckt sich über die Grenze von Sachsen-Anhalt und Thüringen. 
 
 #### Wanderwege zur Reesbergdoline
 
-- **Parkplatz Heimkehle**: Vom Parkplatz an der Heimkehle führt der Karstwanderweg direkt zur Doline. :contentReference[oaicite:2]{index=2}
+- **Parkplatz Heimkehle**: Vom Parkplatz an der Heimkehle führt der Karstwanderweg direkt zur Doline. 
 
 #### Anfahrt
 

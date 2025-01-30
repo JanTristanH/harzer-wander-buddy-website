@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Luchsstein](https://commons.wikimedia.org/wiki/File:Luchsstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Hejkal</a> unter Lizenz [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)'
 ---
 
-Der Luchsstein liegt nordwestlich von Lautenthal im Harz. Er erinnert an die Erlegung des letzten Harzer Luchses im Jahr 1818. :contentReference[oaicite:0]{index=0}
+Der Luchsstein liegt nordwestlich von Lautenthal im Harz. Er erinnert an die Erlegung des letzten Harzer Luchses im Jahr 1818. 
 
 #### Historische Bedeutung
 
-Am 17. März 1818 erlegte der Reitende Förster Spellerberg nach einer elftägigen Jagd den letzten Luchs im Harz. :contentReference[oaicite:1]{index=1}
+Am 17. März 1818 erlegte der Reitende Förster Spellerberg nach einer elftägigen Jagd den letzten Luchs im Harz. 
 
 #### Wanderwege zum Luchsstein
 
-- **Parkplatz Sternplatz**: Von hier führt ein breiter, beschilderter Forstweg direkt zum Luchsstein. :contentReference[oaicite:2]{index=2}
-- **Rundwanderung**: Eine Route verbindet die Stempelstellen Luchsstein (HWN 103), Tränkebachhütte (HWN 104) und Lageswarte (HWN 102). :contentReference[oaicite:3]{index=3}
+- **Parkplatz Sternplatz**: Von hier führt ein breiter, beschilderter Forstweg direkt zum Luchsstein. 
+- **Rundwanderung**: Eine Route verbindet die Stempelstellen Luchsstein (HWN 103), Tränkebachhütte (HWN 104) und Lageswarte (HWN 102). 
 
 #### Anfahrt
 

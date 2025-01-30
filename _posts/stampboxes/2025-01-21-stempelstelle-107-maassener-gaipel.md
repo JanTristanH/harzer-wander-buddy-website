@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Maaßener Gaipel](https://commons.wikimedia.org/wiki/File:Maassener_Gaipel_01.JPG) von <a href="https://de.wikipedia.org/wiki/User:Matthias_Becker" class="extiw" title="de:User:Matthias Becker">Matthias Becker</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Der Maaßener Gaipel liegt oberhalb von Lautenthal im Harz. Von hier bietet sich ein beeindruckender Blick auf die Stadt und die umliegende Berglandschaft. :contentReference[oaicite:0]{index=0}
+Der Maaßener Gaipel liegt oberhalb von Lautenthal im Harz. Von hier bietet sich ein beeindruckender Blick auf die Stadt und die umliegende Berglandschaft. 
 
 #### Historische Bedeutung
 
-Der Begriff "Gaipel" stammt von den früheren Göpelrädern, mit denen Pferde silberhaltige Erze aus dem Schacht förderten. Heute erinnert ein Bergbauerlebnispfad in der Nähe an diese Bergbaugeschichte. :contentReference[oaicite:1]{index=1}
+Der Begriff "Gaipel" stammt von den früheren Göpelrädern, mit denen Pferde silberhaltige Erze aus dem Schacht förderten. Heute erinnert ein Bergbauerlebnispfad in der Nähe an diese Bergbaugeschichte. 
 
 #### Wanderwege zum Maaßener Gaipel
 
 - **Parkplatz beim Restaurant**: es kann dierekt bis zur Maaßener Gaipel vorgefahren werden
 - **Startpunkt Lautenthal**: Vom Ortszentrum führt ein markierter Weg direkt zum Maaßener Gaipel.
-- **Bergbaulehrpfad**: Ein thematischer Pfad von Lautenthal aus, der die Bergbaugeschichte der Region erläutert. :contentReference[oaicite:2]{index=2}
+- **Bergbaulehrpfad**: Ein thematischer Pfad von Lautenthal aus, der die Bergbaugeschichte der Region erläutert. 
 
 #### Anfahrt
 

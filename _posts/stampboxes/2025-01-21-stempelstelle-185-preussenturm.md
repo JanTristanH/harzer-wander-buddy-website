@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Preußenturm Bad Suderode](https://commons.wikimedia.org/wiki/File:Preu%C3%9Fenturm_Bad_Suderode.jpg) von <a href="//commons.wikimedia.org/wiki/User:Olaf2" title="User:Olaf2">Olaf Meister</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Preußenturm steht auf dem Schwedderberg, südlich von Bad Suderode. Er bietet eine herrliche Aussicht auf das Harzvorland. :contentReference[oaicite:0]{index=0}
+Der Preußenturm steht auf dem Schwedderberg, südlich von Bad Suderode. Er bietet eine herrliche Aussicht auf das Harzvorland. 
 
 #### Geschichte des Preußenturms
 
-1845 stiftete der Magdeburger Druckereibesitzer August Baentsch den ersten Turm. 1953 wurde ein neuer Turm errichtet, der 1991 wieder den Namen Preußenturm erhielt. :contentReference[oaicite:1]{index=1}
+1845 stiftete der Magdeburger Druckereibesitzer August Baentsch den ersten Turm. 1953 wurde ein neuer Turm errichtet, der 1991 wieder den Namen Preußenturm erhielt. 
 
 #### Wanderwege zum Preußenturm
 
-- **Bad Suderode, Kurpark**: Vom Behringer Brunnen führt ein beschilderter Weg direkt zum Turm. :contentReference[oaicite:2]{index=2}
-- **Parkplatz L239 Sportplatz / Felsenkeller**: Ein kurzer Aufstieg von etwa 0,5 km. :contentReference[oaicite:3]{index=3}
+- **Bad Suderode, Kurpark**: Vom Behringer Brunnen führt ein beschilderter Weg direkt zum Turm. 
+- **Parkplatz L239 Sportplatz / Felsenkeller**: Ein kurzer Aufstieg von etwa 0,5 km. 
 
 #### Anfahrt
 

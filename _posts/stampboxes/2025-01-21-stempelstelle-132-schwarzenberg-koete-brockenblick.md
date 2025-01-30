@@ -10,13 +10,13 @@ imageshadow: true
 imageSource: '📷 [Schwarzenberg Altenau](https://commons.wikimedia.org/wiki/File:Schwarzenberg_Altenau.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die **Stempelstelle 132** der Harzer Wandernadel befindet sich auf dem 540 Meter hohen Schwarzenberg oberhalb von Altenau. Von hier bietet sich ein Panoramablick über Altenau bis zum Brocken. :contentReference[oaicite:0]{index=0}
+Die **Stempelstelle 132** der Harzer Wandernadel befindet sich auf dem 540 Meter hohen Schwarzenberg oberhalb von Altenau. Von hier bietet sich ein Panoramablick über Altenau bis zum Brocken. 
 
 #### Wanderwege zur Köte Brockenblick
 
-- **Vom Wanderparkplatz am Ortseingang Altenau**: Aus Richtung Torfhaus kommend, führt ein beschilderter Weg direkt zur Köte Brockenblick. :contentReference[oaicite:1]{index=1}
+- **Vom Wanderparkplatz am Ortseingang Altenau**: Aus Richtung Torfhaus kommend, führt ein beschilderter Weg direkt zur Köte Brockenblick. 
 
-- **Rundwanderung ab Altenau**: Eine etwa 5 km lange Route beginnt am Parkplatz Schultal in der Ortsmitte von Altenau und führt durch Mischwälder, vorbei an Teichen und Gräben, zur Köte Brockenblick. :contentReference[oaicite:2]{index=2}
+- **Rundwanderung ab Altenau**: Eine etwa 5 km lange Route beginnt am Parkplatz Schultal in der Ortsmitte von Altenau und führt durch Mischwälder, vorbei an Teichen und Gräben, zur Köte Brockenblick. 
 
 #### Anfahrt
 

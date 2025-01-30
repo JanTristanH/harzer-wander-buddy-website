@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Katzsohlteich](https://commons.wikimedia.org/wiki/File:Katzsohlteich.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Der Katzsohlteich ist ein Stauteich am Ortsrand von Güntersberge, oberhalb des Bergsees. Er dient als Vorfluter und Fischgewässer. Ein schöner Rastplatz lädt zum Verweilen ein. :contentReference[oaicite:0]{index=0}
+Der Katzsohlteich ist ein Stauteich am Ortsrand von Güntersberge, oberhalb des Bergsees. Er dient als Vorfluter und Fischgewässer. Ein schöner Rastplatz lädt zum Verweilen ein. 
 
 #### Ehemalige Marmormühle
 
-Früher stand hier eine Marmormühle, die Marmor aus einem nahegelegenen Steinbruch verarbeitete. Heute existiert sie nicht mehr. :contentReference[oaicite:1]{index=1}
+Früher stand hier eine Marmormühle, die Marmor aus einem nahegelegenen Steinbruch verarbeitete. Heute existiert sie nicht mehr. 
 
 #### Wanderwege zum Katzsohlteich
 
 - **Startpunkt:** Parkplatz am Bergsee in Güntersberge
-  - **Route:** Vom Parkplatz dem ausgeschilderten Rundweg folgen und zum Katzsohlteich abbiegen. :contentReference[oaicite:2]{index=2}
+  - **Route:** Vom Parkplatz dem ausgeschilderten Rundweg folgen und zum Katzsohlteich abbiegen. 
 
 #### Anfahrt
 

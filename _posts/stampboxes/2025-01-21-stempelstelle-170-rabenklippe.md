@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [GasthausRabenklippe](https://commons.wikimedia.org/wiki/File:GasthausRabenklippe.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Hejkal" class="extiw" title="w:de:User:Hejkal">Hejkal</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en)'
 ---
 
-Die Rabenklippe liegt südöstlich von Bad Harzburg, hoch über dem idyllischen Eckertal. Die beeindruckenden Granitfelsen ziehen Besucher magisch an. :contentReference[oaicite:0]{index=0}
+Die Rabenklippe liegt südöstlich von Bad Harzburg, hoch über dem idyllischen Eckertal. Die beeindruckenden Granitfelsen ziehen Besucher magisch an. 
 
 #### Waldgasthaus Rabenklippe
 
-1874 eröffnete Wilhelm Schilling hier einen kleinen Ausschank. Heute steht dort das Waldgasthaus Rabenklippe mit herrlichem Blick über das Eckertal bis zum Brocken. :contentReference[oaicite:1]{index=1}
+1874 eröffnete Wilhelm Schilling hier einen kleinen Ausschank. Heute steht dort das Waldgasthaus Rabenklippe mit herrlichem Blick über das Eckertal bis zum Brocken. 
 
 #### Wanderwege zur Rabenklippe
 
 - **Startpunkt:** Großparkplatz Bad Harzburg an der B4 Richtung Torfhaus.
-- **Route:** Mit der Seilbahn oder zu Fuß auf den Burgberg. Von der Bergstation führen Wanderwege zum "Aussichtsreich" (HWN 121), dem "Kreuz des deutschen Ostens" (HWN 122), zur Rabenklippe und über das Molkenhaus (HWN 169) zurück. :contentReference[oaicite:2]{index=2}
+- **Route:** Mit der Seilbahn oder zu Fuß auf den Burgberg. Von der Bergstation führen Wanderwege zum "Aussichtsreich" (HWN 121), dem "Kreuz des deutschen Ostens" (HWN 122), zur Rabenklippe und über das Molkenhaus (HWN 169) zurück. 
 
 #### Anfahrt
 

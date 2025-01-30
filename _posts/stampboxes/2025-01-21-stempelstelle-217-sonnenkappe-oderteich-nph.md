@@ -10,11 +10,11 @@ imageshadow: true
 imageSource: '📷 [Sonnenkappe Oderteich](https://commons.wikimedia.org/wiki/File:Sonnenkappe_Oderteich.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 217 der Harzer Wandernadel befindet sich am Nordufer des Oderteichs, etwa sieben Kilometer nordöstlich von Sankt Andreasberg an der B 242. :contentReference[oaicite:0]{index=0}
+Die Stempelstelle 217 der Harzer Wandernadel befindet sich am Nordufer des Oderteichs, etwa sieben Kilometer nordöstlich von Sankt Andreasberg an der B 242. 
 
 #### Historische Bedeutung des Oderteichs
 
-Der Oderteich wurde zwischen 1715 und 1722 von Bergleuten aus Sankt Andreasberg erbaut. Bis zum Ende des 19. Jahrhunderts war er die größte Talsperre Deutschlands. Ursprünglich diente er dazu, über den Rehberger Graben die Wasserräder der Bergwerke mit Wasser zu versorgen. :contentReference[oaicite:1]{index=1}
+Der Oderteich wurde zwischen 1715 und 1722 von Bergleuten aus Sankt Andreasberg erbaut. Bis zum Ende des 19. Jahrhunderts war er die größte Talsperre Deutschlands. Ursprünglich diente er dazu, über den Rehberger Graben die Wasserräder der Bergwerke mit Wasser zu versorgen. 
 
 #### Wanderwege zur Sonnenkappe Oderteich
 

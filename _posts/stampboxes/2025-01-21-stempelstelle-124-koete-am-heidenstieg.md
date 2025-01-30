@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [Köte am Heidenstieg](https://commons.wikimedia.org/wiki/File:K%C3%B6te_am_Heidensteig.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die **Köte am Heidenstieg** liegt im Wald oberhalb von Schulenberg im Oberharz. :contentReference[oaicite:0]{index=0}
+Die **Köte am Heidenstieg** liegt im Wald oberhalb von Schulenberg im Oberharz. 
 
 #### Historischer Hintergrund
 
-Das ursprüngliche Schulenberg war eine Bergbau- und Hüttensiedlung. 1954 wurde es durch die Okertalsperre überflutet. Der Ort wurde danach auf einem Plateau des Wiesenbergs in 500 m Höhe neu errichtet. :contentReference[oaicite:1]{index=1}
+Das ursprüngliche Schulenberg war eine Bergbau- und Hüttensiedlung. 1954 wurde es durch die Okertalsperre überflutet. Der Ort wurde danach auf einem Plateau des Wiesenbergs in 500 m Höhe neu errichtet. 
 
 #### Wanderwege zur Köte am Heidenstieg
 
 - **Startpunkt:** Parkplatz Tannenhöhe
-  - **Route:** Dem Trimm-Dich-Pfad folgen. Für den Rückweg bietet sich der Waldlehrpfad an, der mit Schautafeln und geschnitzten Tierfiguren über Flora und Fauna informiert. :contentReference[oaicite:2]{index=2}
+  - **Route:** Dem Trimm-Dich-Pfad folgen. Für den Rückweg bietet sich der Waldlehrpfad an, der mit Schautafeln und geschnitzten Tierfiguren über Flora und Fauna informiert. 
 
 #### Anfahrt
 

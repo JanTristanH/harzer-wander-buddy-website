@@ -10,16 +10,16 @@ imageshadow: true
 imageSource: '📷 [ScharzfelsBarbis](https://commons.wikimedia.org/wiki/File:ScharzfelsBarbis.jpg) von <a href="//commons.wikimedia.org/wiki/User:Kassandro" title="User:Kassandro">Kassandro</a> unter Lizenz [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)'
 ---
 
-Die Ruine Scharzfels liegt auf einem 150 Meter hohen Dolomitfelsen über dem Odertal bei Barbis. Sie stammt aus dem 12. Jahrhundert und wurde 1761 zerstört. Heute sind nur noch Ruinen erhalten. :contentReference[oaicite:0]{index=0}
+Die Ruine Scharzfels liegt auf einem 150 Meter hohen Dolomitfelsen über dem Odertal bei Barbis. Sie stammt aus dem 12. Jahrhundert und wurde 1761 zerstört. Heute sind nur noch Ruinen erhalten. 
 
 #### Historische Bedeutung
 
-Die Burg diente dem Schutz des Klosters Pöhlde und wichtiger Handelswege. :contentReference[oaicite:1]{index=1}
+Die Burg diente dem Schutz des Klosters Pöhlde und wichtiger Handelswege. 
 
 #### Wanderwege zur Ruine Scharzfels
 
-- **Von Scharzfeld**: Start am Bahnhof Scharzfeld, ca. 9 km Rundweg über Burgruine Frauenstein, Einhornhöhle und Steinkirche. Dauer: 3–4 Stunden. :contentReference[oaicite:2]{index=2}
-- **Von der Einhornhöhle**: Kurzer Weg von der Einhornhöhle (HWN 101) zur Ruine. :contentReference[oaicite:3]{index=3}
+- **Von Scharzfeld**: Start am Bahnhof Scharzfeld, ca. 9 km Rundweg über Burgruine Frauenstein, Einhornhöhle und Steinkirche. Dauer: 3–4 Stunden. 
+- **Von der Einhornhöhle**: Kurzer Weg von der Einhornhöhle (HWN 101) zur Ruine. 
 
 #### Anfahrt
 

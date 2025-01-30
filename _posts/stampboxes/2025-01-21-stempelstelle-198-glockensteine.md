@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Glockensteine Steigerthal](https://commons.wikimedia.org/wiki/File:Glockensteine_Steigerthal.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Glockensteine liegen südwestlich von Steigerthal an einer Kreuzung des Karstwanderwegs und des Pfads nach Himmelgarten. :contentReference[oaicite:0]{index=0}
+Die Glockensteine liegen südwestlich von Steigerthal an einer Kreuzung des Karstwanderwegs und des Pfads nach Himmelgarten. 
 
 #### Historische Bedeutung
 
-Im Spätmittelalter wurden Steinkreuze für Menschen errichtet, die plötzlich und unvorbereitet starben. :contentReference[oaicite:1]{index=1}
+Im Spätmittelalter wurden Steinkreuze für Menschen errichtet, die plötzlich und unvorbereitet starben. 
 
 #### Wanderwege zu den Glockensteinen
 
-- **Startpunkt Steigerthal**: Folgen Sie dem mit einem blauen Kreuz markierten "Schwarzen Weg" zu den Glockensteinen. :contentReference[oaicite:2]{index=2}
+- **Startpunkt Steigerthal**: Folgen Sie dem mit einem blauen Kreuz markierten "Schwarzen Weg" zu den Glockensteinen. 
 
-- **Weiter zum Helmetalblick**: Setzen Sie die Wanderung fort zum Aussichtspunkt Helmetalblick für einen Panoramablick auf Nordhausen und die südlichen Harzberge. :contentReference[oaicite:3]{index=3}
+- **Weiter zum Helmetalblick**: Setzen Sie die Wanderung fort zum Aussichtspunkt Helmetalblick für einen Panoramablick auf Nordhausen und die südlichen Harzberge. 
 
 #### Anfahrt
 

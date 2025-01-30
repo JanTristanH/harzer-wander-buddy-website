@@ -10,17 +10,17 @@ imageshadow: true
 imageSource: '📷 [Köte Schindelkopf](https://commons.wikimedia.org/wiki/File:K%C3%B6te_Schindelkopf.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die **Köte Schindelkopf** liegt auf 550 m Höhe südwestlich des Acker-Höhenzugs bei Osterode am Harz. Von hier bietet sich ein Blick auf die Sösetalsperre und das südliche Harzvorland. :contentReference[oaicite:0]{index=0}
+Die **Köte Schindelkopf** liegt auf 550 m Höhe südwestlich des Acker-Höhenzugs bei Osterode am Harz. Von hier bietet sich ein Blick auf die Sösetalsperre und das südliche Harzvorland. 
 
 #### Historische Schutzhütte
 
-Im Jahr 2002 wurde hier eine Schutzhütte im Stil der traditionellen Köten errichtet. Früher dienten solche Unterkünfte den Köhlern als Wohn- und Arbeitsstätte, da sie ihre Meiler ständig beaufsichtigen mussten. :contentReference[oaicite:1]{index=1}
+Im Jahr 2002 wurde hier eine Schutzhütte im Stil der traditionellen Köten errichtet. Früher dienten solche Unterkünfte den Köhlern als Wohn- und Arbeitsstätte, da sie ihre Meiler ständig beaufsichtigen mussten. 
 
 #### Wanderwege zur Köte Schindelkopf
 
-- **Waldvogelstation an der Sösetalsperre**: Vom Wanderparkplatz führt ein kurzer, ausgeschilderter Weg zur Köte. :contentReference[oaicite:2]{index=2}
+- **Waldvogelstation an der Sösetalsperre**: Vom Wanderparkplatz führt ein kurzer, ausgeschilderter Weg zur Köte. 
 
-- **Wanderparkplatz „Fuchshaller Weg“**: Am Stadtrand von Osterode beginnt der Weg über den „Nassen Weg“ zur Köte. Von dort kann die Tour zur Hanskühnenburg (HWN 144) fortgesetzt werden. :contentReference[oaicite:3]{index=3}
+- **Wanderparkplatz „Fuchshaller Weg“**: Am Stadtrand von Osterode beginnt der Weg über den „Nassen Weg“ zur Köte. Von dort kann die Tour zur Hanskühnenburg (HWN 144) fortgesetzt werden. 
 
 #### Anfahrt
 

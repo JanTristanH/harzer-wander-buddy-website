@@ -10,12 +10,12 @@ imageshadow: true
 imageSource: '📷 [Knollenkreuz](https://commons.wikimedia.org/wiki/File:Knollenkreuz.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Das Knollenkreuz (480 m ü. NN) ist eine Wegkreuzung zwischen Bad Lauterberg und dem Großen Knollen (HWN 150). Der Stempelkasten befindet sich vor der harztypischen Hütte „Hentschelköte“. Ein guter Ausgangspunkt ist der Wanderparkplatz in der Lutterstraße am Ortsrand von Bad Lauterberg. :contentReference[oaicite:0]{index=0}
+Das Knollenkreuz (480 m ü. NN) ist eine Wegkreuzung zwischen Bad Lauterberg und dem Großen Knollen (HWN 150). Der Stempelkasten befindet sich vor der harztypischen Hütte „Hentschelköte“. Ein guter Ausgangspunkt ist der Wanderparkplatz in der Lutterstraße am Ortsrand von Bad Lauterberg. 
 
 #### Wanderwege zum Knollenkreuz
 
 - **Startpunkt:** Wanderparkplatz Lutterstraße, Bad Lauterberg
-  - **Route:** Durch das Kleine Scheffeltal zum Knollenkreuz, weiter über die Scheffeltalsköpfe, Großentalsköpfe, Bärentalsköpfe und Hübichentalsköpfe zum Großen Knollen (HWN 150). Rückweg durch das Knollental und das Tal der Geraden Lutter. :contentReference[oaicite:1]{index=1}
+  - **Route:** Durch das Kleine Scheffeltal zum Knollenkreuz, weiter über die Scheffeltalsköpfe, Großentalsköpfe, Bärentalsköpfe und Hübichentalsköpfe zum Großen Knollen (HWN 150). Rückweg durch das Knollental und das Tal der Geraden Lutter. 
 
 #### Anfahrt
 
