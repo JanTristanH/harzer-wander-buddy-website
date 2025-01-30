@@ -47,7 +47,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
 - [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-12-achtermannshoehe)
-- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuetten)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
 - [**„Grenzweg am Kaffeehorst“ (HWN 18)**](/stempelstelle-18-grenzweg-am-kaffeehorst)
 - [**„Barenberg“ (HWN 20)**](/stempelstelle-20-barenberg-aussichtspunkt)
 - [**„Helenenruh“ (HWN 21)**](/stempelstelle-21-helenenruh)

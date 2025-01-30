@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
 - [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter)
-- [**„Zweiländereiche“ (Sonderstempel)**](/stempelstelle-sonder-zweiländereiche)
+

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich-jaegersbleeker-teich)
+- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich)
 - [**„Großes Wehr“ (HWN 146)**](/stempelstelle-146-grosses-wehr)
 - [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)

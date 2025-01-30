@@ -7,7 +7,7 @@ image: assets/images/stampboxes/51-carlsturm.jpg
 description: "Stempelstelle 51: Carlsturm | Trautenstein"
 comments: false
 imageshadow: true
-imageSource: '📷 [Carlsturm](https://www.harzer-wander-gui.de/harzer-wandernadel/051-carlsturm/) von Harzer*Wander*GuiDE'
+imageSource: '📷 [Karlshaus](https://commons.wikimedia.org/wiki/File:Karlshaus.jpg) von <a href="https://en.wikipedia.org/wiki/de:User:Bastindh" class="extiw" title="w:de:User:Bastindh">Bastindh</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
 Der Carlsturm steht auf der Carlshaushöhe (626 m ü. NN) zwischen Trautenstein und Sophienhof.

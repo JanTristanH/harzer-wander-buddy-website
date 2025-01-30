@@ -39,4 +39,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef-aussichtspunkt)
 - [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-66-wilhelmsblick-aussichtspunkt)
-- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt-aussichtspunkt)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt)

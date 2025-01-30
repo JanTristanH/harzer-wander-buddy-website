@@ -36,5 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-65-gasthaus-todtenrode)
 - [**„Böser Kleef“ (HWN 64)**](/stempelstelle-64-boeser-kleef-aussichtspunkt)
-- [**„Weißer Hirsch“ (HWN 67)**](undefined)
-- [**„Sonnenklippe (Bodetal)“ (HWN 69)**](/stempelstelle-69-sonnenklippe-bodetal-bodetal)
+- [**„Sonnenklippe (Bodetal)“ (HWN 69)**](/stempelstelle-69-sonnenklippe-bodetal)

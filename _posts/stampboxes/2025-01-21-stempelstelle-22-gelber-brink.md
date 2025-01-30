@@ -41,4 +41,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Große Zeterklippe“ (HWN 10)**](/stempelstelle-10-grosse-zeterklippe)
 - [**„Eckerloch“ (HWN 11)**](/stempelstelle-11-eckerloch)
 - [**„Ahrensklint“ (HWN 13)**](/stempelstelle-13-ahrensklint)
-- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuetten)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)

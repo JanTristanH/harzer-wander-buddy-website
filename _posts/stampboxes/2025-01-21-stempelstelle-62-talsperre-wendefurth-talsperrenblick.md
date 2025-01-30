@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schöneburg (Aussichtspunkt)“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt-aussichtspunkt)
+- [**„Schöneburg (Aussichtspunkt)“ (HWN 63)**](/stempelstelle-63-schoeneburg-aussichtspunkt)
 - [**„Rotestein“ (HWN 54)**](/stempelstelle-54-rotestein)
-- [**„Harzköhlerei Stemberghaus“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei-koehlerei)
+- [**„Harzköhlerei Stemberghaus“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei)

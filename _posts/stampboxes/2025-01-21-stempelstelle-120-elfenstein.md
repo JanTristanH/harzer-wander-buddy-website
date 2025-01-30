@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus)
-- [**„Verlobungsinsel in der Oker“ (HWN 116)**](/stempelstelle-116-verlobungsinsel-in-der-oker-in-der-oker)
+- [**„Verlobungsinsel in der Oker“ (HWN 116)**](/stempelstelle-116-verlobungsinsel-in-der-oker)
 - [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)

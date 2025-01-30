@@ -36,5 +36,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Hamburger Wappen“ (HWN 76)**](/stempelstelle-76-grossvaterfelsen)
-- [**„Großvaterfelsen“ (HWN 71)**](/stempelstelle-71-rosstrappe-abzweig-schurre-abzweig-schurre)
+- [**„Großvaterfelsen“ (HWN 71)**](/stempelstelle-71-rosstrappe-abzweig-schurre)
 - [**„Roßtrappe“ (HWN 72)**](/stempelstelle-72-la-viershoehe)

@@ -36,4 +36,3 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Prinzensicht“ (HWN 70)**](/stempelstelle-70-prinzensicht-aussichtsturm)
 - [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-68-pfeil-denkmal)
-- [**„Weißer Hirsch“ (HWN 67)**](undefined)

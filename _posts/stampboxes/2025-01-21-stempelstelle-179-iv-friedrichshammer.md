@@ -44,11 +44,11 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Verlobungsurne“ (HWN 177)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-177-verlobungsurne-alexisbad/)
-- [**„Schirm“ (HWN 182)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-182-schirm/)
-- [**„Bärendenkmal“ (HWN 184)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-184-baerendenkmal/)
-- [**„Köthener Hütte“ (HWN 195)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-195-koethener-huette/)
-- [**„Bremer Teich“ (HWN 196)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-196-bremer-teich/)
-- [**„Burgruine Anhalt“ (HWN 197)**](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-197-burgruine-anhalt/)
+- [**„Verlobungsurne“ (HWN 177)**](/stempelstelle-177-verlobungsurne-alexisbad/)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm/)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal/)
+- [**„Köthener Hütte“ (HWN 195)**](/stempelstelle-195-koethener-huette/)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich/)
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt/)
 
 

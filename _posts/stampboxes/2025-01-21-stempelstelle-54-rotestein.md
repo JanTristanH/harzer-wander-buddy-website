@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stemberghaus - Köhlerei“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei-koehlerei)
-- [**„Rappbodeblick Trautenstein“ (HWN 56)**](/stempelstelle-56-rappbodeblick-trautenstein-trautenstein)
+- [**„Stemberghaus - Köhlerei“ (HWN 60)**](/stempelstelle-60-stemberghaus-koehlerei)
+- [**„Rappbodeblick Trautenstein“ (HWN 56)**](/stempelstelle-56-rappbodeblick-trautenstein)

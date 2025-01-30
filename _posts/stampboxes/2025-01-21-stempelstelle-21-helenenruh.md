@@ -38,5 +38,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Barenberg“ (HWN 20)**](/stempelstelle-20-barenberg-aussichtspunkt)
-- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuetten)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-14-schnarcherklippe-schutzhuette)
 - [**„Trudenstein“ (HWN 17)**](/stempelstelle-17-trudenstein)
