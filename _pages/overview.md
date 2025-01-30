@@ -12,7 +12,7 @@ Die Harzer Wandernadel (HWN) ist ein beliebtes Wanderabzeichen, das durch das St
 
 ## Interaktive Karte
 
-Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[interaktive Karte](/map)** mit allen Stempelstellen der Harzer Wandernadel.
+Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[interaktive Karte](/app-waitlist)** mit allen Stempelstellen der Harzer Wandernadel.
 
 ## Übersichtsliste der Stempelstellen
 
