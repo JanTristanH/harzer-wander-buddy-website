@@ -7,7 +7,7 @@ image: assets/images/stampboxes/97-ziegenalm-sophienhof.webp
 description: "HWN 97: Ziegenalm Sophienhof | Harztor"
 comments: false
 imageshadow: true
-imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
+imageSource: 'Bild: Erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 Die Ziegenalm Sophienhof liegt im idyllischen Ortsteil Sophienhof der Gemeinde Harztor im Südharz. Umgeben von Wäldern bietet der Hof artgerechte Tierhaltung mit Ziegen, Schafen, Schweinen und Rindern. Besucher können die Tiere beobachten und im Hofladen regionale Produkte erwerben. Die Almstube lädt zur Einkehr ein.

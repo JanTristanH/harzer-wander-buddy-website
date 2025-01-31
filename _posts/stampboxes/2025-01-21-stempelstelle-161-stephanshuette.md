@@ -7,7 +7,7 @@ image: assets/images/stampboxes/161-stephanshuette.webp
 description: "HWN 161: Stephanshütte | Bad Sachsa"
 comments: false
 imageshadow: true
-imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
+imageSource: 'Bild: Erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 Die Stephanshütte liegt auf 620 m Höhe zwischen dem Ravensberg bei Bad Sachsa und dem Stöberhai oberhalb von Wieda. 

@@ -7,7 +7,7 @@ image: assets/images/stampboxes/59-klostergrund-michaelstein.webp
 description: "HWN 59: Klostergrund Michaelstein | Blankenburg"
 comments: false
 imageshadow: true
-imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
+imageSource: 'Bild: Erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 

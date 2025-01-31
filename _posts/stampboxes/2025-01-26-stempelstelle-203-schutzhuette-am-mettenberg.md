@@ -7,7 +7,7 @@ image: assets/images/stampboxes/203-schutzhuette-am-mettenberg_dallE.jpg
 description: "HWN 203: Schutzhütte am Mettenberg | Ballenstedt"
 comments: false
 imageshadow: true
-imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
+imageSource: 'Bild: Erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 

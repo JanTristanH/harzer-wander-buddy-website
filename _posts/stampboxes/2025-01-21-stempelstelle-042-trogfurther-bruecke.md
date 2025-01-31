@@ -7,7 +7,7 @@ image: assets/images/stampboxes/42-trogfurther-bruecke.webp
 description: "HWN 42: Trogfurther Brücke | Königshütte"
 comments: false
 imageshadow: true
-imageSource: 'Bild: erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
+imageSource: 'Bild: Erstellt mit KI in DALL·E durch Harzer Wanderbuddy'
 ---
 
 Die Stempelstelle 42 der Harzer Wandernadel befindet sich an der Staumauer der Überleitungssperre Königshütte bei Königshütte im Harz.
