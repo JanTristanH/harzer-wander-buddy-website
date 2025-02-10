@@ -5,8 +5,10 @@
     {% else %}
     <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
     {% endif %}
-    {% if page.imageSource %}
+</div>
+{% endif %}
+{% if page.imageSource %}
+<div style="text-align:center;">
     <p><em>{{ page.imageSource | markdownify }}</em></p>
-    {% endif %}
 </div>
 {% endif %}

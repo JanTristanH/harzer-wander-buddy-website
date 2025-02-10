@@ -421,7 +421,6 @@ img, img:hover {
     margin-left:auto;
     margin-right: auto;
     margin-top:50px;
-    margin-bottom:50px;
 }
 .image-shadow {   
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
@@ -757,7 +756,8 @@ body.active-side {
   }
 
   .entry-featured-image {
-    /* For a 16:9 aspect ratio, for example */
+    /* For a 16:9 aspect ratio */
     aspect-ratio: 16 / 9;
     overflow: hidden;
-}
+  }
+  
