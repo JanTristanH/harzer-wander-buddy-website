@@ -10,7 +10,7 @@ comments: false
 > Entdecke die Harzer Wandernadel – Einfach und Individuell
 
 <div style="float: right; margin-left: 20px;">
-  <img src="/assets/images/BuddyWithMapNoBG.png" alt="Buddy mit Karte" title="Buddy mit Karte" width="200">
+  <img src="/assets/images/BuddyWithMapNoBG.webp" alt="Buddy mit Karte" title="Buddy mit Karte" width="200">
 </div>
 
 Planen deine perfekte Wandertour mit dem **Harzer Wanderbuddy**. Ideal für Stempeljäger und Besucher, die keinen Stempel auslassen möchten! Unsere App für die Harzer Wandernadel.

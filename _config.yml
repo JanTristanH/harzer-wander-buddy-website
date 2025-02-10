@@ -2,8 +2,8 @@
 name: "Harzer Wanderbuddy"
 title: "Harzer Wanderbuddy"
 description: "Dein Buddy zum Planen von Touren rund um die Harzer Wandernadel!"
-logo: 'assets/images/BuddyWithMapNoBG.png'
-favicon: 'assets/images/BuddyWithMapNoBG.png'
+logo: 'assets/images/BuddyWithMapNoBG.webp'
+favicon: 'assets/images/BuddyWithMapNoBG.webp'
 baseurl: ''
 #google_analytics: 'UA-xxxxxxxx-1' #also comment back in, in default.html
 # disqus: 'demowebsite'
@@ -18,13 +18,13 @@ authors:
   buddy:
     name: Buddy
     display_name: Buddy
-    avatar: 'assets/images/avatar-Buddy.png'
+    avatar: 'assets/images/avatar-Buddy.webp'
     instagram: https://www.instagram.com/harzer_wanderbuddy
     description: 'Dein Harzer Wanderbuddy! Buddy ist dein Hefler beim Planen von Touren. Ich arbeite fleißig an einer <strong><a href="/app-waitlist">App <span class="badge badge-primary">NEU</span></a></strong> um dir das Planen von Touren zu erleichtern. Tritt noch heute unserer Warteliste bei und erfahre als Erster von Neuerungen!'
   jace:
     name: Jace
     display_name: Jace
-    avatar: 'assets/images/avatar-Jace.png'
+    avatar: 'assets/images/avatar-Jace.webp'
     description: "Jace ist unser Tester hinsichlich der Hundefreundlichkeit. Auch wenn er noch nicht alle Stempelstellen besucht hat, berichtet er von persönlichen Erfahrungen auf seinen Wanderungen!"
 
 # Plugins
