@@ -27,7 +27,7 @@ body {
     background: #f4f4f4;
 }
 a {
-    color: lighten($primary, 4%);
+    color: darken($primary, 1%);
 }
 img {
     max-width:100%;
