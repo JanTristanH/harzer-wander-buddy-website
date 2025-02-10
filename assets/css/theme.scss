@@ -755,3 +755,9 @@ body.active-side {
   body {
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  .entry-featured-image {
+    /* For a 16:9 aspect ratio, for example */
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+}
