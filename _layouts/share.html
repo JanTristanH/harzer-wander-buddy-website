@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex,nofollow">
+
+{% seo %}
+
+<link rel="icon" href="{{ site.baseurl }}/assets/images/BuddyWithMapNoBG.webp">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+
+<style>
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(circle at top, rgba(24, 151, 38, 0.08), transparent 35%),
+      linear-gradient(180deg, #f7f8f3 0%, #eef2e6 100%);
+    color: #1e2a1e;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  .share-shell {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 24px;
+  }
+
+  .share-card {
+    width: min(720px, 100%);
+    border-radius: 28px;
+    background: rgba(255, 255, 255, 0.86);
+    box-shadow: 0 20px 60px rgba(19, 30, 20, 0.14);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(24, 151, 38, 0.12);
+    overflow: hidden;
+  }
+
+  .share-hero {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 20px;
+    padding: 28px;
+    align-items: center;
+  }
+
+  .share-logo {
+    width: 140px;
+    height: 140px;
+    border-radius: 24px;
+    background: linear-gradient(180deg, #e8f6ea 0%, #d7efdb 100%);
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+  }
+
+  .share-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .share-kicker {
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #2e6b4b;
+    margin: 0 0 8px;
+  }
+
+  .share-title {
+    margin: 0 0 10px;
+    font-size: clamp(1.7rem, 4vw, 2.5rem);
+    line-height: 1.05;
+  }
+
+  .share-description {
+    margin: 0;
+    color: #4a5a4a;
+    line-height: 1.55;
+    font-size: 1rem;
+  }
+
+  .share-meta {
+    padding: 0 28px 24px;
+    display: grid;
+    gap: 12px;
+  }
+
+  .share-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: fit-content;
+    border-radius: 999px;
+    padding: 10px 14px;
+    background: #eef7ef;
+    color: #2e6b4b;
+    font-weight: 600;
+  }
+
+  .share-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .share-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 48px;
+    padding: 0 18px;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+  }
+
+  .share-button:hover {
+    transform: translateY(-1px);
+  }
+
+  .share-button-primary {
+    background: #189726;
+    color: #fff;
+    box-shadow: 0 10px 24px rgba(24, 151, 38, 0.22);
+  }
+
+  .share-button-secondary {
+    background: #fff;
+    color: #1e2a1e;
+    border: 1px solid rgba(30, 42, 30, 0.14);
+  }
+
+  .share-state {
+    margin: 0;
+    color: #6c766c;
+    font-size: 0.95rem;
+    min-height: 1.4em;
+  }
+
+  .share-fineprint {
+    margin: 0;
+    color: #8a918a;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 640px) {
+    .share-hero {
+      grid-template-columns: 1fr;
+    }
+
+    .share-logo {
+      width: 112px;
+      height: 112px;
+    }
+  }
+</style>
+
+<script defer src="{{ site.baseurl }}/assets/js/share-page.js"></script>
+</head>
+<body data-share-kind="{{ page.share_kind }}">
+  <main class="share-shell">
+    <section class="share-card" aria-labelledby="share-title">
+      <div class="share-hero">
+        <div class="share-logo">
+          <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        </div>
+        <div>
+          <p class="share-kicker">{{ page.share_kicker }}</p>
+          <h1 class="share-title" id="share-title">{{ page.title }}</h1>
+          <p class="share-description">{{ page.description }}</p>
+        </div>
+      </div>
+      <div class="share-meta">
+        <div class="share-chip" data-share-chip>{{ page.share_chip }}</div>
+        <p class="share-state" data-share-state>Link wird vorbereitet ...</p>
+        <p class="share-fineprint" data-share-fineprint>
+          Wenn die App installiert ist, wird der Link direkt dort geöffnet. Andernfalls bleibst du auf dieser Seite und kannst die Warteliste oder den Web-Fallback nutzen.
+        </p>
+        <div class="share-actions">
+          <a class="share-button share-button-primary" data-share-open href="{{ site.baseurl }}/app-waitlist">In der App öffnen</a>
+          <a class="share-button share-button-secondary" href="{{ site.baseurl }}/app-waitlist">Warteliste öffnen</a>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

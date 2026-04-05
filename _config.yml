@@ -2,6 +2,7 @@
 name: "Harzer Wanderbuddy"
 title: "Harzer Wanderbuddy"
 description: "Dein Buddy zum Planen von Touren rund um die Harzer Wandernadel!"
+url: "https://www.harzer-wander-buddy.de"
 logo: 'assets/images/BuddyWithMapNoBG.webp'
 favicon: 'assets/images/BuddyWithMapNoBG.webp'
 baseurl: ''
