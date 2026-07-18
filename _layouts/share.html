@@ -1,11 +1,15 @@
+---
+---
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ site.lang | default: 'de-DE' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex,nofollow">
 
 {% seo %}
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/BuddyWithMapNoBG.webp">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">

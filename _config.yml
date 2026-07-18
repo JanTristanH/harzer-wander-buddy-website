@@ -3,6 +3,8 @@ name: "Harzer Wanderbuddy"
 title: "Harzer Wanderbuddy"
 description: "Dein Buddy zum Planen von Touren rund um die Harzer Wandernadel!"
 url: "https://www.harzer-wander-buddy.de"
+lang: de-DE
+locale: de_DE
 logo: 'assets/images/BuddyWithMapNoBG.webp'
 favicon: 'assets/images/BuddyWithMapNoBG.webp'
 baseurl: ''
@@ -13,6 +15,12 @@ include: ["_pages"]
 permalink: /:title/
 email: info@harzer-wander-buddy.com
 formspreePath: f/mzzddkdr
+defaults:
+  - scope:
+      path: "_pages/share"
+    values:
+      robots: noindex,nofollow
+      sitemap: false
 
 # Authors
 authors:
@@ -44,11 +52,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown

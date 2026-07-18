@@ -1,26 +1,40 @@
 ---
 layout: post
-title:  "Stempelstelle 164: Stiefmutter"
+title:  "HWN 164 Stiefmutter: Bergwiesen bei Zorge und passende Rundtour"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/164-stiefmutter.jpg
-description: "HWN 164: Stiefmutter | Zorge"
+description: "HWN 164 Stiefmutter bei Zorge: Bergwiesen, Zustieg ab Kurhaus Zorge und gute Kombination mit HWN 163, 165 und 90."
 comments: false
 imageshadow: true
 imageSource: '📷 [Stiefmutter Zorge](https://commons.wikimedia.org/wiki/File:Stiefmutter_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 164 „Stiefmutter“ liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. 
+Die Stempelstelle 164 der Harzer Wandernadel liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. Sie ist vor allem dann spannend, wenn du den suedlichen Harz nicht nur wegen Gipfeln, sondern auch wegen seiner offenen Bergwiesen erleben willst.
 
-#### Harzer Bergwiesen
+#### Lage und Besonderheiten
 
-Die Harzer Bergwiesen sind für ihre einzigartige Pflanzenvielfalt bekannt und gelten als botanische Schätze. Sie entstanden durch traditionelle Bewirtschaftung, bei der sie ab dem 24. Juni (Johanni) gemäht und zu Heu getrocknet wurden. 
+Die Stiefmutter liegt in einer Landschaft, die fuer ihre Harzer Bergwiesen bekannt ist. Gerade im Fruehsommer und Sommer wirkt die Umgebung hier anders als viele reine Waldabschnitte im Harz: weiter, heller und oft deutlich bluetenreicher.
 
-#### Wanderwege zur Stiefmutter
+Das macht HWN 164 zu einer guten Wahl, wenn du bei einer Wanderung Abwechslung suchst. Die Stempelstelle ist nicht nur ein Durchgangspunkt, sondern ein Ort, an dem die Landschaft selbst der eigentliche Grund fuer die Tour ist.
 
-- **Vom Kurhaus Zorge**: Ein beschilderter Bergwiesenweg führt vom Parkplatz am Kurhaus über die Wendeleiche (HWN 165) zur Stiefmutter. 
+#### Anfahrt und Parken
 
-- **Kombinierte Route**: Von der Stiefmutter kann man weiter zur Stempelstelle „Roter Schuss“ (HWN 90) wandern. 
+Ein sinnvoller Startpunkt ist der Parkplatz am Kurhaus Zorge. Von dort kommst du direkt in den beschilderten Bergwiesenweg und kannst die Runde ohne grossen Suchaufwand beginnen.
+
+Wer lieber eine etwas laengere Tour plant, kann Zorge als Ausgangspunkt nutzen und mehrere Stationen miteinander verbinden. Die Region eignet sich gut fuer abwechslungsreiche Rundtouren mit mehreren Stempeln.
+
+#### Weg zur Stempelstelle
+
+Vom Kurhaus Zorge fuehrt ein beschilderter Bergwiesenweg ueber [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche) in Richtung Stiefmutter. So bekommst du direkt zwei thematisch gut passende Stationen in einer Runde.
+
+Wenn du noch mehr Strecke einbauen willst, kannst du die Tour in Richtung [**Gipfelblick am Kaiserweg (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg) oder [**Roter Schuss (HWN 90)**](/stempelstelle-090-roter-schuss) erweitern. Dadurch wird aus einem kurzen Ziel eine echte Wanderung mit landschaftlicher Vielfalt.
+
+#### Warum lohnt sich der Spot?
+
+HWN 164 lohnt sich vor allem wegen der offenen Wiesenlandschaft. Wer den Harz nur mit Fichtenwald und Aussichtsfelsen verbindet, bekommt hier ein anderes, oft sehr ruhiges Bild der Region.
+
+Besonders in der passenden Jahreszeit ist die Stempelstelle ein schoener Natur-Spot. Sie funktioniert gut fuer Wanderer, die nicht nur den Stempel, sondern den Charakter des Weges erleben wollen.
 
 #### Anfahrt
 
@@ -35,5 +49,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
+- [**„Gipfelblick am Kaiserweg“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg)
 - [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
 - [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss)
+
+Weitere Ziele und Stempelnummern findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

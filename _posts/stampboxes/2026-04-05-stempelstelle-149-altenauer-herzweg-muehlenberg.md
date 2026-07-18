@@ -1,31 +1,39 @@
 ---
 layout: post
-title: "Stempelstelle 149: Altenauer Herzweg Mühlenberg"
+title: "HWN 149 Altenauer Herzweg Muehlenberg: Aussicht, Herzweg und ALTENAU"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/149-altenauer-herzweg.jpg
-description: "HWN 149: Altenauer Herzweg Mühlenberg | Altenau"
+description: "HWN 149 Altenauer Herzweg Muehlenberg in Altenau: Aussicht am Muehlenberg, ALTENAU-Schriftzug, Metallherz und gute Kombi mit 132, 133, 134 und 135."
 comments: false
 imageshadow: true
 ---
 
-Die Stempelstelle 149 befindet sich am Mühlenberg oberhalb von Altenau und gehört zur Stempelrunde des Altenauer Herzwegs. Hier erwartet dich ein herrlicher Ausblick auf das Herz von Altenau – inklusive des markanten Schriftzugs **ALTENAU**. 💚⛰️
+Die Stempelstelle 149 liegt am Muehlenberg oberhalb von Altenau und ist Teil des Altenauer Herzwegs. Sie verbindet einen leicht zugaenglichen Aussichtspunkt mit einem klaren Fotomotiv und ist damit eine der einpraegsamsten Stationen rund um Altenau.
 
-#### Die Stempelstelle 149
+#### Lage und Besonderheiten
 
-An diesem Aussichtspunkt auf dem Mühlenberg thront eindrucksvoll der Schriftzug **ALTENAU**. Die Stempelstelle ist zugleich Teil des **Altenauer Herzwegs**, einem familienfreundlichen Erlebniswanderweg rund um das Thema Herz.
+Am Aussichtspunkt steht der markante Schriftzug **ALTENAU**, dazu kommt ein grosses Metallherz, das den Platz zu einem beliebten Foto-Spot macht. Gleichzeitig gehoert die Station zur Herzweg-Route und ist dort die Herzweg-Station 13 mit dem Thema "Social Media".
 
-Der Altenauer Herzweg umfasst insgesamt **12,4 km** und führt zu **17 Stationen** mit spannenden Informationen, kleinen Erlebnisorten und mehreren Sonderstempeln. Die Harzer Wandernadel **149** ist dabei die **Herzweg-Station 13 („Social Media“)**.
+Genau diese Mischung aus Aussicht, Themenweg und Wiedererkennungswert macht HWN 149 besonders. Der Platz funktioniert fuer Familien, Paare und alle, die eine entspannte Runde mit klaren Zwischenzielen suchen.
 
-#### Besonderheiten vor Ort
+#### Anfahrt und Parken
 
-Von der Herzweg-Station 12 gelangst du über einen bequemen Weg über die Bergwiese des Mühlenbergs zur Stempelstelle 149. Dort genießt du nicht nur die Aussicht über Altenau, sondern findest auch ein großes **Metallherz**. Wer möchte, kann hier sogar ein **Liebesschloss** als Zeichen ewiger Liebe anbringen.
+Ein guter Startpunkt ist der Kurpark hinter der Tourist-Information Altenau in der Huettenstrasse 9. Dort beginnt der Altenauer Herzweg, sodass du die Stempelstelle bequem in die offizielle Runde einbauen kannst.
 
-#### Wanderung auf dem Altenauer Herzweg
+Wenn du nur den HWN-Stempel erreichen willst, ist der Zugang ebenfalls unkompliziert. Fuer eine volle Herzweg-Runde solltest du allerdings mehr Zeit einplanen, weil der gesamte Weg mit seinen Stationen deutlich mehr ist als nur ein kurzer Abstecher.
 
-Der Altenauer Herzweg ist ein abwechslungsreicher Rundweg, der Natur, Bewegung und Wissenswertes rund um das Thema Herz miteinander verbindet. Wenn du die komplette Tour gehen möchtest, solltest du – je nach Tempo und Pausen – mehrere Stunden einplanen.
+#### Weg zur Stempelstelle
 
-Startpunkt des Herzwegs ist der **Kurpark hinter der Tourist-Information Altenau / Schulenberg**, **Hüttenstraße 9**.
+Von Herzweg-Station 12 fuehrt ein bequemer Weg ueber die Bergwiese des Muehlenbergs direkt zum Stempelkasten. Der Abschnitt ist angenehm zu gehen und deshalb auch fuer weniger ambitionierte Wanderer gut geeignet.
+
+Wenn du aus der Stempelstelle eine groeessere Altenau-Runde machen willst, bieten sich [**Schwarzenberg, Koete Brockenblick (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick), [**Foerster-Ludewig-Platz (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz), [**Gustav-Baumann-Weg (HWN 134)**](/stempelstelle-134-gustav-baumann-weg) und [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte) an.
+
+#### Warum lohnt sich der Spot?
+
+HWN 149 lohnt sich, weil die Station mehr bietet als nur einen Stempel. Aussicht, Schriftzug, Metallherz und Herzweg-Thema ergeben zusammen einen Platz, den man sich leicht merkt und den man gern weiterempfiehlt.
+
+Fuer Altenau ist die Stempelstelle ausserdem ein sehr guter Einstieg. Du bekommst schnell ein Erfolgserlebnis, kannst aber bei Bedarf direkt in eine laengere Runde mit mehreren weiteren Nummern wechseln.
 
 #### Anfahrt
 
@@ -38,6 +46,11 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
   <p></p>
 </div>
 
-#### Tipp
+#### Stempel in der Nähe
 
-Wenn du den Altenauer Herzweg komplett gehst, kannst du unterwegs mehrere zusätzliche Herzweg-Stempel sammeln. Die Harzer Wandernadel 149 ist dabei der offizielle HWN-Stempel innerhalb dieser besonderen Stempelrunde.
+- [**„Schwarzenberg, Koete Brockenblick“ (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick)
+- [**„Foerster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz)
+- [**„Gustav-Baumann-Weg“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg)
+- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)
+
+Mehr Nummern, Routen und Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

@@ -5,6 +5,16 @@ title: Home
 
 <!-- Posts Index
 ================================================== -->
+<section class="home-search" aria-labelledby="home-search-title">
+    <h2 id="home-search-title">Stempelstelle suchen</h2>
+    <p>Suche nach Name, Stempelnummer oder Ort.</p>
+    <form class="home-search-form" onsubmit="return lunr_search(this.elements.q.value);" role="search">
+        <label class="sr-only" for="home-search-input">Stempelstelle suchen</label>
+        <input id="home-search-input" name="q" type="search" class="form-control" maxlength="255" placeholder="z. B. HWN 46 oder Brocken" required>
+        <button class="btn btn-primary" type="submit">Suchen</button>
+    </form>
+</section>
+
 <div class="blog-grid-container">
     {% for post in paginator.posts %}
         {% include postbox.html %}
@@ -18,4 +28,3 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-

@@ -1,25 +1,40 @@
 ---
 layout: post
-title:  "Stempelstelle 29: Elversstein"
+title:  "HWN 29 Elversstein: Felsblick, Harzquerbahn und kurzer Zustieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/29-elversstein.jpg
-description: "HWN 29: Elversstein | Wernigerode"
+description: "HWN 29 Elversstein bei Wernigerode: markante Felsformation mit Blick zur Harzquerbahn und guter Kombination mit 34, 35 und 36."
 comments: false
 imageshadow: true
 imageSource: '📷 [Elversstein](https://commons.wikimedia.org/wiki/File:Elversstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Elversstein (499 m ü. NN) ist eine markante Felsformation südlich von Wernigerode im Harz. Von hier bietet sich ein beeindruckender Blick auf die umliegende Landschaft und den Brocken. Besonders sehenswert ist die Ausfahrt der dampfbetriebenen Harzquerbahn aus dem Thumkuhlenkopf-Tunnel, die man vom Elversstein aus beobachten kann.
+Der Elversstein ist eine markante Felsformation suedlich von Wernigerode und gehoert zu den Stempelstellen, die man sich gut merken kann. Die Mischung aus Fels, Aussicht und dem Blick auf die Harzquerbahn macht HWN 29 besonders.
 
-#### Benennung des Elverssteins
+#### Lage und Besonderheiten
 
-Der Elversstein ist nach Dr. Johann Friedrich Rudolph Elvers (1825–1891) benannt, der als erster Landrat des preußischen Kreises Wernigerode tätig war.
+Die Klippe liegt oberhalb von Hasserode und bietet einen schoenen Blick in die Landschaft rund um Wernigerode. Ein zusaetzlicher Reiz ist die moegliche Sicht auf die dampfbetriebene Harzquerbahn am Thumkuhlenkopf-Tunnel, was die Stempelstelle auch fuer Bahnfreunde interessant macht.
 
-#### Wanderwege zum Elversstein
+Der Ort ist nicht nur eine schoene Einzelstation, sondern auch ein guter Auftakt fuer eine groessere Runde. Gerade zusammen mit den benachbarten Stempeln entsteht hier schnell eine sehr runde Wanderung.
 
-- **Hasserode (Wernigerode):** Start an der Straße "Trift", dem Elverssteinpfad folgend, etwa 1,8 km bis zum Ziel.
-- **Gasthaus Armeleuteberg:** Von hier führt ein Weg von ca. 4,1 km Länge zum Elversstein.
+#### Anfahrt und Parken
+
+Ein klassischer Start ist in Hasserode an der Strasse Trift. Von dort fuehrt der Elverssteinpfad in ueberschaubarer Entfernung zur Klippe.
+
+Alternativ kannst du auch vom Armeleuteberg aus starten. Dann wird die Tour laenger, laesst sich aber gut mit weiteren Stempelstellen im Wernigeroeder Bereich verbinden.
+
+#### Weg zur Stempelstelle
+
+Von Hasserode aus folgst du dem Elverssteinpfad etwa 1,8 Kilometer bis zum Ziel. Der Zustieg ist damit auch fuer eine kuerzere Wanderung gut geeignet.
+
+Wenn du mehr aus dem Tag machen willst, kombiniere den Elversstein mit [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein), [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg) oder [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein). So entsteht eine starke Runde mit unterschiedlichen Landschaftsbildern.
+
+#### Warum lohnt sich der Spot?
+
+HWN 29 lohnt sich, weil du hier einen markanten Fels mit relativ wenig Aufwand erreichst. Die Aussicht ist schoen, und der moegliche Blick auf die Harzquerbahn gibt dem Spot einen klaren eigenen Charakter.
+
+Gerade fuer Harz-Besucher, die eine einpraegsame Stempelstelle suchen, ist der Elversstein eine gute Wahl. Fels, Wald und Bahnbezug ergeben eine Kombination, die man so nicht an jeder Nummer bekommt.
 
 #### Anfahrt
 
@@ -34,6 +49,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
+- [**„Peterstein“ (HWN 36)**](/stempelstelle-036-peterstein)
 - [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg)
 - [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein)
 - [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg)
+
+Mehr Stempelnummern und Tourenziele findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

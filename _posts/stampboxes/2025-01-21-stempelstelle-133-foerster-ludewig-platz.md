@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kleine Oker“ (HWN 149)**](/stempelstelle-149-herzweg)
+- [**„Altenauer Herzweg Muehlenberg (HWN 149)“**](/stempelstelle-149-altenauer-herzweg-muehlenberg)
 - [**„Brander Klippe“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg)
 - [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)

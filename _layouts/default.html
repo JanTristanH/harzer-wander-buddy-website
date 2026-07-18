@@ -1,14 +1,17 @@
+---
+---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: 'de-DE' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/BuddyWithMapNoBG.webp">
 
-<title>{{ page.title }} | {{site.name}}</title>
-
 {% seo %}
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
     
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
@@ -53,15 +56,16 @@
 <nav id="menu">
     <ul>
         <li><h3>Navigation</h3></li>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/categories">Tags</a></li>
-        <!-- <span class="badge badge-primary">new</span> -->
-        <li><a href="{{ site.baseurl }}/authors">Das Team</a></li>
-        <li><a href="{{ site.baseurl }}/app-waitlist">Warteliste zur App <span class="badge badge-primary">NEU</span></a></li>
-        <li><a href="{{ site.baseurl }}/overview">Übersichtsliste</a></li>
-        <li><a href="{{ site.baseurl }}/badges">Leistungsabzeichen</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Kontakt</a></li>       
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ site.baseurl }}{{ item.url }}">
+                {{ item.label }}
+                {% if item.badge %}
+                <span class="badge badge-primary">{{ item.badge }}</span>
+                {% endif %}
+            </a>
+        </li>
+        {% endfor %}
     </ul>   
 </nav>
 

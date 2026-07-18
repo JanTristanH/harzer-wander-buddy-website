@@ -16,7 +16,7 @@ Die Stempelstelle 134 liegt am Gustav-Baumann-Weg, auf dem Weg von Altenau zur W
 
 - **Startpunkt Altenau**: Von Altenau führt der Weg über den Dammgraben zur Stempelstelle. 
 
-- **Startpunkt Torfhaus**: Beginnen Sie in Torfhaus und wandern Sie über den Förster-Ludewig-Platz (HWN 133), die Kleine Oker (HWN 149) und den Gustav-Baumann-Weg zur Wolfswarte (HWN 135). Diese Rundwanderung bietet grandiose Ausblicke. 
+- **Startpunkt Torfhaus**: Beginnen Sie in Torfhaus und wandern Sie über den Förster-Ludewig-Platz (HWN 133), den Altenauer Herzweg Muehlenberg (HWN 149) und den Gustav-Baumann-Weg zur Wolfswarte (HWN 135). Diese Rundwanderung bietet grandiose Ausblicke.
 
 #### Anfahrt
 
@@ -32,5 +32,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Förster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz)
-- [**„Kleine Oker“ (HWN 149)**](/stempelstelle-149-herzweg)
+- [**„Altenauer Herzweg Muehlenberg (HWN 149)“**](/stempelstelle-149-altenauer-herzweg-muehlenberg)
 - [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)

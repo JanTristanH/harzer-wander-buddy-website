@@ -7,3 +7,5 @@ _site
 node_modules
 result.json
 result_badLinks.json
+.playwright-cli
+SEO_MANUAL_TODO.md

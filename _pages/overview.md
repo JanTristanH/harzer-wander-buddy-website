@@ -1,20 +1,36 @@
 ---
 layout: page
-title: 'Übersichtsliste'
+title: 'Harzer Wandernadel Stempelstellen: Übersichtstabelle und Stempelnummern'
 permalink: /overview
 comments: false
-description: ''
+description: 'Alle 222 HWN Stempelstellen der Harzer Wandernadel als Übersichtstabelle mit Stempelnummern, beliebten Zielen und direkten Links zu den einzelnen Stempelstellen.'
 ---
 
-# Harzer Wandernadel - Stempelstellen Übersicht
+Die Harzer Wandernadel, oft kurz **HWN** genannt, führt dich zu 222 besonderen Stempelstellen im Harz. Auf dieser Seite findest du die komplette **HWN Stempelstellen Übersichtstabelle**, direkte Links zu einzelnen Stempelnummern und ausgewählte Ziele für deinen nächsten Wandertag.
 
-Die Harzer Wandernadel (HWN) ist ein beliebtes Wanderabzeichen, das durch das Stempelsammeln an besonderen Orten im Harz erworben werden kann. Hier findest du eine umfassende Übersichtsliste aller Stempelstellen, die du besuchen kannst.
+Wenn du nach **hwn stempelstellen**, **hwn stempelstellen übersichtstabelle**, **harzer wandernadel karte** oder einer bestimmten **Stempelnummer** suchst, bist du hier richtig.
 
-## Interaktive Karte
+## Schnelleinstieg
 
-Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[interaktive Karte](/app-waitlist)** mit allen Stempelstellen der Harzer Wandernadel.
+- [Direkt zur Übersichtstabelle aller 222 Stempelstellen](#alle-222-hwn-stempelstellen-als-ubersichtstabelle)
+- [Beliebte Stempelstellen mit Bildspots](#beliebte-hwn-stempelstellen)
+- [FAQ zur Harzer Wandernadel](#faq-zur-harzer-wandernadel)
 
-## Übersichtsliste der Stempelstellen
+## Beliebte HWN-Stempelstellen
+
+Diese neun Stempelstellen sind besonders interessant, wenn du markante Aussichten, besondere Geschichten oder fotogene Orte suchst.
+
+- [Grenzmuseum am Ring der Erinnerung (HWN 46)](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung) mit Grenzgeschichte bei Sorge
+- [Gipfelblick am Kaiserweg (HWN 163)](/stempelstelle-163-gipfelblick-am-kaiserweg) für Fernblicke und aussichtsreiche Kombinationen
+- [Dicke Tannen (HWN 45)](/stempelstelle-045-dicke-tannen) als leichter Einstieg im Oberharz
+- [Stiefmutter (HWN 164)](/stempelstelle-164-stiefmutter) mit Bergwiesen und Rundtouren ab Zorge
+- [Peterstein (HWN 36)](/stempelstelle-036-peterstein) an der Zillierbachtalsperre
+- [Scharfenstein (HWN 34)](/stempelstelle-034-scharfenstein) mit Felsgipfel und Brockenblick
+- [Elversstein (HWN 29)](/stempelstelle-029-elversstein) mit Felsformation und Bahn-Perspektive
+- [Mandolinenhütte (HWN 142)](/stempelstelle-142-mandolinenhuette) oberhalb der Innerstetalsperre
+- [Altenauer Herzweg Mühlenberg (HWN 149)](/stempelstelle-149-altenauer-herzweg-muehlenberg) mit ALTENAU-Schriftzug und Herzweg-Station
+
+## Alle 222 HWN Stempelstellen als Übersichtstabelle
 
 | Nummer | | Name der Stempelstelle | Besonderheiten |
 |--------|--------|-------------------------|----------------|
@@ -166,7 +182,7 @@ Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[intera
 | HWN 146 | | [Großes Wehr](/stempelstelle-146-grosses-wehr) | |
 | HWN 147 | | [Eleonorenblick](/stempelstelle-147-eleonorenblick) | |
 | HWN 148 | | [Naturmythenpfad NPH](/stempelstelle-148-naturmythenpfad-nph) | |
-| HWN 149 | | [Herzweg](/stempelstelle-149-herzweg) | |
+| HWN 149 | | [Altenauer Herzweg Mühlenberg](/stempelstelle-149-altenauer-herzweg-muehlenberg) | |
 | HWN 150 | | [Großer Knollen](/stempelstelle-150-grosser-knollen) | |
 | HWN 151 | | [Ruine Scharzfels](/stempelstelle-151-ruine-scharzfels) | |
 | HWN 152 | | [Knollenkreuz](/stempelstelle-152-knollenkreuz) | |
@@ -241,12 +257,28 @@ Um dir eine bessere Orientierung zu ermöglichen, findest du hier eine **[intera
 | HWN 221 | | [Jungfernklippe](/stempelstelle-221-jungfernklippe) | |
 | HWN 222 | | [Bergbaulehrpfad Wettelrode](/stempelstelle-222-bergbaulehrpfad-wettelrode) | |
 
-*... Diese Liste enthält alle 222 Stempelstellen. Für die vollständige Übersicht besuche bitte die interaktive Karte oder folge den einzelnen Links.*
+Diese Übersicht enthält alle 222 HWN Stempelstellen mit direktem Link auf die jeweilige Detailseite. Wenn du eine bestimmte **Stempelnummer** suchst, kannst du innerhalb der Seite nach `HWN 46`, `HWN 149` oder einem Ortsnamen suchen.
+
+## FAQ zur Harzer Wandernadel
+
+### Wie finde ich eine bestimmte HWN-Stempelnummer?
+
+Am schnellsten suchst du in dieser Übersicht nach `HWN` plus Nummer oder nach dem Namen der Stempelstelle. Jede Tabellenzeile verlinkt direkt zur passenden Detailseite.
+
+### Gibt es hier alle Harzer Wandernadel Stempelstellen?
+
+Ja. Die Tabelle enthält alle 222 Stempelstellen der Harzer Wandernadel und wird um Detailseiten, Tipps und Bildspots ergänzt.
+
+### Welche Stempelstellen eignen sich für den Einstieg?
+
+Für den Einstieg sind oft leicht erreichbare Ziele wie [Dicke Tannen (HWN 45)](/stempelstelle-045-dicke-tannen), [Grenzmuseum am Ring der Erinnerung (HWN 46)](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung) oder [Altenauer Herzweg Mühlenberg (HWN 149)](/stempelstelle-149-altenauer-herzweg-muehlenberg) interessant.
+
+### Wo finde ich zusätzliche Informationen zur Harzer Wandernadel?
+
+Auf den einzelnen Stempelstellen-Seiten findest du Anfahrt, Wegbeschreibung und Kombinationsmöglichkeiten. Offizielle Hintergrundinformationen gibt es außerdem auf der Website der Harzer Wandernadel.
 
 ## Weitere Informationen
 - Offizielle Website der Harzer Wandernadel: [harzer-wandernadel.de](https://www.harzer-wandernadel.de)
-- Harzer Wanderbuddy App zur Tourenplanung: [harzer-wander-buddy.de](/app-waitlist) <span class="badge badge-primary">NEU</span>
-- Tipps und Tourenvorschläge: **[Hier entdecken](/app-waitlist)**
+- Zur App-Warteliste für Tourenplanung und Kartenfunktionen: [Harzer Wandernadel App entdecken](/app-waitlist)
 
 Viel Spaß beim Sammeln der Stempel und Erkunden des Harzes!
-

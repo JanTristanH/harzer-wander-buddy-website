@@ -32,4 +32,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Stempel in der Nähe
 
 - [**„Förster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz)
-- [**„Kleine Oker“ (HWN 149)**](/stempelstelle-149-herzweg)
+- [**„Altenauer Herzweg Muehlenberg (HWN 149)“**](/stempelstelle-149-altenauer-herzweg-muehlenberg)

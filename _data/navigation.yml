@@ -1,0 +1,13 @@
+- label: Start
+  url: /
+- label: HWN Stempelstellen Übersicht
+  url: /overview
+- label: Harzer Wandernadel App
+  url: /app-waitlist
+  badge: NEU
+- label: Leistungsabzeichen
+  url: /badges
+- label: Über uns
+  url: /about
+- label: Kontakt
+  url: /contact
