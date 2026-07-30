@@ -11,7 +11,7 @@ imageshadow: true
 imageSource: '📷 [Taubenklippe](https://commons.wikimedia.org/wiki/File:Taubenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die **Taubenklippe** liegt auf etwa **572 m Höhe** im Nationalpark Harz, hoch über dem Eckertal westlich von Ilsenburg. Vom Aussichtspunkt blickst du über das tief eingeschnittene Tal zur Rabenklippe auf der gegenüberliegenden Seite. Der Stempelkasten **HWN 4** steht an der Schutzhütte ein kleines Stück unterhalb der eigentlichen Klippe – nicht direkt oben am Aussichtsfelsen.
+Die **Taubenklippe** liegt auf etwa **550 m ü. NN** im Nationalpark Harz, hoch über dem Eckertal westlich von Ilsenburg. Vom Aussichtspunkt blickst du über das tief eingeschnittene Tal zur Rabenklippe auf der gegenüberliegenden Seite. Der Stempelkasten **HWN 4** steht an der Schutzhütte ein kleines Stück unterhalb der eigentlichen Klippe – nicht direkt oben am Aussichtsfelsen.
 
 _Zuletzt geprüft: 18. Juli 2026. Strecken und Gehzeiten sind Richtwerte und können je nach gewähltem Weg sowie GPS-Aufzeichnung leicht abweichen._
 
@@ -20,8 +20,8 @@ _Zuletzt geprüft: 18. Juli 2026. Strecken und Gehzeiten sind Richtwerte und kö
 | Frage | Antwort |
 |---|---|
 | Wo liegt die Stempelstelle? | An der Schutzhütte unterhalb der Taubenklippe |
-| Höhe | etwa 572 m |
-| Zustieg ab Ilsenburg | rund 5,2 bis 6 km und etwa 310 Höhenmeter je Richtung |
+| Höhe | etwa 550 m ü. NN |
+| Zustieg ab Ilsenburg über Froschfelsen | rund 6 km und etwa 310 Höhenmeter je Richtung |
 | Rundtour ab Wanderparkplatz Ilsetal | etwa 15 km, 390 Höhenmeter, rund 4,5 Stunden |
 | Schwierigkeit | mittel; Kondition und Trittsicherheit erforderlich |
 | Kinderwagen / Rollstuhl | nicht geeignet |
@@ -35,9 +35,11 @@ Die unten verlinkten Koordinaten markieren den **Stempelkasten**. Die bislang h�
 
 #### Direkter Weg von Ilsenburg zur Taubenklippe
 
-Ein klassischer Start ist der **Wanderparkplatz Ilsetal** in Ilsenburg. Die offiziell beschriebene Route führt über den Meineberg zum [**Froschfelsen (HWN 5)**](/stempelstelle-005-froschfelsen/) und anschließend über die Würtemberger Bank zur Taubenklippe. Je nach genauer Parkposition und Wegwahl sind es ungefähr **5,2 bis 6 km und rund 310 Höhenmeter pro Richtung**.
+Ein klassischer Start ist der **Wanderparkplatz Ilsetal** in Ilsenburg. Die offiziell beschriebene Route führt über den Meineberg zum [**Froschfelsen (HWN 5)**](/stempelstelle-005-froschfelsen/) und anschließend über die Würtemberger Bank zur Taubenklippe. Je nach genauer Parkposition und Wegwahl sind es ungefähr **6 km und rund 310 Höhenmeter pro Richtung**.
 
 Der Weg steigt aus dem Tal deutlich an und verläuft abschnittsweise auf naturbelassenen Pfaden. Für Hin- und Rückweg solltest du – abhängig von Pausen und Wegzustand – mindestens einen halben Wandertag einplanen.
+
+Weitere im Wanderführer beschriebene Zugänge sind der **Parkplatz Eckertal bei Stapelburg** (ca. **6,5 km**, ca. **310 Höhenmeter**) und der **Parkplatz Taternbruch über das Kruzifix** (ca. **9 km**, ca. **310 Höhenmeter**). Von Ilsenburg führt die beschriebene Variante über Froschfelsen und Würtemberger Bank zur Klippe.
 
 #### Rundtour über Ilsetal und Froschfelsen
 
@@ -79,7 +81,7 @@ Unter diesem [📍 Google-Maps-Link](https://www.google.com/maps/dir/?api=1&orig
 #### Welche Stempel lassen sich kombinieren?
 
 - [**Froschfelsen (HWN 5)**](/stempelstelle-005-froschfelsen/) – rund 3,1 km entfernt
-- [**Am Kruzifix (HWN 3)**](/stempelstelle-003-am-kruzifix/) – rund 3,2 km entfernt
+- [**Am Kruzifix (HWN 3)**](/stempelstelle-003-am-kruzifix/) – rund 3,5 km entfernt
 - [**Eckertalsperre (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/) – rund 5,8 km entfernt
 
 Alle Nummern findest du in der [**Übersicht der HWN-Stempelstellen**](/overview).
