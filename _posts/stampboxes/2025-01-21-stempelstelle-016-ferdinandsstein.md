@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe)
-- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette)
-- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint)
-- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe/)
+- [**„Schnarcherklippen (Schutzhütte)“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette/)
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint/)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl/)

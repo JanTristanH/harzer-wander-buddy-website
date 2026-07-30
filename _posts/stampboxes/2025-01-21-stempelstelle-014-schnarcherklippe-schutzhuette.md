@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint)
-- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe)
-- [**„Eckerloch“ (HWN 11)**](/stempelstelle-011-eckerloch)
-- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein)
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint/)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe/)
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-011-eckerloch/)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein/)

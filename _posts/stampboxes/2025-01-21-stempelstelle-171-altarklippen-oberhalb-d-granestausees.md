@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schöne Aussicht Bielstein“ (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein)
-- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
-- [**„Heimberg“ (HWN 109)**](/stempelstelle-109-heimberg)
-- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank)
+- [**„Schöne Aussicht Bielstein“ (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein/)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel/)
+- [**„Heimberg“ (HWN 109)**](/stempelstelle-109-heimberg/)
+- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank/)

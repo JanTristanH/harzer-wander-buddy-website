@@ -38,6 +38,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
-- [**„Liebesbankweg“ (HWN 112)**](/stempelstelle-112-liebesbank)
-- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel/)
+- [**„Liebesbankweg“ (HWN 112)**](/stempelstelle-112-liebesbank/)
+- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm/)

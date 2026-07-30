@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bismarckturm Ballenstedt“ (HWN 199)**](/stempelstelle-199-bismarckturm)
-- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)
-- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum)
+- [**„Bismarckturm Ballenstedt“ (HWN 199)**](/stempelstelle-199-bismarckturm/)
+- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg/)
+- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum/)

@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/149-altenauer-herzweg.jpg
 description: "HWN 149 Altenauer Herzweg Muehlenberg in Altenau: Aussicht am Muehlenberg, ALTENAU-Schriftzug, Metallherz und gute Kombi mit 132, 133, 134 und 135."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 ---
@@ -27,7 +28,7 @@ Wenn du nur den HWN-Stempel erreichen willst, ist der Zugang ebenfalls unkompliz
 
 Von Herzweg-Station 12 fuehrt ein bequemer Weg ueber die Bergwiese des Muehlenbergs direkt zum Stempelkasten. Der Abschnitt ist angenehm zu gehen und deshalb auch fuer weniger ambitionierte Wanderer gut geeignet.
 
-Wenn du aus der Stempelstelle eine groeessere Altenau-Runde machen willst, bieten sich [**Schwarzenberg, Koete Brockenblick (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick), [**Foerster-Ludewig-Platz (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz), [**Gustav-Baumann-Weg (HWN 134)**](/stempelstelle-134-gustav-baumann-weg) und [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte) an.
+Wenn du aus der Stempelstelle eine groeessere Altenau-Runde machen willst, bieten sich [**Schwarzenberg, Koete Brockenblick (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick/), [**Foerster-Ludewig-Platz (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz/), [**Gustav-Baumann-Weg (HWN 134)**](/stempelstelle-134-gustav-baumann-weg/) und [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte/) an.
 
 #### Warum lohnt sich der Spot?
 
@@ -48,9 +49,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schwarzenberg, Koete Brockenblick“ (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick)
-- [**„Foerster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz)
-- [**„Gustav-Baumann-Weg“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg)
-- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)
+- [**„Schwarzenberg, Koete Brockenblick“ (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick/)
+- [**„Foerster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz/)
+- [**„Gustav-Baumann-Weg“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg/)
+- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte/)
 
 Mehr Nummern, Routen und Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

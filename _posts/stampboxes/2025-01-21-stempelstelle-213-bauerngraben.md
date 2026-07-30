@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
-- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste)
+- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode/)
+- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste/)

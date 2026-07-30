@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe)
-- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte)
-- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)
+- [**„Achtermannshöhe“ (HWN 12)**](/stempelstelle-012-achtermannshoehe/)
+- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte/)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl/)

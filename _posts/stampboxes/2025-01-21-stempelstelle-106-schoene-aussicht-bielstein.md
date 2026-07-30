@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
-- [**„Mandolinenhütte“ (HWN 142)**](/stempelstelle-142-mandolinenhuette)
-- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel/)
+- [**„Mandolinenhütte“ (HWN 142)**](/stempelstelle-142-mandolinenhuette/)
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein/)

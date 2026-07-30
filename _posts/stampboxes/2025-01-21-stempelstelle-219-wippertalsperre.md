@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Josephshöhe (Auerberg)“ (HWN 215)**](/stempelstelle-215-josephshoehe-auerberg)
-- [**„Hunrodeiche“ (HWN 216)**](/stempelstelle-216-lutherbuche)
-- [**„Dicke Buche“ (HWN 217)**](/stempelstelle-217-sonnenkappe-oderteich-nph)
+- [**„Josephshöhe (Auerberg)“ (HWN 215)**](/stempelstelle-215-josephshoehe-auerberg/)
+- [**„Hunrodeiche“ (HWN 216)**](/stempelstelle-216-lutherbuche/)
+- [**„Dicke Buche“ (HWN 217)**](/stempelstelle-217-sonnenkappe-oderteich-nph/)

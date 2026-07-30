@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein)
-- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein)
-- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe)
-- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein/)
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein/)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe/)
+- [**„Dreieckiger Pfahl“ (HWN 168)**](/stempelstelle-168-dreieckiger-pfahl/)

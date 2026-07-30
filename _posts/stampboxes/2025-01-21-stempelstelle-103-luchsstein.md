@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette)
-- [**„Lageswarte“ (HWN 102)**](/stempelstelle-102-lageswarte)
+- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette/)
+- [**„Lageswarte“ (HWN 102)**](/stempelstelle-102-lageswarte/)

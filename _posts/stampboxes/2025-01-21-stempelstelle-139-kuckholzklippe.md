@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Braunseck“ (HWN 138)**](/stempelstelle-138-braunseck)
-- [**„Eselsplatz“ (HWN 140)**](/stempelstelle-140-eselsplatz)
+- [**„Braunseck“ (HWN 138)**](/stempelstelle-138-braunseck/)
+- [**„Eselsplatz“ (HWN 140)**](/stempelstelle-140-eselsplatz/)

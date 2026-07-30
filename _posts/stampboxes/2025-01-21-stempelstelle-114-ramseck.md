@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Weltkulturerbe Rammelsberg“ (HWN 91)**](/stempelstelle-091-weltkulturerbe-rammelsberg)
-- [**„Maltermeisterturm“ (HWN 90)**](/stempelstelle-090-roter-schuss)
-- [**„Sudmerberger Warte“ (HWN 108)**](/stempelstelle-108-sudmerberger-warte)
+- [**„Weltkulturerbe Rammelsberg“ (HWN 91)**](/stempelstelle-091-weltkulturerbe-rammelsberg/)
+- [**„Maltermeisterturm“ (HWN 90)**](/stempelstelle-090-roter-schuss/)
+- [**„Sudmerberger Warte“ (HWN 108)**](/stempelstelle-108-sudmerberger-warte/)

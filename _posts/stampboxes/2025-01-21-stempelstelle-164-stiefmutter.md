@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/164-stiefmutter.jpg
 description: "HWN 164 Stiefmutter bei Zorge: Bergwiesen, Zustieg ab Kurhaus Zorge und gute Kombination mit HWN 163, 165 und 90."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 imageSource: '📷 [Stiefmutter Zorge](https://commons.wikimedia.org/wiki/File:Stiefmutter_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -26,9 +27,9 @@ Wer lieber eine etwas laengere Tour plant, kann Zorge als Ausgangspunkt nutzen u
 
 #### Weg zur Stempelstelle
 
-Vom Kurhaus Zorge fuehrt ein beschilderter Bergwiesenweg ueber [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche) in Richtung Stiefmutter. So bekommst du direkt zwei thematisch gut passende Stationen in einer Runde.
+Vom Kurhaus Zorge fuehrt ein beschilderter Bergwiesenweg ueber [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche/) in Richtung Stiefmutter. So bekommst du direkt zwei thematisch gut passende Stationen in einer Runde.
 
-Wenn du noch mehr Strecke einbauen willst, kannst du die Tour in Richtung [**Gipfelblick am Kaiserweg (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg) oder [**Roter Schuss (HWN 90)**](/stempelstelle-090-roter-schuss) erweitern. Dadurch wird aus einem kurzen Ziel eine echte Wanderung mit landschaftlicher Vielfalt.
+Wenn du noch mehr Strecke einbauen willst, kannst du die Tour in Richtung [**Gipfelblick am Kaiserweg (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg/) oder [**Roter Schuss (HWN 90)**](/stempelstelle-090-roter-schuss/) erweitern. Dadurch wird aus einem kurzen Ziel eine echte Wanderung mit landschaftlicher Vielfalt.
 
 #### Warum lohnt sich der Spot?
 
@@ -49,8 +50,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Gipfelblick am Kaiserweg“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg)
-- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
-- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss)
+- [**„Gipfelblick am Kaiserweg“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg/)
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche/)
+- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss/)
 
 Weitere Ziele und Stempelnummern findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

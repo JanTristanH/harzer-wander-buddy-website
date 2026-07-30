@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kreuz des deutschen Ostens“ (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens)
-- [**„Rabenklippe“ (HWN 170)**](/stempelstelle-170-rabenklippe)
-- [**„Molkenhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus)
+- [**„Kreuz des deutschen Ostens“ (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens/)
+- [**„Rabenklippe“ (HWN 170)**](/stempelstelle-170-rabenklippe/)
+- [**„Molkenhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus/)

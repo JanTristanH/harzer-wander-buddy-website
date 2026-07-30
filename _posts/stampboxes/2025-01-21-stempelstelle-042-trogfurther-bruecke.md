@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg/)

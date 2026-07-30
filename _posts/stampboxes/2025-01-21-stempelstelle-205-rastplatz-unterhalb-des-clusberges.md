@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bisongehege Stangerode“ (HWN 86)**](/stempelstelle-086-bisongehege)
-- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum)
-- [**„Landschaftspark Degenershausen“ (HWN 202)**](/stempelstelle-202-landschaftspark-degenershausen)
+- [**„Bisongehege Stangerode“ (HWN 86)**](/stempelstelle-086-bisongehege/)
+- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum/)
+- [**„Landschaftspark Degenershausen“ (HWN 202)**](/stempelstelle-202-landschaftspark-degenershausen/)

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Huttaler Widerwaage“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage)
-- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich)
-- [**„Polsterberger Hubhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus)
+- [**„Huttaler Widerwaage“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage/)
+- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich/)
+- [**„Polsterberger Hubhaus“ (HWN 169)**](/stempelstelle-169-molkenhaus/)

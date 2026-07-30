@@ -31,6 +31,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg)
-- [**„Großes Wehr Morgenbrodstal“ (HWN 146)**](/stempelstelle-146-grosses-wehr)
-- [**„Köte Schindelkopf“ (HWN 143)**](/stempelstelle-143-koete-schindelkopf)
+- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg/)
+- [**„Großes Wehr Morgenbrodstal“ (HWN 146)**](/stempelstelle-146-grosses-wehr/)
+- [**„Köte Schindelkopf“ (HWN 143)**](/stempelstelle-143-koete-schindelkopf/)

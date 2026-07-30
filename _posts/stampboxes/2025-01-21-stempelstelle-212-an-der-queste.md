@@ -33,6 +33,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
-- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben)
-- [**„Reesbergdoline“ (HWN 214)**](/stempelstelle-214-reesbergdoline)
+- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode/)
+- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben/)
+- [**„Reesbergdoline“ (HWN 214)**](/stempelstelle-214-reesbergdoline/)

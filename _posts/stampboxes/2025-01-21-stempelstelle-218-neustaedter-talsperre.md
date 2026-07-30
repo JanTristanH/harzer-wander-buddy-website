@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-098-ruine-hohnstein)
-- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-095-ilfelder-wetterfahne)
-- [**„Poppenbergturm“ (HWN 92)**](/stempelstelle-092-poppenberg-mit-aussichtsturm)
+- [**„Ruine Hohnstein“ (HWN 98)**](/stempelstelle-098-ruine-hohnstein/)
+- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-095-ilfelder-wetterfahne/)
+- [**„Poppenbergturm“ (HWN 92)**](/stempelstelle-092-poppenberg-mit-aussichtsturm/)

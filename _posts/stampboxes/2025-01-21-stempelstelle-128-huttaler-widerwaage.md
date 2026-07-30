@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Weppner Hütte“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich)
-- [**„Braunseck“ (HWN 138)**](/stempelstelle-138-braunseck)
-- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich)
+- [**„Weppner Hütte“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich/)
+- [**„Braunseck“ (HWN 138)**](/stempelstelle-138-braunseck/)
+- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich/)

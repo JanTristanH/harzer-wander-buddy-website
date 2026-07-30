@@ -34,9 +34,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Brocken“ (HWN 9)**](/stempelstelle-009-brockenhaus)
-- [**„Wurmberg-Baude“ (HWN 156)**](/stempelstelle-156-wurmberg-baude)
-- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)
+- [**„Brocken“ (HWN 9)**](/stempelstelle-009-brockenhaus/)
+- [**„Wurmberg-Baude“ (HWN 156)**](/stempelstelle-156-wurmberg-baude/)
+- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung/)
 
 [^1]: [Harzer Wandernadel: Stempelstelle 168 / Dreieckiger Pfahl](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-168-dreieckiger-pfahl/)
 [^2]: [Harzer*Wander*GuiDE: Dreieckiger Pfahl – Harzer Wandernadel 168](https://www.harzer-wander-gui.de/harzer-wandernadel/168-dreieckiger-pfahl/)

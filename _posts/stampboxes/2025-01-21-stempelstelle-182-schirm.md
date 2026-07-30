@@ -41,6 +41,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
-- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
-- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode)
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt/)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich/)
+- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode/)

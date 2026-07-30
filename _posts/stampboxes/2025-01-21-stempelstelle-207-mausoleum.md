@@ -37,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
-- [**„Selkeblick“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein/)
+- [**„Selkeblick“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg/)

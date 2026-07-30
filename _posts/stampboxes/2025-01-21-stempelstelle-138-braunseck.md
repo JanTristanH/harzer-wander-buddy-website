@@ -39,6 +39,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kuckholzklippe“ (HWN 139)**](/stempelstelle-139-kuckholzklippe)
-- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich)
-- [**„Huttaler Widerwaage“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage)
+- [**„Kuckholzklippe“ (HWN 139)**](/stempelstelle-139-kuckholzklippe/)
+- [**„Bärenbrucher Teich“ (HWN 137)**](/stempelstelle-137-baerenbrucher-teich/)
+- [**„Huttaler Widerwaage“ (HWN 128)**](/stempelstelle-128-huttaler-widerwaage/)

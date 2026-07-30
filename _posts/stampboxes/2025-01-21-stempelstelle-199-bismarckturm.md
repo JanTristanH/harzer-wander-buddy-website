@@ -37,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Alter Kohlenschacht“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht)
-- [**„Forstmeister Tannen“ (HWN 181)**](/stempelstelle-181-forstmeister-tannen)
+- [**„Alter Kohlenschacht“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht/)
+- [**„Forstmeister Tannen“ (HWN 181)**](/stempelstelle-181-forstmeister-tannen/)

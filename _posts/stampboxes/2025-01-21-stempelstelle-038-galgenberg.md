@@ -39,6 +39,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Tagebau Felswerke“ (HWN 39)**](/stempelstelle-039-tagebau-felswerke)
-- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-040-koenigshuetter-wasserfall)
-- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg)
+- [**„Tagebau Felswerke“ (HWN 39)**](/stempelstelle-039-tagebau-felswerke/)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-040-koenigshuetter-wasserfall/)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg/)

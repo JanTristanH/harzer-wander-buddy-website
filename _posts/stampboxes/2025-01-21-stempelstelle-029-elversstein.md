@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/29-elversstein.jpg
 description: "HWN 29 Elversstein bei Wernigerode: markante Felsformation mit Blick zur Harzquerbahn und guter Kombination mit 34, 35 und 36."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 imageSource: '📷 [Elversstein](https://commons.wikimedia.org/wiki/File:Elversstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +29,7 @@ Alternativ kannst du auch vom Armeleuteberg aus starten. Dann wird die Tour laen
 
 Von Hasserode aus folgst du dem Elverssteinpfad etwa 1,8 Kilometer bis zum Ziel. Der Zustieg ist damit auch fuer eine kuerzere Wanderung gut geeignet.
 
-Wenn du mehr aus dem Tag machen willst, kombiniere den Elversstein mit [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein), [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg) oder [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein). So entsteht eine starke Runde mit unterschiedlichen Landschaftsbildern.
+Wenn du mehr aus dem Tag machen willst, kombiniere den Elversstein mit [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/), [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) oder [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein/). So entsteht eine starke Runde mit unterschiedlichen Landschaftsbildern.
 
 #### Warum lohnt sich der Spot?
 
@@ -49,9 +50,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Peterstein“ (HWN 36)**](/stempelstelle-036-peterstein)
-- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg)
-- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein)
-- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg)
+- [**„Peterstein“ (HWN 36)**](/stempelstelle-036-peterstein/)
+- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/)
+- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein/)
+- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg/)
 
 Mehr Stempelnummern und Tourenziele findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

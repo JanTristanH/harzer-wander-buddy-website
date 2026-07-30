@@ -5,7 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/4-taubenklippe.jpg
 description: "HWN 4 Taubenklippe bei Ilsenburg: Route und Rundtour, Parken, Schwierigkeit, genauer Stempelstandort und Aussicht über das Eckertal."
-last_modified_at: 2026-07-18
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Taubenklippe](https://commons.wikimedia.org/wiki/File:Taubenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'

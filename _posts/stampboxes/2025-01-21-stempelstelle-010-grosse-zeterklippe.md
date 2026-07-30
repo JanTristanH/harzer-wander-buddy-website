@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Brockenhaus“ (HWN 9)**](/stempelstelle-009-brockenhaus)
-- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche)
-- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer)
+- [**„Brockenhaus“ (HWN 9)**](/stempelstelle-009-brockenhaus/)
+- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche/)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg/)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/)

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-028-gasthaus-steinerne-renne)
-- [**„Wasserkunst Thumkuhlental“ (HWN 85)**](/stempelstelle-085-wasserkunst-thumkuhlental)
-- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe)
+- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-028-gasthaus-steinerne-renne/)
+- [**„Wasserkunst Thumkuhlental“ (HWN 85)**](/stempelstelle-085-wasserkunst-thumkuhlental/)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe/)

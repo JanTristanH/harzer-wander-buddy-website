@@ -31,5 +31,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
-- [**„Knollenkreuz“ (HWN 152)**](/stempelstelle-152-knollenkreuz)
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen/)
+- [**„Knollenkreuz“ (HWN 152)**](/stempelstelle-152-knollenkreuz/)

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Großvaterfelsen“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen)
-- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-077-ruine-luisenburg)
-- [**„Barocke Gärten“ (HWN 78)**](/stempelstelle-078-barocke-gaerten)
+- [**„Großvaterfelsen“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen/)
+- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-077-ruine-luisenburg/)
+- [**„Barocke Gärten“ (HWN 78)**](/stempelstelle-078-barocke-gaerten/)

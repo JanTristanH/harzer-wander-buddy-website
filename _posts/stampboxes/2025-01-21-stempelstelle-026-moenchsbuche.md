@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-028-gasthaus-steinerne-renne)
-- [**„Oberförster-Koch-Denkmal“ (HWN 25)**](/stempelstelle-025-oberfoerster-koch-denkmal)
-- [**„Ottofelsen“ (HWN 27)**](/stempelstelle-027-ottofelsen)
+- [**„Gasthaus Steinerne Renne“ (HWN 28)**](/stempelstelle-028-gasthaus-steinerne-renne/)
+- [**„Oberförster-Koch-Denkmal“ (HWN 25)**](/stempelstelle-025-oberfoerster-koch-denkmal/)
+- [**„Ottofelsen“ (HWN 27)**](/stempelstelle-027-ottofelsen/)

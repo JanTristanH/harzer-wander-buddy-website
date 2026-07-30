@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-047-oberharzblick-am-buchberg)
-- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-048-stierbergsteich)
-- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm)
-- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof)
+- [**„Oberharzblick“ (HWN 47)**](/stempelstelle-047-oberharzblick-am-buchberg/)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-048-stierbergsteich/)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm/)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof/)

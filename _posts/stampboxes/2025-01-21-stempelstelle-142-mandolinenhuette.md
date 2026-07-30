@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/142-mandolinenhuette.jpg
 description: "HWN 142 Mandolinenhuette bei Lautenthal: Aussicht auf die Innerstetalsperre, kurzer Zustieg ueber den Ochsentalweg und gute Kombi mit 104 und 106."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 imageSource: '📷 [Aussichtspunkt Mandolinenhütte](https://commons.wikimedia.org/wiki/File:Aussichtspunkt_Mandolinenh%C3%BCtte.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +29,7 @@ Alternativ kannst du am Prinzenteich parken und die Runde etwas ausdehnen. Diese
 
 Von der Sparrenbergsiedlung folgst du dem Ochsentalweg etwa 1,5 Kilometer bis zur Mandolinenhuette. Der Zustieg ist gut machbar und fuehrt direkt zum Aussichtspunkt.
 
-Fuer eine groessere Runde passen [**Traenkebachhuette (HWN 104)**](/stempelstelle-104-traenkebachhuette) und [**Schoene Aussicht Bielstein (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein) sehr gut dazu. So wird aus dem einzelnen Aussichtsstempel eine abwechslungsreiche Westharz-Tour.
+Fuer eine groessere Runde passen [**Traenkebachhuette (HWN 104)**](/stempelstelle-104-traenkebachhuette/) und [**Schoene Aussicht Bielstein (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein/) sehr gut dazu. So wird aus dem einzelnen Aussichtsstempel eine abwechslungsreiche Westharz-Tour.
 
 #### Warum lohnt sich der Spot?
 
@@ -49,7 +50,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette)
-- [**„Schöne Aussicht Bielstein“ (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein)
+- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette/)
+- [**„Schöne Aussicht Bielstein“ (HWN 106)**](/stempelstelle-106-schoene-aussicht-bielstein/)
 
 Die komplette Sammlung aller HWN-Ziele findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„La Viershöhe“ (HWN 72)**](/stempelstelle-072-la-viershoehe)
-- [**„Roßtrappe“ (HWN 71)**](/stempelstelle-071-rosstrappe-abzweig-schurre)
-- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal)
+- [**„La Viershöhe“ (HWN 72)**](/stempelstelle-072-la-viershoehe/)
+- [**„Roßtrappe“ (HWN 71)**](/stempelstelle-071-rosstrappe-abzweig-schurre/)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal/)

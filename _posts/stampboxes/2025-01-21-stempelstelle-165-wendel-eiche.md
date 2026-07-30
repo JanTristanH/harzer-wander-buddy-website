@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter)
-- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss)
+- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter/)
+- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss/)

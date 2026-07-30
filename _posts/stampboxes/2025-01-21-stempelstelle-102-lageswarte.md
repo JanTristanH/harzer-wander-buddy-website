@@ -33,7 +33,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)
-- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette)
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein/)
+- [**„Tränkebachhütte“ (HWN 104)**](/stempelstelle-104-traenkebachhuette/)
 
 [^1]: [Stempelstelle 102 / Lageswarte - Harzer Wandernadel](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-102-lageswarte/)

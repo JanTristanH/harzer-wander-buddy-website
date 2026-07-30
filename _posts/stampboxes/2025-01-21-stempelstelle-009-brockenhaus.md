@@ -36,7 +36,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche)
-- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg)
-- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-006-bremer-huette-obere-ilsefaelle)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer)
+- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche/)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg/)
+- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-006-bremer-huette-obere-ilsefaelle/)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/)

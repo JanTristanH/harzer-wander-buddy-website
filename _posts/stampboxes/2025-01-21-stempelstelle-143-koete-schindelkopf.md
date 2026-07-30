@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg)
+- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg/)

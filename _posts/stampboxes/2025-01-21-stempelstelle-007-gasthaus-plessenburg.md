@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-006-bremer-huette-obere-ilsefaelle)
-- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-005-froschfelsen)
-- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-004-taubenklippe)
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer)
+- [**„Bremer Hütte – Obere Ilsefälle“ (HWN 6)**](/stempelstelle-006-bremer-huette-obere-ilsefaelle/)
+- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-005-froschfelsen/)
+- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-004-taubenklippe/)
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/)

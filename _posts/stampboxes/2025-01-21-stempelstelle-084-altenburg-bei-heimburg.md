@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Austbergturm“ (HWN 83)**](/stempelstelle-083-austbergturm)
-- [**„Stapenberg“ (HWN 33)**](/stempelstelle-033-stapenberg)
-- [**„Klostergrund Michaelstein“ (HWN 59)**](/stempelstelle-059-klostergrund-michaelstein)
+- [**„Austbergturm“ (HWN 83)**](/stempelstelle-083-austbergturm/)
+- [**„Stapenberg“ (HWN 33)**](/stempelstelle-033-stapenberg/)
+- [**„Klostergrund Michaelstein“ (HWN 59)**](/stempelstelle-059-klostergrund-michaelstein/)

@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Sonnenklippe“ (HWN 69)**](/stempelstelle-069-sonnenklippe-bodetal)
+- [**„Sonnenklippe“ (HWN 69)**](/stempelstelle-069-sonnenklippe-bodetal/)

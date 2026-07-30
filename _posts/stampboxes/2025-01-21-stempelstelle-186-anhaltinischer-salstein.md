@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Preußenturm“ (HWN 185)**](/stempelstelle-185-preussenturm)
-- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode)
-- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
+- [**„Preußenturm“ (HWN 185)**](/stempelstelle-185-preussenturm/)
+- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode/)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal/)

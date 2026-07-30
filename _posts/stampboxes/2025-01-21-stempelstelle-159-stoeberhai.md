@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
-- [**„Alte Wache“ (HWN 162)**](/stempelstelle-162-kreuztalsklippe)
+- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette/)
+- [**„Alte Wache“ (HWN 162)**](/stempelstelle-162-kreuztalsklippe/)

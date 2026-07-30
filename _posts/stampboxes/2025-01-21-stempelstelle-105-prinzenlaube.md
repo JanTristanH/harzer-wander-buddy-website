@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Grumbacher Teiche“ (HWN 113)**](/stempelstelle-113-grumbacher-teich)
-- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel)
-- [**„Albertturm“ (HWN 130)**](/stempelstelle-130-iberger-albertturm)
+- [**„Grumbacher Teiche“ (HWN 113)**](/stempelstelle-113-grumbacher-teich/)
+- [**„Maaßener Gaipel“ (HWN 107)**](/stempelstelle-107-maassener-gaipel/)
+- [**„Albertturm“ (HWN 130)**](/stempelstelle-130-iberger-albertturm/)

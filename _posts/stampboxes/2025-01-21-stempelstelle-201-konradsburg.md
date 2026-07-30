@@ -40,5 +40,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
-- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein/)
+- [**„Mausoleum“ (HWN 207)**](/stempelstelle-207-mausoleum/)

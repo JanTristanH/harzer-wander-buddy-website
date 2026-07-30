@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Dreibrodesteine“ (HWN 154)**](/stempelstelle-154-dreibrodestein)
-- [**„Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall)
+- [**„Dreibrodesteine“ (HWN 154)**](/stempelstelle-154-dreibrodestein/)
+- [**„Rinderstall“ (HWN 123)**](/stempelstelle-123-gaststaette-rinderstall/)

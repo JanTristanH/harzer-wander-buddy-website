@@ -33,6 +33,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe)
-- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein)
-- [**„Ottofelsen“ (HWN 27)**](/stempelstelle-027-ottofelsen)
+- [**„Leistenklippe“ (HWN 15)**](/stempelstelle-015-leistenklippe/)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein/)
+- [**„Ottofelsen“ (HWN 27)**](/stempelstelle-027-ottofelsen/)

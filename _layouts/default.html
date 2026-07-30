@@ -9,7 +9,11 @@
 <link rel="icon" href="{{ site.baseurl }}/assets/images/BuddyWithMapNoBG.webp">
 
 {% seo %}
-{% if page.robots %}
+{% if paginator and paginator.page != 1 %}
+<meta name="robots" content="noindex,follow">
+{% elsif page.type == "category" %}
+<meta name="robots" content="noindex,follow">
+{% elsif page.robots %}
 <meta name="robots" content="{{ page.robots }}">
 {% endif %}
     

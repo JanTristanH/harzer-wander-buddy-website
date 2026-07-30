@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/6-bremer-huette-obere-ilsefaelle.jpg
 description: "HWN 6 Bremer Hütte bei den Oberen Ilsefällen: Zustieg ab Ilsenburg, Geschichte und nahe Stempelstellen."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Bremer Hütte am Brocken](https://commons.wikimedia.org/wiki/File:Bremer_H%C3%BCtte_am_Brocken.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Hejkal" class="extiw" title="de:Benutzer:Hejkal">Benutzer:Hejkal</a> unter Lizenz [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)'
@@ -37,7 +38,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche) – ca. **1,5 km**
-- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein) – ca. **2,5 km**
-- [**„Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg) – ca. **3,2 km**
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer)
+- [**„Stempelsbuche“ (HWN 8)**](/stempelstelle-008-stempelsbuche/) – ca. **1,5 km**
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein/) – ca. **2,5 km**
+- [**„Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg/) – ca. **3,2 km**
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/)

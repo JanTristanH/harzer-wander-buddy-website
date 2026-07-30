@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Knollenkreuz“ (HWN 152)**](/stempelstelle-152-knollenkreuz)
-- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz-2)
+- [**„Knollenkreuz“ (HWN 152)**](/stempelstelle-152-knollenkreuz/)
+- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz-2/)

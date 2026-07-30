@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Dampflokstieg Lok“ (HWN 99)**](/stempelstelle-099-harzer-holzdampflok)
-- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre)
+- [**„Dampflokstieg Lok“ (HWN 99)**](/stempelstelle-099-harzer-holzdampflok/)
+- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre/)

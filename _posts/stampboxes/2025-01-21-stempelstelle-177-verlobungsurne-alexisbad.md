@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Köthener Hütte“ (HWN 195)**](/stempelstelle-195-koethener-huette)
+- [**„Köthener Hütte“ (HWN 195)**](/stempelstelle-195-koethener-huette/)

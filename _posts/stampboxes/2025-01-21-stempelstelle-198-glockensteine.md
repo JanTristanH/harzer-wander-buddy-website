@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
-- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm)
-- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein)
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt/)
+- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm/)
+- [**„Burg Falkenstein“ (HWN 200)**](/stempelstelle-200-burg-falkenstein/)

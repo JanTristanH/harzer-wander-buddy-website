@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ramseck“ (HWN 114)**](/stempelstelle-114-ramseck)
+- [**„Ramseck“ (HWN 114)**](/stempelstelle-114-ramseck/)

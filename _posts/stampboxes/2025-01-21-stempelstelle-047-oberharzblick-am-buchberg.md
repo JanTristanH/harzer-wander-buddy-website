@@ -31,8 +31,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-048-stierbergsteich)
-- [**„Grüntal“ (HWN 49)**](/stempelstelle-049-gruental)
-- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-050-walzenhuette)
-- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm)
-- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof)
+- [**„Stierbergsteich“ (HWN 48)**](/stempelstelle-048-stierbergsteich/)
+- [**„Grüntal“ (HWN 49)**](/stempelstelle-049-gruental/)
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-050-walzenhuette/)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm/)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof/)

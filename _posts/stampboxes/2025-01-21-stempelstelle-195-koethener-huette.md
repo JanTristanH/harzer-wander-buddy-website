@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Verlobungsurne“ (HWN 177)**](/stempelstelle-177-verlobungsurne-alexisbad)
-- [**„Vierter Friedrichshammer“ (HWN 179)**](/stempelstelle-179-iv-friedrichshammer)
-- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
+- [**„Verlobungsurne“ (HWN 177)**](/stempelstelle-177-verlobungsurne-alexisbad/)
+- [**„Vierter Friedrichshammer“ (HWN 179)**](/stempelstelle-179-iv-friedrichshammer/)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm/)

@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg)
-- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein)
-- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg)
+- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg/)
+- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein/)
+- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/)

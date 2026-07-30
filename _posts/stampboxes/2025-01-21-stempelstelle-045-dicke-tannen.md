@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/45-dicke-tannen.jpg
 description: "HWN 45 Dicke Tannen bei Hohegeiss: kurzer Zustieg ab Neuer Teich, uralte Fichten im Wolfsbachtal und gute Kombi mit HWN 46 am Grenzmuseum."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 imageSource: '📷 [Dicke Tannen](https://commons.wikimedia.org/wiki/File:Dicke_Tannen.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -28,7 +29,7 @@ Alternativ kannst du auch von Hohegeiss oder Zorge losgehen und die Stempelstell
 
 Vom Parkplatz Neuer Teich fuehrt der Weg vorbei am Teich hinein ins Wolfsbachtal und weiter zu den Dicken Tannen. Die Strecke ist gut fuer Wanderer geeignet, die keine allzu schwere Tour suchen.
 
-Besonders sinnvoll ist die Verbindung mit [**Grenzmuseum am Ring der Erinnerung (HWN 46)**](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung), wenn du Natur und Geschichte am selben Tag verbinden willst. Auch [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge) passt gut in eine groessere Runde.
+Besonders sinnvoll ist die Verbindung mit [**Grenzmuseum am Ring der Erinnerung (HWN 46)**](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung/), wenn du Natur und Geschichte am selben Tag verbinden willst. Auch [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge/) passt gut in eine groessere Runde.
 
 #### Warum lohnt sich der Spot?
 
@@ -49,9 +50,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Grenzmuseum am Ring der Erinnerung“ (HWN 46)**](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung)
-- [**„Hahnestein“ (HWN 206)**](/stempelstelle-206-hahnestein)
-- [**„Pferdchen“ (HWN 58)**](/stempelstelle-058-pferdchen)
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)
+- [**„Grenzmuseum am Ring der Erinnerung“ (HWN 46)**](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung/)
+- [**„Hahnestein“ (HWN 206)**](/stempelstelle-206-hahnestein/)
+- [**„Pferdchen“ (HWN 58)**](/stempelstelle-058-pferdchen/)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge/)
 
 Die komplette Sammlung aller Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).

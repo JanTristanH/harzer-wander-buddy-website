@@ -30,5 +30,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
-- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz-2)
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen/)
+- [**„Goedeckenplatz“ (HWN 153)**](/stempelstelle-153-goedeckenplatz-2/)

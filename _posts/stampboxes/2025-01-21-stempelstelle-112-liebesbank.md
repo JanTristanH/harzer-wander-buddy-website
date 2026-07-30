@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Grumbacher Teich“ (HWN 113)**](/stempelstelle-113-grumbacher-teich)
-- [**„Steinbergturm/Steinbergalm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm)
+- [**„Grumbacher Teich“ (HWN 113)**](/stempelstelle-113-grumbacher-teich/)
+- [**„Steinbergturm/Steinbergalm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm/)

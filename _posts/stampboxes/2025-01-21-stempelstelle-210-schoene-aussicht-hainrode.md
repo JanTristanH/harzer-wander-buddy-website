@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste)
-- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben)
+- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste/)
+- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben/)

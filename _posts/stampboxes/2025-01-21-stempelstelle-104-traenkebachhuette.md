@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein)
-- [**„Lageswarte“ (HWN 102)**](/stempelstelle-102-lageswarte)
+- [**„Luchsstein“ (HWN 103)**](/stempelstelle-103-luchsstein/)
+- [**„Lageswarte“ (HWN 102)**](/stempelstelle-102-lageswarte/)

@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
+- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein/)

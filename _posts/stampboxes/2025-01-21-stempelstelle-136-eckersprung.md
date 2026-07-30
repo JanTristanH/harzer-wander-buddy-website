@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Brockenhaus“ (HWN 9)**](/stempelstelle-009-brockenhaus)
-- [**„Eckerloch“ (HWN 11)**](/stempelstelle-011-eckerloch)
-- [**„Schnarcherklippe“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette)
+- [**„Brockenhaus“ (HWN 9)**](/stempelstelle-009-brockenhaus/)
+- [**„Eckerloch“ (HWN 11)**](/stempelstelle-011-eckerloch/)
+- [**„Schnarcherklippe“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette/)

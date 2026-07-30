@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Prinzensicht“ (HWN 70)**](/stempelstelle-070-prinzensicht-aussichtsturm)
-- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal)
+- [**„Prinzensicht“ (HWN 70)**](/stempelstelle-070-prinzensicht-aussichtsturm/)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal/)

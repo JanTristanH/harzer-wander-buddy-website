@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Katzsohlteich“ (HWN 172)**](/stempelstelle-172-katzsohlteich)
-- [**„Hirschbüchenkopf“ (HWN 173)**](/stempelstelle-173-waldwiese-hirschbuechenkopf)
+- [**„Katzsohlteich“ (HWN 172)**](/stempelstelle-172-katzsohlteich/)
+- [**„Hirschbüchenkopf“ (HWN 173)**](/stempelstelle-173-waldwiese-hirschbuechenkopf/)

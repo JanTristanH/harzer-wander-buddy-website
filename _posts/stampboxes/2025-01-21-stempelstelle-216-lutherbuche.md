@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Josephshöhe Auerberg“ (HWN 215)**](/stempelstelle-215-josephshoehe-auerberg)
+- [**„Josephshöhe Auerberg“ (HWN 215)**](/stempelstelle-215-josephshoehe-auerberg/)

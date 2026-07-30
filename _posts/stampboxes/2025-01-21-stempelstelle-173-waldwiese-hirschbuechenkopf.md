@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Glasebacher Stollen“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach)
-- [**„Kiliansteich“ (HWN 211)**](/stempelstelle-211-kiliansteiche)
-- [**„Katzsohlteich“ (HWN 172)**](/stempelstelle-172-katzsohlteich)
+- [**„Glasebacher Stollen“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach/)
+- [**„Kiliansteich“ (HWN 211)**](/stempelstelle-211-kiliansteiche/)
+- [**„Katzsohlteich“ (HWN 172)**](/stempelstelle-172-katzsohlteich/)

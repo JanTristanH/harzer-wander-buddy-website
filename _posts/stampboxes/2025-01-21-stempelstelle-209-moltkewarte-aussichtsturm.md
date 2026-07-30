@@ -36,8 +36,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ruine Grillenburg“ (HWN 208)**](/stempelstelle-208-burgruine-grillenburg)
-- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode)
-- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste)
-- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben)
-- [**„Bergbaulehrpfad Wettelrode“ (HWN 222)**](/stempelstelle-222-bergbaulehrpfad-wettelrode) 
+- [**„Ruine Grillenburg“ (HWN 208)**](/stempelstelle-208-burgruine-grillenburg/)
+- [**„Schöne Aussicht Hainrode“ (HWN 210)**](/stempelstelle-210-schoene-aussicht-hainrode/)
+- [**„An der Queste“ (HWN 212)**](/stempelstelle-212-an-der-queste/)
+- [**„Bauerngraben“ (HWN 213)**](/stempelstelle-213-bauerngraben/)
+- [**„Bergbaulehrpfad Wettelrode“ (HWN 222)**](/stempelstelle-222-bergbaulehrpfad-wettelrode/)

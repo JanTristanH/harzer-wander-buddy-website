@@ -36,4 +36,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Dicke Tannen“ (HWN 45)**](/stempelstelle-045-dicke-tannen)
+- [**„Dicke Tannen“ (HWN 45)**](/stempelstelle-045-dicke-tannen/)

@@ -37,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Rastplatz unterhalb des Clusberges“ (HWN 205)**](/stempelstelle-205-rastplatz-unterhalb-des-clusberges)
-- [**„Bisongehege Stangerode“ (HWN 86)**](/stempelstelle-086-bisongehege)
+- [**„Rastplatz unterhalb des Clusberges“ (HWN 205)**](/stempelstelle-205-rastplatz-unterhalb-des-clusberges/)
+- [**„Bisongehege Stangerode“ (HWN 86)**](/stempelstelle-086-bisongehege/)

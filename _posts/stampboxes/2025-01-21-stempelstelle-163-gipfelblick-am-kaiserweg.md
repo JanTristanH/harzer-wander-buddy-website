@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/163-gipfelblick-am-kaiserweg.jpg
 description: "HWN 163 am Kaiserweg mit Blick auf Wurmberg und Brocken: Zustiege ab Wieda, Zorge oder Lausebuche und gute Kombi mit 157, 160, 164 und 165."
+last_modified_at: 2026-07-18
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipfelblick am Kaiserweg](https://commons.wikimedia.org/wiki/File:Gipfelblick_am_Kaiserweg.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -22,13 +23,13 @@ Der Reiz von HWN 163 liegt nicht nur im Blick, sondern auch in den moeglichen Ko
 
 Am einfachsten ist der Start am Parkplatz Kaiserweg an der L601 zwischen Wieda und Braunlage. Ebenfalls sinnvoll sind der Start in Zorge oder der Parkplatz Lausebuche, wenn du die Tour mit weiteren Stempelstellen verbinden willst.
 
-Ab Zorge ist der Weg etwas abwechslungsreicher, weil du unterwegs gut [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge) einbauen kannst. Von der Lausebuche aus eignet sich die Runde besonders fuer die Kombination mit [**Kapellenfleck (HWN 157)**](/stempelstelle-157-kappellenfleck).
+Ab Zorge ist der Weg etwas abwechslungsreicher, weil du unterwegs gut [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge/) einbauen kannst. Von der Lausebuche aus eignet sich die Runde besonders fuer die Kombination mit [**Kapellenfleck (HWN 157)**](/stempelstelle-157-kappellenfleck/).
 
 #### Weg zur Stempelstelle
 
 Vom Parkplatz Kaiserweg fuehrt ein stetiger, aber gut gehbarer Anstieg ueber den Kaiserweg in Richtung Stempelstelle. Die Strecke ist klar und fuer viele Wanderer die direkteste Variante.
 
-Ab Zorge laeufst du ueber den Huettenweg zunaechst in Richtung Helenenruh und steigst dann weiter am Kaiserweg auf. Wer ausgedehntere Runden mag, kann im Anschluss auch noch [**Stiefmutter (HWN 164)**](/stempelstelle-164-stiefmutter) oder [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche) anbinden.
+Ab Zorge laeufst du ueber den Huettenweg zunaechst in Richtung Helenenruh und steigst dann weiter am Kaiserweg auf. Wer ausgedehntere Runden mag, kann im Anschluss auch noch [**Stiefmutter (HWN 164)**](/stempelstelle-164-stiefmutter/) oder [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche/) anbinden.
 
 #### Warum lohnt sich der Spot?
 
@@ -49,9 +50,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kappellenfleck)
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)
-- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter)
-- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche)
+- [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kappellenfleck/)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge/)
+- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter/)
+- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche/)
 
 Mehr Ziele fuer deine Tour findest du auch in der [**HWN Stempelstellen Uebersicht**](/overview).

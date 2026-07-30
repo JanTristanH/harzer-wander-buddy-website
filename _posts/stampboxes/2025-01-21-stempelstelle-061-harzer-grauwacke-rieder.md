@@ -40,6 +40,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schöneburg“ (HWN 63)**](/stempelstelle-063-schoeneburg-aussichtspunkt)
-- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-064-boeser-kleef-aussichtspunkt)
-- [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-065-gasthaus-todtenrode)
+- [**„Schöneburg“ (HWN 63)**](/stempelstelle-063-schoeneburg-aussichtspunkt/)
+- [**„Böser Kleef“ (HWN 64)**](/stempelstelle-064-boeser-kleef-aussichtspunkt/)
+- [**„Gasthaus Todtenrode“ (HWN 65)**](/stempelstelle-065-gasthaus-todtenrode/)

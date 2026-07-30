@@ -23,7 +23,7 @@ Die Selkesicht kann auf verschiedenen Wegen erreicht werden:
 
 - **Von Ballenstedt**: Start am Wanderparkplatz „Am Kohlenschacht“. Über die Wege **„Alter Kohlenschacht“ (HWN 180)**, **„Falkenweg“** und **„Meisdorfer Trift“** führt die Route direkt zur Ackeburg.
 
-- **Vom Selketal**: Ein kürzerer, aber steiler Anstieg beginnt am Gasthaus **„Zum Falken“**. Der Rückweg kann über die [**„Schutzhütte am Mettenberg“ (HWN 203)**](/stempelstelle-203-schutzhuette-am-mettenberg) eigneschlagen werden.
+- **Vom Selketal**: Ein kürzerer, aber steiler Anstieg beginnt am Gasthaus **„Zum Falken“**. Der Rückweg kann über die [**„Schutzhütte am Mettenberg“ (HWN 203)**](/stempelstelle-203-schutzhuette-am-mettenberg/) eigneschlagen werden.
 
 
 > Tipp: Der Ausblick von der Selkesicht ist besonders beeindruckend bei Sonnenaufgang oder Sonnenuntergang. 
@@ -54,8 +54,8 @@ Bei unserem Besuch im Herbst haben wir vielen Zecken aus dem Fell unseres Beglei
 
 #### Stempel in der Nähe
 
-- [**„Alter Kohlenschacht“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht)
-- [**„Forstmeister Tannen“ (HWN 181)**](/stempelstelle-181-forstmeister-tannen)
-- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm)
-- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt)
-- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm)
+- [**„Alter Kohlenschacht“ (HWN 180)**](/stempelstelle-180-alter-kohlenschacht/)
+- [**„Forstmeister Tannen“ (HWN 181)**](/stempelstelle-181-forstmeister-tannen/)
+- [**„Schirm“ (HWN 182)**](/stempelstelle-182-schirm/)
+- [**„Burgruine Anhalt“ (HWN 197)**](/stempelstelle-197-burgruine-anhalt/)
+- [**„Bismarckturm“ (HWN 199)**](/stempelstelle-199-bismarckturm/)

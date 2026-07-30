@@ -33,5 +33,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich)
-- [**„Oberer Hahnebalzer Teich“ (HWN 141)**](/stempelstelle-141-Oberer-Hahnebalzer-Teich)
+- [**„Weppner Hütte, Jägersbleeker Teich“ (HWN 127)**](/stempelstelle-127-weppner-huette-jaegersbleeker-teich/)
+- [**„Oberer Hahnebalzer Teich“ (HWN 141)**](/stempelstelle-141-oberer-hahnebalzer-teich/)

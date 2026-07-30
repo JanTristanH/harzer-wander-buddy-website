@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Harzer Grauwacke“ (HWN 61)**](/stempelstelle-061-harzer-grauwacke-rieder)
-- [**„Preußenturm“ (HWN 185)**](/stempelstelle-185-preussenturm)
-- [**„Anhaltinischer Salstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein)
+- [**„Harzer Grauwacke“ (HWN 61)**](/stempelstelle-061-harzer-grauwacke-rieder/)
+- [**„Preußenturm“ (HWN 185)**](/stempelstelle-185-preussenturm/)
+- [**„Anhaltinischer Salstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein/)

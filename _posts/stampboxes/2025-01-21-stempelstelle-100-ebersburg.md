@@ -38,9 +38,9 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-092-poppenberg-mit-aussichtsturm)
-- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-095-ilfelder-wetterfahne)
-- [**„Burgruine Hohnstein“ (HWN 98)**](/stempelstelle-098-ruine-hohnstein)
-- [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine)
-- [**„Lutherbuche“ (HWN 216)**](/stempelstelle-216-lutherbuche)
-- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre)
+- [**„Poppenberg mit Aussichtsturm“ (HWN 92)**](/stempelstelle-092-poppenberg-mit-aussichtsturm/)
+- [**„Ilfelder Wetterfahne“ (HWN 95)**](/stempelstelle-095-ilfelder-wetterfahne/)
+- [**„Burgruine Hohnstein“ (HWN 98)**](/stempelstelle-098-ruine-hohnstein/)
+- [**„Glockensteine“ (HWN 198)**](/stempelstelle-198-glockensteine/)
+- [**„Lutherbuche“ (HWN 216)**](/stempelstelle-216-lutherbuche/)
+- [**„Neustädter Talsperre“ (HWN 218)**](/stempelstelle-218-neustaedter-talsperre/)

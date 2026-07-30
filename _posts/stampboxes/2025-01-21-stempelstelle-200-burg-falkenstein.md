@@ -39,5 +39,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Konradsburg“ (HWN 201)**](/stempelstelle-201-konradsburg)
-- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg)
+- [**„Konradsburg“ (HWN 201)**](/stempelstelle-201-konradsburg/)
+- [**„Selkesicht an der Ackeburg“ (HWN 204)**](/stempelstelle-204-selkesicht-an-der-ackeburg/)

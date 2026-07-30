@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hütte im WeltWald Harz“ (HWN 129)**](/stempelstelle-129-huette-im-weltwald-harz)
+- [**„Hütte im WeltWald Harz“ (HWN 129)**](/stempelstelle-129-huette-im-weltwald-harz/)

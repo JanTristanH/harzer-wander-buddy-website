@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schornsteinberg“ (HWN 89)**](/stempelstelle-089-schornsteinberg)
-- [**„Volkmarskeller“ (HWN 87)**](/stempelstelle-087-volkmarskeller)
-- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-079-otto-ebert-bruecke-am-herzogsweg)
+- [**„Schornsteinberg“ (HWN 89)**](/stempelstelle-089-schornsteinberg/)
+- [**„Volkmarskeller“ (HWN 87)**](/stempelstelle-087-volkmarskeller/)
+- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-079-otto-ebert-bruecke-am-herzogsweg/)

@@ -37,6 +37,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-032-gasthaus-christianental)
-- [**„Elversstein“ (HWN 29)**](/stempelstelle-029-elversstein)
-- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein)
+- [**„Gasthaus Christianental“ (HWN 32)**](/stempelstelle-032-gasthaus-christianental/)
+- [**„Elversstein“ (HWN 29)**](/stempelstelle-029-elversstein/)
+- [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein/)

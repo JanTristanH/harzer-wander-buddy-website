@@ -37,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-066-wilhelmsblick-aussichtspunkt)
-- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal)
+- [**„Wilhelmsblick“ (HWN 66)**](/stempelstelle-066-wilhelmsblick-aussichtspunkt/)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal/)

@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Anhaltinischer Saalstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein)
-- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode)
-- [**„Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg)
+- [**„Anhaltinischer Saalstein“ (HWN 186)**](/stempelstelle-186-anhaltinischer-salstein/)
+- [**„Försterblick Gernrode“ (HWN 183)**](/stempelstelle-183-foersterblick-gernrode/)
+- [**„Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg/)

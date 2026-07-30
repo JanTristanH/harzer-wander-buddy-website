@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Granestausee“ (HWN 110)**](/stempelstelle-110-granestausee)
-- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank)
-- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein)
+- [**„Granestausee“ (HWN 110)**](/stempelstelle-110-granestausee/)
+- [**„Liebesbank“ (HWN 112)**](/stempelstelle-112-liebesbank/)
+- [**„Treppenstein“ (HWN 117)**](/stempelstelle-117-treppenstein/)

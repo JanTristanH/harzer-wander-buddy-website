@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Rappbodeblick Trautenstein“ (HWN 56)**](/stempelstelle-056-rappbodeblick-trautenstein)
-- [**„Hassel-Vorsperre“ (HWN 53)**](/stempelstelle-053-hassel-vorsperre)
-- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm)
+- [**„Rappbodeblick Trautenstein“ (HWN 56)**](/stempelstelle-056-rappbodeblick-trautenstein/)
+- [**„Hassel-Vorsperre“ (HWN 53)**](/stempelstelle-053-hassel-vorsperre/)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm/)

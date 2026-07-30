@@ -35,7 +35,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
-- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich)
-- [**„Laubtalblick“ (HWN 191)**](/stempelstelle-191-laubtalblick)
-- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal/)
+- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich/)
+- [**„Laubtalblick“ (HWN 191)**](/stempelstelle-191-laubtalblick/)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich/)

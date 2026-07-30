@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-040-koenigshuetter-wasserfall)
-- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg)
-- [**„Trogfurther Brücke“ (HWN 42)**](/stempelstelle-042-trogfurther-bruecke)
+- [**„Königshütter Wasserfall“ (HWN 40)**](/stempelstelle-040-koenigshuetter-wasserfall/)
+- [**„Ruine Königsburg“ (HWN 41)**](/stempelstelle-041-ruine-koenigsburg/)
+- [**„Trogfurther Brücke“ (HWN 42)**](/stempelstelle-042-trogfurther-bruecke/)

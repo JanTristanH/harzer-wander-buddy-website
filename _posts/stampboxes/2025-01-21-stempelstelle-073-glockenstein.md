@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ruine Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg)
-- [**„La Viershöhe“ (HWN 072)**](/stempelstelle-072-la-viershoehe)
-- [**„Rosstrappe“ (HWN 071)**](/stempelstelle-071-rosstrappe-abzweig-schurre)
+- [**„Ruine Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg/)
+- [**„La Viershöhe“ (HWN 072)**](/stempelstelle-072-la-viershoehe/)
+- [**„Rosstrappe“ (HWN 071)**](/stempelstelle-071-rosstrappe-abzweig-schurre/)

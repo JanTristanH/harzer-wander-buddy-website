@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Aussichtsreich“ Burgberg (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg)
-- [**Rabenklippe (HWN 170)**](/stempelstelle-170-rabenklippe)
-- [**Molkenhaus (HWN 169)**](/stempelstelle-169-molkenhaus)
+- [**„Aussichtsreich“ Burgberg (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg/)
+- [**Rabenklippe (HWN 170)**](/stempelstelle-170-rabenklippe/)
+- [**Molkenhaus (HWN 169)**](/stempelstelle-169-molkenhaus/)

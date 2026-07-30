@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Unterer Grumbacher Teich“ (HWN 113)**](/stempelstelle-113-grumbacher-teich)
+- [**„Unterer Grumbacher Teich“ (HWN 113)**](/stempelstelle-113-grumbacher-teich/)

@@ -34,5 +34,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm)
-- [**„Lochstein, Oberer Schalker Graben“ (HWN 126)**](/stempelstelle-126-lochstein-oberer-schalker-graben)
+- [**„Schalker Turm“ (HWN 125)**](/stempelstelle-125-schalker-turm/)
+- [**„Lochstein, Oberer Schalker Graben“ (HWN 126)**](/stempelstelle-126-lochstein-oberer-schalker-graben/)

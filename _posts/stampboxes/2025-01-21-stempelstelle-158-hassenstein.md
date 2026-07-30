@@ -33,6 +33,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette)
-- [**„Stöberhai“ (HWN 159)**](/stempelstelle-159-stoeberhai)
-- [**„Hohe Tür“ (HWN 43)**](/stempelstelle-043-wasserscheide-weser-elbe-hohe-tuer)
+- [**„Stephanshütte“ (HWN 161)**](/stempelstelle-161-stephanshuette/)
+- [**„Stöberhai“ (HWN 159)**](/stempelstelle-159-stoeberhai/)
+- [**„Hohe Tür“ (HWN 43)**](/stempelstelle-043-wasserscheide-weser-elbe-hohe-tuer/)

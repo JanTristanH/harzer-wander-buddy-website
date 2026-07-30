@@ -7,6 +7,8 @@ image: assets/images/stampboxes/141-Oberer-Hahnebalzer-Teich.jpg
 description: "HWN 141: Oberer Hahnebalzer Teich | Clausthal-Zellerfeld"
 comments: false
 imageshadow: true
+permalink: /stempelstelle-141-oberer-hahnebalzer-teich/
+last_modified_at: 2026-07-30
 imageSource: '📷 [Oberer Hahnebalzer Teich](https://commons.wikimedia.org/wiki/File:Oberer_Hahnebalzer_Teich.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
@@ -35,5 +37,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Kaysereiche“ (HWN 131)**](/stempelstelle-131-kaysereiche-schutzhuette)
-- [**„Prinzenteich“ (HWN 139)**](/stempelstelle-139-kuckholzklippe)
+- [**„Kaysereiche“ (HWN 131)**](/stempelstelle-131-kaysereiche-schutzhuette/)
+- [**„Prinzenteich“ (HWN 139)**](/stempelstelle-139-kuckholzklippe/)

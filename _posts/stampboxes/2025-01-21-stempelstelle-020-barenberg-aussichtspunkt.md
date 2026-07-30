@@ -37,7 +37,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette)
-- [**„Helenenruh“ (HWN 21)**](/stempelstelle-021-helenenruh)
-- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint)
-- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein)
+- [**„Schnarcherklippen“ (HWN 14)**](/stempelstelle-014-schnarcherklippe-schutzhuette/)
+- [**„Helenenruh“ (HWN 21)**](/stempelstelle-021-helenenruh/)
+- [**„Ahrensklint“ (HWN 13)**](/stempelstelle-013-ahrensklint/)
+- [**„Trudenstein“ (HWN 17)**](/stempelstelle-017-trudenstein/)

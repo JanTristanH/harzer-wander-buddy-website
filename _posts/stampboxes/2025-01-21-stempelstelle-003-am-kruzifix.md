@@ -5,6 +5,7 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/3-am-kruzifix.jpg
 description: "HWN 3 Am Kruzifix bei Ilsenburg: Lage, Zugänge über Ilsetal und Eckertalsperre sowie nahe Stempelstellen."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Am Kruzifix](https://commons.wikimedia.org/wiki/File:Am_Kruzifix.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
@@ -37,7 +38,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Scharfenstein (Rangerstation)“ (HWN 2)**](/stempelstelle-002-scharfenstein-rangerstation) – ca. **2,8 km**
-- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-004-taubenklippe) – ca. **3,5 km**
-- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-005-froschfelsen) – ca. **4 km**
-- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer)
+- [**„Scharfenstein (Rangerstation)“ (HWN 2)**](/stempelstelle-002-scharfenstein-rangerstation/) – ca. **2,8 km**
+- [**„Taubenklippe“ (HWN 4)**](/stempelstelle-004-taubenklippe/) – ca. **3,5 km**
+- [**„Froschfelsen“ (HWN 5)**](/stempelstelle-005-froschfelsen/) – ca. **4 km**
+- [**„Eckertalsperre“ (HWN 1)**](/stempelstelle-001-eckertalsperre-staumauer/)

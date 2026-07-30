@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Lochstein, Oberer Schalker Graben“ (HWN 126)**](/stempelstelle-126-lochstein-oberer-schalker-graben)
-- [**„Köte am Heidenstieg“ (HWN 124)**](/stempelstelle-124-koete-am-heidenstieg)
+- [**„Lochstein, Oberer Schalker Graben“ (HWN 126)**](/stempelstelle-126-lochstein-oberer-schalker-graben/)
+- [**„Köte am Heidenstieg“ (HWN 124)**](/stempelstelle-124-koete-am-heidenstieg/)

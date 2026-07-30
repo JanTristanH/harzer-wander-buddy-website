@@ -34,4 +34,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Iberger Albertturm“ (HWN 130)**](/stempelstelle-130-iberger-albertturm)
+- [**„Iberger Albertturm“ (HWN 130)**](/stempelstelle-130-iberger-albertturm/)

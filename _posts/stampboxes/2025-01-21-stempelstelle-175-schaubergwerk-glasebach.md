@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hellergrund“ (HWN 194)**](/stempelstelle-194-hellergrund)
-- [**„Stahlquelle“ (HWN 193)**](/stempelstelle-193-stahlquelle)
-- [**„Waldwiese Hirschbüchenkopf“ (HWN 173)**](/stempelstelle-173-waldwiese-hirschbuechenkopf)
+- [**„Hellergrund“ (HWN 194)**](/stempelstelle-194-hellergrund/)
+- [**„Stahlquelle“ (HWN 193)**](/stempelstelle-193-stahlquelle/)
+- [**„Waldwiese Hirschbüchenkopf“ (HWN 173)**](/stempelstelle-173-waldwiese-hirschbuechenkopf/)

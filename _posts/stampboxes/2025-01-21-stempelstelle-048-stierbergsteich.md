@@ -34,7 +34,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-047-oberharzblick-am-buchberg)
-- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-050-walzenhuette)
-- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm)
-- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof)
+- [**„Oberharzblick am Buchenberg“ (HWN 47)**](/stempelstelle-047-oberharzblick-am-buchberg/)
+- [**„Walzenhütte“ (HWN 50)**](/stempelstelle-050-walzenhuette/)
+- [**„Carlsturm“ (HWN 51)**](/stempelstelle-051-carlsturm/)
+- [**„Ziegenalm Sophienhof“ (HWN 97)**](/stempelstelle-097-ziegenalm-sophienhof/)

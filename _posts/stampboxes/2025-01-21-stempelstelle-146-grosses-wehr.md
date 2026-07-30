@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg)
-- [**„Schmidts-Denkmal“ (HWN 145)**](/stempelstelle-145-schmidts-denkmal)
-- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung)
+- [**„Hanskühnenburg“ (HWN 144)**](/stempelstelle-144-hanskuehnenburg/)
+- [**„Schmidts-Denkmal“ (HWN 145)**](/stempelstelle-145-schmidts-denkmal/)
+- [**„Eckersprung“ (HWN 136)**](/stempelstelle-136-eckersprung/)

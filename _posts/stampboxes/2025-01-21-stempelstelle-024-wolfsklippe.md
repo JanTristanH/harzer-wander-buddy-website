@@ -42,6 +42,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein)
-- [**„Oberförster-Koch-Denkmal“ (HWN 25)**](/stempelstelle-025-oberfoerster-koch-denkmal)
-- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg)
+- [**„Ferdinandsstein“ (HWN 16)**](/stempelstelle-016-ferdinandsstein/)
+- [**„Oberförster-Koch-Denkmal“ (HWN 25)**](/stempelstelle-025-oberfoerster-koch-denkmal/)
+- [**„Gasthaus Plessenburg“ (HWN 7)**](/stempelstelle-007-gasthaus-plessenburg/)

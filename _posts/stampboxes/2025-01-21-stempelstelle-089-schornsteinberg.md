@@ -35,4 +35,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Hoher Kleef“ (HWN 88)**](/stempelstelle-088-aussichtspavillon-hoher-kleef)
+- [**„Hoher Kleef“ (HWN 88)**](/stempelstelle-088-aussichtspavillon-hoher-kleef/)

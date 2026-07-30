@@ -39,5 +39,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal)
-- [**„Hirschgrund“ (HWN 178)**](/stempelstelle-178-hirschgrund-am-gasthaus-koenigskrug)
+- [**„Pfeil-Denkmal“ (HWN 68)**](/stempelstelle-068-pfeil-denkmal/)
+- [**„Hirschgrund“ (HWN 178)**](/stempelstelle-178-hirschgrund-am-gasthaus-koenigskrug/)

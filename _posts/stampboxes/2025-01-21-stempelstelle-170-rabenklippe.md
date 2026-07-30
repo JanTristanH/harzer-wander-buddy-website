@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Aussichtsreich“ Burgberg (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg)
-- [**Kreuz des deutschen Ostens (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens)
-- [**Molkenhaus (HWN 169)**](/stempelstelle-169-molkenhaus)
+- [**„Aussichtsreich“ Burgberg (HWN 121)**](/stempelstelle-121-aussichtsreich-burgberg/)
+- [**Kreuz des deutschen Ostens (HWN 122)**](/stempelstelle-122-kreuz-des-deutschen-ostens/)
+- [**Molkenhaus (HWN 169)**](/stempelstelle-169-molkenhaus/)

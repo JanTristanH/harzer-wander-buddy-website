@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Köte Schindelkopf“ (HWN 143)**](/stempelstelle-143-koete-schindelkopf)
-- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen)
-- [**„Ruine Scharzfels“ (HWN 151)**](/stempelstelle-151-ruine-scharzfels)
+- [**„Köte Schindelkopf“ (HWN 143)**](/stempelstelle-143-koete-schindelkopf/)
+- [**„Großer Knollen“ (HWN 150)**](/stempelstelle-150-grosser-knollen/)
+- [**„Ruine Scharzfels“ (HWN 151)**](/stempelstelle-151-ruine-scharzfels/)

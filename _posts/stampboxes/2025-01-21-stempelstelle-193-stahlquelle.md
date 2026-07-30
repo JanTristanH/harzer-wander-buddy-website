@@ -35,5 +35,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Wasserkunstanlage Hellergrund“ (HWN 194)**](/stempelstelle-194-hellergrund)
-- [**„Schaubergwerk Glasebach“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach)
+- [**„Wasserkunstanlage Hellergrund“ (HWN 194)**](/stempelstelle-194-hellergrund/)
+- [**„Schaubergwerk Glasebach“ (HWN 175)**](/stempelstelle-175-schaubergwerk-glasebach/)

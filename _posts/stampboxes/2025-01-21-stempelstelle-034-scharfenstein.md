@@ -4,37 +4,36 @@ title:  "HWN 34 Scharfenstein: Brockenblick, Treppenaufstieg und Kombi"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/34-scharfenstein.jpg
-description: "HWN 34 Scharfenstein bei Wernigerode: markante Felsklippe mit Brockenblick, kurze Zustiege ab Kaltes Tal und gute Kombi mit 29, 35 und 36."
+description: "HWN 34 Scharfenstein bei Wernigerode: Felsklippe mit Brockenblick, Zustieg über den Senfmühlenweg und Kombination mit HWN 35 und 36."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Scharfenstein Wernigerode](https://commons.wikimedia.org/wiki/File:Scharfenstein_Wernigerode.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Scharfenstein ist eine markante Klippe suedlich von Wernigerode und fuer viele eine der lohnendsten kurzen Aussichtstouren in diesem Bereich. Die Stempelstelle 34 verbindet einen einfachen Zustieg mit einem klaren Gipfelerlebnis.
+Der **Scharfenstein bei Wernigerode (HWN 34)** ist nicht mit der gleichnamigen Rangerstation HWN 2 bei Ilsenburg zu verwechseln. Dieser Scharfenstein liegt auf **462 Metern Höhe** oberhalb des Wernigeröder Ortsteils Nöschenrode. Sein Reiz: Aus einer Waldwanderung wird auf den letzten Metern ein kleines Gipfelerlebnis. Eine Steintreppe führt auf die Felsklippe, von der der Blick bei klarer Sicht über die Harzer Berge bis zum Brocken reicht.
 
-#### Lage und Besonderheiten
+#### Wo steht der Stempelkasten?
 
-Die Felsformation liegt im Bereich des Eichberg-Sued und bietet oben einen freien Blick auf die Harzer Berge. Besonders attraktiv ist der Spot, weil du ueber die Treppen schnell auf den Felsen gelangst und dort direkt mit Aussicht belohnt wirst.
+Der Stempel gehört zum Aussichtspunkt Scharfenstein. Am Ziel gibt es keine Gastronomie und keine verlässlich verfügbare Wasserstelle. Für eine Pause mit Einkehr lässt sich die Tour deshalb gut bis zum Waldgasthaus Armeleuteberg verlängern. Dessen Öffnungszeiten solltest du vorher beim Betrieb kontrollieren.
 
-Im Wernigeroeder Wandergebiet ist HWN 34 ausserdem ein guter Ankerpunkt fuer Rundtouren. Wer mehrere Stempel sammeln will, kann den Scharfenstein sehr gut in eine Serie mit benachbarten Stationen einbauen.
+#### Touren und Kombinationen
 
-#### Anfahrt und Parken
+- **Direkt ab Sporthotel Wernigerode:** Die Harzer Wandernadel empfiehlt den Parkplatz am Sporthotel als Ausgangspunkt. Von dort führt der **Senfmühlenweg** zum Aussichtspunkt. Diese Variante konzentriert sich auf HWN 34 und eignet sich, wenn du keine große Stempelrunde planst. Da die offizielle Beschreibung keine belastbare Distanz nennt, solltest du den gewählten Hin- und Rückweg vorab in einer aktuellen Wanderkarte ausmessen.
+- **Runde über den Armeleuteberg:** Nach dem Scharfenstein kannst du auf beschilderten Waldwegen zum [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) weiterwandern. Dort liegen auch der Kaiserturm und der obere Abschnitt des Märchenwegs. Je nach Rückweg entsteht eine abwechslungsreiche Halbtagestour mit Felsblick und Einkehrmöglichkeit.
+- **Mehrere Stempel im Wernigeröder Stadtwald:** Für eine längere, selbst geplante Runde bieten sich HWN 34, HWN 35 und [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein/) an. Der [**Elversstein (HWN 29)**](/stempelstelle-029-elversstein/) lässt sich bei ausreichend Kondition ergänzen. Verbinde die Punkte nur über ausgeschilderte Wege und prüfe die Gesamtlänge vorab – die Nähe auf der Karte sagt im reliefreichen Gelände wenig über die tatsächliche Gehzeit aus.
 
-Der Wanderparkplatz Kaltes Tal an der B244 ist fuer viele die einfachste Wahl. Ebenfalls praktikabel ist der Start am Foersterplatz beim Armeleuteberg, wenn du die Runde erweitern willst.
+#### Parken und Anreise
 
-Beide Startpunkte sind fuer eine Halbtagesrunde gut geeignet. Kaltes Tal ist meist der klarere Ausgangspunkt, wenn du den Scharfenstein direkt ansteuern willst.
+Für die direkte Tour ist der von der Harzer Wandernadel genannte Parkplatz am Sporthotel die am besten belegte Wahl. Für eine Kombinationsrunde mit HWN 35 kannst du alternativ am ausgewiesenen Wanderparkplatz **Försterplatz** starten. Prüfe vor Ort die aktuelle Beschilderung und blockiere keine Forstzufahrten.
 
-#### Weg zur Stempelstelle
+Wernigerode ist gut per Bahn erreichbar. Wer ohne Auto startet, plant den Zustieg aus dem Stadtgebiet beziehungsweise die lokale Busverbindung nach Nöschenrode mit zusätzlicher Gehzeit ein. Eine offline gespeicherte Wanderkarte ist für die Verzweigungen im Stadtwald sinnvoll.
 
-Von Kaltes Tal fuehrt ein gut ausgeschilderter Weg in Richtung Scharfenstein. Der finale Abschnitt mit der Steintreppe macht den Zustieg kurz etwas markanter, ist aber gerade deshalb ein schoener Teil des Erlebnisses.
+#### Schwierigkeit, Kinder und Wegezustand
 
-Sehr gut passt die Kombination mit [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg), [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein) und bei laengerer Runde auch [**Elversstein (HWN 29)**](/stempelstelle-029-elversstein).
+Der Zustieg verläuft überwiegend auf Waldwegen; der entscheidende Unterschied ist die kleine Steintreppe auf den Felsen. Bei trockenen Bedingungen ist sie für trittsichere Wanderer gut machbar. Nässe, Laub und Eis erhöhen das Rutschrisiko. Auf dem Aussichtsfelsen brauchen Kinder enge Begleitung, Hunde sollten wegen der Stufen und Felskanten kurz geführt werden. Mit Kinderwagen erreichst du den eigentlichen Aussichtspunkt nicht sinnvoll.
 
-#### Warum lohnt sich der Spot?
-
-HWN 34 lohnt sich, weil du fuer vergleichsweise wenig Aufwand schnell auf einer praegenden Klippe stehst. Das gibt der Tour ein echtes Zielgefuehl, ohne dass du eine lange Gipfelwanderung brauchst.
-
-Wenn du Besuch im Harz hast oder selbst eine kurze, lohnende Runde suchst, ist der Scharfenstein einer der Spots, die man gut empfehlen kann. Aussicht, Fels und leichter Zugang passen hier einfach gut zusammen.
+Nach Sturm können auch im Stadtwald Wege durch Äste oder umgestürzte Bäume beeinträchtigt sein. Nimm lokale Sperrschilder ernst und drehe um, statt quer durch den Wald auszuweichen.
 
 #### Anfahrt
 
@@ -49,9 +48,15 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Elversstein“ (HWN 29)**](/stempelstelle-029-elversstein)
-- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg)
-- [**„Peterstein“ (HWN 36)**](/stempelstelle-036-peterstein)
-- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg)
+- [**„Elversstein“ (HWN 29)**](/stempelstelle-029-elversstein/)
+- [**„Gasthaus Armeleuteberg“ (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/)
+- [**„Peterstein“ (HWN 36)**](/stempelstelle-036-peterstein/)
+- [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg/)
 
-Eine komplette Liste aller Nummern und Ziele findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+Eine komplette Liste aller Nummern und Ziele findest du in der [**HWN-Stempelstellen-Übersicht**](/overview).
+
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 34 / Scharfenstein](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-34-scharfenstein/)
+- [Harzer Wandernadel: Stempelstelle 35 / Gasthaus Armeleuteberg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-35-gasthaus-armeleuteberg/)
+- [Wernigerode Tourismus: Wanderportal und Märchenweg](https://www.wernigerode-tourismus.de/zeitzubleiben-in-wernigerode-und-schierke/wandern-in-wernigerode)

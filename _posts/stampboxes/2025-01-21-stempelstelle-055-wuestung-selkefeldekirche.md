@@ -37,4 +37,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**Katzsohlteich (HWN 172 )**](/stempelstelle-172-katzsohlteich )
+- [**Katzsohlteich (HWN 172)**](/stempelstelle-172-katzsohlteich/)

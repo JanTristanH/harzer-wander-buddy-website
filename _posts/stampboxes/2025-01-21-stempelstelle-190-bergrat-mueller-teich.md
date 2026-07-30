@@ -36,6 +36,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle)
-- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
-- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
+- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle/)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal/)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich/)

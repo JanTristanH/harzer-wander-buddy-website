@@ -31,6 +31,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge)
-- [**„Dicke Tannen“ (HWN 45)**](/stempelstelle-045-dicke-tannen)
-- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss)
+- [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge/)
+- [**„Dicke Tannen“ (HWN 45)**](/stempelstelle-045-dicke-tannen/)
+- [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss/)

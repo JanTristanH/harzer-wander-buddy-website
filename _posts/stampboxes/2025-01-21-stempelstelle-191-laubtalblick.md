@@ -35,8 +35,8 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich)
-- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle)
-- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal)
-- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich)
-- [**„Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg)
+- [**„Bergrat-Müller-Teich“ (HWN 190)**](/stempelstelle-190-bergrat-mueller-teich/)
+- [**„Große Teufelsmühle“ (HWN 189)**](/stempelstelle-189-grosse-teufelsmuehle/)
+- [**„Bärendenkmal“ (HWN 184)**](/stempelstelle-184-baerendenkmal/)
+- [**„Bremer Teich“ (HWN 196)**](/stempelstelle-196-bremer-teich/)
+- [**„Lauenburg“ (HWN 187)**](/stempelstelle-187-lauenburg/)

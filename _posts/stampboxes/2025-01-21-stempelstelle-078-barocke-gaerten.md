@@ -35,6 +35,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-077-ruine-luisenburg)
-- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen)
-- [**„Burgruine Regenstein“ (HWN 80)**](/stempelstelle-080-burgruine-regenstein)
+- [**„Ruine Luisenburg“ (HWN 77)**](/stempelstelle-077-ruine-luisenburg/)
+- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen/)
+- [**„Burgruine Regenstein“ (HWN 80)**](/stempelstelle-080-burgruine-regenstein/)

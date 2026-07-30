@@ -34,6 +34,6 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Barocke Gärten“ (HWN 78)**](/stempelstelle-078-barocke-gaerten)
-- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen)
-- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-079-otto-ebert-bruecke-am-herzogsweg)
+- [**„Barocke Gärten“ (HWN 78)**](/stempelstelle-078-barocke-gaerten/)
+- [**„Gasthaus Großvater“ (HWN 76)**](/stempelstelle-076-grossvaterfelsen/)
+- [**„Otto-Ebert-Brücke“ (HWN 79)**](/stempelstelle-079-otto-ebert-bruecke-am-herzogsweg/)
