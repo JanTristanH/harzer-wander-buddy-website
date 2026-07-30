@@ -56,7 +56,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Quellen und aktuelle Planung
 
-- [Harzer Wandernadel: Stempelstelle 134 / Gustav-Baumann-Weg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-134-gustav-baumann-%20weg/)
+- [Harzer Wandernadel: Stempelstelle 134 / Gustav-Baumann-Weg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-134-gustav-baumann-weg/)
 - [Oberharz Tourismus: Wolfswarte, Zustiege und Wegcharakter](https://www.oberharz.de/aktivitaeten/wandern/wolfswarte)
 - [Oberharz Tourismus: Goetheweg von Altenau zum Dammgraben und nach Torfhaus](https://www.oberharz.de/aktivitaeten/wandern/goetheweg)
 - [Nationalpark Harz: aktuelle Wegesperrungen](https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/)

@@ -11,18 +11,18 @@ imageshadow: true
 imageSource: '📷 [Taubenklippe](https://commons.wikimedia.org/wiki/File:Taubenklippe.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die **Taubenklippe** liegt auf etwa **550 m ü. NN** im Nationalpark Harz, hoch über dem Eckertal westlich von Ilsenburg. Vom Aussichtspunkt blickst du über das tief eingeschnittene Tal zur Rabenklippe auf der gegenüberliegenden Seite. Der Stempelkasten **HWN 4** steht an der Schutzhütte ein kleines Stück unterhalb der eigentlichen Klippe – nicht direkt oben am Aussichtsfelsen.
+Die **Taubenklippe** liegt laut aktueller Detailseite der Harzer Wandernadel auf etwa **572 m ü. NN** im Nationalpark Harz, hoch über dem Eckertal westlich von Ilsenburg. Vom Aussichtspunkt blickst du über das tief eingeschnittene Tal zur Rabenklippe auf der gegenüberliegenden Seite. Der Stempelkasten **HWN 4** steht an der Schutzhütte ein kleines Stück unterhalb der eigentlichen Klippe – nicht direkt oben am Aussichtsfelsen.
 
-_Zuletzt geprüft: 18. Juli 2026. Strecken und Gehzeiten sind Richtwerte und können je nach gewähltem Weg sowie GPS-Aufzeichnung leicht abweichen._
+_Zuletzt geprüft: 30. Juli 2026. Strecken und Gehzeiten sind Richtwerte und können je nach gewähltem Weg sowie GPS-Aufzeichnung leicht abweichen._
 
 #### HWN 4 kurz und knapp
 
 | Frage | Antwort |
 |---|---|
 | Wo liegt die Stempelstelle? | An der Schutzhütte unterhalb der Taubenklippe |
-| Höhe | etwa 550 m ü. NN |
+| Höhe | etwa 572 m ü. NN laut Harzer Wandernadel |
 | Zustieg ab Ilsenburg über Froschfelsen | rund 6 km und etwa 310 Höhenmeter je Richtung |
-| Rundtour ab Wanderparkplatz Ilsetal | etwa 15 km, 390 Höhenmeter, rund 4,5 Stunden |
+| Rundtour ab Wanderparkplatz Ilsetal | 14,8 km, 380 Höhenmeter, rund 4:25 Stunden |
 | Schwierigkeit | mittel; Kondition und Trittsicherheit erforderlich |
 | Kinderwagen / Rollstuhl | nicht geeignet |
 | Koordinaten des Stempelkastens | 51.86213, 10.61860 |
@@ -43,7 +43,7 @@ Weitere im Wanderführer beschriebene Zugänge sind der **Parkplatz Eckertal bei
 
 #### Rundtour über Ilsetal und Froschfelsen
 
-Wenn du nicht denselben Weg zurückgehen möchtest, bietet sich eine Rundwanderung ab Ilsenburg an. Eine gut dokumentierte Variante verbindet den Heinrich-Heine-Weg im Ilsetal mit Taubenklippe und Froschfelsen. Als Planungswert kannst du mit ungefähr **15 km**, **390 Höhenmetern** und **4,5 Stunden reiner Gehzeit** rechnen.
+Wenn du nicht denselben Weg zurückgehen möchtest, bietet sich eine Rundwanderung ab Ilsenburg an. Eine aktuell dokumentierte Variante verbindet den Heinrich-Heine-Weg im Ilsetal mit Taubenklippe und Froschfelsen. Der Tourenplaner nennt **14,8 km**, **380 Höhenmeter** und rund **4:25 Stunden reine Gehzeit**.
 
 Die Runde ist abwechslungsreich, aber nicht kurz: Sie kombiniert breite Waldwege mit schmaleren Wander- und Bergpfaden. Nach Regen können Wurzeln, Steine und Laub rutschig sein. Lade dir die Route vorab offline herunter und folge im Nationalpark ausschließlich den ausgeschilderten Wegen.
 
@@ -105,4 +105,5 @@ Ja, aber im gesamten Nationalpark gilt Leinenpflicht. Plane genug Wasser für de
 - [Harzer Wandernadel: offizielle Seite zur Stempelstelle 4](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-4-taubenklippe/)
 - [Tourist-Information Ilsenburg: Anreise und Parken](https://www.ilsenburg-tourismus.de/service/anreise-parken.html)
 - [Nationalpark Harz: Regeln und aktuelle Sicherheitshinweise](https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark/)
-- [Routeneindruck auf YouTube: Froschfelsen und Taubenklippe](https://www.youtube.com/watch?v=BpjBzb_pi_I)
+- [Komoot: dokumentierte Rundtour über Taubenklippe und Froschfelsen](https://www.komoot.com/smarttour/11961421)
+- [GPS-Referenz der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

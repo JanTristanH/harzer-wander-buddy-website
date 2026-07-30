@@ -1,44 +1,54 @@
 ---
 layout: post
-title: "HWN 149 Altenauer Herzweg Muehlenberg: Aussicht, Herzweg und ALTENAU"
+title: "HWN 149 Altenauer Herzweg: neuer Standort am Mühlenberg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/149-altenauer-herzweg.jpg
-description: "HWN 149 Altenauer Herzweg Muehlenberg in Altenau: Aussicht am Muehlenberg, ALTENAU-Schriftzug, Metallherz und gute Kombi mit 132, 133, 134 und 135."
-last_modified_at: 2026-07-18
+description: "HWN 149 am Altenauer Herzweg: seit 2025 dauerhaft am Mühlenberg, Aussicht und ALTENAU-Schriftzug sowie Route der 12,4-Kilometer-Herzrunde."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
+imageSource: '📷 [Blick auf die Bergwiesen Mühlenberg](https://commons.wikimedia.org/wiki/File:Blick_auf_die_Bergwiesen_M%C3%BChlenberg.jpg) von [Abcd (Commons: Abruzzenhund)](https://commons.wikimedia.org/wiki/User:Abruzzenhund), zugeschnitten und verkleinert, unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 ---
 
-Die Stempelstelle 149 liegt am Muehlenberg oberhalb von Altenau und ist Teil des Altenauer Herzwegs. Sie verbindet einen leicht zugaenglichen Aussichtspunkt mit einem klaren Fotomotiv und ist damit eine der einpraegsamsten Stationen rund um Altenau.
+**HWN 149** steht seit dem **1. Januar 2025 dauerhaft am Altenauer Herzweg auf dem Mühlenberg**. Ältere Wanderkarten und Beiträge können noch einen früheren Standort zeigen. Orientiere dich deshalb an der aktuellen Bezeichnung **„Herzweg Mühlenberg“** und an den Koordinaten dieser Seite. Am Aussichtspunkt erwarten dich der große ALTENAU-Schriftzug, ein Herzmotiv und der Blick über den Bergort.
 
-#### Lage und Besonderheiten
+_Zuletzt geprüft: 30. Juli 2026. HWN 149 wird auf der aktuell geöffneten Defektseite der Harzer Wandernadel nicht als defekt geführt._
 
-Am Aussichtspunkt steht der markante Schriftzug **ALTENAU**, dazu kommt ein grosses Metallherz, das den Platz zu einem beliebten Foto-Spot macht. Gleichzeitig gehoert die Station zur Herzweg-Route und ist dort die Herzweg-Station 13 mit dem Thema "Social Media".
+#### HWN 149 kurz und knapp
 
-Genau diese Mischung aus Aussicht, Themenweg und Wiedererkennungswert macht HWN 149 besonders. Der Platz funktioniert fuer Familien, Paare und alle, die eine entspannte Runde mit klaren Zwischenzielen suchen.
+| Frage | Antwort |
+|---|---|
+| Aktueller Standort | Mühlenberg am Altenauer Herzweg |
+| Gültig seit | 1. Januar 2025 |
+| Start der Gesamtrunde | Kurpark hinter der Tourist-Information |
+| Herzweg | 12,4 km, etwa 300 Höhenmeter |
+| Thema | 17 Stationen rund um Herz, Gesundheit und Liebe |
+| Koordinaten | 51.803286, 10.450144 |
 
-#### Anfahrt und Parken
+#### Aussichtspunkt mit Herz
 
-Ein guter Startpunkt ist der Kurpark hinter der Tourist-Information Altenau in der Huettenstrasse 9. Dort beginnt der Altenauer Herzweg, sodass du die Stempelstelle bequem in die offizielle Runde einbauen kannst.
+Der Stempelkasten gehört sowohl zur Harzer Wandernadel als auch zur eigenen Stempelrunde des Altenauer Herzwegs. Der Themenweg verbindet Naturerlebnis mit Informationen über das menschliche Herz. Auf 17 Schautafeln geht es unter anderem um Kreislauf, Atmung, Prävention, Gefühle und Redewendungen. Sieben Stempelkästen verteilen sich entlang der Runde; HWN 149 zählt zugleich für die offiziellen HWN-Abzeichen.
 
-Wenn du nur den HWN-Stempel erreichen willst, ist der Zugang ebenfalls unkompliziert. Fuer eine volle Herzweg-Runde solltest du allerdings mehr Zeit einplanen, weil der gesamte Weg mit seinen Stationen deutlich mehr ist als nur ein kurzer Abstecher.
+Am Mühlenberg ist der Blick über Altenau wichtiger als eine spektakuläre Gipfelhöhe. Der große Schriftzug und das Metallherz machen den Platz zu einem klar erkennbaren Fotopunkt. Bleibe auf dem Weg durch die Bergwiese, betrete keine bewirtschafteten Flächen und nimm Rücksicht auf Weidetiere.
 
-#### Weg zur Stempelstelle
+#### Die vollständige Herzweg-Runde
 
-Von Herzweg-Station 12 fuehrt ein bequemer Weg ueber die Bergwiese des Muehlenbergs direkt zum Stempelkasten. Der Abschnitt ist angenehm zu gehen und deshalb auch fuer weniger ambitionierte Wanderer gut geeignet.
+Der offizielle Start liegt im **Kurpark hinter der Tourist-Information Altenau/Schulenberg, Hüttenstraße 9**. Für die 12,4 Kilometer und rund 300 Höhenmeter nennt die Tourismusinformation bei guter Fitness ungefähr fünf Stunden. Diese Zeit berücksichtigt eher einen Wandertag mit Pausen und Stationen als ein schnelles Durchlaufen.
 
-Wenn du aus der Stempelstelle eine groeessere Altenau-Runde machen willst, bieten sich [**Schwarzenberg, Koete Brockenblick (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick/), [**Foerster-Ludewig-Platz (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz/), [**Gustav-Baumann-Weg (HWN 134)**](/stempelstelle-134-gustav-baumann-weg/) und [**Wolfswarte (HWN 135)**](/stempelstelle-135-wolfswarte/) an.
+Wer nur HWN 149 sammeln möchte, kann einen kürzeren Teilabschnitt zum Mühlenberg wählen. Nutze dafür die aktuelle Herzwegkarte, denn der Stempelstandort wurde verlegt. Der Weg über die Bergwiesen ist grundsätzlich moderat, nach Regen aber weich oder rutschig. Im Winter können Schnee und Eis die Steigung deutlich erschweren.
 
-#### Warum lohnt sich der Spot?
+#### Pass und Versorgung
 
-HWN 149 lohnt sich, weil die Station mehr bietet als nur einen Stempel. Aussicht, Schriftzug, Metallherz und Herzweg-Thema ergeben zusammen einen Platz, den man sich leicht merkt und den man gern weiterempfiehlt.
+Das Begleitheft für die Herzweg-Stempelrunde sowie die zugehörige Wandernadel sind in den Tourist-Informationen des Oberharzes erhältlich. Dort bekommst du auch aktuelle Hinweise zu Umleitungen. Altenau bietet Einkehr und Einkauf im Ort; direkt am Aussichtspunkt gibt es keine garantierte Bewirtung oder Toilette. Für die komplette Runde nimmst du Wasser und einen Snack mit.
 
-Fuer Altenau ist die Stempelstelle ausserdem ein sehr guter Einstieg. Du bekommst schnell ein Erfolgserlebnis, kannst aber bei Bedarf direkt in eine laengere Runde mit mehreren weiteren Nummern wechseln.
+#### Weitere Stempel rund um Altenau
+
+Eine längere Sammlertour kann **Schwarzenberg/Köte Brockenblick (HWN 132)**, **Förster-Ludewig-Platz (HWN 133)** oder **Gustav-Baumann-Weg (HWN 134)** einbinden. Die **Wolfswarte (HWN 135)** ist deutlich anspruchsvoller und keine beiläufige Verlängerung. Entscheide nach Wetter, Tageslicht und Kondition, nicht nach der Zahl möglicher Stempel.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.803286,10.450144) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.803286%2C%2010.450144) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen
@@ -49,9 +59,15 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 #### Stempel in der Nähe
 
-- [**„Schwarzenberg, Koete Brockenblick“ (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick/)
-- [**„Foerster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz/)
+- [**„Schwarzenberg, Köte Brockenblick“ (HWN 132)**](/stempelstelle-132-schwarzenberg-koete-brockenblick/)
+- [**„Förster-Ludewig-Platz“ (HWN 133)**](/stempelstelle-133-foerster-ludewig-platz/)
 - [**„Gustav-Baumann-Weg“ (HWN 134)**](/stempelstelle-134-gustav-baumann-weg/)
-- [**„Wolfswarte“ (HWN 135)**](/stempelstelle-135-wolfswarte/)
 
-Mehr Nummern, Routen und Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 149 / Herzweg Mühlenberg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-149-herzweg/)
+- [Tourist-Information Oberharz: Altenauer Herzweg](https://www.oberharz.de/aktivitaeten/wandern/der-altenauer-herzweg)
+- [Tourist-Information Oberharz: Herzweg-Flyer und Karte](https://www.oberharz.de/fileadmin/redakteure/downloads/Printprodukte/2025/Flyer-Herzweg-Altenau_07-2025_web.pdf)
+- [Wikimedia Commons: Originalfoto und Lizenzangaben](https://commons.wikimedia.org/wiki/File:Blick_auf_die_Bergwiesen_M%C3%BChlenberg.jpg)
+- [Harzer Wandernadel: aktuelle Defekte und Wegesperrungen](https://www.harzer-wandernadel.de/defektmeldungen/)
+- [Harzer Wandernadel: GPS-Download und Genauigkeitshinweise](https://www.harzer-wandernadel.de/stempelstellen/gps-download/)

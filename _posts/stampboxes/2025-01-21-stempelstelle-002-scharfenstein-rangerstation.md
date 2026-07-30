@@ -57,3 +57,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [Nationalpark Harz: Rangerstation Scharfenstein mit Öffnungszeiten](https://www.nationalpark-harz.de/de/besucherzentren/scharfenstein)
 - [Tourist-Information Ilsenburg: Wanderflyer mit Scharfenstein-Tour](https://www.ilsenburg-tourismus.de/fileadmin/user_upload/PDF/Flyer_Wandern_2023_web_01.pdf)
 - [Nationalpark Harz: aktuelle Wegesperrungen](https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/)
+- [GPS-Referenz der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

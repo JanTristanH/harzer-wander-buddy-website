@@ -4,38 +4,38 @@ title:  "HWN 45 Dicke Tannen: Naturdenkmal, Parkplatz und kurzer Zustieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/45-dicke-tannen.jpg
-description: "HWN 45 Dicke Tannen bei Hohegeiss: kurzer Zustieg ab Neuer Teich, uralte Fichten im Wolfsbachtal und gute Kombi mit HWN 46 am Grenzmuseum."
-last_modified_at: 2026-07-18
+description: "HWN 45 Dicke Tannen bei Hohegeiß: Naturdenkmal im Wolfsbachtal, gesperrter alter Kernweg, sichere Routen und Kombinationen ab Hohegeiß."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Dicke Tannen](https://commons.wikimedia.org/wiki/File:Dicke_Tannen.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 45 der Harzer Wandernadel fuehrt dich zu einem kleinen Naturdenkmal im Wolfsbachtal zwischen Hohegeiss und Zorge. Wer gern alte Baeume, ruhige Waldwege und eine unkomplizierte Runde mag, ist hier genau richtig.
+Die **Stempelstelle 45** liegt im Wolfsbachtal südwestlich von Hohegeiß. Namensgeber sind keine Tannen im botanischen Sinn, sondern mächtige alte Fichten. Das rund 4,2 Hektar große Flächennaturdenkmal ist seit 1989 geschützt und vermittelt stellenweise einen urwaldähnlichen Eindruck.
 
-#### Lage und Besonderheiten
+#### Alte Fichten – aber nicht mehr auf dem alten Kernweg
 
-Die Dicken Tannen sind ueber 300 Jahre alte Fichten mit beeindruckendem Stammumfang. Gerade im Vergleich zu vielen Aussichtsstempeln lebt dieser Ort nicht vom Panorama, sondern von der Stimmung im Wald und dem Gefuehl, zwischen wirklich alten Baeumen zu stehen.
+Die Braunlage Tourismus Marketing GmbH beschreibt Bäume von mehr als 50 Metern Höhe, 100 bis 180 Zentimetern Stammdurchmesser und einem Alter von bis zu 350 Jahren. Um 1900 sollen noch ungefähr 120 Exemplare gestanden haben; aktuell nennt die Tourismusseite 23 gesunde Bäume.
 
-Wenn du im Harz gerne kurze bis mittlere Touren mit naturkundlichem Reiz suchst, ist HWN 45 eine sehr gute Station. Die Stempelstelle laesst sich ausserdem gut mit historischen Orten rund um Sorge kombinieren.
+Entscheidend für deine Planung: **Der alte Wanderweg durch das Kerngebiet ist aus Sicherheitsgründen gesperrt.** Die Fichten haben ihre natürliche Altersgrenze erreicht, und abgestorbene Äste oder Stämme können herabfallen. Nutze ausschließlich den neu geführten Weg und respektiere Absperrungen. Der Stempel bleibt erreichbar, ohne das geschützte Kerngebiet zu betreten.
 
-#### Anfahrt und Parken
+#### Tour ab Hohegeiß
 
-Ein praktischer Startpunkt ist der Parkplatz Neuer Teich an der Strasse zwischen Braunlage und Zorge. Von dort kommst du ohne lange Orientierung direkt ins Wolfsbachtal.
+Die offizielle Wanderbroschüre von Braunlage beschreibt die anspruchsvollere Runde **„Über Berg und Tal“** ab der Tourist-Information Hohegeiß. Sie ist 12,7 Kilometer lang, dauert ungefähr vier Stunden und führt mit rund 307 Höhenmetern über Brockenblick, Wolfsbachtal und die Dicken Tannen. Der Stempel liegt an der Brücke über den Wolfsbach.
 
-Alternativ kannst du auch von Hohegeiss oder Zorge losgehen und die Stempelstelle in eine laengere Runde einbauen. Fuer einen einfachen Zugang ist der Parkplatz Neuer Teich jedoch die bequemste Wahl.
+Diese Runde ist abwechslungsreich, aber wegen Länge, Höhenmetern und schmalen Pfaden keine reine Spazierstrecke. Nach Regen kann der Talgrund nass sein; im Winter kommen Eis und Schnee hinzu. Feste Schuhe und eine Offline-Karte sind sinnvoll.
 
-#### Weg zur Stempelstelle
+#### Kürzere und lineare Varianten
 
-Vom Parkplatz Neuer Teich fuehrt der Weg vorbei am Teich hinein ins Wolfsbachtal und weiter zu den Dicken Tannen. Die Strecke ist gut fuer Wanderer geeignet, die keine allzu schwere Tour suchen.
+- **Wolfsbachtal ab Hohegeiß:** Über Bechlerstein und die Wolfsbachstraße führt eine ausgeschilderte Streckenwanderung in Richtung Zorge. Braunlage Tourismus nennt rund sieben Kilometer bis Zorge und weist darauf hin, dass du unterhalb der früheren Wolfsbachmühle Sicht auf das Naturdenkmal hast. Für die Rückfahrt muss der Linienbus vorab geprüft werden.
+- **Wanderparkplatz Neuer Teich:** Die Harzer Wandernadel nennt den Parkplatz an der Straße von Braunlage nach Zorge als günstigen Start. Von dort geht es am Teich vorbei ins Wolfsbachtal. Die aktuelle Wegführung vor Ort ist maßgeblich, insbesondere wegen der Sperrung des alten Kernwegs.
+- **Stempelkombination:** Der [**Hahnestein (HWN 206)**](/stempelstelle-206-hahnestein/) passt zu einer längeren Hohegeiß-Runde. HWN 46 am Grenzmuseum Sorge lässt sich am selben Tag besuchen, ist aber eher eine zweite Tour oder kurze Autofahrt als ein beiläufiger Abstecher.
 
-Besonders sinnvoll ist die Verbindung mit [**Grenzmuseum am Ring der Erinnerung (HWN 46)**](/stempelstelle-046-grenzmuseum-am-ring-der-erinnerung/), wenn du Natur und Geschichte am selben Tag verbinden willst. Auch [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge/) passt gut in eine groessere Runde.
+#### Naturschutz und Sicherheit
 
-#### Warum lohnt sich der Spot?
+Bleibe auf den markierten Wegen, führe Hunde kontrolliert und nimm keine Pflanzen oder Holzstücke mit. Bei Sturm und unmittelbar danach solltest du das Wolfsbachtal meiden. Die alten Bäume sind kein Kletterziel.
 
-HWN 45 lohnt sich, weil der Ort anders wirkt als viele typische Harzer Stempelstellen. Statt Aussicht oder Gipfelerlebnis bekommst du hier einen stillen, waldigen Platz mit sehr alten Baeumen und einer besonderen Atmosphaere.
-
-Fuer Familien oder entspannte Wandertage ist das ein guter Spot, weil der Zugang nicht kompliziert ist und die Stempelstelle dennoch ein klares eigenes Thema mitbringt.
+Am Stempelplatz gibt es keine garantierte Einkehr. Packe Wasser und Verpflegung ein. Für geländegängige Kinder sind kürzere Varianten möglich; Kinderwagen oder Rollstuhl sind wegen Naturwegen, Gefälle und der geänderten Wegführung nicht verlässlich geeignet.
 
 #### Anfahrt
 
@@ -55,4 +55,11 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Pferdchen“ (HWN 58)**](/stempelstelle-058-pferdchen/)
 - [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge/)
 
-Die komplette Sammlung aller Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+Die komplette Sammlung aller Stempelstellen findest du in der [**HWN-Stempelstellen-Übersicht**](/overview).
+
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 45 / Dicke Tannen](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-45-dicke-tannen/)
+- [Braunlage Tourismus: Naturdenkmal Dicke Tannen und aktuelle Wegsperrung](https://www.braunlage.de/poi/naturdenkmal-dicke-tannen)
+- [Braunlage Tourismus: Wanderbroschüre mit der Runde „Über Berg und Tal“](https://www.braunlage.de/fileadmin/Mediendatenbank_Braunlage/Dokumente/Wanderempfehlungen_BTMG_2024_83_WEB.pdf)
+- [Braunlage Tourismus: Streckenwanderung Hohegeiß–Wolfsbachtal–Zorge](https://www.braunlage.de/tour/hohegeiss-bechlerstein-wolfsbachtal-zorge)

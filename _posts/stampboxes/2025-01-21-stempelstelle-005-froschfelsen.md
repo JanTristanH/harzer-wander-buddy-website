@@ -4,7 +4,7 @@ title:  "HWN 5 Froschfelsen: Rundtour, Parkplatz und Stempelkasten"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/5-froschfelsen.jpg
-description: "HWN 5 Froschfelsen bei Ilsenburg: genauer Stempelstandort, offizielle 7,6-km-Rundtour, Parken, Schwierigkeit und Kombinationen."
+description: "HWN 5 Froschfelsen bei Ilsenburg: genauer Stempelstandort, offizielle 6,8-km-Rundtour, Parken, Schwierigkeit und Kombinationen."
 last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
@@ -21,14 +21,14 @@ _Zuletzt geprüft: 30. Juli 2026. Tourdaten sind Richtwerte; prüfe vor dem Star
 |---|---|
 | Wo steht der Stempelkasten? | In der Schutzhütte etwa 50 m vom Froschfelsen entfernt |
 | Geeigneter Ausgangspunkt | Nationalparkhaus beziehungsweise Wanderparkplatz Ilsetal |
-| Bewährte Rundtour | 7,6 km, 277 Höhenmeter, etwa 2:25 Stunden |
+| Bewährte Rundtour | 6,8 km, 264 Höhenmeter, etwa 2:15 Stunden |
 | Schwierigkeit | mittel; viele Pfade, Wurzeln und steilere Abschnitte |
 | Kinderwagen / Rollstuhl | auf der offiziellen Rundtour nicht geeignet |
 | Koordinaten des Stempelkastens | 51.851917, 10.654556 |
 
 #### Offizielle Nationalpark-Runde ab Ilsetal
 
-Der Nationalpark Harz führt eine **7,6 km lange Rundwanderung** vom Nationalparkhaus Ilsenburg über den Jägerstieg zum Froschfelsen. Anschließend geht es über die Westerbergklippe und durch das Ilsetal zurück. Angegeben sind **277 Höhenmeter**, rund **2:25 Stunden Gehzeit** und die Schwierigkeit **T2 / mittel**. Fast 40 Prozent der Strecke verlaufen auf Pfaden; festes Schuhwerk und ein sicherer Tritt sind deshalb sinnvoll.
+Der Nationalpark Harz führt eine **6,8 km lange Rundwanderung** vom Nationalparkhaus Ilsenburg über den Jägerstieg zum Froschfelsen. Anschließend geht es über die Westerbergklippe und durch das Ilsetal zurück. Angegeben sind **264 Höhenmeter**, rund **2:15 Stunden Gehzeit** und die Schwierigkeit **T2 / mittel**. Rund 38 Prozent der Strecke verlaufen auf Pfaden; festes Schuhwerk und ein sicherer Tritt sind deshalb sinnvoll.
 
 Diese Runde ist die beste Wahl, wenn HWN 5 das Hauptziel ist. Sie zeigt nicht nur den markanten Granitfelsen, sondern auch die unterschiedlichen Waldentwicklungsphasen des Nationalparks. Nach Regen können Wurzeln, Laub und Felsplatten rutschig sein. Für kleinere Kinder ist die Strecke nur geeignet, wenn sie längere Anstiege und schmale Waldpfade gewohnt sind.
 
@@ -53,6 +53,13 @@ Ilsenburg besitzt einen Bahnhof. Wer mit Bahn oder Bus anreist, kann die Wanderu
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.851917%2C%2010.654556) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
+<div class="android-only">
+  Auf einem Handy kannst du auch diesen
+  <a href="geo:51.851917,10.654556">🗺️ Link</a>
+  verwenden, um den Ort in einer Kartenapp zu öffnen.
+  <p></p>
+</div>
+
 #### Stempel in der Nähe
 
 - [**„Taubenklippe“ (HWN 4)**](/stempelstelle-004-taubenklippe/) – ca. **3 km**
@@ -65,7 +72,8 @@ Die genannten Entfernungen zu HWN 3 und 4 sind grobe Planungswerte. Verlasse dic
 #### Quellen und weiterführende Informationen
 
 - [Harzer Wandernadel: offizielle Seite zu HWN 5](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-5-froschfelsen/)
-- [Nationalpark Harz: offizielle Rundtour zu Froschfelsen und Westerbergklippe](https://www.outdooractive.com/de/route/wanderung/harz/durch-das-ilsetal-zum-froschfelsen/19982650/)
+- [Nationalpark Harz: offizielle Rundtour zu Froschfelsen und Westerbergklippe](https://www.outdooractive.com/de/route/wanderung/nationalpark-harz/nlp-tour-01-durch-die-neue-wildnis-zu-froschfelsen-und-westerbergklippe/19982650/)
 - [Ilsenburg Tourismus: Wanderbroschüre mit der 6-km-Ortsrunde](https://www.ilsenburg-tourismus.de/fileadmin/user_upload/PDF/Stadt_Wandern_web.pdf)
 - [Ilsenburg Tourismus: Parkplatzempfehlung Harzlandhalle](https://www.ilsenburg-tourismus.de/erlebnisse/trailpark-harz.html)
 - [Nationalpark Harz: aktuelle Wegesperrungen](https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/)
+- [GPS-Referenz der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

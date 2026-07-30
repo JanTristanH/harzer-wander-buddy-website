@@ -1,57 +1,73 @@
 ---
 layout: post
-title:  "HWN 164 Stiefmutter: Bergwiesen bei Zorge und passende Rundtour"
+title: "HWN 164 Stiefmutter: Bergwiesenrunde bei Zorge"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/164-stiefmutter.jpg
-description: "HWN 164 Stiefmutter bei Zorge: Bergwiesen, Zustieg ab Kurhaus Zorge und gute Kombination mit HWN 163, 165 und 90."
-last_modified_at: 2026-07-18
+description: "HWN 164 an der Stiefmutter: Bergwiesenweg ab Zorge, Natur der Hundertmorgenwiese und Runde über Wendeleiche und Roten Schuss."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Stiefmutter Zorge](https://commons.wikimedia.org/wiki/File:Stiefmutter_Zorge.jpg) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 164 der Harzer Wandernadel liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. Sie ist vor allem dann spannend, wenn du den suedlichen Harz nicht nur wegen Gipfeln, sondern auch wegen seiner offenen Bergwiesen erleben willst.
+Die Wegkreuzung **Stiefmutter (HWN 164)** liegt oberhalb der Hundertmorgenwiese im Elsbachtal bei Zorge. Das Ziel ist kein Gipfel und keine große Klippe. Der Reiz liegt in der offenen Kulturlandschaft: artenreiche Harzer Bergwiesen unterbrechen hier die Wälder des Südharzes.
 
-#### Lage und Besonderheiten
+_Zuletzt geprüft: 30. Juli 2026. HWN 164 wird auf der aktuell geöffneten Defektseite der Harzer Wandernadel nicht als defekt geführt._
 
-Die Stiefmutter liegt in einer Landschaft, die fuer ihre Harzer Bergwiesen bekannt ist. Gerade im Fruehsommer und Sommer wirkt die Umgebung hier anders als viele reine Waldabschnitte im Harz: weiter, heller und oft deutlich bluetenreicher.
+#### HWN 164 kurz und knapp
 
-Das macht HWN 164 zu einer guten Wahl, wenn du bei einer Wanderung Abwechslung suchst. Die Stempelstelle ist nicht nur ein Durchgangspunkt, sondern ein Ort, an dem die Landschaft selbst der eigentliche Grund fuer die Tour ist.
+| Frage | Antwort |
+|---|---|
+| Standort | Wegkreuzung oberhalb der Hundertmorgenwiese |
+| Guter Start | Parkplatz am Kurhaus Zorge |
+| Weg | beschilderter Bergwiesenweg |
+| Kombination | Wendeleiche HWN 165 und Roter Schuss HWN 90 |
+| Beste Jahreszeit | Blüte im späten Frühjahr und Sommer |
+| Koordinaten | 51.623112, 10.643250 |
 
-#### Anfahrt und Parken
+#### Warum die Bergwiesen besonders sind
 
-Ein sinnvoller Startpunkt ist der Parkplatz am Kurhaus Zorge. Von dort kommst du direkt in den beschilderten Bergwiesenweg und kannst die Runde ohne grossen Suchaufwand beginnen.
+Harzer Bergwiesen entstanden durch jahrhundertelange Nutzung. Die Menschen mähten sie traditionell ab dem Johannistag Ende Juni, trockneten das Gras zu Heu und gewannen damit Winterfutter. Als Landwirtschaft in vielen Bergorten aufgegeben wurde, verbuschten und bewaldeten sich zahlreiche Flächen. Ohne regelmäßige Mahd oder Beweidung verschwindet dieser Lebensraum.
 
-Wer lieber eine etwas laengere Tour plant, kann Zorge als Ausgangspunkt nutzen und mehrere Stationen miteinander verbinden. Die Region eignet sich gut fuer abwechslungsreiche Rundtouren mit mehreren Stempeln.
+Die Hundertmorgenwiese gehört zum FFH-Gebiet **Staufenberg**. Der aktuelle Managementplan beschreibt einen etwa 15 Hektar großen Bergwiesenkomplex mit artenreichen Borstgrasrasen und feuchten Hochstaudenfluren. Zu den dort nachgewiesenen gefährdeten Pflanzen zählen Arnika, Trollblume und Moor-Klee. Diese Arten sind geschützt: Pflücken, Ausgraben und das Verlassen der Wege sind tabu.
 
-#### Weg zur Stempelstelle
+#### Runde ab Zorge
 
-Vom Kurhaus Zorge fuehrt ein beschilderter Bergwiesenweg ueber [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche/) in Richtung Stiefmutter. So bekommst du direkt zwei thematisch gut passende Stationen in einer Runde.
+Vom Parkplatz am **Kurhaus Zorge** folgst du dem ausgeschilderten Bergwiesenweg. Die offizielle HWN-Beschreibung führt zunächst über die **Wendeleiche (HWN 165)** und weiter zur Stiefmutter. So sammelst du zwei Stempel in einer landschaftlich schlüssigen Runde.
 
-Wenn du noch mehr Strecke einbauen willst, kannst du die Tour in Richtung [**Gipfelblick am Kaiserweg (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg/) oder [**Roter Schuss (HWN 90)**](/stempelstelle-090-roter-schuss/) erweitern. Dadurch wird aus einem kurzen Ziel eine echte Wanderung mit landschaftlicher Vielfalt.
+Eine Erweiterung führt zum **Roten Schuss (HWN 90)** oder zur Sonderstempelstelle Zweiländereiche. Die Gemeinde Walkenried bündelt diese Ziele zusammen mit Pferdchen und Helenenruh in einer eigenen Zorger Wandernadel. Die zusätzliche Stempelkarte ist ein regionales Angebot und unabhängig vom normalen HWN-Pass.
 
-#### Warum lohnt sich der Spot?
+#### Rücksicht auf Wiesen und Weidetiere
 
-HWN 164 lohnt sich vor allem wegen der offenen Wiesenlandschaft. Wer den Harz nur mit Fichtenwald und Aussichtsfelsen verbindet, bekommt hier ein anderes, oft sehr ruhiges Bild der Region.
+Bleibe unbedingt auf dem markierten Weg. Auch wenn eine Wiese nach der Mahd frei wirkt, ist sie bewirtschaftete Fläche und empfindlicher Lebensraum. Halte Hunde an kurzer Leine, besonders bei Weidetieren. Tore werden so geschlossen, wie du sie vorfindest.
 
-Besonders in der passenden Jahreszeit ist die Stempelstelle ein schoener Natur-Spot. Sie funktioniert gut fuer Wanderer, die nicht nur den Stempel, sondern den Charakter des Weges erleben wollen.
+Im Frühsommer ist die Blüte am eindrucksvollsten. Nach Regen können Graswege nass und rutschig sein; in der offenen Landschaft fehlen bei Sonne längere Schattenabschnitte. Nimm Wasser und Sonnenschutz mit. Im Winter sind Schnee und Eis möglich, außerdem kann die Wegeführung mit Loipen kollidieren.
+
+#### Versorgung und Orientierung
+
+Am Stempel gibt es keine Gastronomie. Zorge bietet Versorgung im Ort, doch Öffnungszeiten prüfst du vorab. Speichere die Runde offline und beachte Forstarbeiten oder Naturschutzhinweise. Wer nur eine kurze Tour möchte, kehrt nach HWN 165 und HWN 164 zum Kurhaus zurück.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.62310%2C%2010.64326) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.623112%2C%2010.643250) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
-  Auf einem Handy kannst du auch diesen 
-  <a href="geo:51.62310,10.64326">🗺️ Link</a> 
+  Auf einem Handy kannst du auch diesen
+  <a href="geo:51.623112,10.643250">🗺️ Link</a>
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
 
 #### Stempel in der Nähe
 
-- [**„Gipfelblick am Kaiserweg“ (HWN 163)**](/stempelstelle-163-gipfelblick-am-kaiserweg/)
 - [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche/)
 - [**„Roter Schuss“ (HWN 90)**](/stempelstelle-090-roter-schuss/)
 
-Weitere Ziele und Stempelnummern findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 164 / Stiefmutter](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-164-stiefmutter/)
+- [NLWKN: Managementplanung FFH-Gebiet Staufenberg und Hundertmorgenwiese](https://www.nlwkn.niedersachsen.de/download/164166/Massnahmenblaetter_Landkreis_Goettingen.pdf)
+- [Niedersächsisches Umweltministerium: Schutz und Pflege Harzer Bergwiesen](https://www.umwelt.niedersachsen.de/startseite/themen/natur_amp_landschaft/fordermoglichkeiten/agrarumweltmassnahmen_des_naturschutzes_pfeil/teilbereich_besondere_biotoptypen_bb1_bb2/aukm-forderschwerpunkt-massnahmen-zum-schutz-besonderer-biotoptypen-bb-9151.html)
+- [Gemeinde Walkenried: Zorge, Wandern und Zorger Wandernadel](https://walkenried-tourismus.de/zorge/)
+- [Harzer Wandernadel: aktuelle Defekte und Wegesperrungen](https://www.harzer-wandernadel.de/defektmeldungen/)

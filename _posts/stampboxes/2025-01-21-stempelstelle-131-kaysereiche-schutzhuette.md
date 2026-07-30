@@ -69,7 +69,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Kuckholzklippe“ (HWN 139)**](/stempelstelle-139-kuckholzklippe/)
 - [**„Eselsplatz“ (HWN 140)**](/stempelstelle-140-eselsplatz/)
 
-#### Quellen und weiterführende Informationen
+#### Quellen und aktuelle Planung
 
 - [Harzer Wandernadel: offizielle Seite zu HWN 131](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-131-kaysereiche-schutzhuette/)
 - [Rundtour ab Taternplatz über Kaysereiche und Hahnebalzer Teiche](https://www.outdooractive.com/de/route/wanderung/harz/rundtour-vom-taternplatz/253766912/)

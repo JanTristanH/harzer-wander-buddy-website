@@ -17,7 +17,7 @@ Die **Stempelstelle 35** liegt direkt am Waldgasthaus Armeleuteberg oberhalb von
 
 Das Haus wurde im Mai 1906 als „Berghotel Armeleuteberg“ mit Restaurant und sechs Fremdenzimmern eröffnet. Der Bergname reicht weiter zurück: Im 15. Jahrhundert wurde der damalige Petersberg dem St.-Georgii-Hospital übergeben, das sich um arme und kranke Menschen kümmerte.
 
-Für Familien ist heute vor allem der Märchenweg interessant. Acht Stationen verbinden Rätsel zu bekannten Märchen mit Naturwissen. Der Weg beginnt am Hasseröder Ferienpark, führt entlang der Nessel, über die Hosenbeinwiese und den Försterplatz zum Gasthaus und endet am **Kaiserturm**. Die Harzer Wandernadel nennt den Turm mit **478 Metern** als höchsten Punkt des Märchenwegs. Von oben blickst du über Wernigerode und das Harzvorland.
+Für Familien ist heute vor allem der Märchenweg interessant. Acht Stationen verbinden Rätsel zu bekannten Märchen mit Naturwissen. Der Weg beginnt am Hasseröder Ferienpark, führt entlang der Nessel, über die Hosenbeinwiese und den Försterplatz zum Gasthaus und endet am **Kaiserturm**. Dessen Standort auf dem 478 Meter hohen Armeleuteberg ist der höchste Punkt des Märchenwegs. Von oben blickst du über Wernigerode und das Harzvorland.
 
 #### Drei passende Tourvarianten
 
@@ -60,6 +60,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 #### Quellen und aktuelle Planung
 
 - [Harzer Wandernadel: Stempelstelle 35 / Gasthaus Armeleuteberg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-35-gasthaus-armeleuteberg/)
+- [Waldgasthaus Armeleuteberg: Märchenweg, Kaiserturm und aktuelle Betriebsinformationen](https://www.armeleuteberg.de/ueber-uns/)
 - [Wernigerode Tourismus: Märchenweg, Eignung und Einkehr](https://www.wernigerode-tourismus.de/zeitzubleiben-in-wernigerode-und-schierke/wandern-in-wernigerode)
 - [Wernigerode Tourismus: Tourenbeschreibung mit Strecke und Wegcharakter](https://prospekte.wernigerode-tourismus.de/wernigerode-amp-schierke-juni-tipps-2024/68717998/33)
 - [Harzer Tourismusverband: Waldgasthaus Armeleuteberg](https://www.harzinfo.de/erlebnisse/kulinarische-erlebnisse/gastro/waldgasthaus-armeleuteberg)

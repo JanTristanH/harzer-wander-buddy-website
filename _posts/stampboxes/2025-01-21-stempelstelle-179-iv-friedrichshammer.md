@@ -26,7 +26,7 @@ _Zuletzt geprüft: 30. Juli 2026. Verlasse dich bei Einkehr und Rückfahrt nicht
 | Weg | ausgeschilderter Selketalstieg |
 | Lange Streckenvariante | Alexisbad – Selkemühle, 11,8 km |
 | ÖPNV | Selketalbahn oder Bus 242 bis Mägdesprung |
-| Koordinaten | 51.66857, 11.16581 |
+| Koordinaten | 51.668556, 11.165806 |
 
 #### Ab Mägdesprung und Carlswerk
 
@@ -63,11 +63,11 @@ Bleibe im kleinen Ort auf dem öffentlichen Weg und respektiere Privatgrundstüc
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.66857%2C%2011.16581) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.668556%2C%2011.165806) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
   Auf einem Handy kannst du auch diesen 
-  <a href="geo:51.66857,11.16581">🗺️ Link</a> 
+  <a href="geo:51.668556,11.165806">🗺️ Link</a>
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>

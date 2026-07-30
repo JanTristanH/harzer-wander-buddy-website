@@ -4,38 +4,38 @@ title:  "HWN 36 Peterstein: Zillierbachtalsperre, Parken und Rundtouren"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/36-peterstein.jpg
-description: "HWN 36 Peterstein bei Wernigerode: Blick auf die Zillierbachtalsperre, gute Startpunkte und starke Kombination mit 29, 34, 35, 37 und 38."
-last_modified_at: 2026-07-18
+description: "HWN 36 am Peterstein: 10-km-Rundtour ab Elbingerode, Start in Drei Annen Hohne, Blick auf die Zillierbachtalsperre und praktische Hinweise."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [ZillierbachtalsperrePeterstein](https://commons.wikimedia.org/wiki/File:ZillierbachtalsperrePeterstein.jpg) von <a href="https://de.wikipedia.org/wiki/Benutzer:Kassandro" class="extiw" title="de:Benutzer:Kassandro">Kassandro</a> unter Lizenz Public domain'
 ---
 
-Der Peterstein ist eine der dankbarsten Stempelstellen rund um Wernigerode, wenn du Wasserblick, Rastplatz und gute Kombinationsmoeglichkeiten suchst. Die Stempelstelle 36 liegt oberhalb der Zillierbachtalsperre und passt gut in unterschiedlich lange Runden.
+Die **Stempelstelle 36** liegt am Aussichtspunkt Peterstein oberhalb der Zillierbachtalsperre zwischen Wernigerode und Elbingerode. Der Stempelkasten steht an einem Rastplatz; der Blick über Wasser, Staumauer und bewaldete Hänge macht HWN 36 zu einem eigenständigen Ziel und nicht nur zu einem Sammelstopp.
 
-#### Lage und Besonderheiten
+#### Was du am Peterstein siehst
 
-Der Platz liegt zwischen Wernigerode und Elbingerode und bietet einen ruhigen Blick ueber die Zillierbachtalsperre. Dazu kommen Tisch und Baenke, sodass der Peterstein mehr ist als nur eine schnelle Stempelstation.
+Die Harzer Wandernadel gibt für den Peterstein 465 Meter über NN an. Direkt unterhalb liegt die Zillierbachtalsperre. Sie wurde ab den 1930er-Jahren für Hochwasserschutz und Trinkwasserversorgung errichtet. Bei den Arbeiten an der Staumauer kam 1935 ein bronzezeitlicher Hortfund zum Vorschein. Das Harzmuseum Wernigerode nennt ein Lappenbeil, zwei spiralförmige Armringe und einen Armreif; damit ist der Ort auch archäologisch interessant.
 
-Gerade im Wernigeroeder Cluster ist HWN 36 spannend, weil du von hier aus mehrere weitere Stempelstellen sinnvoll verbinden kannst. Der Peterstein eignet sich sowohl fuer eine entspannte Pause als auch als Baustein fuer eine laengere Tour.
+Der Name Peterstein verweist laut Harzer Wandernadel auf das „Peterholz“. Dieses Waldgebiet gehörte einst zum Ilsenburger Benediktinerkloster Sankt Peter. Am Aussichtspunkt selbst gibt es keine bewirtschaftete Baude. Wasser, Verpflegung und eine Offline-Karte gehören deshalb in den Rucksack.
 
-#### Anfahrt und Parken
+#### Offizielle Rundtour ab Elbingerode
 
-Gute Startpunkte sind Drei Annen Hohne, der Parkplatz Kaltes Tal an der B244 oder Elbingerode. Welche Variante sinnvoll ist, haengt davon ab, ob du eine kuerzere Tour oder eine groessere Runde mit mehreren Stempeln planst.
+Der Tourismusbetrieb Oberharz am Brocken beschreibt eine **10 Kilometer lange Rundtour** ab der Ecke Waldbreite/Unter den Birken in Elbingerode. Sie führt zur Talsperre und zum Peterstein, weiter zum Hermannschacht und zum Rastplatz Hirschbrunnen und zurück nach Elbingerode. Angegeben sind etwa 2:40 Stunden und mittlere Schwierigkeit. Rechne für Aussicht, Stempel und Pausen zusätzliche Zeit ein.
 
-Fuer viele Wanderer ist Kaltes Tal praktisch, weil du von dort auch gut [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/) und [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) ansteuern kannst.
+Diese Runde ist die beste Wahl, wenn du HWN 36 als Hauptziel erwandern möchtest. Sie verbindet breite Waldwege mit schmaleren, stellenweise wurzeligen Passagen. Rund um die Talsperre sind An- und Abstiege unvermeidbar; nach Regen können Naturwege weich und rutschig sein.
 
-#### Weg zur Stempelstelle
+#### Weitere Startpunkte und Kombinationen
 
-Von Drei Annen Hohne folgst du dem Zillierbach zur Talsperre und anschliessend dem ausgeschilderten Weg zum Peterstein. Ab Kaltes Tal ist die Runde etwas direkter und laesst sich sehr gut mit anderen Stationen verbinden.
+- **Drei Annen Hohne:** Die offizielle HWN-Beschreibung empfiehlt den Wanderparkplatz. Von dort folgst du dem Zillierbach zur Talsperre und anschließend der Beschilderung zum Peterstein. Der Bahnhof macht den Start grundsätzlich auch mit der Harzer Schmalspurbahn oder regionalen Bussen erreichbar; Fahrplan und letzte Rückfahrt vorab prüfen.
+- **Elbingerode:** Neben der offiziellen Runde kannst du HWN 36 mit dem [**Schaubergwerk Büchenberg (HWN 37)**](/stempelstelle-037-buechenberg/) verbinden. Eine aktuelle Wanderkarte ist sinnvoll, weil der direkte Verlauf nicht überall dem Ufer folgt.
+- **Wernigeröder Stadtwald:** Längere, sportlichere Planungen können [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/) und [**Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) einbeziehen. Das ist eine Tagestour und keine kurze Drei-Stempel-Runde.
 
-Wenn du mehrere Stempel sammeln moechtest, ist die Kombination mit [**Elversstein (HWN 29)**](/stempelstelle-029-elversstein/), [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/), [**Schaubergwerk Buechenberg (HWN 37)**](/stempelstelle-037-buechenberg/) oder [**Galgenberg (HWN 38)**](/stempelstelle-038-galgenberg/) besonders sinnvoll.
+#### Praktische Hinweise
 
-#### Warum lohnt sich der Spot?
+Die Talsperre liegt in einem sensiblen Wasser- und Waldgebiet. Bleibe auf freigegebenen Wegen, beachte Schranken und betrete keine Betriebsflächen. Baden und Abkürzungen ans Ufer solltest du nicht voraussetzen. Bei Sturm, Eis oder Waldarbeiten können Wege kurzfristig gesperrt sein; die Hinweise des Tourismusbetriebs und die Beschilderung vor Ort haben Vorrang.
 
-HWN 36 lohnt sich wegen der Mischung aus leicht zugaenglicher Landschaft, Wasserblick und guter Tourenlogik. Der Peterstein ist ein angenehmer Pausenplatz und funktioniert damit auch fuer Wanderer, die nicht nur moeglichst viele Stempel abhaken wollen.
-
-Die Lage macht ihn ausserdem zu einem starken Orientierungspunkt im Raum Wernigerode. Wenn du eine Tour rund um die Zillierbachtalsperre planst, passt dieser Stempel fast immer gut hinein.
+Für kleine Kinder ist vor allem die vollständige Rundtour recht lang. Mit geländegängigem Kinderwagen hängt die Eignung vom aktuellen Wegzustand ab; eine durchgehend barrierefreie Strecke wird von den Quellen nicht zugesichert.
 
 #### Anfahrt
 
@@ -58,4 +58,11 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Schaubergwerk Büchenberg“ (HWN 37)**](/stempelstelle-037-buechenberg/)
 - [**„Galgenberg“ (HWN 38)**](/stempelstelle-038-galgenberg/)
 
-Die komplette Liste aller Stempelstellen findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+Die komplette Liste aller Stempelstellen findest du in der [**HWN-Stempelstellen-Übersicht**](/overview).
+
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 36 / Peterstein](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-36-peterstein/)
+- [Oberharz am Brocken: Rundwanderwege mit der offiziellen Peterstein-Runde](https://www.oberharzinfo.de/wandern-natur/rundwanderwege)
+- [Stadt Wernigerode: Bronzezeitlicher Hortfund vom Peterstein](https://www.wernigerode.de/Stadtleben/Kultur/Harzmuseum/Besucherinformation/Aktuelles-im-Harzmuseum.php?FID=3098.2032.1&La=1&ModID=7&NavID=3792.157.1&object=tx%2C3098.5)
+- [Harzer Wandernadel: Talsperren im Harz](https://www.harzer-wandernadel.de/stempelstellen/talsperren-im-harz/)

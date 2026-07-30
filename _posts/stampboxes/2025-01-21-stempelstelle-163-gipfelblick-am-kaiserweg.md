@@ -1,49 +1,60 @@
 ---
 layout: post
-title:  "HWN 163 Gipfelblick am Kaiserweg: Aussicht, Zustiege und Kombi"
+title: "HWN 163 Gipfelblick: neuer Standort am Kaiserweg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/163-gipfelblick-am-kaiserweg.jpg
-description: "HWN 163 am Kaiserweg mit Blick auf Wurmberg und Brocken: Zustiege ab Wieda, Zorge oder Lausebuche und gute Kombi mit 157, 160, 164 und 165."
-last_modified_at: 2026-07-18
+description: "HWN 163 am Gipfelblick: dauerhaft neuer Standort statt Bremer Klippe, Zustiege ab Kaiserweg und Zorge sowie Aussicht auf Wurmberg und Brocken."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Gipfelblick am Kaiserweg](https://commons.wikimedia.org/wiki/File:Gipfelblick_am_Kaiserweg.jpg) von <a href="//commons.wikimedia.org/wiki/User:FB1969" title="User:FB1969">FB1969</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Die Stempelstelle 163 der Harzer Wandernadel liegt aussichtsreich am Kaiserweg zwischen Wieda, Zorge und Hohegeiss. Wenn du eine Tour mit Fernblick suchst, ist dieser Spot einer der staerksten Punkte in diesem Teil des Suedharzes.
+**HWN 163** steht heute am **Gipfelblick am Kaiserweg** nahe dem 633 Meter hohen Wagnerskopf zwischen Wieda, Zorge und Hohegeiß. Der Kasten wurde dauerhaft um etwa 2,7 Kilometer vom früheren Standort an der **Bremer Klippe** versetzt. Ältere Karten und GPX-Dateien sind deshalb unzuverlässig. Nutze die aktuelle Bezeichnung und die Koordinaten dieser Seite.
 
-#### Lage und Besonderheiten
+_Zuletzt geprüft: 30. Juli 2026. HWN 163 wird auf der aktuell geöffneten Defektseite der Harzer Wandernadel nicht als defekt geführt._
 
-Die Stempelstelle befindet sich nahe dem Wagnerskopf auf einer Hoehe, von der du bei klarer Sicht mehrere markante Harzgipfel erkennen kannst. Besonders haeufig genannt werden Wurmberg und Brocken, aber auch das umliegende Bergland wirkt von hier sehr weit und offen.
+#### HWN 163 kurz und knapp
 
-Der Reiz von HWN 163 liegt nicht nur im Blick, sondern auch in den moeglichen Kombinationen. Du kannst die Station als Ziel einer kurzen Anstiegstour oder als Baustein fuer eine groessere Kaiserweg-Runde nutzen.
+| Frage | Antwort |
+|---|---|
+| Aktueller Standort | Gipfelblick am Kaiserweg |
+| Veralteter Standort | Bremer Klippe |
+| Hauptstart | Wanderparkplatz „Kaiserweg“ an der L 601 |
+| Aussicht | Wurmberg, Brocken und weitere Harzhöhen |
+| Gute Kombination | HWN 160 oder HWN 157 |
+| Koordinaten | 51.653370, 10.600740 |
 
-#### Anfahrt und Parken
+#### Direkt vom Parkplatz Kaiserweg
 
-Am einfachsten ist der Start am Parkplatz Kaiserweg an der L601 zwischen Wieda und Braunlage. Ebenfalls sinnvoll sind der Start in Zorge oder der Parkplatz Lausebuche, wenn du die Tour mit weiteren Stempelstellen verbinden willst.
+Der einfachste Start ist der Wanderparkplatz **„Kaiserweg“** an der L 601 zwischen Wieda und Braunlage. Von dort folgst du dem historischen Weg Richtung Wieda und gelangst über den Bereich Steigerkopf zum Aussichtspunkt. Der Weg steigt stetig, ist aber die direkteste Variante.
 
-Ab Zorge ist der Weg etwas abwechslungsreicher, weil du unterwegs gut [**Helenenruh (HWN 160)**](/stempelstelle-160-helenenruh-zorge/) einbauen kannst. Von der Lausebuche aus eignet sich die Runde besonders fuer die Kombination mit [**Kapellenfleck (HWN 157)**](/stempelstelle-157-kappellenfleck/).
+Eine digitale Karte muss den neuen Standort bereits enthalten. Zeigt sie HWN 163 noch an der Bremer Klippe oder bei abweichenden Koordinaten, aktualisiere den Track. An der Landstraße parkst du nur auf der ausgewiesenen Fläche und achtest beim Ein- und Ausfahren auf schnellen Verkehr.
 
-#### Weg zur Stempelstelle
+#### Alternativen aus Zorge und Braunlage
 
-Vom Parkplatz Kaiserweg fuehrt ein stetiger, aber gut gehbarer Anstieg ueber den Kaiserweg in Richtung Stempelstelle. Die Strecke ist klar und fuer viele Wanderer die direkteste Variante.
+Von **Zorge** startest du an der Tourist-Information beziehungsweise im Ortsbereich und folgst dem Hüttenweg zur **Helenenruh (HWN 160)**. Von dort geht es auf dem Kaiserweg weiter zum Gipfelblick. Diese Variante verbindet Bergbaugeschichte und Aussicht, verlangt aber mehr Höhenmeter.
 
-Ab Zorge laeufst du ueber den Huettenweg zunaechst in Richtung Helenenruh und steigst dann weiter am Kaiserweg auf. Wer ausgedehntere Runden mag, kann im Anschluss auch noch [**Stiefmutter (HWN 164)**](/stempelstelle-164-stiefmutter/) oder [**Wendeleiche (HWN 165)**](/stempelstelle-165-wendel-eiche/) anbinden.
+Vom Parkplatz **Lausebuche** zwischen Braunlage und Oderhaus führt der Kaiserweg zunächst zum **Kapellenfleck (HWN 157)**. Nach der Querung der L 601 geht es weiter zu HWN 163. Die Strecke wird damit deutlich länger und benötigt eine aktuelle Wanderkarte.
 
-#### Warum lohnt sich der Spot?
+#### Der Kaiserweg
 
-HWN 163 ist ein klassischer Aussichtsstempel, aber ohne den Andrang der ganz grossen Harz-Hotspots. Der Platz wirkt offen, weit und belohnt besonders Tage mit klarer Sicht.
+Der historische Kaiserweg zieht vom Burgberg bei Bad Harzburg über Oderbrück und Königskrug in den Südharz, weiter zum Kloster Walkenried und schließlich Richtung Nordhausen und Kyffhäuser. Die heutige Fernroute greift alte Verbindungen von Herrschern, Handel und Reisenden auf. Am Gipfelblick ist diese Geschichte weniger sichtbar als das Panorama, gibt dem Waldweg aber seinen Zusammenhang.
 
-Zugleich ist die Stempelstelle flexibel: kurz als Ziel, oder eingebunden in eine groeessere Runde mit mehreren Stempeln am Kaiserweg. Genau das macht sie fuer viele Harz-Wanderer besonders wertvoll.
+#### Aussicht und Stempeltour
+
+Bei klarer Sicht erkennst du Wurmberg und Brocken. Nebel oder tiefe Wolken können den Blick vollständig nehmen. Eine veröffentlichte Harzklub-Tour verbindet HWN 163, HWN 160 und **Kreuztalsklippe (HWN 162)** auf etwa 9,44 Kilometern und nennt ungefähr 3,5 Stunden, Grundkondition und Trittsicherheit.
+
+Am Aussichtspunkt gibt es keine Gastronomie. Nimm Wasser, Snack und wetterfeste Kleidung mit. Nach Regen werden Waldwege rutschig; im Winter können Schnee und Loipen die Route verändern. Sperren und Forstarbeiten haben Vorrang vor dem gespeicherten Track.
 
 #### Anfahrt
 
-Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.653267%2C%2010.600883) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
+Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.653370%2C%2010.600740) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
 
 <div class="android-only">
-  Auf einem Handy kannst du auch diesen 
-  <a href="geo:51.653267,10.600883">🗺️ Link</a> 
+  Auf einem Handy kannst du auch diesen
+  <a href="geo:51.653370,10.600740">🗺️ Link</a>
   verwenden, um den Ort in einer Kartenapp zu öffnen.
   <p></p>
 </div>
@@ -52,7 +63,13 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [**„Kapellenfleck“ (HWN 157)**](/stempelstelle-157-kappellenfleck/)
 - [**„Helenenruh“ (HWN 160)**](/stempelstelle-160-helenenruh-zorge/)
-- [**„Stiefmutter“ (HWN 164)**](/stempelstelle-164-stiefmutter/)
-- [**„Wendeleiche“ (HWN 165)**](/stempelstelle-165-wendel-eiche/)
+- [**„Kreuztalsklippe“ (HWN 162)**](/stempelstelle-162-kreuztalsklippe/)
 
-Mehr Ziele fuer deine Tour findest du auch in der [**HWN Stempelstellen Uebersicht**](/overview).
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 163 / Gipfelblick am Kaiserweg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-163-gipfelblick-am-kaiserweg/)
+- [Harzer Wandernadel: aktuelle Defekte, Verlegungen und Wegesperrungen](https://www.harzer-wandernadel.de/defektmeldungen/)
+- [Gemeinde Walkenried: HWN-Ziele rund um Wieda und Zorge](https://walkenried-tourismus.de/aktivitaeten/wandern/harzer-wandernadel/)
+- [Harzklub Wieda: Tourfolge Gipfelblick–Helenenruh–Kreuztalsklippe](https://wieda.harzklub.de/unsere-gruppen/wandern/)
+- [Gemeinde Walkenried: Wieda als Wanderstandort](https://walkenried-tourismus.de/wieda/)
+- [Harzer Wandernadel: GPS-Download und Genauigkeitshinweise](https://www.harzer-wandernadel.de/stempelstellen/gps-download/)

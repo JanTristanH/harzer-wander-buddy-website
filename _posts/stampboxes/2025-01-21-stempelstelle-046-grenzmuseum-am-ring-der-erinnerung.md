@@ -75,5 +75,6 @@ Mehr HWN-Stempelstellen findest du in der [**HWN-Stempelstellen-Übersicht**](/o
 
 - [Harzer Wandernadel: offizielle Seite zu HWN 46](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-46-grenzmuseum-am-ring-der-erinnerung/)
 - [Oberharz am Brocken: offizielle Tourentipps Sorge mit Strecken, Zeiten und Startpunkten](https://www.oberharzinfo.de/touren-sorge)
+- [Oberharz am Brocken: Sorge und die drei aktuellen Grenz-Rundwege](https://www.oberharzinfo.de/die-region/sorge)
 - [Grenzmuseum Sorge: offizielle Website und aktuelle Meldungen](https://grenzmuseum-sorge.de/)
 - [Bundesstiftung Aufarbeitung: Grenzmuseum Sorge als Erinnerungsort](https://www.zeitzeugenbuero.de/bildung-und-vermittlung/erinnerungsorte/erinnerungsorte-sachsen-anhalt)

@@ -35,6 +35,8 @@ Der direkte Zustieg aus Torfhaus ist für wandergewohnte Familien machbar, wenn 
 
 Hunde müssen im Nationalpark ganzjährig angeleint bleiben. Außerdem gilt das Wegegebot: Nutze ausschließlich ausgeschilderte Routen. Schau vor der Abfahrt auf die aktuelle Sperrseite des Nationalparks und verzichte bei Sturm sowie in den Tagen danach auf die Waldtour.
 
+Die online gemeldete Weglage kann sich nach Sturm oder Forstarbeiten kurzfristig ändern. Die Nationalparkseite weist deshalb ausdrücklich darauf hin, Sperrungen und Hinweise im Gelände zu beachten. Wenn der steinige Abzweig vom Pionierweg gesperrt ist, suche keine inoffizielle Umgehung durch die Kernzone, sondern verschiebe den Stempelbesuch.
+
 #### Standort
 
 Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.820362%2C%2010.572972) ist die Stempelstelle der Harzer Wandernadel in Google Maps zu finden.
@@ -59,3 +61,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [Bad Harzburg: große Nationalpark-Runde mit Skidenkmal](https://www.bad-harzburg.de/tour/von-bad-harzburg-durch-den-nationalpark-harz/)
 - [Bad Harzburg: Rundweg Eckerstausee und saisonale Busanreise](https://www.bad-harzburg.de/wanderland/themenwanderwege/)
 - [Nationalpark Harz: aktuelle Wegesperrungen](https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/)
+- [Nationalpark Harz: Wegegebot und ganzjährige Leinenpflicht](https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark)
+- [GPS-Übersicht der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

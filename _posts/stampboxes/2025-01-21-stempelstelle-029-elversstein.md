@@ -1,41 +1,45 @@
 ---
 layout: post
-title:  "HWN 29 Elversstein: Felsblick, Harzquerbahn und kurzer Zustieg"
+title:  "HWN 29 Elversstein: Harzquerbahn und kurzer Zustieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/29-elversstein.jpg
-description: "HWN 29 Elversstein bei Wernigerode: markante Felsformation mit Blick zur Harzquerbahn und guter Kombination mit 34, 35 und 36."
-last_modified_at: 2026-07-18
+description: "HWN 29 Elversstein bei Hasserode: kurzer Zustieg über die Trift, Blick zur Harzquerbahn am Tunnel und Kombination mit Armeleuteberg."
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [Elversstein](https://commons.wikimedia.org/wiki/File:Elversstein.JPG) von <a href="//commons.wikimedia.org/wiki/User:B.Thomas95" title="User:B.Thomas95">Thomas Binder</a> unter Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)'
 ---
 
-Der Elversstein ist eine markante Felsformation suedlich von Wernigerode und gehoert zu den Stempelstellen, die man sich gut merken kann. Die Mischung aus Fels, Aussicht und dem Blick auf die Harzquerbahn macht HWN 29 besonders.
+Der **Elversstein (HWN 29)** ist ein Aussichtspunkt auf **499 Metern Höhe** nahe dem Wernigeröder Stadtteil Hasserode. Die Mischung aus Fels, Harzpanorama und Eisenbahn macht die Station unverwechselbar: Vom Aussichtspunkt lässt sich mit passendem Timing beobachten, wie ein Zug der Harzquerbahn den Thumkuhlental-Tunnel verlässt.
 
 #### Lage und Besonderheiten
 
-Die Klippe liegt oberhalb von Hasserode und bietet einen schoenen Blick in die Landschaft rund um Wernigerode. Ein zusaetzlicher Reiz ist die moegliche Sicht auf die dampfbetriebene Harzquerbahn am Thumkuhlenkopf-Tunnel, was die Stempelstelle auch fuer Bahnfreunde interessant macht.
+Die Klippe liegt oberhalb von Hasserode und bietet einen Blick in die Harzlandschaft. Eine Dampflok ist allerdings nicht garantiert: Auf der Harzquerbahn verkehren je nach Fahrplan auch Triebwagen, und Verspätungen oder betriebliche Änderungen sind möglich. Wer das Bahnmotiv gezielt sehen möchte, prüft den aktuellen HSB-Fahrplan, behandelt die Uhrzeit aber nur als Orientierung.
 
-Der Ort ist nicht nur eine schoene Einzelstation, sondern auch ein guter Auftakt fuer eine groessere Runde. Gerade zusammen mit den benachbarten Stempeln entsteht hier schnell eine sehr runde Wanderung.
+Der Stempel liegt im Wald; eine bewirtschaftete Hütte oder sichere Wasserstelle gibt es am Aussichtspunkt nicht.
 
-#### Anfahrt und Parken
+#### Kürzester Aufstieg aus Hasserode
 
-Ein klassischer Start ist in Hasserode an der Strasse Trift. Von dort fuehrt der Elverssteinpfad in ueberschaubarer Entfernung zur Klippe.
+Die Harzer Wandernadel nennt die Straße **Trift in Hasserode** als Start des kürzesten Aufstiegs. Von dort folgst du dem Elverssteinpfad. Plane den konkreten Hin- und Rückweg mit einer aktuellen Karte; die Wohnstraße selbst ist keine Zusage für einen freien Wanderparkplatz. Nutze ausgewiesene Parkflächen und halte Grundstückszufahrten frei.
 
-Alternativ kannst du auch vom Armeleuteberg aus starten. Dann wird die Tour laenger, laesst sich aber gut mit weiteren Stempelstellen im Wernigeroeder Bereich verbinden.
+Hasserode ist mit Stadtbus und Harzer Schmalspurbahn erreichbar. Von der HSB-Haltestelle Wernigerode-Hasserode entsteht ein längerer Zustieg als ab Trift, dafür lässt sich die Tour ohne Auto beginnen.
 
-#### Weg zur Stempelstelle
+#### Runde ab Armeleuteberg
 
-Von Hasserode aus folgst du dem Elverssteinpfad etwa 1,8 Kilometer bis zum Ziel. Der Zustieg ist damit auch fuer eine kuerzere Wanderung gut geeignet.
+Als zweiten Ausgangspunkt empfiehlt die offizielle Seite das [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/). Dadurch lässt sich HWN 29 mit Aussichtsturm, Waldgasthaus und weiteren Wegen im Wernigeröder Stadtwald verbinden. Öffnungszeiten der Gastronomie sind veränderlich; prüfe sie vor der Tour.
 
-Wenn du mehr aus dem Tag machen willst, kombiniere den Elversstein mit [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/), [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) oder [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein/). So entsteht eine starke Runde mit unterschiedlichen Landschaftsbildern.
+Für eine größere selbst geplante Runde kommen außerdem [**Scharfenstein (HWN 34)**](/stempelstelle-034-scharfenstein/) und [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein/) infrage. Diese Punkte liegen nicht direkt nebeneinander; prüfe Distanz und Höhenmeter, bevor du alle Nummern verbindest.
 
-#### Warum lohnt sich der Spot?
+#### Namensgeber des Elverssteins
 
-HWN 29 lohnt sich, weil du hier einen markanten Fels mit relativ wenig Aufwand erreichst. Die Aussicht ist schoen, und der moegliche Blick auf die Harzquerbahn gibt dem Spot einen klaren eigenen Charakter.
+Benannt ist der Felsen nach **Dr. Johann Friedrich Rudolph Elvers (1825–1891)**, dem ersten Landrat des preußischen Kreises Wernigerode. Laut Harzer Wandernadel kam Elvers 1862 nach Wernigerode, arbeitete zunächst als Gerichtsdireigent und trat 1864 als Regierungs- und Konsistorialrat in den Dienst von Graf Otto zu Stolberg-Wernigerode.
 
-Gerade fuer Harz-Besucher, die eine einpraegsame Stempelstelle suchen, ist der Elversstein eine gute Wahl. Fels, Wald und Bahnbezug ergeben eine Kombination, die man so nicht an jeder Nummer bekommt.
+#### Wegcharakter und Sicherheit
+
+Der Elverssteinpfad ist ein Waldweg mit Steigungen; am Fels können Nässe, Laub und Eis rutschig sein. Feste Schuhe sind sinnvoll. Kinder brauchen an felsigen und abschüssigen Stellen enge Begleitung, ein Kinderwagen eignet sich für den eigentlichen Aussichtspunkt nicht.
+
+Nach Sturm oder bei örtlichen Forstarbeiten sind Umleitungen möglich. Beachte Sperren und versuche nicht, das Ziel quer durch den Wald zu erreichen.
 
 #### Anfahrt
 
@@ -55,4 +59,11 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Scharfenstein“ (HWN 34)**](/stempelstelle-034-scharfenstein/)
 - [**„Agnesberg“ (HWN 31)**](/stempelstelle-031-agnesberg/)
 
-Mehr Stempelnummern und Tourenziele findest du in der [**HWN Stempelstellen Uebersicht**](/overview).
+Mehr Stempelnummern und Tourenziele findest du in der [**HWN-Stempelstellen-Übersicht**](/overview).
+
+#### Quellen und aktuelle Planung
+
+- [Harzer Wandernadel: Stempelstelle 29 / Elversstein](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-29-elversstein/)
+- [Harzer Schmalspurbahnen: Harzquerbahn und Fahrpläne](https://www.hsb-wr.de/Fahrplan-Tarife/Streckennetz/Harzquerbahn/)
+- [Wernigerode Tourismus: Wandern im Wernigeröder Stadtwald](https://www.wernigerode-tourismus.de/zeitzubleiben-in-wernigerode-und-schierke/wandern-in-wernigerode/)
+- [Wernigerode Tourismus: Anreise und Parken](https://www.wernigerode-tourismus.de/unterkunft-reiseinfos/anreise-und-ankommen/parken-tanken-laden)

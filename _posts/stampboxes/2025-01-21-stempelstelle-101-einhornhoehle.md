@@ -54,7 +54,7 @@ Mit Kindern ist die Kombination aus kurzer Wanderung, Einhornlegende und Führun
 
 Die Stempelstelle der Harzer Wandernadel findest du über diesen [📍 Google-Maps-Link](https://www.google.com/maps/dir/?api=1&origin=&destination=51.63502%2C%2010.40440).
 
-Auf dem Smartphone funktioniert auch der Kartenlink <a href="geo:51.63502,10.40440">geo:51.63502,10.40440</a>.
+Auf dem Smartphone funktioniert auch der <a href="geo:51.63502,10.40440">🗺️ Karten-Link</a>.
 
 #### Stempel in der Nähe
 

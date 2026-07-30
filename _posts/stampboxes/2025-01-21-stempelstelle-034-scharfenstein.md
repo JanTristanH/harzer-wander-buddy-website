@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HWN 34 Scharfenstein: Brockenblick, Treppenaufstieg und Kombi"
+title:  "HWN 34 Scharfenstein: Brockenblick und Treppenaufstieg"
 author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/34-scharfenstein.jpg
@@ -19,13 +19,13 @@ Der Stempel gehört zum Aussichtspunkt Scharfenstein. Am Ziel gibt es keine Gast
 
 #### Touren und Kombinationen
 
-- **Direkt ab Sporthotel Wernigerode:** Die Harzer Wandernadel empfiehlt den Parkplatz am Sporthotel als Ausgangspunkt. Von dort führt der **Senfmühlenweg** zum Aussichtspunkt. Diese Variante konzentriert sich auf HWN 34 und eignet sich, wenn du keine große Stempelrunde planst. Da die offizielle Beschreibung keine belastbare Distanz nennt, solltest du den gewählten Hin- und Rückweg vorab in einer aktuellen Wanderkarte ausmessen.
+- **Direkt ab Sporthotel Wernigerode:** Die Harzer Wandernadel empfiehlt das Sporthotel als Ausgangspunkt. Von dort führt der **Senfmühlenweg** zum Aussichtspunkt. Diese Variante konzentriert sich auf HWN 34 und eignet sich, wenn du keine große Stempelrunde planst. Da die offizielle Beschreibung keine belastbare Distanz nennt, solltest du den gewählten Hin- und Rückweg vorab in einer aktuellen Wanderkarte ausmessen.
 - **Runde über den Armeleuteberg:** Nach dem Scharfenstein kannst du auf beschilderten Waldwegen zum [**Gasthaus Armeleuteberg (HWN 35)**](/stempelstelle-035-gasthaus-armeleuteberg/) weiterwandern. Dort liegen auch der Kaiserturm und der obere Abschnitt des Märchenwegs. Je nach Rückweg entsteht eine abwechslungsreiche Halbtagestour mit Felsblick und Einkehrmöglichkeit.
 - **Mehrere Stempel im Wernigeröder Stadtwald:** Für eine längere, selbst geplante Runde bieten sich HWN 34, HWN 35 und [**Peterstein (HWN 36)**](/stempelstelle-036-peterstein/) an. Der [**Elversstein (HWN 29)**](/stempelstelle-029-elversstein/) lässt sich bei ausreichend Kondition ergänzen. Verbinde die Punkte nur über ausgeschilderte Wege und prüfe die Gesamtlänge vorab – die Nähe auf der Karte sagt im reliefreichen Gelände wenig über die tatsächliche Gehzeit aus.
 
 #### Parken und Anreise
 
-Für die direkte Tour ist der von der Harzer Wandernadel genannte Parkplatz am Sporthotel die am besten belegte Wahl. Für eine Kombinationsrunde mit HWN 35 kannst du alternativ am ausgewiesenen Wanderparkplatz **Försterplatz** starten. Prüfe vor Ort die aktuelle Beschilderung und blockiere keine Forstzufahrten.
+Für die direkte Tour ist das von der Harzer Wandernadel genannte Sporthotel der am besten belegte Orientierungspunkt. Der Hotelparkplatz ist jedoch eine private Fläche; kläre vorab beim Betrieb, ob Tagesgäste dort parken dürfen. Für eine Kombinationsrunde mit HWN 35 kannst du alternativ am ausgewiesenen Wanderparkplatz **Försterplatz** starten. Prüfe vor Ort die aktuelle Beschilderung und blockiere keine Forstzufahrten.
 
 Wernigerode ist gut per Bahn erreichbar. Wer ohne Auto startet, plant den Zustieg aus dem Stadtgebiet beziehungsweise die lokale Busverbindung nach Nöschenrode mit zusätzlicher Gehzeit ein. Eine offline gespeicherte Wanderkarte ist für die Verzweigungen im Stadtwald sinnvoll.
 
@@ -60,3 +60,6 @@ Eine komplette Liste aller Nummern und Ziele findest du in der [**HWN-Stempelste
 - [Harzer Wandernadel: Stempelstelle 34 / Scharfenstein](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-34-scharfenstein/)
 - [Harzer Wandernadel: Stempelstelle 35 / Gasthaus Armeleuteberg](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-35-gasthaus-armeleuteberg/)
 - [Wernigerode Tourismus: Wanderportal und Märchenweg](https://www.wernigerode-tourismus.de/zeitzubleiben-in-wernigerode-und-schierke/wandern-in-wernigerode)
+- [Wernigerode Tourismus: aktuelle Wege- und Live-Hinweise](https://www.wernigerode-tourismus.de/unterkunft-reiseinfos/live-informationen)
+- [Sporthotel Wernigerode: Kontakt für aktuelle Parkplatznutzung](https://www.sporthotel-wernigerode.de/kontakt)
+- [GPS-Übersicht der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

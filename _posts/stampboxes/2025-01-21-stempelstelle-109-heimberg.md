@@ -67,7 +67,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Granestausee“ (HWN 110)**](/stempelstelle-110-granestausee/)
 - [**„Steinbergturm“ (HWN 111)**](/stempelstelle-111-steinbergturm-steinbergalm/)
 
-#### Quellen und weiterführende Informationen
+#### Quellen und aktuelle Planung
 
 - [Harzer Wandernadel: offizielle Seite zu HWN 109](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-109-heimberg/)
 - [Tourist-Information Wolfshagen: Themenweg „Spur der Steine“ mit Tourdaten](https://www.outdooractive.com/mobile/de/route/themenweg/harz/themenpfad-spur-der-steine-in-wolfshagen-im-harz/18486646/)

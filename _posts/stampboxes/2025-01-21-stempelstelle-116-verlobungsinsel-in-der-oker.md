@@ -69,7 +69,7 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [**„Kästehaus“ (HWN 118)**](/stempelstelle-118-kaestehaus/)
 - [**„Hallesche Hütte“ (HWN 119)**](/stempelstelle-119-hallesche-huette-an-den-ahrendsberger-klippen/)
 
-#### Quellen und weiterführende Informationen
+#### Quellen und aktuelle Planung
 
 - [Harzer Wandernadel: offizielle Seite zu HWN 116](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-116-verlobungsinsel-in-der-oker/)
 - [Harzinfo: Lage und Koordinaten der Stempelstelle 116](https://touren.harzinfo.de/de/poi/wegpunkt/stempelstelle-harzer-wandernadel-nr.116-verlobungsinsel-oker/13038126/)

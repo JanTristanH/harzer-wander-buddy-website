@@ -59,3 +59,4 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 - [Tourist-Information Ilsenburg: Heinrich-Heine-Weg zum Brocken](https://www.ilsenburg-tourismus.de/wandern/top-5-wandertipps/auf-den-spuren-heinrich-heines-zum-brocken.html)
 - [Nationalpark Harz: Verhaltensregeln, Wegegebot und Leinenpflicht](https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark/)
 - [Nationalpark Harz: aktuelle Wegesperrungen](https://www.nationalpark-harz.de/de/startseite/Wegesperrungen_Aktuell/)
+- [GPS-Referenz der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)

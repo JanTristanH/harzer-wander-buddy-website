@@ -58,5 +58,5 @@ Unter diesem [📍 Link](https://www.google.com/maps/dir/?api=1&origin=&destinat
 
 - [Harzer Wandernadel: Stempelstelle 157 / Kapellenfleck](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-157-kappellenfleck/)
 - [Braunlage Tourismus: „Spuren der Braunlager Vergangenheit“](https://www.braunlage.de/en/tour/traces-into-braunlages-past)
-- [Braunlage Tourismus: Wanderempfehlungen mit Karte und Höhenprofil](https://www.braunlage.de/fileadmin/Mediendatenbank/Dokumente/Wanderempfehlungen_BTMG_2024_83_WEB.pdf)
+- [Braunlage Tourismus: Wanderempfehlungen mit Karte und Höhenprofil](https://www.braunlage.de/fileadmin/Mediendatenbank_Braunlage/Dokumente/Wanderempfehlungen_BTMG_2024_83_WEB.pdf)
 - [Gemeinde Walkenried: Wieda und Wanderverbindungen im Südharz](https://walkenried-tourismus.de/wieda/)

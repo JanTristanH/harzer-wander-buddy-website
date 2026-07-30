@@ -5,22 +5,24 @@ author: buddy
 categories: [ Stempelstelle ]
 image: assets/images/stampboxes/12-achtermannshoehe.jpg
 description: "HWN 12 Achtermannshöhe: kurze Routen ab Königskrug und Oderbrück, Parken, Schwierigkeit, genauer Stempelstandort und Tipps zum Gipfel."
-last_modified_at: 2026-07-18
+last_modified_at: 2026-07-30
 comments: false
 imageshadow: true
 imageSource: '📷 [AchtermannKuppeRehberg](https://commons.wikimedia.org/wiki/File:AchtermannKuppeRehberg.jpg) von Der ursprünglich hochladende Benutzer war <a href="https://en.wikipedia.org/wiki/de:User:Kassandro" class="extiw" title="w:de:User:Kassandro">Kassandro</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> unter Lizenz [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)'
 ---
 
-Die **Achtermannshöhe**, meist einfach „Achtermann“ genannt, ist rund **925 m hoch** und damit der dritthöchste Berg Niedersachsens sowie der vierthöchste Berg im Harz. Der Stempelkasten **HWN 12** steht nicht ganz oben, sondern an der **Achtermannhütte direkt unterhalb des letzten Gipfelanstiegs**. Wer den kurzen, felsigen Schlussanstieg mitnimmt, wird bei klarer Sicht mit einem weiten Blick zum Brocken, Wurmberg und über den Oberharz belohnt.
+Die **Achtermannshöhe**, meist einfach „Achtermann“ genannt, ist laut Harzer Wandernadel rund **926 m hoch** und damit der dritthöchste Berg Niedersachsens sowie der vierthöchste Berg im Harz. Der Stempelkasten **HWN 12** steht nicht ganz oben, sondern an der **Achtermannhütte direkt unterhalb des letzten Gipfelanstiegs**. Wer den kurzen, felsigen Schlussanstieg mitnimmt, wird bei klarer Sicht mit einem weiten Blick zum Brocken, Wurmberg und über den Oberharz belohnt.
 
-_Zuletzt geprüft: 18. Juli 2026. Strecken und Gehzeiten sind Richtwerte und können je nach gewähltem Weg sowie GPS-Aufzeichnung leicht abweichen._
+Der Nationalpark nennt in aktuellen Veranstaltungshinweisen **925 m ü. NHN**. Die Abweichung um einen Meter zur Angabe der Harzer Wandernadel (**926 m ü. NN**) beruht auf unterschiedlichen Quellen beziehungsweise Rundungen und ändert an der Tourenplanung nichts.
+
+_Zuletzt geprüft: 30. Juli 2026. Strecken und Gehzeiten sind Richtwerte und können je nach gewähltem Weg sowie GPS-Aufzeichnung leicht abweichen._
 
 #### HWN 12 kurz und knapp
 
 | Frage | Antwort |
 |---|---|
 | Wo liegt die Stempelstelle? | An der Achtermannhütte unterhalb des Gipfels |
-| Höhe des Berges | rund 925 m |
+| Höhe des Berges | rund 926 m |
 | Kürzester Zustieg | ab Königskrug, etwa 2 km und 180 Höhenmeter je Richtung |
 | Ruhigere Alternative | ab Oderbrück, etwa 2,2 bis 2,4 km und 140 Höhenmeter je Richtung |
 | Schwierigkeit | mittel; der Gipfelanstieg ist steil, felsig und bei Nässe rutschig |
@@ -97,7 +99,9 @@ Nein. Spätestens die naturbelassenen und felsigen Abschnitte sind für Kinderwa
 #### Quellen und weiterführende Informationen
 
 - [Harzer Wandernadel: offizielle Seite zur Stempelstelle 12](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-12-achtermannshoehe/)
+- [Braunlage Tourismus: Wanderrouten mit Achtermann-Runde ab Königskrug](https://www.braunlage.de/erleben/wandern/wanderrouten-rund-um-braunlage-st-andreasberg-und-hohegeiss)
+- [Nationalpark Harz / Harzer Tourismusverband: Rangerwanderung, Höhe und Parkhinweis](https://www.harzinfo.de/veranstaltungen/event/mit-den-rangern-auf-die-achtermannshoehe)
 - [Nationalpark Harz: Tourenplanung und Ausrüstung](https://www.nationalpark-harz.de/de/natur-erleben/wandern/)
 - [Nationalpark Harz: Regeln und aktuelle Sicherheitshinweise](https://www.nationalpark-harz.de/de/natur-erleben/verhalten-im-nationalpark/)
 - [Harzlife: Hintergrund zum Namen Milliardenweg](https://www.harzlife.de/kurios/milliardenweg.html)
-- [Video-Eindruck: der schwierigere Weg zur HWN 12](https://www.youtube.com/watch?v=LzEi_Crk-U8)
+- [GPS-Referenz der HWN-Stempelstellen](https://www.harz-wandernadel.de/stempelstellen.php)
