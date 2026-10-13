@@ -5,7 +5,7 @@ permalink: /app-waitlist
 comments: false
 ---
 
-<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 
 > Entdecke die Harzer Wandernadel – Einfach und Individuell
 
@@ -41,5 +41,14 @@ Teile deine geplante Route mit Freunden und beziehe auch deren Stempelfortschrit
 Behalte den Überblick mit unserer interaktiven Karte, die alle Stempelstellen und Parkplätze zeigt.
 > Kein Raten und unnötige Klicke mehr. Bei uns siehst du die Stempelnummer un den Besuchsstatus **auf einen Blick**. Du kannst leicht abgeschlossene Regionen identifizieren.
 
-<iframe data-tally-src="https://tally.so/embed/wbYe7Z?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="318" frameborder="0" marginheight="0" marginwidth="0" title="Entdecke die Harzer Wandernadel - Simple"></iframe>
+<section data-external-form aria-labelledby="waitlist-form-heading">
+  <h2 id="waitlist-form-heading">Zur Warteliste anmelden</h2>
+  <p>Das Formular wird von Tally (Belgien) bereitgestellt. Wenn du es lädst, werden deine IP-Adresse und technische Abrufdaten an Tally übermittelt. Die Freigabe ist freiwillig und gilt nur für diese Seite. Du kannst das Formular anschließend wieder schließen.</p>
+  <p><a href="{{ '/privacy-policy' | relative_url }}">Datenschutzhinweise zur Warteliste</a> · <a href="mailto:{{ site.email }}">Alternativ per E-Mail Kontakt aufnehmen</a></p>
+  <button type="button" class="btn btn-dark" data-external-form-load aria-controls="waitlist-form-content" aria-expanded="false">Wartelistenformular laden</button>
+  <button type="button" class="btn btn-outline-dark" data-external-form-close hidden>Formular schließen</button>
+  <div id="waitlist-form-content" data-external-form-content aria-live="polite"></div>
+  <noscript><p>Zum Einblenden brauchst du JavaScript. Du kannst das <a href="https://tally.so/r/wbYe7Z" target="_blank" rel="noopener noreferrer">Formular direkt bei Tally öffnen</a> oder uns per E-Mail kontaktieren.</p></noscript>
+</section>
+<script src="{{ '/assets/js/external-form.js' | relative_url }}" defer></script>
 

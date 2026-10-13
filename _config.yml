@@ -15,6 +15,18 @@ include: ["_pages"]
 permalink: /:title/
 email: info@harzer-wander-buddy.de
 formspreePath: f/mzzddkdr
+# Enable only after the public app endpoints have been deployed and verified.
+app_privacy_url: ''
+app_account_deletion_url: ''
+# Only publish identifiers actually assigned to the proprietor (never a tax number).
+legal_vat_id: ''
+legal_business_id: ''
+legal_register: ''
+exclude:
+  - docs
+  - scripts
+  - verifyLinkIntegrity
+  - site
 defaults:
   - scope:
       path: "_pages/share"
