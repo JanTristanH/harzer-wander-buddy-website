@@ -25,6 +25,12 @@ for (const file of ['_pages/tally-form.md', 'assets/js/external-form.js', 'scrip
 for (const file of ['_config.yml', '_data/navigation.yml', '_layouts/default.html', '_layouts/share.html', '_pages/app.md', '_pages/privacy-policy.md', 'assets/js/share-page.js', 'llms.txt']) {
   assert.ok(!/tally\.so|Warteliste|app-waitlist/.test(read(file)), file + ' must not advertise the former waitlist');
 }
+const contact = read('_pages/contact.md');
+assert.ok(contact.includes('href="mailto:{{ site.email }}"'), 'Contact must provide the email alternative');
+assert.ok(!/<(form|input|textarea)( |>)/i.test(contact), 'Contact must not submit to a form service');
+for (const file of ['_config.yml', '_pages/contact.md', '_pages/privacy-policy.md', '_pages/impressum.md']) {
+  assert.ok(!/formspree/i.test(read(file)), file + ' must not use or describe Formspree');
+}
 const shareScript = read('assets/js/share-page.js');
 function runShare(kind, query, mobile = false) {
   const nodes = Object.fromEntries(['state', 'chip', 'open', 'fineprint'].map(key => [key, {}]));

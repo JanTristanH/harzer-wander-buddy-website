@@ -5,17 +5,12 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.formspreePath}}" method="POST">
-<p class="mb-4">Sende deine Nachricht an das {{site.name}} Team. Wir antworten so schnell wie möglich!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" aria-label="Name" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" aria-label="E-Mail-Adresse" name="_replyto" placeholder="E-Mail-Adresse*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" aria-label="Nachricht" placeholder="Nachricht*" required></textarea>
-<p>Beim Absenden werden dein Name, deine E-Mail-Adresse und deine Nachricht an Formspree (USA) übermittelt und an uns weitergeleitet. Bitte sende keine Passwörter. Weitere Informationen findest du in der <a href="{{ '/privacy-policy' | relative_url }}">Datenschutzerklärung</a>. Alternativ erreichst du uns unter <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
-<input class="btn btn-dark" type="submit" value="Senden">
-</form>
+Du hast eine Frage zur Harzer Wanderbuddy App, einen Hinweis zu einer Stempelstelle oder möchtest einen Fehler melden? Schreib uns eine E-Mail. Wir antworten so schnell wie möglich.
+
+<p><a class="btn btn-primary" href="mailto:{{ site.email }}">E-Mail schreiben</a></p>
+
+**E-Mail:** [{{ site.email }}](mailto:{{ site.email }})
+
+Der Link öffnet dein E-Mail-Programm. Du kannst die Adresse auch kopieren und in deinem bevorzugten E-Mail-Dienst verwenden.
+
+Bitte sende keine Passwörter und nur die Angaben, die wir für dein Anliegen benötigen. Wie wir deine Nachricht verarbeiten, erfährst du in der [Datenschutzerklärung]({{ '/privacy-policy' | relative_url }}).

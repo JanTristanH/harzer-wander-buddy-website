@@ -8,6 +8,7 @@ Stand: 14. Oktober 2026. Website und App sind getrennte Projekte. Die Website ve
 - USt-ID **DE462683424**, aus dem vom Betreiber bereitgestellten Zuteilungsschreiben übernommen. Keine separate behördliche Validierung behauptet.
 - Impressum auf § 5 DDG umgestellt; veraltete TMG-/OS-Plattform-Texte entfernt.
 - Website-Datenschutz getrennt von App-Datenschutz beschrieben.
+- Formspree-Kontaktformular und Konfiguration entfernt; Kontakt ausschließlich per E-Mail über STRATO.
 - Tally-Einbettung und Wartelistenwerbung entfernt. Navigation, Footer, Autorenbeschreibung, Stempelübersicht und Share-Fallback verlinken auf https://app.harzer-wander-buddy.de.
 - Produktseite unter /app; alte URL /app-waitlist führt zur Web-App weiter.
 - Jekyll-Ausschlussliste zusammengeführt, damit docs und scripts nicht veröffentlicht werden.
@@ -16,7 +17,7 @@ Stand: 14. Oktober 2026. Website und App sind getrennte Projekte. Die Website ve
 
 ### STRATO: Domain und E-Mail
 
-STRATO bestätigt die automatische AVV-Einbeziehung für Verträge ab **18.07.2022**. Bei älteren Verträgen kann die AVV im Kundenlogin abgeschlossen werden. Bestellbestätigung/Vertragsdatum prüfen und die geltende AVV archivieren. Für ein älteres Konto ohne AVV im Kundenlogin unter Kundendaten/Kontoinformation → Auftragsverarbeitung abschließen. Keine Hosting-Protokollfrist von STRATO auf GitHub Pages übertragen.
+Der Betreiber hat bestätigt, dass die STRATO-AVV automatisch Bestandteil seines Vertrags ist. Dieser Punkt ist geklärt; geltende Vertragsunterlagen zur Dokumentation aufbewahren. Die öffentliche STRATO-FAQ bestätigt die automatische Einbeziehung für Verträge ab 18.07.2022. Keine Hosting-Protokollfrist von STRATO auf GitHub Pages übertragen.
 
 Quellen: [STRATO AVV-FAQ](https://www.strato.de/faq/vertrag/fragen-zur-auftragsverarbeitungsvertrag-avv-und-der-neuen-eu-datenschutzgrundverordnung-dsgvo/), [AVV](https://www.strato.de/agb/avv/).
 
@@ -24,17 +25,19 @@ Quellen: [STRATO AVV-FAQ](https://www.strato.de/faq/vertrag/fragen-zur-auftragsv
 
 GitHub bestätigt das Protokollieren der Besucher-IP für Sicherheitszwecke. Die Datenschutzerklärung beschreibt internationale Verarbeitung, EU-US Data Privacy Framework und Standardvertragsklauseln. Der veröffentlichte DPA bildet einen Teil des GitHub Customer Agreement; daraus lässt sich ohne Konto-/Vertragsunterlagen keine pauschale Einbeziehung für dieses persönliche Pages-Konto bestätigen. GitHub unterscheidet eigene Verantwortlichkeit und Auftragsverarbeitung je nach Zweck.
 
-Den für das Konto geltenden Vertrag archivieren und, soweit GitHub für die konkrete Pages-Verarbeitung Auftragsverarbeiter ist, die anwendbare DPA-Einbeziehung prüfen; bei Unklarheit GitHub Support um schriftliche Bestätigung für dieses Konto und GitHub Pages bitten. Öffentliches DPA-Dokument und DPF-Teilnahme sind keine gleichbedeutenden Nachweise.
+Für dieses persönliche Konto ist die Einbeziehung nicht bestätigt. Es gibt aber einen von GitHub dokumentierten konkreten Weg: Eine Organisation für Nordfpad Solutions – Tristan Heisecke verwenden, unter Organisations-Einstellungen → Terms of Service das GitHub Customer Agreement lesen und über „Sign GitHub customer terms“ im Namen des Unternehmens annehmen. Anschließend die Website in dieser Organisation betreiben und die geltenden Vertrags-/DPA-Unterlagen archivieren. Die aktuelle Customer-Terms-Übersicht nennt beim DPA Enterprise Cloud, Enterprise Unified, Teams und Copilot; deshalb keine automatische DPA-Abdeckung von Pages unter einem Free-Organisationskonto zusichern. Den gewünschten Tarif und Pages-Umfang vor einer kostenpflichtigen Buchung oder Repository-Übertragung anhand der Vereinbarung bzw. mit GitHub bestätigen. Das bloße Anlegen einer Organisation genügt nicht.
+
+Alternativ kann GitHub als Quellcode-/Build-Plattform bleiben, während die erzeugten statischen Website-Dateien bei einem Hostinganbieter mit klarer AVV bereitgestellt werden. Ein STRATO-Webhostingpaket wäre hierfür eine mögliche Option; das vorhandene Domain-/Mailpaket belegt noch keinen verfügbaren Webspace. Ein solcher Umzug und DNS-Änderungen sind nicht Teil dieses PR.
+
+Wie andere Betreiber es öffentlich beschreiben: W3C weist in seiner Datenschutzerklärung auf GitHub Pages, Besucher-IP-Protokolle, Sicherheitszwecke und GitHubs Datenschutzerklärung hin. Das ist eine nachvollziehbare Transparenzpraxis, aber kein Nachweis über W3Cs interne Verträge und kein Freibrief für andere Betreiber. Eine ältere GitHub-Community-Diskussion berichtet von Corporate Terms als DPA-Weg; für die heutige Umsetzung ist die aktuelle offizielle Anleitung maßgeblich.
+
+Zusätzliche Quellen: [Customer Agreement für Organisationen annehmen](https://docs.github.com/en/organizations/managing-organization-settings/upgrading-to-the-github-customer-agreement), [aktuelle Customer Terms und DPA-Produktumfang](https://github.com/customer-terms), [W3C-Datenschutz](https://www.w3.org/policies/privacy/), [Community-Diskussion von 2018/2019](https://github.com/orgs/community/discussions/22277).
 
 Quellen: [Pages und Besucher-IP](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages), [GitHub Datenschutz](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), [GitHub DPA](https://github.com/customer-terms/github-data-protection-agreement).
 
-### Formspree: verbleibendes Kontaktformular
+### Formspree: entfernt
 
-Formspree bestätigt Hosting bei AWS in den USA und die Verwendung von SCC als Auftragsverarbeiter. Die öffentlichen Nutzungsbedingungen beschreiben außerdem eigene Verantwortlichkeit; sie erlauben allein keine eindeutige Bestätigung einer für dieses Konto geltenden AVV einschließlich ausgefüllter SCC-Anlagen. Deshalb bleibt der Nachweis kontobezogen offen.
-
-Im Konto nach DPA/AVV und SCC suchen und gültige Dokumente sichern. Falls nicht verfügbar, Formspree Support um die für das konkrete Konto geltende Vereinbarung und Rollenklärung bitten. Vor Veröffentlichung klären; eine Alternative ohne Formspree wäre eine reine Kontaktseite mit E-Mail-Link. Das Kontaktformular bleibt in diesem PR erhalten.
-
-Quellen: [Sicherheit/SCC](https://formspree.io/security/), [Nutzungsbedingungen](https://formspree.io/legal/terms-of-service/), [Datenschutz](https://formspree.io/legal/privacy-policy/).
+Das Kontaktformular und die Formspree-Konfiguration sind entfernt. Neue Website-Kontaktanfragen werden per E-Mail an das STRATO-Postfach gerichtet. Für künftige Website-Übermittlungen entfällt damit die Formspree-Vertragsklärung. Eventuell vorhandene alte Formularnachrichten und Kopien werden durch die Code-Änderung nicht gelöscht: Formspree-Formular deaktivieren und nicht mehr benötigte Daten nach Zweckende löschen, soweit keine konkrete Aufbewahrungspflicht entgegensteht.
 
 ### Ehemalige Tally-Warteliste
 
@@ -42,11 +45,11 @@ Es werden über die Website keine neuen Tally-Anmeldungen mehr erhoben. Bereits 
 
 ## Deine Reihenfolge für die Website
 
-1. STRATO-Vertragsdatum/AVV nachsehen; GitHub-/Formspree-Unterlagen wie oben sichern und verbleibende Vertragsfragen klären.
+1. STRATO-AVV ist bestätigt. Für GitHub Pages den oben beschriebenen Organisations-/Vertragsweg oder eine getrennte Hostinglösung wählen; der konkrete Pages-DPA-Umfang bleibt zu bestätigen.
 2. Alte Tally-Warteliste schließen und nicht mehr benötigte Einträge/Kopien löschen. Erledigte Kontaktanfragen auch in Formspree und E-Mail-Postfach löschen.
 3. Betreiberangaben und gegebenenfalls separat zugeteilte Wirtschafts-ID/Registereintrag prüfen. Eine USt-ID ist kein Nachweis einer Wirtschafts-ID. Tristan Heisecke als redaktionell verantwortliche Person für die Beiträge bestätigen.
 4. Grüne CI prüfen, PR mergen und GitHub-Pages-Deployment abwarten.
-5. /impressum, /privacy-policy, /contact, /app und /app-waitlist sowie Navigation, Footer und Share-Links kontrollieren. App-Links müssen zur produktiven Web-App führen; keine Verbindung zu Tally soll entstehen.
+5. /impressum, /privacy-policy, /contact, /app und /app-waitlist sowie Navigation, Footer und Share-Links kontrollieren. App-Links müssen zur produktiven Web-App führen; keine Verbindung zu Tally oder Formspree soll entstehen.
 
 Prüfungen: `node scripts/check-website-release.cjs` und mit passender Ruby-/Bundler-Version `JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter`. Die CI nutzt Ruby 3.3.
 

@@ -16,7 +16,7 @@ Deutschland
 
 **E-Mail:** [info@harzer-wander-buddy.de](mailto:info@harzer-wander-buddy.de)
 
-Für Fragen zum Angebot sowie Hinweise auf fehlerhafte oder rechtswidrige Inhalte kannst du uns per E-Mail oder über das [Kontaktformular]({{ '/contact' | relative_url }}) erreichen.
+Für Fragen zum Angebot sowie Hinweise auf fehlerhafte oder rechtswidrige Inhalte kannst du uns per E-Mail erreichen. Die Adresse findest du auch auf der [Kontaktseite]({{ '/contact' | relative_url }}).
 
 {% if site.legal_vat_id and site.legal_vat_id != '' %}
 **Umsatzsteuer-Identifikationsnummer:** {{ site.legal_vat_id | escape }}

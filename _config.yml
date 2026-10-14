@@ -14,7 +14,6 @@ baseurl: ''
 include: ["_pages"]
 permalink: /:title/
 email: info@harzer-wander-buddy.de
-formspreePath: f/mzzddkdr
 app_url: 'https://app.harzer-wander-buddy.de'
 # Enable only after the public app endpoints have been deployed and verified.
 app_privacy_url: ''
