@@ -1,27 +1,43 @@
 ---
 layout: page
-title: ''
+title: Impressum
 permalink: /impressum
 comments: false
 ---
-### Impressum
 
-Tristn Heisecke  
-Rotdornweg 12  
-23683 Scharbeutz  
-Deutschland  
+## Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
 
-**E-Mail:** info@harzer-wander-buddy.de
+**Nordfpad Solutions**<br>
+Inhaber: Tristan Heisecke<br>
+Einzelunternehmen<br>
+Rotdornweg 12<br>
+23683 Scharbeutz<br>
+Deutschland
 
-> Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.
+**E-Mail:** [info@harzer-wander-buddy.de](mailto:info@harzer-wander-buddy.de)
 
-### Haftungsausschluss (Disclaimer):
+Für Fragen zum Angebot sowie Hinweise auf fehlerhafte oder rechtswidrige Inhalte kannst du uns per E-Mail erreichen. Die Adresse findest du auch auf der [Kontaktseite]({{ '/contact' | relative_url }}).
 
-#### Haftung für Inhalte:
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+{% if site.legal_vat_id and site.legal_vat_id != '' %}
+**Umsatzsteuer-Identifikationsnummer:** {{ site.legal_vat_id | escape }}
+{% endif %}
+{% if site.legal_business_id and site.legal_business_id != '' %}
+**Wirtschafts-Identifikationsnummer:** {{ site.legal_business_id | escape }}
+{% endif %}
+{% if site.legal_register and site.legal_register != '' %}
+**Registereintrag:** {{ site.legal_register | escape }}
+{% endif %}
 
-#### Haftung für Links:
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+## Verantwortlich für journalistisch-redaktionelle Inhalte
 
-#### Urheberrecht:
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+Tristan Heisecke, Anschrift wie oben (sofern § 18 Abs. 2 Medienstaatsvertrag auf die betreffenden Inhalte Anwendung findet).
+
+## Verbraucherstreitbeilegung
+
+Wir sind weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+## Inhalte und Rechte
+
+Die Informationen zur Harzer Wandernadel und zur Tourenplanung dienen der Orientierung. Prüfe vor einer Wanderung Wetter, Wegzustand, Sperrungen und deine eigene Ausrüstung und Kondition. Gesetzliche Rechte und Haftungsregeln bleiben unberührt.
+
+Texte und Bilder unterliegen den jeweils geltenden Urheber- und Nutzungsrechten. Rechte Dritter und gekennzeichnete Lizenzen sind zu beachten. Wenn dir eine mögliche Rechtsverletzung auffällt, kontaktiere uns bitte mit einem Hinweis auf die betroffene Seite.

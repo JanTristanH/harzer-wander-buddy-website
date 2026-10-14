@@ -1,0 +1,24 @@
+name: Website build and release checks
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check app links and legal configuration
+        run: node scripts/check-website-release.cjs
+      - name: Build production website
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --strict_front_matter

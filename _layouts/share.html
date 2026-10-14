@@ -190,11 +190,11 @@
         <div class="share-chip" data-share-chip>{{ page.share_chip }}</div>
         <p class="share-state" data-share-state>Link wird vorbereitet ...</p>
         <p class="share-fineprint" data-share-fineprint>
-          Wenn die App installiert ist, wird der Link direkt dort geöffnet. Andernfalls bleibst du auf dieser Seite und kannst die Warteliste oder den Web-Fallback nutzen.
+          Wenn die App installiert ist, wird der Link direkt dort geöffnet. Alternativ kannst du die Web-App im Browser öffnen.
         </p>
         <div class="share-actions">
-          <a class="share-button share-button-primary" data-share-open href="{{ site.baseurl }}/app-waitlist">In der App öffnen</a>
-          <a class="share-button share-button-secondary" href="{{ site.baseurl }}/app-waitlist">Warteliste öffnen</a>
+          <a class="share-button share-button-primary" data-share-open href="{{ site.app_url }}">In der App öffnen</a>
+          <a class="share-button share-button-secondary" href="{{ site.app_url }}">Web-App öffnen</a>
         </div>
       </div>
     </section>

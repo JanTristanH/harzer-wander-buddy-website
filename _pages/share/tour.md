@@ -10,5 +10,5 @@ description: "Öffnet eine Tour in der Harzer Wanderbuddy App."
 image: assets/images/BuddyWithMap.webp
 ---
 
-Touren werden mit ihrer ID an die App übergeben. Ohne App bleibt die Warteliste als Fallback erreichbar.
+Touren werden mit ihrer ID an die App übergeben. Alternativ kannst du die Web-App im Browser öffnen.
 

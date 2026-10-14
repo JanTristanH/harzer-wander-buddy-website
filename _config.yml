@@ -14,7 +14,14 @@ baseurl: ''
 include: ["_pages"]
 permalink: /:title/
 email: info@harzer-wander-buddy.de
-formspreePath: f/mzzddkdr
+app_url: 'https://app.harzer-wander-buddy.de'
+# Enable only after the public app endpoints have been deployed and verified.
+app_privacy_url: ''
+app_account_deletion_url: ''
+# Only publish identifiers actually assigned to the proprietor (never a tax number).
+legal_vat_id: 'DE462683424'
+legal_business_id: ''
+legal_register: ''
 defaults:
   - scope:
       path: "_pages/share"
@@ -29,7 +36,7 @@ authors:
     display_name: Buddy
     avatar: 'assets/images/avatar-Buddy.webp'
     instagram: https://www.instagram.com/harzer_wanderbuddy
-    description: 'Dein Harzer Wanderbuddy hilft dir beim Planen von Touren rund um die Harzer Wandernadel. Entdecke außerdem unsere <strong><a href="/app-waitlist">App <span class="badge badge-primary">NEU</span></a></strong> für eine einfachere Tourenplanung.'
+    description: 'Dein Harzer Wanderbuddy hilft dir beim Planen von Touren rund um die Harzer Wandernadel. Entdecke außerdem unsere <strong><a href="https://app.harzer-wander-buddy.de">Web-App öffnen</a></strong> für eine einfachere Tourenplanung.'
   jace:
     name: Jace
     display_name: Jace
@@ -82,4 +89,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, verifyLinkIntegrity]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, verifyLinkIntegrity, docs, scripts, site]
