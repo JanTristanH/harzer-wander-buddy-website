@@ -1,4 +1,4 @@
-name: Website build and external form checks
+name: Website build and release checks
 on:
   pull_request:
   workflow_dispatch:
@@ -16,8 +16,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Check optional external form
-        run: node scripts/check-external-form.cjs
+      - name: Check app links and legal configuration
+        run: node scripts/check-website-release.cjs
       - name: Build production website
         env:
           JEKYLL_ENV: production

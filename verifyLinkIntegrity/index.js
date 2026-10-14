@@ -9,12 +9,12 @@ const aDefaultLinksToIgnoreInSubLinks = [
     '/',
     '/about',
     '/authors',
-    '/app-waitlist',
+    'https://app.harzer-wander-buddy.de',
     '/contact',
     '/',
     '/impressum',
     '/privacy-policy',
-    '/app-waitlist',
+    'https://app.harzer-wander-buddy.de',
     'https://www.wowthemes.net/memoirs-free-jekyll-theme/'
 ];
 

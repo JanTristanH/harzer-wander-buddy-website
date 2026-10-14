@@ -5,7 +5,7 @@ permalink: /privacy-policy
 comments: false
 ---
 
-Stand: 13. Oktober 2026
+Stand: 14. Oktober 2026
 
 ## Verantwortlicher und Geltungsbereich
 
@@ -13,7 +13,7 @@ Nordfpad Solutions – Tristan Heisecke (Einzelunternehmen)<br>
 Rotdornweg 12, 23683 Scharbeutz, Deutschland<br>
 E-Mail: [info@harzer-wander-buddy.de](mailto:info@harzer-wander-buddy.de)
 
-Diese Erklärung beschreibt die Informationswebsite **www.harzer-wander-buddy.de**, das Kontaktformular und das auf Wunsch geladene Wartelistenformular. Die Harzer-Wanderbuddy-App und ihre Web-App verarbeiten zusätzliche Konto-, Stempel-, Freundschafts- und Standortdaten. Ihre Datenschutzhinweise findest du innerhalb der App unter „Datenschutz“.
+Diese Erklärung beschreibt die Informationswebsite **www.harzer-wander-buddy.de**, das Kontaktformular. Die Harzer-Wanderbuddy-App und ihre Web-App verarbeiten zusätzliche Konto-, Stempel-, Freundschafts- und Standortdaten. Ihre Datenschutzhinweise findest du innerhalb der App unter „Datenschutz“.
 
 {% if site.app_privacy_url and site.app_privacy_url != '' %}
 [Datenschutzerklärung der App]({{ site.app_privacy_url }})
@@ -39,21 +39,11 @@ Die Inhalte werden aufbewahrt, solange sie zur Bearbeitung deiner Anfrage erford
 
 Weitere Informationen: [Formspree Datenschutz](https://formspree.io/legal/privacy-policy/) und [Formspree Sicherheit und veröffentlichte Standardvertragsklauseln](https://formspree.io/security/).
 
-## Optionales Wartelistenformular
-
-Das Wartelistenformular wird von **Tally**, einem Anbieter aus Belgien, bereitgestellt. Es wird erst geladen, wenn du auf „Wartelistenformular laden“ klickst. Dabei wird eine Verbindung zu Tally aufgebaut; Tally erhält insbesondere deine IP-Adresse und technische Abrufdaten. Im Formular eingegebene Angaben werden bei dessen Übermittlung von Tally verarbeitet und uns zur Bearbeitung der Wartelistenanmeldung bereitgestellt.
-
-Die Zustimmung zum Laden des externen Formulars ist freiwillig (Art. 6 Abs. 1 lit. a DSGVO). Du kannst das Formular jederzeit über „Formular schließen“ entfernen und damit weitere Abrufe dieser Einbindung beenden. Bereits übermittelte Daten werden dadurch nicht automatisch gelöscht; dafür kannst du uns kontaktieren. Das Schließen löscht auch keine von Tally bereits gesetzten Informationen auf dessen eigener Domain.
-
-Eine Anmeldung zur Warteliste und die damit verbundene Benachrichtigung sind von der Freigabe der Einbindung zu unterscheiden. Beachte die Angaben und Einwilligungsmöglichkeiten im Wartelistenformular. Du kannst eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft über die obige E-Mail-Adresse widerrufen. Wartelistendaten werden für die angegebene Benachrichtigung aufbewahrt und gelöscht, wenn der Zweck entfällt oder du deine Anmeldung widerrufst, soweit keine notwendige gesetzliche Aufbewahrung entgegensteht.
-
-Weitere Informationen: [Tally Datenschutz](https://tally.so/help/privacy-policy), [Tally Cookies](https://tally.so/help/cookie-policy) und [Tally Datenverarbeitungsvertrag](https://tally.so/help/data-processing-agreement).
-
 ## Lokale Inhalte, Cookies und externe Links
 
 Schriften, Styles und die verwendeten Website-Skripte werden lokal mit der Website ausgeliefert. Google Analytics, Google AdSense, Disqus und die Newsletter-Funktion des Website-Themes sind derzeit nicht aktiviert. Wir betreiben damit auf dieser Website keine entsprechende Analyse-, Werbe- oder Newsletter-Tracking-Erfassung.
 
-Die Freigabe des Tally-Formulars wird nur für die aktuell geöffnete Seite im Arbeitsspeicher gehalten; wir speichern dafür kein dauerhaftes Einwilligungs-Cookie. Für notwendige Endgerätezugriffe zur Bereitstellung ausdrücklich angeforderter Funktionen gilt § 25 Abs. 2 Nr. 2 TDDDG. Soweit eine optionale Einbindung darüber hinaus einer Einwilligung bedarf, erfolgt sie erst nach deiner Freigabe.
+Auf dieser Informationswebsite werden keine externen Anmeldeformulare eingebettet. Für notwendige Endgerätezugriffe zur Bereitstellung ausdrücklich angeforderter Funktionen gilt § 25 Abs. 2 Nr. 2 TDDDG.
 
 Links zu sozialen Netzwerken und anderen Angeboten führen zu deren eigenen Websites. Die Verarbeitungen nach dem Öffnen solcher Links richten sich nach den Hinweisen der jeweiligen Anbieter.
 
@@ -61,7 +51,7 @@ Links zu sozialen Netzwerken und anderen Angeboten führen zu deren eigenen Webs
 
 Die oben genannten Anbieter erhalten die für ihre jeweiligen Funktionen erforderlichen Daten. Formspree und GitHub können Daten in den USA verarbeiten; bei anderen Anbietern können je nach Dienst und Unterauftragnehmer weitere Verarbeitungsorte relevant sein. Eine pauschale Zusicherung, dass alle Website-Daten ausschließlich in der EU bleiben, geben wir nicht.
 
-Formspree veröffentlicht Informationen über Standardvertragsklauseln auf seiner oben verlinkten Sicherheitsseite. GitHubs Datenschutzerklärung beschreibt die dort veröffentlichten Transferregelungen. Für Auskünfte zu den für deine Daten relevanten Empfängern und Garantien kannst du uns unter der angegebenen E-Mail-Adresse kontaktieren.
+GitHub beschreibt in seiner Datenschutzerklärung die Teilnahme am EU-US Data Privacy Framework (Art. 45 DSGVO) und die Verwendung von EU-Standardvertragsklauseln für entsprechende Übermittlungen (Art. 46 Abs. 2 lit. c DSGVO). Formspree nennt für seine Verarbeitung als Auftragsverarbeiter EU-Standardvertragsklauseln auf seiner Sicherheitsseite. Informationen und Kopien der für deine Daten relevanten Garantien kannst du unter der angegebenen E-Mail-Adresse anfordern. Diese Anbieterinformationen ersetzen nicht die Prüfung der für den jeweiligen Dienst geltenden Vereinbarungen.
 
 ## Deine Rechte und Kontakt
 
