@@ -63,6 +63,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Make Jekyll container output writable for assembly
+        run: sudo chown -R "$(id -u):$(id -g)" _site
       - name: Build the actual Expo app with static data
         run: node scripts/build-static-website.mjs "$RUNNER_TEMP/expo-website"
         working-directory: .app-source

@@ -37,6 +37,9 @@ bleiben erhalten. Der ursprüngliche HTML/CSS-Nachbau wurde entfernt.
   Verzeichnis ohne Index.
 - UI und Daten stammen aus demselben aufgelösten Commit. Der regelmäßige
   Workflow erkennt Änderungen selbst und vermeidet unnötige Wiederholungen.
+- Der Pages-Jekyll-Container erzeugt Dateien als `root`. Die CI überträgt
+  den Ausgabeordner deshalb vor dem Zusammenfügen an den Runner-Benutzer;
+  andernfalls scheitert das Einfügen des Expo-Exports an Dateirechten.
 
 ## Validierung
 
