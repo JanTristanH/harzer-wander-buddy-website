@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'de-DE' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% if page.robots %}<meta name="robots" content="{{ page.robots | escape }}">{% endif %}
+  <meta name="theme-color" content="#f5f3ee">
+  <link rel="icon" href="{{ site.favicon | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/guest-overview.css' | relative_url }}">
+  <script src="{{ '/assets/js/guest-overview.js' | relative_url }}" defer></script>
+</head>
+<body class="guest-overview">
+  <a class="skip-link" href="#main">Zum Inhalt</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ site.logo | relative_url }}" alt="" width="42" height="42">
+      <span>Harzer Wanderbuddy</span>
+    </a>
+    <a class="app-link" href="https://app.harzer-wander-buddy.de/app/rnweb/">Zur App {% include overview-icon.html name='external' %}</a>
+  </header>
+  <main id="main">{{ content }}</main>
+  <footer class="site-footer">
+    <a href="{{ '/overview' | relative_url }}">Bisherige Übersicht</a>
+    <a href="{{ '/impressum' | relative_url }}">Impressum</a>
+    <a href="{{ '/privacy-policy' | relative_url }}">Datenschutz</a>
+    <span>© {{ site.time | date: '%Y' }} Harzer Wanderbuddy</span>
+  </footer>
+</body>
+</html>

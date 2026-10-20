@@ -1,0 +1,66 @@
+name: Validate GitHub Pages overview
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pages-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read pinned public-data revision
+        id: source
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          source = json.load(open('_data/guest_stamps.json'))['source']
+          assert re.fullmatch(r'[0-9a-f]{40}', source['revision'])
+          assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', source['asOf'])
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
+              stream.write(f"revision={source['revision']}\nas_of={source['asOf']}\n")
+          PY
+      - uses: actions/checkout@v4
+        with:
+          repository: JanTristanH/harzer-wander-buddy
+          ref: ${{ steps.source.outputs.revision }}
+          path: .catalogue-source
+          persist-credentials: false
+      - name: Verify public snapshot against pinned CAP source
+        env:
+          CATALOGUE_DATE: ${{ steps.source.outputs.as_of }}
+        run: |
+          python3 .catalogue-source/scripts/export-public-stamps.py --as-of "$CATALOGUE_DATE" --output /tmp/guest_stamps.json
+          diff -u _data/guest_stamps.json /tmp/guest_stamps.json
+      - name: Build with the GitHub Pages Jekyll runtime
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Check static HTML, canonical URLs and SEO isolation
+        run: python3 scripts/check-guest-overview.py --site _site
+      - name: Install browser test dependencies
+        run: |
+          python3 -m pip install playwright==1.55.0
+          python3 -m playwright install --with-deps chromium
+      - name: Check the public guest interactions in Chromium
+        run: python3 scripts/test-guest-overview-browser.py --site _site --screenshots /tmp/overview-screenshots
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-pages-site
+          path: _site
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: overview-screenshots
+          path: /tmp/overview-screenshots
+          retention-days: 7

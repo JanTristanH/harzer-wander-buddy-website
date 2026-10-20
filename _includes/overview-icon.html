@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+{% case include.name %}
+{% when 'map' %}<polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21 3 6"></polygon><path d="M9 3v15M15 6v15"></path>
+{% when 'list' %}<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"></path>
+{% when 'search' %}<circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path>
+{% when 'external' %}<path d="M7 17 17 7M7 7h10v10"></path>
+{% endcase %}
+</svg>

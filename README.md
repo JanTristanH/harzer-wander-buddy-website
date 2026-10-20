@@ -1,6 +1,15 @@
 # harzer-wander-buddy-website
 Harzer Wander Buddy Website
 
+## Statische Gastansicht
+
+Die neue Karten-/Listenansicht wird zunächst unter `/preview/overview`
+veröffentlicht. Der vorhandene GitHub-Pages-Build von `main` rendert sie mit
+Jekyll; die bestehenden Titel-URLs der Stempelstellen bleiben erhalten.
+
+[Build, Datenaktualisierung und SEO-Umschaltung](docs/static-guest-overview.md)
+· [Review und nächste Verbesserungen](docs/static-guest-overview-review.md)
+
 
 ## Used jeykell theme
 [Memoirs](https://bootstrapstarter.com/jekyll-theme-memoirs/)

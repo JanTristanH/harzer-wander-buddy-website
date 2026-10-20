@@ -1,0 +1,62 @@
+{% assign catalogue = site.data.guest_stamps %}
+<div class="overview" data-guest-overview data-leaflet-url="{{ '/assets/vendor/leaflet/leaflet.js' | relative_url }}">
+  <p class="preview-notice">Vorschau · Stempelstellen ohne Anmeldung entdecken</p>
+  <div class="title-row">
+    <div><p class="eyebrow">Harzer Wandernadel</p><h1>Stempelstellen</h1></div>
+    <span class="total-label">{{ catalogue.stamps.size }} gesamt</span>
+  </div>
+  <a class="progress-card" href="https://app.harzer-wander-buddy.de/app/rnweb/">
+    <span class="eyebrow">Dein Fortschritt</span>
+    <strong>Dein nächstes Abenteuer wartet.</strong>
+    <span>Entdecke alle {{ catalogue.stamps.size }} Stempelstellen. In der App sammelst du deine Besuche und planst deine Touren.</span>
+    <span class="progress-cta">Mit der App loswandern <span aria-hidden="true">→</span></span>
+  </a>
+  <p class="overview-intro">Finde die Stempelstellen der Harzer Wandernadel auf der Karte oder in der Liste. Zu jeder HWN-Nummer findest du eine ausführliche Seite mit Tipps für deine Wanderung.</p>
+  <div class="overview-controls" data-controls hidden>
+    <label class="search-field" for="stamp-search">{% include overview-icon.html name='search' %}
+      <span class="sr-only">Stempelstelle nach Nummer oder Ort suchen</span>
+      <input id="stamp-search" type="search" placeholder="Suche nach Nummer oder Ort" maxlength="255" autocomplete="off">
+    </label>
+    <div class="filter-row" role="group" aria-label="Stempelstellen filtern">
+      <button type="button" class="filter active" data-filter="all" aria-pressed="true">Alle</button>
+      <button type="button" class="filter" data-filter="near" aria-pressed="false">In der Nähe</button>
+      <span class="location-status" data-location-status role="status"></span>
+    </div>
+  </div>
+  <div class="results-row"><h2>Alle HWN-Stempelstellen</h2><p data-result-count role="status">{{ catalogue.stamps.size }} Stempelstellen</p></div>
+  <p class="empty-state" data-empty hidden>Hier haben wir keine Stempelstelle gefunden. Versuche eine andere Nummer oder einen anderen Ort.</p>
+  <section id="stamp-map-panel" class="map-panel" aria-label="Karte der Stempelstellen" hidden>
+    <p class="map-help">Wähle eine Nummer auf der Karte, um mehr über die Stempelstelle zu erfahren. Die Kartendaten werden von OpenStreetMap geladen.</p>
+    <div class="stamp-map" id="stamp-map" aria-label="Interaktive Karte der Harzer Wandernadel"></div>
+    <p data-map-status role="status"></p>
+  </section>
+  <section id="stamp-list-panel" aria-label="Liste der Stempelstellen">
+    <ol class="stamp-list" data-stamp-list>
+    {% for stamp in catalogue.stamps %}
+      {% assign padded_number = stamp.number | prepend: '000' | slice: -3, 3 %}
+      {% assign post_prefix = padded_number | prepend: 'stempelstelle-' | append: '-' %}
+      {% assign matching_posts = site.posts | where_exp: 'post', 'post.slug contains post_prefix' %}
+      {% assign detail = matching_posts | first %}
+      <li class="stamp-card" data-number="{{ stamp.number }}" data-name="{{ stamp.name | escape }}" data-lat="{{ stamp.latitude }}" data-lng="{{ stamp.longitude }}">
+        <a class="stamp-card-link" href="{{ detail.url | relative_url }}">
+          <span class="stamp-artwork">
+            <img src="{{ detail.image | relative_url }}" alt="" width="76" height="76" loading="lazy" decoding="async">
+            <span class="stamp-number">{{ stamp.number }}</span>
+          </span>
+          <span class="stamp-body">
+            <span class="stamp-heading">{{ stamp.name | escape }}</span>
+            <span class="stamp-description">{{ stamp.description | escape }}</span>
+            <span class="stamp-meta"><span class="stamp-badge">HWN {{ stamp.number }}</span><span data-distance></span></span>
+          </span>
+          <span class="stamp-arrow" aria-hidden="true">›</span>
+        </a>
+        {% if detail.imageSource %}<details class="image-credit"><summary>Bildnachweis</summary><div>{{ detail.imageSource | markdownify }}</div></details>{% endif %}
+      </li>
+    {% endfor %}
+    </ol>
+  </section>
+  <nav class="view-switch" aria-label="Ansicht wechseln" data-view-switch hidden>
+    <a href="#liste" data-view="liste" aria-controls="stamp-list-panel" aria-current="true">{% include overview-icon.html name='list' %} Liste</a>
+    <a href="#karte" data-view="karte" aria-controls="stamp-map-panel">{% include overview-icon.html name='map' %} Karte</a>
+  </nav>
+</div>

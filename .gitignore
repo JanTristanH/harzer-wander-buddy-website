@@ -5,6 +5,8 @@ _site
 *~
 .jekyll-cache
 node_modules
+__pycache__/
+*.pyc
 result.json
 result_badLinks.json
 .playwright-cli
