@@ -1,11 +1,23 @@
 ---
-layout: guest-overview
+layout: static-app-shell
 title: 'Harzer Wandernadel: Stempelstellen als Karte und Liste – Vorschau'
 description: 'Entdecke die 222 Stempelstellen der Harzer Wandernadel als Karte und Liste, mit Suche und Links zu den ausführlichen Stempelstellen-Seiten.'
-permalink: /preview/overview
+permalink: /preview/overview/
 robots: noindex,follow
 sitemap: false
 comments: false
 ---
 
-{% include guest-overview.html %}
+<h1>Alle Stempelstellen der Harzer Wandernadel</h1>
+<p>Entdecke die 222 Stempelstellen oben mit der echten Harzer-Wanderbuddy-App als Karte oder Liste. Hier findest du außerdem alle ausführlichen Wanderinfos unter ihren bisherigen Adressen.</p>
+<p>Vorschau · <a href="{{ '/overview' | relative_url }}">Zur bisherigen Übersicht</a></p>
+<ol>
+{% for stamp in site.data.guest_stamps.stamps %}
+  {% assign padded_number = stamp.number | prepend: '000' | slice: -3, 3 %}
+  {% assign post_prefix = padded_number | prepend: 'stempelstelle-' | append: '-' %}
+  {% assign matching_posts = site.posts | where_exp: 'post', 'post.slug contains post_prefix' %}
+  {% assign detail = matching_posts | first %}
+  <li><a class="stamp-article-link" data-number="{{ stamp.number }}" href="{{ detail.url | relative_url }}">HWN {{ stamp.number }}: {{ stamp.name | escape }}</a></li>
+{% endfor %}
+</ol>
+<footer><a href="{{ '/' | relative_url }}">Harzer Wanderbuddy</a><a href="{{ '/impressum' | relative_url }}">Impressum</a><a href="{{ '/privacy-policy' | relative_url }}">Datenschutz</a></footer>

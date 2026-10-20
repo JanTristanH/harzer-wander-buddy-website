@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /preview/overview/app/public-catalogue.json
+sitemap: false
+---
+{
+  "schemaVersion": 1,
+  "source": {{ site.data.guest_stamps.source | jsonify }},
+  "parkingSpots": {{ site.data.guest_stamps.parkingSpots | jsonify }},
+  "stamps": [
+  {% for stamp in site.data.guest_stamps.stamps %}
+    {% assign padded_number = stamp.number | prepend: '000' | slice: -3, 3 %}
+    {% assign post_prefix = padded_number | prepend: 'stempelstelle-' | append: '-' %}
+    {% assign matching_posts = site.posts | where_exp: 'post', 'post.slug contains post_prefix' %}
+    {% assign detail = matching_posts | first %}
+    {
+      "id": {{ stamp.id | jsonify }}, "number": {{ stamp.number | jsonify }},
+      "name": {{ stamp.name | jsonify }}, "description": {{ stamp.description | jsonify }},
+      "latitude": {{ stamp.latitude | jsonify }}, "longitude": {{ stamp.longitude | jsonify }},
+      "validFrom": {{ stamp.validFrom | jsonify }}, "validTo": {{ stamp.validTo | jsonify }},
+      "articleUrl": {{ detail.url | relative_url | jsonify }},
+      "heroImageUrl": {{ detail.image | relative_url | jsonify }},
+      "imageCaption": {{ detail.imageSource | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]
+}

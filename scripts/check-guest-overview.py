@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Check the built Pages output, including actual canonical article targets."""
+"""Validate the real Expo output plus Jekyll's canonical articles and SEO index."""
 import argparse
 from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
-from urllib.parse import urlsplit, unquote
+from urllib.parse import unquote, urlsplit
 import xml.etree.ElementTree as ET
 
 
@@ -19,7 +19,7 @@ class Document(HTMLParser):
         self.tags.append((tag, dict(attrs)))
 
     def find(self, tag, **attrs):
-        return [item for name, item in self.tags if name == tag and all(item.get(k) == v for k, v in attrs.items())]
+        return [a for t, a in self.tags if t == tag and all(a.get(k) == v for k, v in attrs.items())]
 
 
 def output_file(site, url):
@@ -33,52 +33,47 @@ def output_file(site, url):
 
 
 def check(site):
-    root = Path(__file__).resolve().parents[1]
-    catalogue = json.loads((root / '_data/guest_stamps.json').read_text())
-    assert catalogue['schemaVersion'] == 1
-    assert re.fullmatch(r'[0-9a-f]{40}', catalogue['source']['revision'])
-    assert re.fullmatch(r'[0-9a-f]{64}', catalogue['source']['sha256'])
-    stamps = catalogue['stamps']
-    assert [s['number'] for s in stamps] == list(range(1, 223))
-    assert len({s['id'] for s in stamps}) == 222
-    fields = {'id', 'number', 'name', 'description', 'latitude', 'longitude', 'validFrom', 'validTo'}
-    assert all(set(s) == fields for s in stamps), 'Unexpected public fields'
-
     preview = Document(output_file(site, '/preview/overview').read_text())
-    robots = preview.find('meta', name='robots')
-    assert len(robots) == 1 and 'noindex' in robots[0]['content'].split(',')
-    cards = preview.find('li', **{'class': 'stamp-card'})
-    links = preview.find('a', **{'class': 'stamp-card-link'})
-    assert len(cards) == len(links) == 222, 'All stamps must be present before JavaScript'
-    assert [int(c['data-number']) for c in cards] == list(range(1, 223))
-    assert len({link['href'] for link in links}) == 222
-    for stamp, card, link in zip(stamps, cards, links):
-        number = stamp['number']
-        assert card['data-name'] == stamp['name']
-        assert float(card['data-lat']) == stamp['latitude']
-        assert float(card['data-lng']) == stamp['longitude']
-        assert re.fullmatch(rf'/stempelstelle-{number:03d}-.+/', link['href']), link['href']
+    assert preview.find('meta', name='robots')[0]['content'] == 'noindex,follow'
+    frame = preview.find('iframe')[0]
+    assert frame['src'] == '/preview/overview/app/'
+    app = site / 'preview/overview/app'
+    build = json.loads((app / 'app-build.json').read_text())
+    assert re.fullmatch(r'[0-9a-f]{40}', build['revision'])
+    assert build['dataMode'] == 'static' and build['basePath'] == '/preview/overview/app'
+    assert build['ui'] == 'app/app/(tabs)/index.tsx + app/app/(tabs)/map.tsx'
+    catalogue = json.loads((app / 'public-catalogue.json').read_text())
+    assert catalogue['source']['revision'] == build['revision'], 'UI and data must come from the same app commit'
+    assert [s['number'] for s in catalogue['stamps']] == list(range(1, 223))
+    assert len({s['id'] for s in catalogue['stamps']}) == 222
+    assert catalogue['parkingSpots']
+    assert all(set(p) == {'ID', 'name', 'description', 'latitude', 'longitude'} for p in catalogue['parkingSpots'])
+    expected = {'id', 'number', 'name', 'description', 'latitude', 'longitude', 'validFrom', 'validTo', 'articleUrl', 'heroImageUrl', 'imageCaption'}
+    assert all(set(s) == expected for s in catalogue['stamps']), 'Unexpected public fields'
+    links = preview.find('a', **{'class': 'stamp-article-link'})
+    assert len(links) == 222, 'The parent page must expose every article without JavaScript'
+    for stamp, link in zip(catalogue['stamps'], links):
+        assert stamp['articleUrl'] == link['href']
+        assert re.fullmatch(rf"/stempelstelle-{stamp['number']:03d}-.+/", link['href'])
         detail = Document(output_file(site, link['href']).read_text())
-        canonical = detail.find('link', rel='canonical')
-        assert len(canonical) == 1 and urlsplit(canonical[0]['href']).path == link['href'], link['href']
-    for asset in preview.find('link', rel='stylesheet') + preview.find('script'):
-        url = asset.get('href') or asset.get('src')
-        if url:
-            output_file(site, url)
-    for image in preview.find('img'):
-        output_file(site, image['src'])
-    for link in preview.find('a'):
-        if link.get('href', '').startswith('/') and not urlsplit(link['href']).netloc:
-            output_file(site, link['href'])
-    sitemap = ET.parse(site / 'sitemap.xml')
-    urls = [node.text for node in sitemap.findall('.//{*}loc')]
-    assert not any('/preview/' in url for url in urls), 'Preview leaked into sitemap'
-    assert any(urlsplit(url).path == '/overview' for url in urls)
+        assert urlsplit(detail.find('link', rel='canonical')[0]['href']).path == link['href']
+        output_file(site, stamp['heroImageUrl'])
+    entry = Document(output_file(site, frame['src']).read_text())
+    scripts = [s['src'] for s in entry.find('script') if s.get('src')]
+    assert scripts and any('/_expo/' in s for s in scripts), 'Missing actual Expo bundles'
+    for script in scripts:
+        output_file(site, script)
+    assert (app / 'map.html').is_file(), 'The actual Expo map route must be exported'
+    for page in app.rglob('*.html'):
+        assert Document(page.read_text()).find('meta', name='robots')[0]['content'] == 'noindex,follow'
+    urls = [n.text for n in ET.parse(site / 'sitemap.xml').findall('.//{*}loc')]
+    assert not any('/preview/' in u for u in urls)
+    assert any(urlsplit(u).path == '/overview' for u in urls)
     overview = Document(output_file(site, '/overview').read_text())
-    assert not any('noindex' in item.get('content', '') for item in overview.find('meta', name='robots'))
-    assert not (site / 'scripts').exists(), 'Build tooling must not be published'
-    assert not (site / 'docs').exists(), 'Internal review docs must not be published'
-    print('PASS: 222 static cards, canonical title URLs, assets, noindex, sitemap and production overview')
+    assert not any('noindex' in m.get('content', '') for m in overview.find('meta', name='robots'))
+    for internal in ['scripts', 'docs', 'static-app-source.json']:
+        assert not (site / internal).exists()
+    print('PASS: real Expo bundles, shared source revision, 222 canonical article URLs, static parking, noindex and sitemap')
 
 
 if __name__ == '__main__':

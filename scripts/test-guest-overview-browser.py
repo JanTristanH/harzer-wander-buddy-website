@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Exercise the built guest overview in Chromium; no CAP or external tiles needed."""
+"""Exercise the real exported Expo UI while rejecting every backend request."""
 import argparse
-import base64
 from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+import json
 from pathlib import Path
+import re
 import threading
+from urllib.parse import urlsplit
 
 from playwright.sync_api import sync_playwright, expect
 
@@ -23,89 +25,86 @@ class PagesHandler(SimpleHTTPRequestHandler):
 
 def run(site, executable, screenshots):
     server = ThreadingHTTPServer(('127.0.0.1', 0), partial(PagesHandler, directory=str(site)))
-    thread = threading.Thread(target=server.serve_forever, daemon=True)
-    thread.start()
-    url = f'http://127.0.0.1:{server.server_port}/preview/overview'
+    threading.Thread(target=server.serve_forever, daemon=True).start()
+    origin = f'http://127.0.0.1:{server.server_port}'
+    url = origin + '/preview/overview/'
     try:
         with sync_playwright() as playwright:
-            browser = playwright.chromium.launch(executable_path=executable, args=['--no-sandbox'])
+            browser = playwright.chromium.launch(executable_path=executable, args=[
+                '--no-sandbox', '--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader'])
             context = browser.new_context(viewport={'width': 1280, 'height': 900},
-                                          geolocation={'latitude': 51.799, 'longitude': 10.618},
-                                          permissions=['geolocation'])
-            tiles = []
-            transparent_png = base64.b64decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=')
+                geolocation={'latitude': 51.799, 'longitude': 10.618}, permissions=['geolocation'])
+            forbidden = []
+            requests = []
 
-            def tile(route):
-                tiles.append(route.request.url)
-                route.fulfill(status=200, content_type='image/png', body=transparent_png)
+            def network(route):
+                target = route.request.url
+                requests.append(target)
+                parts = urlsplit(target)
+                if parts.hostname == 'app.harzer-wander-buddy.de' and parts.path == '/app/rnweb/login':
+                    return route.fulfill(content_type='text/html', body='<title>Live app login handoff</title>')
+                if '/odata/' in parts.path or parts.hostname in ['app.harzer-wander-buddy.de', 'localhost'] or 'auth0.com' in (parts.hostname or ''):
+                    forbidden.append(target)
+                    return route.abort()
+                if parts.hostname == 'tiles.openfreemap.org':
+                    return route.fulfill(content_type='application/json', body=json.dumps({
+                        'version': 8, 'sources': {}, 'layers': [{'id': 'background', 'type': 'background', 'paint': {'background-color': '#e6e7dd'}}]}))
+                route.continue_()
 
-            context.route('https://tile.openstreetmap.org/**', tile)
+            context.route('**/*', network)
             page = context.new_page()
             errors = []
             page.on('pageerror', lambda error: errors.append(str(error)))
             page.goto(url)
-            expect(page.locator('.stamp-card:visible')).to_have_count(222)
-            assert not tiles, 'Tiles must not load before opening the map'
-            search = page.locator('#stamp-search')
-            search.fill('HWN 46')
-            expect(page.locator('.stamp-card:visible')).to_have_count(1)
-            expect(page.locator('.stamp-card:visible')).to_have_attribute('data-number', '46')
-            search.fill('grenzmuseum erinnerung')
-            expect(page.locator('.stamp-card:visible')).to_have_count(1)
-            search.fill('not-a-stamp')
-            expect(page.locator('[data-empty]')).to_be_visible()
-            expect(page.locator('.stamp-card:visible')).to_have_count(0)
-            search.fill('')
-            page.locator('[data-filter="near"]').click()
-            expect(page.locator('[data-filter="near"]')).to_have_attribute('aria-pressed', 'true')
-            nearby = page.locator('.stamp-card:visible').count()
-            assert 0 < nearby < 222
-            distances = page.locator('.stamp-card:visible [data-distance]').all_text_contents()
-            parsed = [float(value.split(' ')[0].replace(',', '.')) for value in distances]
-            assert parsed == sorted(parsed) and max(parsed) <= 15
-            page.locator('[data-filter="all"]').click()
-            expect(page.locator('.stamp-card:visible')).to_have_count(222)
-            search.blur()
+            app = page.frame_locator('.app-frame')
+            search = app.get_by_placeholder('Suche nach Nummer oder Ort')
+            expect(search).to_be_visible(timeout=30000)
+            expect(app.get_by_text('222 gesamt', exact=True)).to_be_visible()
+            expect(app.get_by_text('Stempelstellen', exact=True)).to_be_visible()
+            assert not forbidden, forbidden
             if screenshots:
                 screenshots.mkdir(parents=True, exist_ok=True)
                 page.screenshot(path=str(screenshots / 'desktop-list.png'))
-            page.locator('[data-view="karte"]').click()
-            expect(page.locator('.hwb-marker')).to_have_count(222)
-            expect(page.locator('#stamp-list-panel')).to_be_hidden()
-            page.locator('.hwb-marker').first.click(force=True)
-            expect(page.locator('.hwb-map-link')).to_have_attribute('href', '/stempelstelle-001-eckertalsperre-staumauer/')
-            search.fill('9')
-            expect(page.locator('.hwb-marker')).to_have_count(1)
-            page.go_back()
-            expect(page.locator('#stamp-list-panel')).to_be_visible()
+            search.fill('Brockenhaus')
+            expect(app.get_by_text(re.compile(r'9.*Brockenhaus'))).to_be_visible()
+            search.fill('not-a-stamp-xyz')
+            expect(app.get_by_text('Keine passenden Stempelstellen', exact=True)).to_be_visible()
             search.fill('')
             page.set_viewport_size({'width': 390, 'height': 844})
-            assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'), 'Mobile overflow'
             if screenshots:
                 page.screenshot(path=str(screenshots / 'mobile-list.png'))
-            # Opening the map directly is a supported shareable UI state.
-            page.goto(url + '#karte')
-            expect(page.locator('.hwb-marker')).to_have_count(222)
-            # Denied geolocation must keep the catalogue usable.
-            context.clear_permissions()
+            assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
+            app.get_by_text('Karte', exact=True).click()
+            expect(app.locator('.leaflet-container')).to_be_visible(timeout=30000)
+            expect(app.locator('.leaflet-marker-icon').first).to_be_visible(timeout=30000)
+            expect(app.get_by_placeholder('Suche Stempel oder Parkplatz')).to_be_visible()
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'mobile-map.png'))
+            page.set_viewport_size({'width': 1280, 'height': 900})
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'desktop-map.png'))
+            app.get_by_text('Liste', exact=True).click()
+            expect(search).to_be_visible()
+            # Canonical detail navigation must leave the frame for the article.
+            search.fill('Brockenhaus')
+            app.get_by_text(re.compile(r'9.*Brockenhaus')).click()
+            page.wait_for_url('**/stempelstelle-009-brockenhaus/')
             page.goto(url)
-            page.locator('[data-filter="near"]').click()
-            expect(page.locator('[data-location-status]')).to_contain_text('Standort nicht verfügbar')
-            expect(page.locator('.stamp-card:visible')).to_have_count(222)
+            app.get_by_text('Dein Fortschritt', exact=True).click()
+            # Catch the navigation before a real authenticated server is contacted.
+            page.wait_for_url('https://app.harzer-wander-buddy.de/app/rnweb/login', wait_until='commit')
+            assert not forbidden, forbidden
+            assert sum('public-catalogue.json' in target for target in requests) >= 1
             assert not errors, errors
             context.close()
-
             plain = browser.new_context(java_script_enabled=False, viewport={'width': 390, 'height': 844})
             page = plain.new_page()
             page.goto(url)
-            expect(page.locator('.stamp-card:visible')).to_have_count(222)
-            expect(page.locator('[data-controls]')).to_be_hidden()
-            expect(page.locator('[data-view-switch]')).to_be_hidden()
-            expect(page.locator('meta[name="robots"]')).to_have_attribute('content', 'noindex,follow')
-            assert page.locator('.stamp-card-link').first.get_attribute('href').startswith('/stempelstelle-001-')
+            expect(page.locator('.app-frame')).to_be_hidden()
+            expect(page.locator('.stamp-article-link:visible')).to_have_count(222)
             plain.close()
             browser.close()
-            print('PASS: desktop/mobile, search, empty state, geolocation, map/list/history, direct map and no JavaScript')
+            print('PASS: actual Expo list/map, shared UI, canonical top navigation, external login, no backend, mobile and no JavaScript')
     finally:
         server.shutdown()
         server.server_close()

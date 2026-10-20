@@ -3,9 +3,11 @@ Harzer Wander Buddy Website
 
 ## Statische Gastansicht
 
-Die neue Karten-/Listenansicht wird zunächst unter `/preview/overview`
-veröffentlicht. Der vorhandene GitHub-Pages-Build von `main` rendert sie mit
-Jekyll; die bestehenden Titel-URLs der Stempelstellen bleiben erhalten.
+Die neue Karten-/Listenansicht unter `/preview/overview/` verwendet die echte
+Expo-Webapp. GitHub Actions baut sie mit statischem CAP-Datenadapter zusammen
+mit der Jekyll-Website. Neue freigegebene App-UI wird automatisch übernommen;
+die bestehenden Titel-URLs der Stempelstellen bleiben erhalten. Vor dem Merge
+muss die Pages-Quelle einmalig auf **GitHub Actions** eingestellt werden.
 
 [Build, Datenaktualisierung und SEO-Umschaltung](docs/static-guest-overview.md)
 · [Review und nächste Verbesserungen](docs/static-guest-overview-review.md)

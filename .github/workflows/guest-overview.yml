@@ -1,66 +1,103 @@
-name: Validate GitHub Pages overview
+name: Build real app and publish GitHub Pages
 
 on:
   pull_request:
   push:
     branches: [main]
+  schedule:
+    - cron: '23 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: read
 
+concurrency:
+  group: website-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  pages-preview:
-    runs-on: ubuntu-latest
+  source:
+    runs-on: ubuntu-24.04
+    outputs:
+      revision: ${{ steps.source.outputs.revision }}
+      as_of: ${{ steps.source.outputs.as_of }}
+      needed: ${{ steps.source.outputs.needed }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - name: Resolve latest app source
+        id: source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/resolve-app-source.py
+
+  pages-preview:
+    needs: source
+    if: needs.source.outputs.needed == 'true'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Read pinned public-data revision
-        id: source
-        run: |
-          python3 - <<'PY'
-          import json, os, re
-          source = json.load(open('_data/guest_stamps.json'))['source']
-          assert re.fullmatch(r'[0-9a-f]{40}', source['revision'])
-          assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', source['asOf'])
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
-              stream.write(f"revision={source['revision']}\nas_of={source['asOf']}\n")
-          PY
-      - uses: actions/checkout@v4
+      - name: Checkout the real app
+        uses: actions/checkout@v5
         with:
           repository: JanTristanH/harzer-wander-buddy
-          ref: ${{ steps.source.outputs.revision }}
-          path: .catalogue-source
+          ref: ${{ needs.source.outputs.revision }}
+          path: .app-source
           persist-credentials: false
-      - name: Verify public snapshot against pinned CAP source
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: .app-source/app/package-lock.json
+      - name: Install real app dependencies
+        run: npm ci --no-audit --no-fund
+        working-directory: .app-source/app
+      - name: Export public CAP data at this build's UTC date
         env:
-          CATALOGUE_DATE: ${{ steps.source.outputs.as_of }}
-        run: |
-          python3 .catalogue-source/scripts/export-public-stamps.py --as-of "$CATALOGUE_DATE" --output /tmp/guest_stamps.json
-          diff -u _data/guest_stamps.json /tmp/guest_stamps.json
-      - name: Build with the GitHub Pages Jekyll runtime
+          CATALOGUE_DATE: ${{ needs.source.outputs.as_of }}
+        run: python3 .app-source/scripts/export-public-stamps.py --as-of "$CATALOGUE_DATE" --output _data/guest_stamps.json
+      - name: Build Jekyll articles and SEO index
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-      - name: Check static HTML, canonical URLs and SEO isolation
+      - name: Build the actual Expo app with static data
+        run: node scripts/build-static-website.mjs "$RUNNER_TEMP/expo-website"
+        working-directory: .app-source
+      - name: Assemble the app and existing Jekyll website
+        run: python3 scripts/assemble-static-app.py --app-dir "$RUNNER_TEMP/expo-website" --site _site
+      - name: Check articles, actual app output and SEO isolation
         run: python3 scripts/check-guest-overview.py --site _site
       - name: Install browser test dependencies
         run: |
           python3 -m pip install playwright==1.55.0
           python3 -m playwright install --with-deps chromium
-      - name: Check the public guest interactions in Chromium
+      - name: Test the real app without a backend
         run: python3 scripts/test-guest-overview-browser.py --site _site --screenshots /tmp/overview-screenshots
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages-site
           path: _site
-          retention-days: 7
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         if: always()
         with:
           name: overview-screenshots
           path: /tmp/overview-screenshots
           retention-days: 7
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: pages-preview
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy the complete static site
+        id: deployment
+        uses: actions/deploy-pages@v4

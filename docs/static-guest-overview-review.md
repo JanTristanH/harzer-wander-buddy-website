@@ -1,81 +1,84 @@
-# Review der statischen Gastansicht
+# Review: echte App mit statischem Datenprofil
 
-Stand: 20. Oktober 2026. Reviewumfang: Datenexport, Jekyll-Ausgabe, bestehende
-Titel-URLs, Preview-SEO, Gastinteraktionen und GitHub-Pages-Auslieferung.
+Stand: 20. Oktober 2026.
 
-## Ergebnis und behobene Befunde
+## Ergebnis
 
-- **Datenkorrektheit:** HWN 149 war in CAP noch „Kleine Oker“ mit alten
-  Koordinaten, falscher Naturmythenpfad-Beschreibung und falschem Bild. Der
-  App-PR gleicht den Demo-Datensatz mit dem gepflegten Website-Artikel ab:
-  Altenauer Herzweg/Mühlenberg, 51.803286 / 10.450144, gültig seit 2025-01-01.
-  Das verändert keine produktive Datenbank.
-- **Öffentliche Daten:** Ein enger Feldvertrag verhindert die versehentliche
-  Veröffentlichung der im selben CSV enthaltenen Besuchs-/Gruppenfelder.
-  Gültigkeitsprüfung, Vollständigkeit und Koordinaten werden vorab geprüft.
-- **Reproduzierbarkeit:** Ein expliziter Stichtag, Quell-Commit und CSV-Hash
-  machen den Snapshot nachvollziehbar. Ein uncommittierter CSV-Stand wird
-  abgewiesen; CI vergleicht den Snapshot mit dem festgelegten Quellstand.
-- **URL-Erhalt:** Statt Slugs aus CAP-Namen zu bauen, nutzt die Liste die
-  echten Jekyll-`post.url`-Werte. Alle 222 Zielseiten samt Canonicals wurden
-  geprüft, einschließlich bestehender Schreibweisen und Umlaute in Slugs.
-- **SEO-Isolation:** `noindex,follow` steht im initialen Preview-HTML. Kein
-  Preview-Eintrag in der Sitemap; `/overview` bleibt indexierbar. Ohne
-  JavaScript stehen alle 222 Detailverweise zur Verfügung.
-- **Suche:** Rein numerische Suchbegriffe treffen die exakte Stempelnummer;
-  „HWN 46“ liefert nicht zusätzlich HWN 146. Mehrere Wörter, Groß-/
-  Kleinschreibung, Umlaute und ß werden normalisiert.
-- **Standort:** Erst ein Klick auf „In der Nähe“ fragt die Position ab.
-  Ablehnung und verspätete Antworten nach Rückkehr zu „Alle“ lassen die Liste
-  nutzbar. Die Position wird lokal verarbeitet, nicht in die URL geschrieben.
-- **Auslieferung:** Der zusätzliche Workflow validiert PRs und erzeugt ein
-  Build-Artefakt. Die vorhandene Pages-Veröffentlichung aus `main` bleibt der
-  einzige Deployment-Weg. PRs allein schalten die Website nicht um.
+Die Website baut die echte Expo-App in GitHub CI. Änderungen an Liste, Karte,
+Navigation und Styling werden aus dem verfolgten App-Branch übernommen.
+Es gibt keine getrennte Gast-UI, keine kopierten React-Komponenten und keinen
+separaten Kartenstil. Die App verwendet auch öffentlich ihre OpenFreeMap-Karte.
+
+Das Buildprofil trennt die Datenquelle vom UI-Code: Öffentliche Daten kommen
+aus einem lokalen JSON-Katalog. Authentifizierte Funktionen bleiben bei der
+laufenden App. Die Jekyll-Hülle enthält den echten Export und einen sichtbaren
+Artikelindex, keine Nachbildung der App. Titel-URLs und vorhandene Artikel
+bleiben erhalten. Der ursprüngliche HTML/CSS-Nachbau wurde entfernt.
+
+## Behobene Befunde
+
+- HWN 149 zeigte in CAP einen alten Standort und einen falschen Text/Bildsatz.
+  Der Demo-Datensatz ist mit dem Website-Artikel zum Altenauer Herzweg am
+  Mühlenberg abgeglichen. Produktionsdaten wurden nicht verändert.
+- Der Export begrenzt öffentliche Felder ausdrücklich, einschließlich der
+  Parkplätze. Nutzer-, Gruppen- und Besuchsdaten gelangen nicht in die Dateien.
+- Ein reiner Gast-Provider vermeidet Auth0-Discovery, Session-Wiederherstellung
+  und unbeabsichtigte Backend-Abfragen im statischen Build. Reads/Writes über
+  die zentralen API-Funktionen werden dort abgewiesen.
+- Der persistierte Query-Cache erhält einen Buster pro App-Revision, damit
+  aktualisierte Daten nicht hinter einem alten Gast-Cache verschwinden.
+- Beim erneuten lokalen Export hatte Metro noch den zuvor eingebetteten
+  Revisionswert gecacht. Der Build leert deshalb den Metro-Cache und prüft,
+  dass der aktuelle Revisionswert tatsächlich im erzeugten Bundle steht.
+- Artikelnavigation und Login verlassen den eingebetteten Export und öffnen
+  im Hauptfenster die bestehenden Artikel bzw. die laufende App.
+- Die Preview nutzt einen Permalink mit abschließendem Slash, weil darunter
+  der App-Export liegt. So kollidiert kein `overview.html` mit einem gleichnamigen
+  Verzeichnis ohne Index.
+- UI und Daten stammen aus demselben aufgelösten Commit. Der regelmäßige
+  Workflow erkennt Änderungen selbst und vermeidet unnötige Wiederholungen.
 
 ## Validierung
 
-- Vier Exporttests für Datenvertrag, CSV-Inhalte, zeitliche Auswahl sowie
-  fehlende/doppelte Nummern und ungültige Koordinaten.
-- Vollständiger Build mit `ghcr.io/actions/jekyll-build-pages:v1.0.13`, also
-  der offiziellen GitHub-Pages-Jekyll-Laufzeit.
-- Prüfung aller 222 statischen Karten, Detail-Canonicals und lokalen Assets,
-  der Sitemap und des unveränderten Indexierungsstatus von `/overview`.
-- Chromium auf Desktop und Mobil: Suche, leere Ergebnisse, Standortfreigabe
-  und -ablehnung, Entfernungsreihenfolge, Karte/Liste, Browser-Zurück,
-  direkter Einstieg mit `#karte`, kein horizontaler Überlauf und JavaScript aus.
-- Die Browser-CI simuliert Kartenkacheln für verlässliche Tests. Reale
-  Kartendienste werden dadurch nicht bei jedem CI-Lauf aufgerufen.
-- Zusätzlich lokal mit echten OSM-Kacheln geprüft: Karte auf Desktop und
-  Mobil. [Desktop-Liste](screenshots/static-guest-overview/desktop-list.png),
-  [mobile Liste](screenshots/static-guest-overview/mobile-list.png),
-  [Desktop-Karte](screenshots/static-guest-overview/desktop-map.png),
-  [mobile Karte](screenshots/static-guest-overview/mobile-map.png).
+- Vollständige App-Testsuite: 39 Suites, 199 Tests erfolgreich; darunter vier
+  neue Adaptertests und ein zusätzlicher Buildprofil-Test.
+- Fünf Python-Exporttests einschließlich öffentlichem Parkplatz-Datenvertrag.
+- Reeller `expo export --platform web`: 28 statische Routen erfolgreich gebaut.
+- Pages-Prüfung: echte Expo-Bundles und Build-Herkunft vorhanden; alle 222
+  Artikel-URLs und Canonicals korrekt; lokale Bilder vorhanden; Preview aus
+  der Sitemap ausgeschlossen; bisherige `/overview` weiter indexierbar.
+- Browserprüfung der echten App auf Desktop/Mobil mit blockierten CAP-/
+  Auth0-Zugriffen: Liste, Suche, leere Ergebnisse, Karte, Navigation, Übergang
+  zum kanonischen Artikel und Login, sowie 222 Textlinks ohne JavaScript.
+- Zusätzlich lokale Screenshots mit echten OpenFreeMap-Daten. Die CI simuliert
+  die externe Grundkarte, verwendet aber die echte App-Kartenkomponente.
 
-## Nächste Verbesserungen, nach Priorität
+[Desktop-Liste](screenshots/static-guest-overview/desktop-list.png) ·
+[Mobile Liste](screenshots/static-guest-overview/mobile-list.png) ·
+[Desktop-Karte](screenshots/static-guest-overview/desktop-map.png) ·
+[Mobile Karte](screenshots/static-guest-overview/mobile-map.png)
 
-1. **Datenqualität systematisch abgleichen.** Die Prüfung entdeckt technische
-   Inkonsistenzen, ersetzt aber keine redaktionelle Kontrolle aller Standorte.
-   HWN 149 zeigt, warum CAP-Daten und Website-Artikel künftig aus einem
-   gemeinsam gepflegten öffentlichen Katalog gespeist werden sollten.
-2. **Datenaktualisierungen komfortabler machen.** Aktuell ist ein bewusster
-   Refresh-PR nötig. Später kann ein geplanter Job einen Daten-Diff als PR
-   vorbereiten; Aktualisierungen sollten weiterhin prüfbar bleiben.
-3. **Design gemeinsam pflegen.** HTML/CSS bilden die Gastansicht nach, teilen
-   aber keinen UI-Code mit Expo. Gemeinsame Designwerte und Vergleichsbilder
-   verringern künftige Abweichungen. Der App-Fortschritt wird öffentlich durch
-   einen passenden App-Einstieg ersetzt, statt einen persönlichen Stand zu
-   erfinden. Persönliche Filter und Besuchsaktionen bleiben in der App.
-4. **Grundkarte angleichen.** Die Preview nutzt lokal eingebundenes Leaflet
-   mit OSM-Rasterkacheln; die App nutzt OpenFreeMap-Vektorkarten. Bei gewünschter
-   vollständiger Kartenparität den gleichen Kartenstil übernehmen. Das
-   bestehende Raster-Setup lädt nur beim Kartenaufruf und zeigt Attribution.
-5. **Vor der Umschaltung messen.** Reale Mobilgeräte, langsame Verbindungen
-   und Search Console prüfen. Die Liste ist vollständig vorgerendert; das
-   HTML umfasst dadurch rund 330 KB vor Kompression. Bei deutlich größerem
-   Katalog eine crawlbare Seiteneinteilung prüfen. Für 222 Einträge wird die
-   Lesbarkeit ohne JavaScript vorerst höher gewichtet als Virtualisierung.
+## Was wir als Nächstes verbessern können
 
-Die Preview ist für einen parallelen Test vorbereitet. Die produktive
-Übersichtsseite wird mit diesen PRs noch nicht ersetzt. Für die spätere
-Umschaltung bleibt der bestehende Pfad `/overview` vorgesehen; die Detail-URLs
-werden auch dann beibehalten.
+1. **JavaScript-Ladegewicht reduzieren.** Der gemessene Expo-Export enthält
+   rund 4,9 MB JavaScript vor Kompression. Statische Daten sparen CAP-Abfragen,
+   machen dieses Bundle aber nicht kleiner. Route-/Funktionsaufteilung und
+   Lazy Loading zuerst messen; dabei weiterhin die echten UI-Komponenten
+   verwenden. Auch authentifizierte/admin Routen sind derzeit Teil des
+   normalen Expo-Router-Exports, obwohl ihre Daten öffentlich gesperrt bleiben.
+2. **Datenqualität gemeinsam pflegen.** CAP-Demodaten und Artikel können
+   redaktionell auseinanderlaufen, wie HWN 149 gezeigt hat. Der technische
+   Vertrag erkennt keine falsche Ortsbeschreibung. Ein gemeinsam gepflegter
+   öffentlicher Katalog wäre der nächste sinnvolle Schritt.
+3. **Release-Stand bewusst angleichen.** Nach der Bootstrap-Phase folgt die
+   Website App-`main`. Die bestehende Backend-/App-Auslieferung muss denselben
+   Release-Stand verwenden, wenn pixelgleicher Vergleich mit der laufenden
+   angemeldeten App erwartet wird. Gemeinsam ist der Quellcode; ein alter
+   noch laufender Server aktualisiert sich nicht durch den Website-Build.
+4. **SEO-Hülle erhalten.** Die echte virtualisierte Liste allein ist keine
+   vollständige HTML-Linkübersicht. Den vorhandenen sichtbaren Textindex und
+   Artikel-Sitemap vor einer produktiven Umschaltung gezielt prüfen.
+
+Die Live-Website wurde noch nicht umgeschaltet. Vor dem Website-Merge muss
+Pages einmalig auf die Quelle **GitHub Actions** eingestellt werden. Der
+bisherige Branch-Jekyll-Build kann die echte Expo-App nicht erstellen.
