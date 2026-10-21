@@ -33,7 +33,8 @@ Website automatisch wieder `main`. Ein ohne Merge geschlossener Bootstrap-PR
 bricht den Build ab; es gibt keinen stillen Rückfall auf einen inkompatiblen
 Stand. Nach dem ersten Release kann das Bootstrap-Feld entfernt werden.
 
-Die CI läuft bei Website-Änderungen, manuell und planmäßig stündlich. Bei
+Die CI läuft bei Website-Änderungen, manuell und planmäßig alle 12 Stunden
+(00:23 und 12:23 UTC). Der Zeitplan wird nach dem Merge auf `main` aktiv. Bei
 geplanten Läufen vergleicht sie App-Commit, Website-Commit und UTC-Datum mit
 der veröffentlichten Build-Herkunft. Unveränderte Stände werden am selben Tag
 nicht erneut gebaut. Neue UI wird automatisch neu gebaut und nach bestandenen
