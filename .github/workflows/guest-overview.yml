@@ -46,7 +46,7 @@ jobs:
           ref: ${{ needs.source.outputs.revision }}
           path: .app-source
           persist-credentials: false
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: npm
@@ -58,13 +58,15 @@ jobs:
         env:
           CATALOGUE_DATE: ${{ needs.source.outputs.as_of }}
         run: python3 .app-source/scripts/export-public-stamps.py --as-of "$CATALOGUE_DATE" --output _data/guest_stamps.json
-      - name: Build Jekyll articles and SEO index
-        uses: actions/jekyll-build-pages@v1
+      - name: Set up Ruby and locked Jekyll dependencies
+        uses: ruby/setup-ruby@v1
         with:
-          source: ./
-          destination: ./_site
-      - name: Make Jekyll container output writable for assembly
-        run: sudo chown -R "$(id -u):$(id -g)" _site
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Build Jekyll articles and SEO index
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --destination _site
       - name: Build the actual Expo app with static data
         run: node scripts/build-static-website.mjs "$RUNNER_TEMP/expo-website"
         working-directory: .app-source
@@ -78,10 +80,10 @@ jobs:
           python3 -m playwright install --with-deps chromium
       - name: Test the real app without a backend
         run: python3 scripts/test-guest-overview-browser.py --site _site --screenshots /tmp/overview-screenshots
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: overview-screenshots
@@ -99,7 +101,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
       - name: Deploy the complete static site
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

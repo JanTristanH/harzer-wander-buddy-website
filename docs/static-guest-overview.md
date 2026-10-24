@@ -85,7 +85,8 @@ python3 -m playwright install chromium
 python3 scripts/test-guest-overview-browser.py --site _site
 ```
 
-Der CI-Build nutzt die offizielle GitHub-Pages-Jekyll-Laufzeit. Die
+Der CI-Build nutzt Ruby 3.3 und `bundle exec jekyll build` mit den in
+`Gemfile.lock` festgelegten Abhängigkeiten und den Plugins aus `_config.yml`. Die
 Browserprüfung simuliert nur die externen OpenFreeMap-Daten für zuverlässige
 Tests; App-Komponenten, Router und Datenadapter sind der echte Build.
 
