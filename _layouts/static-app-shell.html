@@ -7,8 +7,8 @@
   {% if page.robots %}<meta name="robots" content="{{ page.robots | escape }}">{% endif %}
   <link rel="icon" href="{{ site.favicon | relative_url }}">
   <style>
-    html, body { margin: 0; background: #f5f3ee; color: #21382b; font: 16px/1.5 system-ui, sans-serif; }
-    .app-frame { display: block; width: 100%; height: 100vh; height: 100dvh; border: 0; }
+    html, body { height: 100%; overflow: hidden; margin: 0; background: #f5f3ee; color: #21382b; font: 16px/1.5 system-ui, sans-serif; }
+    .app-frame { position: fixed; inset: 0; display: block; width: 100%; height: 100%; height: 100dvh; border: 0; }
     .article-index { max-width: 1080px; margin: auto; padding: 24px; }
     .article-index h1 { font: 30px Georgia, serif; }
     .article-index a { color: #315b43; }
@@ -16,10 +16,10 @@
     .article-index footer { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 24px; font-size: 14px; }
     :focus-visible { outline: 3px solid #397b52; outline-offset: 3px; }
   </style>
-  <noscript><style>.app-frame { display: none; }</style></noscript>
+  <noscript><style>html, body { height: auto; overflow: auto; } .app-frame { display: none; }</style></noscript>
 </head>
 <body>
   <iframe class="app-frame" src="{{ '/preview/overview/app/' | relative_url }}" title="Harzer Wanderbuddy – echte App als statische Gastansicht" allow="geolocation 'self'"></iframe>
-  <main class="article-index">{{ content }}</main>
+  <noscript><main class="article-index">{{ content }}</main></noscript>
 </body>
 </html>

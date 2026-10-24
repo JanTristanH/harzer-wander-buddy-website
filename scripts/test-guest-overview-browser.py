@@ -61,6 +61,20 @@ def run(site, executable, screenshots):
             expect(search).to_be_visible(timeout=30000)
             expect(app.get_by_text('222 gesamt', exact=True)).to_be_visible()
             expect(app.get_by_text('Stempelstellen', exact=True)).to_be_visible()
+            def check_shell():
+                # Neither wheel gestures nor programmatic scrolling may reveal
+                # a second page below the app, including after mobile resize.
+                expect(page.locator('.article-index')).to_have_count(0)
+                expect(page.locator('.stamp-article-link')).to_have_count(0)
+                page.mouse.move(5, 5)
+                page.mouse.wheel(0, 2000)
+                page.evaluate('window.scrollTo(0, 100000)')
+                assert page.evaluate('scrollY === 0 && document.documentElement.scrollHeight <= innerHeight && document.documentElement.scrollWidth <= innerWidth')
+                bounds = page.locator('.app-frame').bounding_box()
+                assert bounds and bounds['x'] == 0 and bounds['y'] == 0
+                assert abs(bounds['height'] - page.viewport_size['height']) <= 1
+
+            check_shell()
             assert not forbidden, forbidden
             if screenshots:
                 screenshots.mkdir(parents=True, exist_ok=True)
@@ -71,6 +85,7 @@ def run(site, executable, screenshots):
             expect(app.get_by_text('Keine passenden Stempelstellen', exact=True)).to_be_visible()
             search.fill('')
             page.set_viewport_size({'width': 390, 'height': 844})
+            check_shell()
             if screenshots:
                 page.screenshot(path=str(screenshots / 'mobile-list.png'))
             assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
@@ -78,9 +93,11 @@ def run(site, executable, screenshots):
             expect(app.locator('.leaflet-container')).to_be_visible(timeout=30000)
             expect(app.locator('.leaflet-marker-icon').first).to_be_visible(timeout=30000)
             expect(app.get_by_placeholder('Suche Stempel oder Parkplatz')).to_be_visible()
+            check_shell()
             if screenshots:
                 page.screenshot(path=str(screenshots / 'mobile-map.png'))
             page.set_viewport_size({'width': 1280, 'height': 900})
+            check_shell()
             if screenshots:
                 page.screenshot(path=str(screenshots / 'desktop-map.png'))
             app.get_by_text('Liste', exact=True).click()
@@ -102,6 +119,9 @@ def run(site, executable, screenshots):
             page.goto(url)
             expect(page.locator('.app-frame')).to_be_hidden()
             expect(page.locator('.stamp-article-link:visible')).to_have_count(222)
+            page.locator('.stamp-article-link').last.scroll_into_view_if_needed()
+            expect(page.locator('.stamp-article-link').last).to_be_in_viewport()
+            assert page.evaluate('scrollY > 0'), 'The no-JavaScript fallback must remain scrollable'
             plain.close()
             browser.close()
             print('PASS: actual Expo list/map, shared UI, canonical top navigation, external login, no backend, mobile and no JavaScript')

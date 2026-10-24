@@ -11,11 +11,17 @@ separaten Kartenstil. Die App verwendet auch öffentlich ihre OpenFreeMap-Karte.
 
 Das Buildprofil trennt die Datenquelle vom UI-Code: Öffentliche Daten kommen
 aus einem lokalen JSON-Katalog. Authentifizierte Funktionen bleiben bei der
-laufenden App. Die Jekyll-Hülle enthält den echten Export und einen sichtbaren
-Artikelindex, keine Nachbildung der App. Titel-URLs und vorhandene Artikel
+laufenden App. Die Jekyll-Hülle enthält den echten Export und einen Artikelindex
+als `noscript`-Fallback, keine Nachbildung der App. Titel-URLs und vorhandene Artikel
 bleiben erhalten. Der ursprüngliche HTML/CSS-Nachbau wurde entfernt.
 
 ## Behobene Befunde
+
+- Der Artikelindex unter dem Frame machte die äußere Seite scrollbar. Er ist
+  jetzt ausschließlich ohne JavaScript sichtbar. Mit JavaScript ist der Frame
+  am Viewport fixiert und die äußere Seite nicht scrollbar. Browserprüfungen
+  decken Scrollversuche, Desktop/Mobil, Karte/Liste und den scrollbar bleibenden
+  Fallback ohne JavaScript ab.
 
 - HWN 149 zeigte in CAP einen alten Standort und einen falschen Text/Bildsatz.
   Der Demo-Datensatz ist mit dem Website-Artikel zum Altenauer Herzweg am
@@ -79,8 +85,9 @@ bleiben erhalten. Der ursprüngliche HTML/CSS-Nachbau wurde entfernt.
    angemeldeten App erwartet wird. Gemeinsam ist der Quellcode; ein alter
    noch laufender Server aktualisiert sich nicht durch den Website-Build.
 4. **SEO-Hülle erhalten.** Die echte virtualisierte Liste allein ist keine
-   vollständige HTML-Linkübersicht. Den vorhandenen sichtbaren Textindex und
-   Artikel-Sitemap vor einer produktiven Umschaltung gezielt prüfen.
+   vollständige HTML-Linkübersicht. Vor einer produktiven Umschaltung eine
+   für alle Nutzer zugängliche HTML-Übersicht und die Artikel-Sitemap prüfen;
+   der `noscript`-Fallback allein ersetzt diese SEO-Struktur nicht.
 
 Die Live-Website wurde noch nicht umgeschaltet. Vor dem Website-Merge muss
 Pages einmalig auf die Quelle **GitHub Actions** eingestellt werden. Der
