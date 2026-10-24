@@ -12,8 +12,10 @@ Jekyll liefert weiterhin die vorhandenen Artikel und ihre Titel-URLs. Unter
 gleichursprünglichen, bildschirmfüllenden Frame ein. Der Export selbst liegt
 unter `/preview/overview/app/`. Diese Trennung verhindert, dass Website-CSS
 die App verändert, und erhält deren Router und Layout unverändert. Darunter
-steht ein sichtbarer HTML-Index mit allen 222 kanonischen Artikelverweisen.
-Ohne JavaScript wird der Frame ausgeblendet; der Index bleibt nutzbar.
+steht ausschließlich ohne JavaScript ein HTML-Index mit allen 222 kanonischen
+Artikelverweisen bereit. Mit JavaScript füllt der Frame den Bildschirm; die
+äußere Seite ist nicht scrollbar und der Index liegt in einem `noscript`-Element.
+Ohne JavaScript wird der Frame ausgeblendet und der Index normal scrollbar.
 
 Der Pfad `/preview/overview` wird wegen des Unterverzeichnisses regulär auf
 `/preview/overview/` normalisiert. `/overview` bleibt vorerst unverändert.
@@ -97,8 +99,10 @@ Keine Preview-Seite steht in der Sitemap. `robots.txt` bleibt offen, damit
 Suchmaschinen die Regeln lesen können. Alle 222 Detail-URLs werden mit den
 Canonicals der gebauten Artikel abgeglichen.
 
-Vor einer Umschaltung auf `/overview` muss die SEO-Hülle gezielt indexierbar
-werden. Bestehende Einführung/FAQ erhalten, Canonical und Sitemap prüfen und
-die Textverweise behalten: Die echte App nutzt eine virtualisierte Liste und
-rendert nicht alle 222 Karten gleichzeitig. Den gesamten App-Export pauschal
-indexieren zu lassen ist kein Ersatz für diese SEO-Struktur.
+Der `noscript`-Index dient der Bedienbarkeit ohne JavaScript, nicht als versteckte
+SEO-Linkliste. Die bestehende indexierbare `/overview` und Artikel-Sitemap
+bleiben für die Auffindbarkeit erhalten. Vor einer Umschaltung auf `/overview`
+muss die SEO-Hülle gezielt indexierbar werden: Einführung/FAQ, Canonical,
+Sitemap und eine für alle Nutzer zugängliche HTML-Übersicht prüfen. Die echte
+App nutzt eine virtualisierte Liste und rendert nicht alle 222 Karten gleichzeitig.
+Den gesamten App-Export pauschal indexieren zu lassen ist kein Ersatz dafür.
