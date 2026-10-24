@@ -17,6 +17,11 @@ email: info@harzer-wander-buddy.de
 formspreePath: f/mzzddkdr
 defaults:
   - scope:
+      path: "_pages/preview"
+    values:
+      robots: noindex,follow
+      sitemap: false
+  - scope:
       path: "_pages/share"
     values:
       robots: noindex,nofollow
@@ -82,4 +87,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, verifyLinkIntegrity]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, verifyLinkIntegrity, scripts, docs, static-app-source.json]
