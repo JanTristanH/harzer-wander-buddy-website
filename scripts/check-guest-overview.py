@@ -57,6 +57,7 @@ def check(site):
         assert re.fullmatch(rf"/stempelstelle-{stamp['number']:03d}-.+/", link['href'])
         detail = Document(output_file(site, link['href']).read_text())
         assert urlsplit(detail.find('link', rel='canonical')[0]['href']).path == link['href']
+        assert detail.find('a', href=f"/overview?stempel={stamp['number']}"), 'Article must link to its own map point'
         output_file(site, stamp['heroImageUrl'])
     entry = Document(output_file(site, frame['src']).read_text())
     scripts = [s['src'] for s in entry.find('script') if s.get('src')]
@@ -71,6 +72,12 @@ def check(site):
     assert any(urlsplit(u).path == '/overview' for u in urls)
     overview = Document(output_file(site, '/overview').read_text())
     assert not any('noindex' in m.get('content', '') for m in overview.find('meta', name='robots'))
+    assert urlsplit(overview.find('link', rel='canonical')[0]['href']).path == '/overview'
+    assert overview.find('iframe')[0]['data-app-base'] == '/preview/overview/app/'
+    assert len(overview.find('h1')) == 1
+    assert [link['href'] for link in overview.find('a', **{'class': 'stamp-article-link'})] == [stamp['articleUrl'] for stamp in catalogue['stamps']]
+    assert [link['href'] for link in overview.find('a', **{'class': 'stamp-map-link'})] == [f"/overview?stempel={stamp['number']}" for stamp in catalogue['stamps']]
+    assert all(script['src'].startswith('/') for script in overview.find('script') if script.get('src')), 'Public overview must not add a third-party analytics script'
     for internal in ['scripts', 'docs', 'static-app-source.json']:
         assert not (site / internal).exists()
     print('PASS: real Expo bundles, shared source revision, 222 canonical article URLs, static parking, noindex and sitemap')

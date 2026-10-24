@@ -1,0 +1,12 @@
+<table class="stamp-table">
+  <thead><tr><th scope="col">Nummer</th><th scope="col">Name der Stempelstelle</th><th scope="col">Karte</th></tr></thead>
+  <tbody>
+  {% for stamp in site.data.guest_stamps.stamps %}
+    {% assign padded_number = stamp.number | prepend: '000' | slice: -3, 3 %}
+    {% assign post_prefix = padded_number | prepend: 'stempelstelle-' | append: '-' %}
+    {% assign matching_posts = site.posts | where_exp: 'post', 'post.slug contains post_prefix' %}
+    {% assign detail = matching_posts | first %}
+    <tr><th scope="row">HWN {{ stamp.number }}</th><td><a class="stamp-article-link" href="{{ detail.url | relative_url }}">{{ stamp.name | escape }}</a></td><td><a class="stamp-map-link" href="{{ '/overview' | relative_url }}?stempel={{ stamp.number }}" aria-label="HWN {{ stamp.number }} auf der Karte ansehen">Auf Karte</a></td></tr>
+  {% endfor %}
+  </tbody>
+</table>

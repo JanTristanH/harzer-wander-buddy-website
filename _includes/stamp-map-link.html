@@ -1,0 +1,6 @@
+{% assign stamp_slug_parts = page.slug | split: '-' %}
+{% assign stamp_number = stamp_slug_parts[1] | plus: 0 %}
+{% assign public_stamp = site.data.guest_stamps.stamps | where: 'number', stamp_number | first %}
+{% if stamp_slug_parts[0] == 'stempelstelle' and public_stamp %}
+<p class="stamp-map-cta"><a class="btn btn-success" href="{{ '/overview' | relative_url }}?stempel={{ public_stamp.number }}">HWN {{ public_stamp.number }} auf der Karte ansehen</a></p>
+{% endif %}

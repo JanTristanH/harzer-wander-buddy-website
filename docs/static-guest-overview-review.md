@@ -2,6 +2,10 @@
 
 Stand: 20. Oktober 2026.
 
+Dieses Review beschreibt die Einführung der Preview. Für die darauf folgende
+Veröffentlichung unter `/overview`, Abnahme und Messung gilt die
+[aktuelle Anleitung](public-overview-launch.md).
+
 ## Ergebnis
 
 Die Website baut die echte Expo-App in GitHub CI. Änderungen an Liste, Karte,
