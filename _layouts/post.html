@@ -38,6 +38,7 @@ post_class: post-template
 {% endif %}
 
 <!-- Featured Image -->
+{% include stamp-map-link.html %}
 {% include featured-image.html %}
 
 <!-- Content -->
@@ -90,7 +91,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
 <script>
 // Detect Android device
-if (!/Android/i.test(navigator.userAgent)) {
+if (!/Android/i.test(navigator.userAgent) && document.querySelector('.android-only')) {
   document.querySelector('.android-only').style.display = 'none';
 }
 </script>

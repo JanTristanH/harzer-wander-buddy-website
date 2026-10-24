@@ -8,6 +8,8 @@ description: 'Alle Abzeichen der Harzer Wandernadel im Überblick | Harzer Wande
 
 # 🏅 Leistungsabzeichen der Harzer Wandernadel
 
+[Stempelstellen auf der Karte und als Liste entdecken](/overview)
+
 Das Erreichen einer Leistungsstufe kannst du dir mit einer Wandernadel bestätigen lassen! 
 
 Für unsere Premium-Abzeichen – den Harzer Steiger und den Harzer Wanderkaiser – suchen die Geologen Dr. Elke Steiger und Dr. Torsten Steiger typische Harzer Gesteinsarten aus. So entstehen echte Unikate! ✨

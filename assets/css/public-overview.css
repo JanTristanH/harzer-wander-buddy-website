@@ -1,0 +1,33 @@
+:root { --toolbar-height: 56px; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: #f5f3ee; color: #21382b; font: 16px/1.5 system-ui, sans-serif; }
+a { color: #315b43; }
+.shell-header { padding: 12px; }
+.shell-header h1 { margin: 0; font-size: 17px; }
+.shell-brand { font-weight: 700; text-decoration: none; }
+.overview-info summary { cursor: pointer; padding: 8px; border-radius: 8px; }
+.overview-info summary:hover { background: #e3e7dc; }
+.overview-content { max-width: 1080px; margin: auto; padding: 20px; }
+.overview-content h2 { margin-top: 32px; }
+.overview-content table { width: 100%; border-collapse: collapse; }
+.overview-content th, .overview-content td { padding: 10px 6px; text-align: left; border-bottom: 1px solid #d6ddcf; overflow-wrap: anywhere; }
+.overview-content th:first-child { width: 65px; }
+.overview-content th:last-child { width: 100px; }
+.app-frame { display: none; }
+:focus-visible { outline: 3px solid #397b52; outline-offset: 3px; }
+html.has-js, .has-js body { height: 100%; overflow: hidden; }
+.has-js .shell-header { display: flex; align-items: center; gap: 12px; height: var(--toolbar-height); }
+.has-js .shell-header h1 { flex: 1; font-size: 15px; }
+.has-js .overview-info summary { white-space: nowrap; }
+.has-js .info-panel { position: fixed; inset: var(--toolbar-height) 0 0; z-index: 2; overflow: auto; overscroll-behavior: contain; background: #f5f3ee; }
+.has-js .app-frame { display: block; position: fixed; top: var(--toolbar-height); left: 0; width: 100%; height: calc(100% - var(--toolbar-height)); height: calc(100dvh - var(--toolbar-height)); border: 0; }
+@media (max-width: 600px) {
+  .has-js .shell-brand { font-size: 14px; }
+  .has-js .shell-header { gap: 8px; padding: 8px; }
+  .has-js .shell-header h1 { font-size: 12px; line-height: 1.2; }
+  .has-js .overview-info summary { font-size: 13px; padding: 6px; }
+  .overview-content { padding: 16px; }
+}
+@media (max-width: 360px) {
+  .has-js .shell-brand { display: none; }
+}

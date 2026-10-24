@@ -110,6 +110,53 @@ def run(site, executable, screenshots):
             app.get_by_text('Dein Fortschritt', exact=True).click()
             # Catch the navigation before a real authenticated server is contacted.
             page.wait_for_url('https://app.harzer-wander-buddy.de/app/rnweb/login', wait_until='commit')
+
+            # The established search landing page keeps its canonical URL,
+            # native HTML content and a usable app without outer-page scrolling.
+            page.set_viewport_size({'width': 1280, 'height': 900})
+            page.goto(origin + '/overview')
+            expect(search).to_be_visible(timeout=30000)
+            expect(page.locator('.stamp-table')).to_be_hidden()
+            assert page.locator('link[rel="canonical"]').get_attribute('href').endswith('/overview')
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'public-desktop-list.png'))
+            for viewport in [{'width': 1280, 'height': 900}, {'width': 320, 'height': 568}, {'width': 390, 'height': 844}]:
+                page.set_viewport_size(viewport)
+                page.evaluate('window.scrollTo(0, 100000)')
+                assert page.evaluate('scrollY === 0 && document.documentElement.scrollHeight <= innerHeight && document.documentElement.scrollWidth <= innerWidth')
+                bounds = page.locator('.app-frame').bounding_box()
+                assert bounds and bounds['y'] == 56 and abs(bounds['height'] - (viewport['height'] - 56)) <= 1
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'public-mobile-list.png'))
+            page.get_by_text('Übersicht & FAQ', exact=True).click()
+            expect(page.locator('.stamp-table')).to_be_visible()
+            expect(page.locator('.app-frame')).to_have_attribute('inert', '')
+            expect(page.locator('.stamp-article-link')).to_have_count(222)
+            assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'public-mobile-info.png'))
+            page.keyboard.press('Escape')
+            expect(page.locator('.stamp-table')).to_be_hidden()
+            expect(page.locator('.app-frame')).not_to_have_attribute('inert', '')
+            expect(page.locator('summary')).to_be_focused()
+            page.goto(origin + '/overview#alle-222-hwn-stempelstellen-als-%C3%BCbersichtstabelle')
+            expect(page.locator('.stamp-table')).to_be_visible()
+            page.goto(origin + '/overview#alle-222-hwn-stempelstellen-als-ubersichtstabelle')
+            expect(page.locator('.stamp-table')).to_be_visible()
+            page.locator('.stamp-map-link[href="/overview?stempel=114"]').click()
+            expect(app.get_by_placeholder('Suche Stempel oder Parkplatz')).to_be_visible(timeout=30000)
+            expect(app.get_by_text(re.compile(r'114.*Ramseck'))).to_be_visible(timeout=30000)
+            if screenshots:
+                page.screenshot(path=str(screenshots / 'public-mobile-stamp-map.png'))
+            page.goto(origin + '/stempelstelle-114-ramseck/')
+            page.get_by_role('link', name='HWN 114 auf der Karte ansehen', exact=True).click()
+            expect(app.get_by_text(re.compile(r'114.*Ramseck'))).to_be_visible(timeout=30000)
+            page.goto(origin + '/overview?ansicht=karte')
+            expect(app.get_by_placeholder('Suche Stempel oder Parkplatz')).to_be_visible(timeout=30000)
+            # Unknown/hostile input must stay on the safe, same-origin list.
+            page.goto(origin + '/overview?stempel=https://example.org&ansicht=unknown')
+            expect(search).to_be_visible(timeout=30000)
+            assert page.locator('.app-frame').get_attribute('src') == origin + '/preview/overview/app/'
             assert not forbidden, forbidden
             assert sum('public-catalogue.json' in target for target in requests) >= 1
             assert not errors, errors
@@ -122,6 +169,11 @@ def run(site, executable, screenshots):
             page.locator('.stamp-article-link').last.scroll_into_view_if_needed()
             expect(page.locator('.stamp-article-link').last).to_be_in_viewport()
             assert page.evaluate('scrollY > 0'), 'The no-JavaScript fallback must remain scrollable'
+            page.goto(origin + '/overview')
+            expect(page.locator('.app-frame')).to_be_hidden()
+            expect(page.locator('.stamp-article-link:visible')).to_have_count(222)
+            page.locator('.stamp-article-link').last.scroll_into_view_if_needed()
+            expect(page.locator('.stamp-article-link').last).to_be_in_viewport()
             plain.close()
             browser.close()
             print('PASS: actual Expo list/map, shared UI, canonical top navigation, external login, no backend, mobile and no JavaScript')

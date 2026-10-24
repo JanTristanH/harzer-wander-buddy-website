@@ -1,5 +1,10 @@
 # Echte App auf GitHub Pages
 
+Die öffentliche Einführung unter `/overview` ist in der
+[Veröffentlichungs- und Messanleitung](public-overview-launch.md) beschrieben.
+Die folgenden Abschnitte dokumentieren insbesondere den unveränderten
+App-Build, die interne Preview und die erstmalige Pages-Einrichtung.
+
 ## Architektur
 
 Die CI baut die echte Expo-Webapp aus `JanTristanH/harzer-wander-buddy` mit
@@ -99,10 +104,11 @@ Keine Preview-Seite steht in der Sitemap. `robots.txt` bleibt offen, damit
 Suchmaschinen die Regeln lesen können. Alle 222 Detail-URLs werden mit den
 Canonicals der gebauten Artikel abgeglichen.
 
-Der `noscript`-Index dient der Bedienbarkeit ohne JavaScript, nicht als versteckte
-SEO-Linkliste. Die bestehende indexierbare `/overview` und Artikel-Sitemap
-bleiben für die Auffindbarkeit erhalten. Vor einer Umschaltung auf `/overview`
-muss die SEO-Hülle gezielt indexierbar werden: Einführung/FAQ, Canonical,
-Sitemap und eine für alle Nutzer zugängliche HTML-Übersicht prüfen. Die echte
-App nutzt eine virtualisierte Liste und rendert nicht alle 222 Karten gleichzeitig.
-Den gesamten App-Export pauschal indexieren zu lassen ist kein Ersatz dafür.
+Der `noscript`-Index der Preview dient der Bedienbarkeit ohne JavaScript, nicht
+als versteckte SEO-Linkliste. Die öffentliche `/overview` behält dagegen ihre
+Einführung, FAQ und vollständige HTML-Tabelle in einem für alle Nutzer bedienbaren
+Informationsbereich. Ohne JavaScript ist dieser von Anfang an geöffnet.
+Canonical und Sitemap bleiben auf `/overview`; die Artikel-Sitemap bleibt erhalten.
+Die echte App nutzt eine virtualisierte Liste und rendert nicht alle 222 Karten
+gleichzeitig. Den gesamten App-Export pauschal indexieren zu lassen ist deshalb
+kein Ersatz für die öffentliche HTML-Struktur.

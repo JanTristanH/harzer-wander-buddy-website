@@ -3,11 +3,13 @@ Harzer Wander Buddy Website
 
 ## Statische Gastansicht
 
-Die neue Karten-/Listenansicht unter `/preview/overview/` verwendet die echte
+Die öffentliche Karten-/Listenansicht unter `/overview` verwendet die echte
 Expo-Webapp. GitHub Actions baut sie mit statischem CAP-Datenadapter zusammen
 mit der Jekyll-Website. Neue freigegebene App-UI wird automatisch übernommen;
-die bestehenden Titel-URLs der Stempelstellen bleiben erhalten. Vor dem Merge
-muss die Pages-Quelle einmalig auf **GitHub Actions** eingestellt werden.
+die bestehenden Titel-URLs der Stempelstellen bleiben erhalten. „Übersicht & FAQ“
+öffnet Tabelle und Wanderinfos; die Vorschau bleibt unter `/preview/overview/`.
+
+[Veröffentlichen, Search Console auswerten und datensparsame Messung vorbereiten](docs/public-overview-launch.md)
 
 [Build, Datenaktualisierung und SEO-Umschaltung](docs/static-guest-overview.md)
 · [Review und nächste Verbesserungen](docs/static-guest-overview-review.md)
