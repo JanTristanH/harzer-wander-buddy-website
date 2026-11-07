@@ -33,3 +33,5 @@ muss die Pages-Quelle einmalig auf **GitHub Actions** eingestellt werden.
 | background | #e6e7dd |
 | accent | #189726 |
 |||
+
+Sonderstempelbilder und ihre öffentlichen App-Links sind in [docs/special-stamp-images.md](docs/special-stamp-images.md) beschrieben.
