@@ -1,0 +1,21 @@
+---
+layout: page
+title: "Bildnachweise für Sonderstempel"
+permalink: /sonderstempel-bildnachweise/
+---
+<div class="special-stamp-image-credits" style="overflow-wrap:anywhere">
+<p>Die folgenden Fotos zeigen die zugehörigen Orte oder Einrichtungen. Sie dokumentieren nicht zwingend den aktuellen Standort des Stempelkastens. Der verlinkte Dateieintrag nennt Urheber und Lizenz. Alle Bilder wurden ohne Beschnitt auf höchstens 1280 Pixel verkleinert und als WebP gespeichert.</p>
+<p>Stand der Zuordnungsprüfung: {{ site.data.special_stamp_images.checkedAt }}. <a href="/data/special-stamp-images.json">Maschinenlesbare Bildzuordnungen für die App</a>.</p>
+{% for stamp in site.data.special_stamp_images.stamps %}
+<section id="{{ stamp.catalogKey }}">
+  <h2>{{ stamp.name | escape }}</h2>
+  {% if stamp.imageStatus == 'verified' %}
+  <img src="/{{ stamp.path }}" alt="{{ stamp.name | escape }}" loading="lazy" width="320" style="max-width:100%;height:auto">
+  <div>{{ stamp.imageCaption | markdownify }}</div>
+  {% else %}
+  <p>{{ stamp.missingReason | escape }}</p>
+  {% endif %}
+</section>
+{% endfor %}
+
+</div>
