@@ -2,9 +2,8 @@
   url: /
 - label: HWN Stempelstellen Übersicht
   url: /overview
-- label: Harzer Wandernadel App
-  url: /app-waitlist
-  badge: NEU
+- label: App öffnen
+  url: https://app.harzer-wander-buddy.de
 - label: Leistungsabzeichen
   url: /badges
 - label: Über uns

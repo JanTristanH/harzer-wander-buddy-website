@@ -279,6 +279,6 @@ Auf den einzelnen Stempelstellen-Seiten findest du Anfahrt, Wegbeschreibung und 
 
 ## Weitere Informationen
 - Offizielle Website der Harzer Wandernadel: [harzer-wandernadel.de](https://www.harzer-wandernadel.de)
-- Zur App-Warteliste für Tourenplanung und Kartenfunktionen: [Harzer Wandernadel App entdecken](/app-waitlist)
+- Tourenplanung und Kartenfunktionen: [Harzer Wanderbuddy App öffnen]({{ site.app_url }})
 
 Viel Spaß beim Sammeln der Stempel und Erkunden des Harzes!

@@ -6,7 +6,7 @@
   const fineprintNode = document.querySelector('[data-share-fineprint]');
 
   const MOBILE_USER_AGENT = /Android|iPhone|iPad|iPod|Mobile/i;
-  const SAFE_FALLBACK = '/app-waitlist';
+  const SAFE_FALLBACK = 'https://app.harzer-wander-buddy.de';
 
   function readParam(name) {
     const value = new URLSearchParams(window.location.search).get(name);
@@ -123,11 +123,11 @@
   }
 
   if (!target && share.kind !== 'generic') {
-    setState('Ungültiger oder unvollständiger Link. Du wirst zur Warteliste weitergeleitet.');
+    setState('Ungültiger oder unvollständiger Link. Du wirst zur Web-App weitergeleitet.');
   } else if (target) {
     setState('Link wird in der App geöffnet ...');
   } else {
-    setState('Warteliste wird geöffnet ...');
+    setState('Web-App wird geöffnet ...');
   }
 
   if (share.hasPreviewQuery && (share.title || share.description || share.image)) {
@@ -150,7 +150,7 @@
 
   setOpenLink(effectiveTarget);
   if (openNode) {
-    openNode.textContent = target ? 'In der App öffnen' : 'Warteliste öffnen';
+    openNode.textContent = target ? 'In der App öffnen' : 'Web-App öffnen';
   }
 
   if (share.kind !== 'generic' && effectiveTarget && MOBILE_USER_AGENT.test(navigator.userAgent)) {
@@ -170,6 +170,6 @@
       return;
     }
 
-    setState('Dieser Link führt zur Warteliste und nicht direkt in die App.');
+    setState('Dieser Link führt zur Web-App und nicht direkt in die App.');
   });
 })();

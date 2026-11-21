@@ -5,8 +5,8 @@ permalink: /share/
 comments: false
 share_kind: generic
 share_kicker: Harzer Wanderbuddy
-share_chip: Share-Link
-description: "Harzer Wanderbuddy Share-Link. Öffnet Stempel, Touren, POIs oder Parkplätze in der App oder zeigt die Web-Warteliste als Fallback."
+share_chip: Geteilter Link
+description: "Harzer Wanderbuddy Share-Link. Öffnet Stempel, Touren, POIs oder Parkplätze in der App oder bietet die Web-App als Alternative."
 image: assets/images/BuddyWithMapNoBG.webp
 ---
 

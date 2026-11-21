@@ -12,7 +12,7 @@ Die Seite hilft beim Planen von Wanderungen zu HWN-Stempelstellen und bietet daf
 - Startseite: https://www.harzer-wander-buddy.de/
 - Übersicht aller 222 Stempelstellen: https://www.harzer-wander-buddy.de/overview
 - Leistungsabzeichen: https://www.harzer-wander-buddy.de/badges
-- App-Warteliste und Funktionsausblick: https://www.harzer-wander-buddy.de/app-waitlist
+- Web-App für Tourenplanung und Stempelfortschritt: https://app.harzer-wander-buddy.de
 - Über uns: https://www.harzer-wander-buddy.de/about
 - Kontakt: https://www.harzer-wander-buddy.de/contact
 
@@ -21,7 +21,7 @@ Die Seite hilft beim Planen von Wanderungen zu HWN-Stempelstellen und bietet daf
 - Übersichtstabelle mit allen 222 Stempelstellen und Orientierung über die Übersichtskarte.
 - Einzelbeiträge zu Stempelstellen mit Detailinfos (z. B. Stempelnummer, Name, Kontext, Bilder je nach Beitrag).
 - Informationen zu Leistungsabzeichen und Sammelstufen.
-- Geplante App-Funktionen (Warteliste, Produktausblick).
+- Verfügbare Web-App für Tourenplanung, Karten und Stempelfortschritt.
 
 ## Was diese Website nicht ist
 - Kein offizielles Angebot der Harzer Wandernadel-Organisation.
